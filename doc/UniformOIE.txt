@@ -1,0 +1,82 @@
+January 2015:
+
+To adapt NemexR to a new language, the following has to be done:
+
+- create new parser model
+- create new POS tagger model
+- create new NER model
+- create new language interface
+
+- integrate new language into MDExtractor initialization
+
+June, 2016:
+
+- create train class that learns models for GNT and POS
+	- check MDP how to call for different languages
+	
+- for GNT I would need language specific clusters
+	- integrate Jon's clusters
+
+- if possible train/define as many NER as possible
+
+- define XML property file for all language resources
+	and use language flag for loading models
+
+- define uniform test function that runs NEMEX for selected language
+	- fix usage of GNT and MDP
+	- only NER as linguistic parameter
+
+- check google multilingual OIE at 
+	/Volumes/data2/googleMLore & neumann@lns-87009:/gfs/neumann/googleMLore/
+	http://googleresearch.blogspot.de/2015/06/a-multilingual-corpus-of-automatically.html
+
+- Can also be used for LearnExtractor -> tests its
+
+- also use uniform morphology if possible
+
+Data collection:
+***************
+
+I am using the same universal treebanks as Plank et al. 2016, ACL
+
+22 different languages at: /Users/gune00/data/UniversalDependencies
+
+Steps to do:
+
+1. transform files from conllu to conll 
+	- change .conllu to .conll 
+	
+	- when reading in .conllu file, ignore lines with #
+
+2. also extract and store sentences
+
+-> do it directly when reading the conllu files
+
+	- specific problems:
+		Italian:
+			1	Sorpresa	sorpresa	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
+			2-3	nella	_	_	_	_	_	_	_	_
+			2	in	in	ADP	E	_	4	case	_	_
+			
+-> MORE issues ???
+	
+
+
+3. Define a generic class for calling GNT and MDP training based on generated conll data
+	- use global settings for GNT-learner, so that now prop files are necessary
+	-> does not work: I need dataConfig file in ZIP folder
+		same as FrUniPosTagger.xml
+	-> create automatically corpusConfig.xml files and dataProps files
+		-> should be possible to define them as part of conll/language
+		-> http://www.avajava.com/tutorials/lessons/how-do-i-write-properties-to-an-xml-file.html
+	-> DONE
+
+HIERIX
+4. create GNT models
+	- store GNT 
+	
+4. For MDP
+	-> can be used by MDP then as well -> MDP can use .conll files
+	-> run cases.CompleteTrainParseEval with training file and modelfile name
+	
+
