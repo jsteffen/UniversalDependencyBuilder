@@ -19,8 +19,26 @@ public class ConlluToConllMapper {
 	public static String conlluPath = "/Users/gune00/data/UniversalDependencies/";
 	public static String conllPath = "/Users/gune00/data/UniversalDependencies/conll/";
 
-	private static Properties configProps = new Properties();
+	private static Properties corpusProps = new Properties();
 	private static Properties dataProps = new Properties();
+	
+	/*
+	 * Define file names for corpusProps and dataProps
+	 */
+	public  static String getCorpusPropsFile(String languageName, String languageID){
+		return ConlluToConllMapper.
+				conllPath + languageName + "/" + languageID + "-corpusProps.xml";
+	}
+	
+	public  static String getDataPropsFile(String languageName, String languageID){
+		return ConlluToConllMapper.
+				conllPath + languageName + "/" + languageID + "-dataProps.xml";
+	}
+	
+	public  static String getGNTmodelZipFileName(String languageName, String languageID){
+		return ConlluToConllMapper.
+				conllPath + languageName + "/" + languageID + "-GNTmodel.zip";
+	}
 
 	/* Create corpusProp.xml file
 	 * E.g., conll/Arabic/arabicCorpusProps.xml
@@ -40,17 +58,17 @@ public class ConlluToConllMapper {
 	<entry key="wordFormIndex">1</entry>
 	<entry key="posTagIndex">3</entry>
 	 */
-	private static void initLanguageConfigPropsFile(String languageID){
-		ConlluToConllMapper.configProps.setProperty("taggerName", languageID.toUpperCase()+"UNIPOS");
-		ConlluToConllMapper.configProps.setProperty("wordFormIndex", "1");
-		ConlluToConllMapper.configProps.setProperty("posTagIndex", "3");
+	private static void initLanguageCorpusPropsFile(String languageID){
+		ConlluToConllMapper.corpusProps.setProperty("taggerName", languageID.toUpperCase()+"UNIPOS");
+		ConlluToConllMapper.corpusProps.setProperty("wordFormIndex", "1");
+		ConlluToConllMapper.corpusProps.setProperty("posTagIndex", "3");
 	}
-
-	private static void writeLanguageConfigPropsFile(String languageName, String languageID) throws IOException{
-		String configFilename = ConlluToConllMapper.conllPath + languageName + "/" + languageID + "corpusProps.xml";
+	
+	private static void writeLanguageCorpusPropsFile(String languageName, String languageID) throws IOException{
+		String configFilename = ConlluToConllMapper.getCorpusPropsFile(languageName, languageID);
 		File file = new File(configFilename);
 		FileOutputStream fileOut = new FileOutputStream(file);
-		ConlluToConllMapper.configProps.storeToXML(fileOut, "Settings for corpus props");
+		ConlluToConllMapper.corpusProps.storeToXML(fileOut, "Settings for corpus props");
 		fileOut.close();		
 	}
 
@@ -101,8 +119,8 @@ public class ConlluToConllMapper {
 		ConlluToConllMapper.dataProps.setProperty("windowSize", "2");
 		ConlluToConllMapper.dataProps.setProperty("numberOfSentences", "-1");
 		ConlluToConllMapper.dataProps.setProperty("dim", "0");
-		ConlluToConllMapper.dataProps.setProperty("subSamplingThreshold", "false");
-		ConlluToConllMapper.dataProps.setProperty("debug", "0.000000001");
+		ConlluToConllMapper.dataProps.setProperty("subSamplingThreshold", "0.000000001");
+		ConlluToConllMapper.dataProps.setProperty("debug", "false");
 		// <!-- features (not) activated -->
 		ConlluToConllMapper.dataProps.setProperty("withWordFeats", "false");
 		ConlluToConllMapper.dataProps.setProperty("withShapeFeats", "true");
@@ -111,7 +129,7 @@ public class ConlluToConllMapper {
 	}
 
 	private static void writeLanguageDataPropsFile(String languageName, String languageID) throws IOException{
-		String configFilename = ConlluToConllMapper.conllPath + languageName + "/" + languageID + "dataProps.xml";
+		String configFilename = ConlluToConllMapper.getDataPropsFile(languageName, languageID);
 		File file = new File(configFilename);
 		FileOutputStream fileOut = new FileOutputStream(file);
 		ConlluToConllMapper.dataProps.storeToXML(fileOut, "Settings for data props");
@@ -265,9 +283,9 @@ public class ConlluToConllMapper {
 		String conlluFile = ConlluToConllMapper.makeConlluFileName(languageName, languageID, "train");
 		String conllFile = ConlluToConllMapper.makeConllFileName(languageName, languageID, "train");
 		String sentFile = ConlluToConllMapper.makeSentenceFileName(conllFile);
-		ConlluToConllMapper.configProps.setProperty("trainingLabeledData", conllFile);	
-		ConlluToConllMapper.configProps.setProperty("trainingUnLabeledData", sentFile);
-		ConlluToConllMapper.configProps.setProperty("trainingFile", conllFile);
+		ConlluToConllMapper.corpusProps.setProperty("trainingLabeledData", conllFile);	
+		ConlluToConllMapper.corpusProps.setProperty("trainingUnLabeledData", sentFile);
+		ConlluToConllMapper.corpusProps.setProperty("trainingFile", conllFile);
 
 		ConlluToConllMapper.transformConlluToConllFile(conlluFile, conllFile);
 		ConlluToConllMapper.transcodeConllToSentenceFile(conllFile, sentFile);
@@ -277,8 +295,8 @@ public class ConlluToConllMapper {
 		String conlluFile = ConlluToConllMapper.makeConlluFileName(languageName, languageID, "dev");
 		String conllFile = ConlluToConllMapper.makeConllFileName(languageName, languageID, "dev");
 		String sentFile = ConlluToConllMapper.makeSentenceFileName(conllFile);
-		ConlluToConllMapper.configProps.setProperty("devLabeledData", conllFile);
-		ConlluToConllMapper.configProps.setProperty("devUnLabeledData", sentFile);
+		ConlluToConllMapper.corpusProps.setProperty("devLabeledData", conllFile);
+		ConlluToConllMapper.corpusProps.setProperty("devUnLabeledData", sentFile);
 
 		ConlluToConllMapper.transformConlluToConllFile(conlluFile, conllFile);
 		ConlluToConllMapper.transcodeConllToSentenceFile(conllFile, sentFile);
@@ -288,8 +306,8 @@ public class ConlluToConllMapper {
 		String conlluFile = ConlluToConllMapper.makeConlluFileName(languageName, languageID, "test");
 		String conllFile = ConlluToConllMapper.makeConllFileName(languageName, languageID, "test");
 		String sentFile = ConlluToConllMapper.makeSentenceFileName(conllFile);
-		ConlluToConllMapper.configProps.setProperty("testLabeledData", conllFile);
-		ConlluToConllMapper.configProps.setProperty("testUnLabeledData", sentFile);
+		ConlluToConllMapper.corpusProps.setProperty("testLabeledData", conllFile);
+		ConlluToConllMapper.corpusProps.setProperty("testUnLabeledData", sentFile);
 
 		ConlluToConllMapper.transformConlluToConllFile(conlluFile, conllFile);
 		ConlluToConllMapper.transcodeConllToSentenceFile(conllFile, sentFile);
@@ -307,39 +325,15 @@ public class ConlluToConllMapper {
 	 * @throws IOException
 	 */
 	public static void main(String[] args) throws IOException{
-		List<Pair<String,String>> languages = new ArrayList<Pair<String,String>>();
 
-		languages.add(new Pair<String,String>("Arabic", "ar"));
-		languages.add(new Pair<String,String>("Basque", "eu"));
-		languages.add(new Pair<String,String>("Bulgarian", "bg"));
-		languages.add(new Pair<String,String>("Croatian", "hr"));
-		languages.add(new Pair<String,String>("Czech", "cs"));
-		languages.add(new Pair<String,String>("Danish", "da"));
-		languages.add(new Pair<String,String>("Dutch", "nl"));
-		languages.add(new Pair<String,String>("English", "en"));
-		languages.add(new Pair<String,String>("Finnish", "fi"));
-		languages.add(new Pair<String,String>("French", "fr"));
-		languages.add(new Pair<String,String>("German", "de"));
-		languages.add(new Pair<String,String>("Hebrew", "he"));
-		languages.add(new Pair<String,String>("Hindi", "hi"));
-		languages.add(new Pair<String,String>("Indonesian", "id"));
-		languages.add(new Pair<String,String>("Italian", "it"));
-		languages.add(new Pair<String,String>("Norwegian", "no"));
-		languages.add(new Pair<String,String>("Persian", "fa"));
-		languages.add(new Pair<String,String>("Polish", "pl"));
-		languages.add(new Pair<String,String>("Portuguese", "pt"));
-		languages.add(new Pair<String,String>("Slovenian", "sl"));
-		languages.add(new Pair<String,String>("Spanish", "es"));
-		languages.add(new Pair<String,String>("Swedish", "sv"));
-
-		for (Pair<String, String> language : languages){
+		for (Pair<String, String> language : UDlanguages.getLanguages()){
 			System.out.println("Processing: " + language);
-			ConlluToConllMapper.initLanguageConfigPropsFile(language.getR());
+			ConlluToConllMapper.initLanguageCorpusPropsFile(language.getR());
 			ConlluToConllMapper.initLanguageDataPropsFile(language.getR());
 
 			ConlluToConllMapper.transformer(language.getL(), language.getR());
 
-			ConlluToConllMapper.writeLanguageConfigPropsFile(language.getL(), language.getR());
+			ConlluToConllMapper.writeLanguageCorpusPropsFile(language.getL(), language.getR());
 			ConlluToConllMapper.writeLanguageDataPropsFile(language.getL(), language.getR());
 		}
 	}

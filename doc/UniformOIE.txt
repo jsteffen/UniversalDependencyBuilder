@@ -71,11 +71,20 @@ Steps to do:
 		-> http://www.avajava.com/tutorials/lessons/how-do-i-write-properties-to-an-xml-file.html
 	-> DONE
 
-HIERIX
 4. create GNT models
-	- store GNT 
-	
-4. For MDP
+	- store GNT -> DONE
+	- basically major problems with setting archive name and modelFileName proper and evall file name
+
+HIERIX
+
+5. Create performance output file similar to Plank et al. 2016
+	- for dev/test, OOV, time
+	- average over all languages
+	- average over selected languages
+
+
+
+X. For MDP
 	-> can be used by MDP then as well -> MDP can use .conll files
 	-> run cases.CompleteTrainParseEval with training file and modelfile name
 	
