@@ -81,6 +81,8 @@ HIERIX
 	- for dev/test, OOV, time
 	- average over all languages
 	- average over selected languages
+	
+-> FOR GNT and then also for MDP
 
 
 
