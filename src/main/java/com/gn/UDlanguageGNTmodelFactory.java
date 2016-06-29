@@ -13,7 +13,7 @@ import data.GNTdataProperties;
 import data.Pair;
 
 /**
- * Call GN trainer for each language in  ConlluToConllMapper.conllPath:
+ * Call GNT trainer and runner for each language define in UDlanguages.java
  * 
  * - get corpusPropsFile
  * - get dataPropsFile 
@@ -22,7 +22,7 @@ import data.Pair;
  * @author gune00
  *
  */
-public class UDlanguageModelFactory {
+public class UDlanguageGNTmodelFactory {
 	
 	
 	private void trainLanguage(String languageName, String languageID) throws IOException{
@@ -77,7 +77,7 @@ public class UDlanguageModelFactory {
 	}
 	
 	public static void main(String[] args) throws IOException{
-		UDlanguageModelFactory udFactory = new UDlanguageModelFactory();
+		UDlanguageGNTmodelFactory udFactory = new UDlanguageGNTmodelFactory();
 		udFactory.testAllLanguages();
 	}
 
