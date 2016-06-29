@@ -7,6 +7,7 @@ import com.gn.data.UDlanguages;
 
 import caller.RunTagger;
 import caller.TrainTagger;
+import data.GNTdataProperties;
 import data.Pair;
 
 /**
@@ -32,6 +33,8 @@ public class UDlanguageModelFactory {
 		
 		System.out.println(corpusFilename);
 		
+		GNTdataProperties.configTmpFileName = "resources/dataConfig.xml";
+		
 		gntTrainer.trainer(dataFilename, corpusFilename, modelZipFileName, archiveTxtName);
 	}
 	
@@ -48,6 +51,8 @@ public class UDlanguageModelFactory {
 		String corpusFilename = ConlluToConllMapper.getCorpusPropsFile(languageName, languageID);
 		String modelZipFileName = ConlluToConllMapper.getGNTmodelZipFileName(languageName, languageID);
 		String archiveTxtName = modelZipFileName.split("\\.zip")[0]+".txt";
+		
+		GNTdataProperties.configTmpFileName = "resources/dataConfig.xml";
 		
 		RunTagger.runner(modelZipFileName, corpusFilename, archiveTxtName);
 	}
