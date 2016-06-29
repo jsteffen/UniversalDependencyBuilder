@@ -83,10 +83,13 @@ HIERIX
 
 5. Create performance output file similar to Plank et al. 2016
 	- for dev/test, OOV, time, words/sec
-	- average over all languages
+	-> DONE for test only, because I am using static values from EvalConllFile class
+		which overwrites values from dev-file
+		
+	- average over all languages -> DONE
 	- average over selected languages
 
-	How to integrate language specific clustering-files ?
+How to create and integrate language specific clustering-files ?
 	
 	
 	

@@ -4,6 +4,8 @@ import java.io.IOException;
 
 import com.gn.data.ConlluToConllMapper;
 import com.gn.data.UDlanguages;
+import com.gn.performance.GNTperformance;
+import com.gn.performance.UDlanguagePerformance;
 
 import caller.RunTagger;
 import caller.TrainTagger;
@@ -39,11 +41,15 @@ public class UDlanguageModelFactory {
 	}
 	
 	private void trainAllLanguages() throws IOException{
+		long time1;
+		long time2;
+		time1 = System.currentTimeMillis();
 		for (Pair<String, String> language : UDlanguages.getLanguages()){
 			System.out.println("Training of: " + language);
-			this.trainLanguage(language.getL(), language.getR());
-			
+			this.trainLanguage(language.getL(), language.getR());	
 		}
+		time2 = System.currentTimeMillis();
+		System.out.println("System time (msec): " + (time2-time1));
 	}
 	
 	private void testLanguage(String languageName, String languageID) throws IOException{
@@ -58,11 +64,16 @@ public class UDlanguageModelFactory {
 	}
 	
 	private void testAllLanguages() throws IOException{
+		UDlanguagePerformance udPerformance = new UDlanguagePerformance();
 		for (Pair<String, String> language : UDlanguages.getLanguages()){
 			System.out.println("Training of: " + language);
 			this.testLanguage(language.getL(), language.getR());
-			
+			// NOTE: will only use values from last call of corpus.EvalConllFile.computeAccuracy(String, boolean)
+			// if several are called for one language. Currently this is just the test file;
+			GNTperformance gntPerformance = new GNTperformance();
+			udPerformance.addNewLanguageGNTperformance(language.getR(), gntPerformance);
 		}
+		System.out.println(udPerformance.toGNTString());
 	}
 	
 	public static void main(String[] args) throws IOException{
