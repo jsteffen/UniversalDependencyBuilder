@@ -73,21 +73,21 @@ Steps to do:
 
 4. create GNT models
 	- store GNT -> DONE
-	- basically major problems with setting archive name and modelFileName proper and evall file name
+	- basically major problems with setting archive name and modelFileName proper and eval file name
 
 HIERIX
 
-5. Create performance output file similar to Plank et al. 2016
-	- for dev/test, OOV, time
-	- average over all languages
-	- average over selected languages
-	
--> FOR GNT and then also for MDP
-
-
-
-X. For MDP
+5. MDP training
 	-> can be used by MDP then as well -> MDP can use .conll files
 	-> run cases.CompleteTrainParseEval with training file and modelfile name
+
+5. Create performance output file similar to Plank et al. 2016
+	- for dev/test, OOV, time, words/sec
+	- average over all languages
+	- average over selected languages
+
+	How to integrate language specific clustering-files ?
+	
+	
 	
 
