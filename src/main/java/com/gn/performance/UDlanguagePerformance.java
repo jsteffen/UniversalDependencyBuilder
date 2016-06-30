@@ -24,9 +24,7 @@ public class UDlanguagePerformance {
 	public void setMdpLanguagesPerformance(List<Pair<String, MDPperformance>> mdpLanguagesPerformance) {
 		this.mdpLanguagesPerformance = mdpLanguagesPerformance;
 	}
-
-
-
+	
 	public void addNewLanguageGNTperformance(String languageID, GNTperformance gntPerformance){
 		Pair<String,GNTperformance> newPair = new Pair<String,GNTperformance>(languageID, gntPerformance);
 		gntLanguagesPerformance.add(newPair);
@@ -55,6 +53,27 @@ public class UDlanguagePerformance {
 		// Compute average values
 		output += "Avg  |  " + formatter.format((avgAcc / gntLanguagesPerformance.size())*100) + 
 				" |  " + formatter.format((avgOOV / gntLanguagesPerformance.size())*100);
+		
+		return output;
+	}
+	
+	public String toMDPString() {
+		String output = "Lang |  Acc   |  OOV   |  INV   |  Tok/Sec\n";
+		output +=       "------------------------------------------\n";
+		DecimalFormat formatter = new DecimalFormat("#0.00");
+		double avgUnAcc = 0.0;
+		double avgLabAcc = 0.0;
+		
+		for (Pair<String,MDPperformance> pair : mdpLanguagesPerformance){
+			output += pair.getL() + "   | " + pair.getR().toString() + "\n";
+			avgUnAcc += pair.getR().getUnlabeledAcc();
+			avgLabAcc += pair.getR().getLabeledAcc();
+		}
+		
+		output +=       "------------------------------------------\n";
+		// Compute average values
+		output += "Avg  |  " + formatter.format((avgUnAcc / gntLanguagesPerformance.size())*100) + 
+				" |  " + formatter.format((avgLabAcc / gntLanguagesPerformance.size())*100);
 		
 		return output;
 	}

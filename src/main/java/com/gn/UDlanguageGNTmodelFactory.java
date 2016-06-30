@@ -49,6 +49,7 @@ public class UDlanguageGNTmodelFactory {
 			this.trainLanguage(language.getL(), language.getR());	
 		}
 		time2 = System.currentTimeMillis();
+		System.out.println("Complete training for " + UDlanguages.getLanguages().size() + " languages:");
 		System.out.println("System time (msec): " + (time2-time1));
 	}
 	
@@ -66,7 +67,7 @@ public class UDlanguageGNTmodelFactory {
 	private void testAllLanguages() throws IOException{
 		UDlanguagePerformance udPerformance = new UDlanguagePerformance();
 		for (Pair<String, String> language : UDlanguages.getLanguages()){
-			System.out.println("Training of: " + language);
+			System.out.println("Testing of: " + language);
 			this.testLanguage(language.getL(), language.getR());
 			// NOTE: will only use values from last call of corpus.EvalConllFile.computeAccuracy(String, boolean)
 			// if several are called for one language. Currently this is just the test file;

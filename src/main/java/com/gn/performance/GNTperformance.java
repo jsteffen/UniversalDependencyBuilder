@@ -11,12 +11,6 @@ public class GNTperformance {
 	private double accInV;
 	private long tokenPerSec = 0;
 	
-	public GNTperformance(){
-		acc = EvalConllFile.acc;
-		accOOV = EvalConllFile.accOOV;
-		accInV = EvalConllFile.accInV;
-		tokenPerSec = GNTagger.tokenPersec;
-	}
 	
 	public long getTokenPerSec() {
 		return tokenPerSec;
@@ -42,6 +36,14 @@ public class GNTperformance {
 	public void setAccInV(double accInV) {
 		this.accInV = accInV;
 	}
+	
+	public GNTperformance(){
+		acc = EvalConllFile.acc;
+		accOOV = EvalConllFile.accOOV;
+		accInV = EvalConllFile.accInV;
+		tokenPerSec = GNTagger.tokenPersec;
+	}
+	
 	
 	public String toString(){
 		String output = "";

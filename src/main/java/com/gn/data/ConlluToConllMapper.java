@@ -39,6 +39,32 @@ public class ConlluToConllMapper {
 		return ConlluToConllMapper.
 				conllPath + languageName + "/" + languageID + "-GNTmodel.zip";
 	}
+	
+	public static String getMDPmodelZipFileName(String languageName, String languageID) {
+		return ConlluToConllMapper.
+				conllPath + languageName + "/" + languageID + "-MDPmodel.zip";
+	}
+	
+	public static String getConllMDPresultFile(String testFile) {
+		return testFile.split("\\.conll")[0]+"-result.conll";
+	}
+	
+	public static String getConllTrainFile(String languageName, String languageID) {
+		return ConlluToConllMapper.
+				conllPath + languageName + "/" + languageID + "-ud-train.conll";
+	}
+	public static String getConllTestFile(String languageName, String languageID) {
+		return ConlluToConllMapper.
+				conllPath + languageName + "/" + languageID + "-ud-test.conll";
+	}
+
+	public static String getConllDevFile(String languageName, String languageID) {
+		return ConlluToConllMapper.
+				conllPath + languageName + "/" + languageID + "-ud-dev.conll";
+	}
+
+
+
 
 	/* Create corpusProp.xml file
 	 * E.g., conll/Arabic/arabicCorpusProps.xml
@@ -337,5 +363,6 @@ public class ConlluToConllMapper {
 			ConlluToConllMapper.writeLanguageDataPropsFile(language.getL(), language.getR());
 		}
 	}
+
 
 }

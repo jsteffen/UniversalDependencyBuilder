@@ -86,8 +86,13 @@ Steps to do:
 HIERIX
 
 6. MDP training
-	-> can be used by MDP then as well -> MDP can use .conll files
-	-> run cases.CompleteTrainParseEval with training file and modelfile name
+	- needs as input conll train file and model file name
+	- take with correct indexing of connl format in UD
+		2	hatte	_	VERB	_	_	0	root	_	_
+	- NOTE:
+		- at least DE, IT can make problems, because
+			4-5	dal	_	_	_	_	_	_	_	_
+		-> adapt data reader of MDP
 	
 7. Update UDlanguagePerformance
 	
