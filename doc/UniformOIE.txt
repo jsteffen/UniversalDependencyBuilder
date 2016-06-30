@@ -48,19 +48,7 @@ Steps to do:
 	
 	- when reading in .conllu file, ignore lines with #
 
-2. also extract and store sentences
-
--> do it directly when reading the conllu files
-
-	- specific problems:
-		Italian:
-			1	Sorpresa	sorpresa	NOUN	S	Gender=Fem|Number=Sing	0	root	_	_
-			2-3	nella	_	_	_	_	_	_	_	_
-			2	in	in	ADP	E	_	4	case	_	_
-			
--> MORE issues ???
-	
-
+2. extract and store sentences
 
 3. Define a generic class for calling GNT and MDP training based on generated conll data
 	- use global settings for GNT-learner, so that now prop files are necessary
@@ -83,8 +71,6 @@ Steps to do:
 	- average over all languages -> DONE
 	- average over selected languages
 	
-HIERIX
-
 6. MDP training
 	- needs as input conll train file and model file name
 	- take with correct indexing of connl format in UD
@@ -93,9 +79,10 @@ HIERIX
 		- at least DE, IT can make problems, because
 			4-5	dal	_	_	_	_	_	_	_	_
 		-> adapt data reader of MDP
+-> DONE
 	
 7. Update UDlanguagePerformance
-	
+-> DONE
 	
 	
 

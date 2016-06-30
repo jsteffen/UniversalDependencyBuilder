@@ -352,7 +352,7 @@ public class ConlluToConllMapper {
 	 */
 	public static void main(String[] args) throws IOException{
 
-		for (Pair<String, String> language : UDlanguages.getLanguages()){
+		for (Pair<String, String> language : UDlanguages.languages){
 			System.out.println("Processing: " + language);
 			ConlluToConllMapper.initLanguageCorpusPropsFile(language.getR());
 			ConlluToConllMapper.initLanguageDataPropsFile(language.getR());

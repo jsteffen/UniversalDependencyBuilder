@@ -58,8 +58,8 @@ public class UDlanguagePerformance {
 	}
 	
 	public String toMDPString() {
-		String output = "Lang |  Acc   |  OOV   |  INV   |  Tok/Sec\n";
-		output +=       "------------------------------------------\n";
+		String output = "Lang |  UAS   |  LAS   |  Speed tot. \n";
+		output +=       "------------------------------------\n";
 		DecimalFormat formatter = new DecimalFormat("#0.00");
 		double avgUnAcc = 0.0;
 		double avgLabAcc = 0.0;
@@ -72,8 +72,8 @@ public class UDlanguagePerformance {
 		
 		output +=       "------------------------------------------\n";
 		// Compute average values
-		output += "Avg  |  " + formatter.format((avgUnAcc / gntLanguagesPerformance.size())*100) + 
-				" |  " + formatter.format((avgLabAcc / gntLanguagesPerformance.size())*100);
+		output += "Avg  |  " + formatter.format((avgUnAcc / mdpLanguagesPerformance.size())*100) + 
+				" |  " + formatter.format((avgLabAcc / mdpLanguagesPerformance.size())*100);
 		
 		return output;
 	}

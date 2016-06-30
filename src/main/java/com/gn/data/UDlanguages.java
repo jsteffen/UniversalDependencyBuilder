@@ -7,9 +7,9 @@ import data.Pair;
 
 public class UDlanguages {
 
-	private static List<Pair<String,String>> languages = new ArrayList<Pair<String,String>>();
+	public static List<Pair<String,String>> languages = new ArrayList<Pair<String,String>>();
 
-	public static List<Pair<String,String>> getLanguages(){
+	public static List<Pair<String,String>> addLanguages(){
 		languages.add(new Pair<String,String>("Arabic", "ar"));
 		languages.add(new Pair<String,String>("Bulgarian", "bg"));
 		languages.add(new Pair<String,String>("Czech", "cs"));
@@ -34,5 +34,4 @@ public class UDlanguages {
 		languages.add(new Pair<String,String>("Swedish", "sv"));
 		return languages;
 	}
-
 }
