@@ -1,62 +1,104 @@
-16 det DET PRON
-4 tale VERB NOUN
-2 ene NUM NOUN
-14 nøkterne ADJ NOUN
-17 saklighetsnivå NOUN PART
-2 uaktet ADP VERB
-24 fotografert ADJ VERB
-43 passe ADJ VERB
-1 Thomassen PROPN NOUN
-3 rene ADJ VERB
-33 få AUX VERB
-54 vært AUX VERB
-1 Som SCONJ PRON
-2 rene ADJ NOUN
-9 ekstern ADJ NOUN
-11 selvvalgt ADJ VERB
-5 genuin ADJ DET
-4 stakkato ADJ NOUN
-2 får AUX VERB
-2 ... PUNCT PAUSE
-4 mini-portrettintervjues VERB NOUN
-1 Sparket NOUN VERB
-4 blir VERB AUX
-5 som ADP PRON
-15 som PRON ADP
-23 utført ADJ VERB
-34 ... PUNCT PAUSE
-49 leste VERB ADJ
-50 ... PUNCT PAUSE
-51 om ADP SCONJ
-63 kommentarspalte NOUN VERB
-72 spalte NOUN ADJ
-75 almene ADJ NOUN
-76 fordømmelsesnivå NOUN VERB
-5 selv ADV DET
-6 litt ADJ AUX
-7 smittet ADJ VERB
-4 som ADP PRON
-6 som ADP ADJ
-11 enten CONJ NOUN
-2 slått ADJ VERB
-16 heller VERB ADV
-17 pepper NOUN VERB
-3 veivelger NOUN VERB
-9 straffedømts ADJ NOUN
-2 får VERB AUX
-14 som ADP PRON
-2 meddommere NOUN VERB
-12 å CONJ PART
-4 opptre VERB NUM
-5 som ADP PRON
-11 som ADP PRON
-12 valgt ADJ VERB
-13 innehaver NOUN VERB
-10 høyst ADV ADJ
-14 avgjort ADJ VERB
-5 hensett ADJ VERB
-7 nær ADJ VERB
-13 forsvarer NOUN VERB
+AUX:VERB	100
+ADJ:VERB	77
+NOUN:VERB	74
+ADJ:NOUN	70
+PROPN:NOUN	69
+VERB:AUX	62
+VERB:NOUN	55
+ADP:PRON	55
+DET:PRON	54
+VERB:ADJ	53
+NOUN:ADJ	43
+PRON:DET	36
+NOUN:PROPN	33
+SCONJ:ADP	27
+PRON:ADP	22
+PUNCT:PAUSE	19
+NOUN:ADP	19
+NOUN:PRON	14
+VERB:ADV	14
+NOUN:DET	13
+ADJ:DET	13
+ADV:DET	12
+ADV:ADJ	12
+ADP:NOUN	11
+SCONJ:ADV	10
+ADV:SCONJ	10
+ADV:NOUN	9
+DET:ADV	9
+ADV:ADP	8
+PROPN:DET	8
+NOUN:ADV	8
+CONJ:ADV	8
+ADJ:AUX	7
+NOUN:SCONJ	7
+ADJ:PRON	7
+X:NOUN	7
+CONJ:ADP	7
+VERB:ADP	6
+PROPN:ADJ	6
+SCONJ:PRON	6
+VERB:DET	6
+ADP:SCONJ	6
+ADP:VERB	5
+NOUN:CONJ	5
+PROPN:SCONJ	5
+NOUN:NUM	5
+ADV:VERB	4
+VERB:PRON	4
+PROPN:ADP	4
+INTJ:NOUN	4
+ADJ:ADV	4
+NOUN:PUNCT	4
+PROPN:VERB	4
+ADP:ADJ	4
+VERB:PROPN	4
+DET:NOUN	3
+X:ADJ	3
+X:VERB	3
+ADJ:NUM	3
+ADP:ADV	3
+INTJ:ADV	3
+INTJ:ADP	3
+X:PROPN	3
+DET:VERB	2
+SCONJ:VERB	2
+X:SCONJ	2
+ADP:DET	2
+NUM:NOUN	2
+NOUN:X	2
+DET:X	2
+VERB:X	2
+VERB:CONJ	1
+DET:PROPN	1
+ADJ:PROPN	1
+VERB:NUM	1
+PROPN:NUM	1
+AUX:ADJ	1
+X:PRON	1
+SCONJ:NOUN	1
+PRON:ADJ	1
+PART:CONJ	1
+ADJ:ADP	1
+VERB:SCONJ	1
+PROPN:ADV	1
+PRON:VERB	1
+PRON:SCONJ	1
+NOUN:INTJ	1
+SCONJ:DET	1
+NUM:VERB	1
+PRON:NOUN	1
+NOUN:PART	1
+AUX:DET	1
+NOUN:AUX	1
+NUM:DET	1
+CONJ:PART	1
+DET:ADP	1
+X:DET	1
+AUX:PART	1
+CONJ:NOUN	1
+CONJ:SCONJ	1
+
 6 å AUX PART
 2 halvannet NUM DET
 5 har AUX VERB
@@ -130,6 +172,7 @@
 11 landet VERB NOUN
 3 varte VERB ADJ
 41 om SCONJ ADP
+1 Kilden NOUN PRON
 10 som ADP PRON
 30 de PRON DET
 20 ble AUX VERB
@@ -137,6 +180,7 @@
 15 skjulte ADJ VERB
 4 tillot VERB ADP
 16 om SCONJ ADP
+24 nobelprisvinner NOUN VERB
 8 TV NOUN PROPN
 15 arbeidet VERB NOUN
 7 som PRON ADP
@@ -149,7 +193,6 @@
 22 som ADP PRON
 15 ble VERB AUX
 20 utvidet VERB NOUN
-15 som ADP PRON
 20 såkalt ADJ DET
 11 uvant ADJ VERB
 21 åpnet VERB NOUN
@@ -159,6 +202,7 @@
 15 er AUX VERB
 30 det PRON DET
 20 det DET PRON
+21 verdigrunnlaget NOUN VERB
 37 velgeres NOUN VERB
 1 Luftslott NOUN ADJ
 36 det DET PRON
@@ -184,6 +228,7 @@
 6 selv DET ADV
 7 selv DET ADV
 12 TVs NOUN PROPN
+15 går NOUN VERB
 25 om SCONJ ADP
 1 Ap PROPN NOUN
 14 har AUX VERB
@@ -213,13 +258,10 @@
 4 der ADV SCONJ
 8 som ADP PRON
 6 da ADV SCONJ
-5 alles DET ADJ
 4 idet SCONJ PRON
 3 Irish X PROPN
-4 stew X NOUN
 9 blandet VERB NOUN
 6 dempet ADJ VERB
-8 de DET PRON
 8 bitre ADJ NUM
 6 mørkebrun ADJ NOUN
 3 hvile NOUN ADJ
@@ -241,6 +283,7 @@
 11 der ADV SCONJ
 16 røyke VERB ADJ
 1 Linda PROPN SCONJ
+8 slik ADV DET
 4 damper VERB AUX
 5 intenst ADJ NOUN
 12 innhyllet ADJ NOUN
@@ -284,6 +327,7 @@
 5 del X NOUN
 3 oppfylt VERB ADJ
 3 det DET PRON
+9 levere VERB NOUN
 11 har VERB AUX
 4 forsker VERB NOUN
 10 lutter ADJ NOUN
@@ -292,6 +336,7 @@
 2 legeme NOUN ADJ
 5 dødere ADJ PRON
 1 Borat PROPN SCONJ
+18 hardingfele NOUN ADJ
 6 blitt AUX VERB
 1 For CONJ ADP
 16 det DET PRON
@@ -310,7 +355,6 @@
 14 som PRON ADP
 2 som ADP PRON
 2 har AUX VERB
-5 invitert VERB ADJ
 2 har VERB AUX
 4 har VERB AUX
 1 Så CONJ ADV
@@ -340,7 +384,6 @@
 10 snau ADJ PRON
 2 har AUX VERB
 44 døde NOUN ADJ
-6 preget VERB NOUN
 16 verd ADJ NOUN
 1 Saktens ADV NOUN
 11 har AUX VERB
@@ -399,7 +442,7 @@
 14 hun PRON DET
 1 Så CONJ ADV
 8 lot VERB NOUN
-6 så SCONJ CONJ
+6 så SCONJ ADV
 18 kjekk ADJ NOUN
 1 For CONJ ADP
 6 Instagramfolket NOUN PROPN
@@ -438,12 +481,10 @@
 3 operert VERB ADJ
 6 høyre ADJ NOUN
 3 hjerneblødningoppdages VERB NOUN
-1 Espens PROPN NOUN
 7 det DET PRON
 6 oppglødd ADJ ADV
 11 som PRON ADP
 5 så VERB ADV
-3 kniper VERB NOUN
 3 er AUX VERB
 15 som ADP PRON
 3 siden ADP ADV
@@ -465,7 +506,6 @@
 6 what X SCONJ
 8 before X ADJ
 4 får AUX VERB
-5 trene VERB NOUN
 1 Øve VERB PROPN
 9 smerte NOUN ADJ
 6 stikk ADV NOUN
@@ -483,6 +523,7 @@
 4 om SCONJ ADP
 3 feste VERB ADJ
 15 foreldres NOUN DET
+8 som PRON ADP
 3 skal VERB AUX
 5 det DET PRON
 5 ... PUNCT PAUSE
@@ -491,7 +532,7 @@
 8 kan VERB AUX
 2 Tale NOUN INTJ
 2 blir AUX VERB
-5 forstyrret VERB NOUN
+5 forstyrret VERB ADJ
 5 blir AUX VERB
 7 distrahert VERB ADJ
 7 styrke NOUN VERB
@@ -505,10 +546,9 @@
 10 day X NOUN
 11 I X PROPN
 13 I'll X PROPN
-14 feel X NOUN
-15 strong X NOUN
 17 ... PUNCT PAUSE
 11 så VERB ADV
+17 skjørt ADJ VERB
 5 ... PUNCT PAUSE
 11 vil VERB AUX
 2 vil VERB AUX
@@ -536,8 +576,8 @@
 6 uskikket ADJ VERB
 2 om SCONJ ADP
 2 om SCONJ ADP
+9 deres DET VERB
 8 bli AUX VERB
-6 en PRON NOUN
 27 vært VERB AUX
 28 ugjort ADJ VERB
 2 Melder NOUN VERB
@@ -620,7 +660,6 @@
 20 da ADV SCONJ
 5 såpass ADV NOUN
 26 henda NOUN ADV
-29 blitt VERB AUX
 31 tynnere ADJ NOUN
 5 egoet NOUN DET
 7 da SCONJ ADV
@@ -657,7 +696,7 @@
 17 låta NOUN VERB
 1 Hadde AUX VERB
 13 ... PUNCT PAUSE
-9 ståa NOUN ADP
+9 ståa NOUN VERB
 16 sunn ADJ NOUN
 9 som ADP PRON
 1 Som ADP PRON
@@ -665,9 +704,11 @@
 5 har VERB AUX
 11 dyp ADJ NOUN
 19 rockehelt NOUN ADJ
+11 vært AUX VERB
 17 glatt ADJ VERB
 26 som PRON ADP
 33 casioen NOUN DET
+34 alle PRON DET
 6 av SCONJ ADP
 2 tross NOUN ADP
 6 er VERB AUX
@@ -715,7 +756,7 @@
 2 de PRON DET
 22 da ADV SCONJ
 1 Eidos PROPN NOUN
-19 som ADP PRON
+36 har VERB AUX
 7 spillernes NOUN VERB
 20 spiller VERB NOUN
 1 Assistent NOUN ADJ
@@ -756,7 +797,6 @@
 16 flinkere ADJ NOUN
 27 flinkere ADJ NOUN
 31 det PRON DET
-4 oppfylt VERB ADJ
 1 Får AUX VERB
 2 får AUX VERB
 1 Overbeviste VERB ADJ
@@ -767,8 +807,7 @@
 3 har AUX VERB
 3 er AUX VERB
 4 henrykt VERB ADJ
-6 overveldet VERB NOUN
-7 taker VERB NOUN
+6 overveldet VERB PRON
 6 svarte VERB ADJ
 2 fikk VERB ADV
 1 Per PROPN VERB
@@ -777,9 +816,8 @@
 7 ordfører NOUN VERB
 15 er AUX VERB
 1 Møt VERB ADJ
-5 aker VERB NOUN
 9 St. PROPN NOUN
-1 Alle DET PRON
+12 gasselle NOUN ADJ
 7 attitude NOUN PRON
 1 Rein ADJ NOUN
 5 blank ADJ NOUN
@@ -791,6 +829,7 @@
 5 maskaraen NOUN DET
 7 no-no INTJ NOUN
 6 så VERB ADV
+7 mote NOUN VERB
 10 så SCONJ ADV
 1 Jo INTJ ADV
 10 har VERB AUX
@@ -807,13 +846,11 @@
 10 siden NOUN ADV
 1 Signy PROPN ADJ
 1 Leste VERB ADJ
-1 Strikket VERB ADJ
 26 som PRON ADP
 7 palestinaskjerfet NOUN DET
 17 høyhælte ADJ VERB
 3 radiOrakel PROPN NOUN
 8 hun PRON DET
-2 ble VERB AUX
 8 nineish DET X
 10 tenish DET X
 8 til SCONJ ADP
@@ -869,6 +906,7 @@
 7 du NOUN PRON
 4 som PRON ADP
 24 vår NOUN DET
+10 publiserte ADJ VERB
 36 Respons NOUN PROPN
 37 22/7 NOUN NUM
 40 det DET PRON
@@ -886,6 +924,7 @@
 9 det DET PRON
 10 utspekulerte ADJ VERB
 5 det DET PRON
+6 sjette ADJ VERB
 5 tilbakeholden ADJ NOUN
 14 Min PROPN DET
 3 det PRON DET
@@ -897,7 +936,6 @@
 1 Generalstreik NOUN PROPN
 4 regjerings NOUN ADP
 6 som PRON ADP
-11 an ADV PRON
 8 som ADP PRON
 9 isolerte ADJ VERB
 3 har AUX VERB
@@ -916,13 +954,12 @@
 8 skape VERB ADJ
 12 er AUX VERB
 13 fordelt VERB ADJ
-16 høyrestyrte ADJ VERB
 22 bremsekloss NOUN PRON
 1 Aps PROPN NOUN
 9 er AUX VERB
-10 avgrenset VERB ADJ
 7 ble AUX VERB
 2 har VERB AUX
+3 begrenset ADJ VERB
 9 jf VERB ADP
 3 følgelig ADV ADJ
 7 bl ADP NOUN
@@ -1028,10 +1065,10 @@
 7 Tafjordbygda PROPN SCONJ
 8 være VERB AUX
 1 Pr ADP NOUN
+18 folketallet NOUN VERB
 1 Som SCONJ PRON
 15 kan VERB AUX
 10 veto NOUN NUM
-1 Det DET PRON
 2 forbundet NOUN PRON
 10 sikre VERB ADJ
 21 slik ADV DET
@@ -1060,10 +1097,10 @@
 15 enn SCONJ ADP
 16 en PRON DET
 12 sett NOUN VERB
+10 intolerante ADJ VERB
 32 pga ADP VERB
 17 trangere ADJ NOUN
 19 tristere ADJ NOUN
-9 spiller VERB NOUN
 8 en ADP DET
 6 reaksjonære ADJ NOUN
 5 som PRON ADP
@@ -1079,7 +1116,6 @@
 5 garantier NOUN VERB
 2 har VERB AUX
 1 Så CONJ ADV
-1 Kunnskapsløft NOUN ADJ
 1 Ap PROPN NOUN
 12 utvidet ADJ VERB
 16 enn SCONJ ADP
@@ -1097,13 +1133,11 @@
 28 som ADP PRON
 5 nord ADP NOUN
 1 Regjeringen PROPN NOUN
-8 som ADP PRON
 7 inngåtte ADJ NUM
 14 tapt VERB ADJ
 3 andre ADJ DET
 1 Ønsket NOUN VERB
 1 Regjeringen PROPN NOUN
-3 som ADP PRON
 9 byene NOUN ADJ
 1 Regjeringen PROPN NOUN
 1 Regjeringen PROPN NOUN
@@ -1160,8 +1194,6 @@
 6 fikk VERB AUX
 2 har VERB AUX
 1 Regjeringen PROPN NOUN
-6 FN-ledet ADJ NOUN
-15 det DET PRON
 1 Regjeringen PROPN NOUN
 24 bli AUX VERB
 25 fornyet VERB ADJ
@@ -1172,7 +1204,6 @@
 5 human ADJ PRON
 18 plikter VERB NOUN
 1 Regjeringen PROPN NOUN
-3 opptre VERB NUM
 4 som ADP PRON
 1 Regjeringen PROPN NOUN
 6 alle PRON DET
@@ -1213,13 +1244,12 @@
 23 som ADP PRON
 27 al-Qaida PROPN NOUN
 27 valgt ADJ VERB
-1 Diarra PROPN SCONJ
+1 Diarra PROPN NOUN
 7 øy NOUN ADJ
 11 satellittsendere NOUN PRON
 9 den PRON DET
 14 dybde NOUN PRON
 1 Bouvetøya PROPN NOUN
-10 dypet NOUN DET
 23 er VERB AUX
 11 bitt NOUN ADJ
 8 telt NOUN ADJ

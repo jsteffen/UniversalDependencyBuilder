@@ -1,39 +1,77 @@
-12 تکنولوژیکی ADJ NUM
-29 خارج ADP NOUN
-18 استاندارد ADJ VERB
-22 کلان ADJ NOUN
-2 طاهر NOUN DET
-4 شمسی NOUN ADJ
-3 شمسی NOUN ADJ
-10 تصدیگری NOUN ADJ
-18 تصویبی ADJ NOUN
-33 گازی ADJ NOUN
-3 میدل‌ایست NOUN VERB
-4 اکونومیک ADJ NUM
-15 گاز NOUN ADP
-30 دو‌مرحله‌ای ADJ NOUN
-32 کند ADJ VERB
-28 صبر NOUN ADP
-2 نوشته ADJ NOUN
-4 مید NOUN VERB
-27 گازی ADJ NOUN
-22 ایتالیایی ADJ NOUN
-21 خارج ADP NOUN
-6 این PRON DET
-11 مسئولین NOUN ADJ
-14 حسنه ADJ ADV
-15 میان ADP NOUN
-19 ناخرسند ADJ VERB
-37 جنجالی ADJ NOUN
-38 آفریده‌ NOUN ADJ
-25 تکثر NOUN ADJ
-40 میان ADP NOUN
-7 صریح ADJ NOUN
-19 آن PRON DET
-27 همزیستی NOUN ADJ
-1 بعید ADJ NOUN
-16 یکپارچه ADJ ADV
+ADJ:NOUN	208
+NOUN:ADJ	117
+X:NOUN	39
+NOUN:ADP	33
+ADP:NOUN	32
+NOUN:VERB	30
+CONJ:SCONJ	28
+VERB:NOUN	27
+ADJ:VERB	22
+PRON:DET	21
+PRON:NOUN	18
+ADV:NOUN	17
+_:NOUN	16
+ADV:ADJ	11
+ADJ:ADV	11
+DET:PRON	10
+VERB:ADJ	9
+NUM:NOUN	9
+NOUN:ADV	9
+NOUN:NUM	9
+ADJ:NUM	8
+SCONJ:CONJ	8
+SCONJ:ADP	6
+NOUN:PRON	6
+X:CONJ	6
+NOUN:CONJ	6
+ADP:ADV	6
+ADV:SCONJ	5
+ADJ:PRON	5
+NOUN:PART	4
+SCONJ:ADV	4
+X:PRON	4
+INTJ:NOUN	4
+NOUN:DET	4
+ADJ:PART	3
+ADP:ADJ	3
+X:ADP	3
+X:ADV	3
+X:VERB	3
+SCONJ:ADJ	2
+ADV:ADP	2
+VERB:ADP	2
+ADP:PART	2
+CONJ:PRON	2
+ADV:CONJ	2
+PRON:ADJ	2
+VERB:PRON	2
+DET:ADV	2
+DET:ADJ	2
+VERB:AUX	2
+PRON:SCONJ	2
+NOUN:SCONJ	2
+DET:NUM	1
+NUM:ADJ	1
+NUM:VERB	1
+NUM:ADV	1
+_:PRON	1
+VERB:ADV	1
+NOUN:_	1
+_:PART	1
+DET:NOUN	1
+ADV:VERB	1
+SCONJ:NOUN	1
+ADJ:ADP	1
+ADJ:SCONJ	1
+_:VERB	1
+ADJ:DET	1
+PRON:NUM	1
+AUX:VERB	1
+ADJ:X	1
+CONJ:NOUN	1
+�پارچه ADJ ADV
 12 میان ADP NOUN
+8 هم PRON SCONJ
 16 متضرر ADJ NOUN
 25 دنبال NOUN ADP
 14-15 ساکتند _ VERB
@@ -108,6 +146,7 @@
 13 ممتاز ADJ ADP
 2 این CONJ PRON
 10 بن X NOUN
+3 هم SCONJ CONJ
 12 مدارا ADJ PART
 16 بن X NOUN
 14 بن X NOUN
@@ -118,7 +157,7 @@
 14 برو VERB NOUN
 26 نما VERB PRON
 5 معذور ADJ NOUN
-6-7 بیناتری _ ADJ
+6-7 بیناتری _ NOUN
 10-11 ترا _ PART
 10 ت PRON NOUN
 21-22 خانواده‌ات _ NOUN
@@ -133,7 +172,7 @@
 40 فقد X NOUN
 41 انتهت X NOUN
 42 الی X NOUN
-43 منک X ADJ
+43 منک X NOUN
 44 امور X NOUN
 46 لم X NOUN
 47 اکن X NOUN
@@ -192,7 +231,7 @@
 17 ت PRON NOUN
 23 کشتی VERB NOUN
 11 پرپینه ADJ NOUN
-11 بستی VERB NOUN
+11 بستی VERB ADJ
 6 زیاد NOUN ADJ
 13 که CONJ SCONJ
 20 الولد X NOUN
@@ -205,10 +244,11 @@
 1 ای INTJ NOUN
 1 گویی ADV NOUN
 1 زیاد NOUN ADJ
+7 اجداد NOUN VERB
 8 ت PRON NOUN
 4 جدم NOUN VERB
 8 نشستی VERB ADJ
-2 اینهمه DET PRON
+2 اینهمه DET ADV
 1 حال ADV NOUN
 3-4 نامه‌ات _ NOUN
 4 ات PRON NOUN
@@ -259,7 +299,6 @@
 28 هرقدر ADV NOUN
 29 خواست VERB NOUN
 56 حاکمی NOUN ADV
-14 نیستی VERB ADJ
 23 بریده ADJ NOUN
 27 نیز CONJ SCONJ
 28 بریده ADJ VERB
@@ -270,6 +309,7 @@
 10 تعدادی DET NOUN
 15 اطلاعاتی NOUN ADJ
 23 جاسوسی ADJ NOUN
+38 مقطعی NOUN ADJ
 53 هم CONJ SCONJ
 55 ضد‌استعماری ADJ NOUN
 63 پادشاهی ADJ NOUN
@@ -285,6 +325,7 @@
 47 فردی ADJ NOUN
 16 دولتی NOUN ADJ
 10 که SCONJ CONJ
+11 سالم ADJ NOUN
 32 موقت ADJ NOUN
 39 سیستمی ADJ NOUN
 42 بهبود NOUN VERB
@@ -306,20 +347,18 @@
 9 پارچه NOUN ADV
 13 سفالگری NOUN ADJ
 7 آمده ADJ VERB
-11 تپه NOUN ADJ
 14 ساکن ADJ NOUN
 14 شهری ADJ NOUN
 1 همچنین CONJ SCONJ
 48 فیزیکی ADJ NUM
 7 دفاتر NOUN ADJ
-12 کاوش ADJ NOUN
 7 نفره ADJ NOUN
 24 فلزی ADJ NOUN
 11 قشم NOUN ADJ
 8 همچنین CONJ SCONJ
 9 درصدد ADJ NOUN
 17 قشم NOUN ADJ
-26 بندر NOUN ADJ
+26 بندر NOUN ADP
 3 دویست NUM VERB
 16 ترکمن NOUN PRON
 11 نامی ADJ NOUN
@@ -370,6 +409,7 @@
 12 حکیم NOUN ADJ
 39 فیزیک NOUN NUM
 26 نیشابوری NOUN ADJ
+5 برگزیده ADJ NOUN
 21 سید NOUN ADJ
 43 نیز CONJ SCONJ
 44 شلمچه NOUN ADV
@@ -413,6 +453,7 @@
 4 تیم NOUN VERB
 3 برگشت NOUN VERB
 7 ایرسوتر NOUN ADJ
+1 پکن NOUN VERB
 7 چینی ADJ NOUN
 23 رایانه‌ای ADJ NOUN
 1 این PRON DET
@@ -433,6 +474,7 @@
 13 تبهکاری ADJ NOUN
 13 پس ADP ADV
 18 ناموفق ADV ADJ
+11 مصمم ADJ VERB
 14 روی NOUN ADP
 21 کشته VERB NOUN
 7 صرف ADJ NOUN
@@ -466,6 +508,7 @@
 6 نخست ADJ NUM
 6 کیلومتری ADJ NOUN
 8 بندر NOUN ADP
+21 طی NOUN ADP
 4 زنجانی ADJ NOUN
 8 دیگر DET ADJ
 37 ترک NOUN ADJ
@@ -476,6 +519,7 @@
 22 همین PRON DET
 23-24 کافیست _ NOUN
 13 تند ADJ NOUN
+19 آن PRON DET
 20 به‌زعم ADP NOUN
 28 شما NOUN PRON
 46 سکولار ADJ NOUN
@@ -484,6 +528,7 @@
 17 که SCONJ CONJ
 25 جهت ADP NOUN
 10 کلان ADJ NOUN
+27 سلیم ADJ VERB
 1 بعضی DET PRON
 21 حداکثر ADV ADJ
 22 ظرف ADP NOUN
@@ -529,12 +574,11 @@
 13 هرواین NOUN PRON
 17 تقریبی ADJ NOUN
 2 سجاد‌نواز NOUN ADP
-15 قاچاقچی ADJ NOUN
+15 قاچاقچی ADJ ADV
+15 بازداشت NOUN VERB
 13 ده NUM NOUN
-48 نفره ADJ NOUN
 16 مذاکره‌کننده NOUN ADJ
 7 گروگانگیر ADJ NOUN
-12 وی PRON ADJ
 14 صحیح ADJ NOUN
 7 خودکار ADJ NOUN
 29 بزرگسالان NOUN ADV
@@ -604,6 +648,8 @@
 20 پربرف ADJ NOUN
 24 بارانی NOUN ADJ
 29 فرو ADP ADV
+14 سیراب ADJ NOUN
+4 ویروسی ADJ NOUN
 2 اوت‌لوک NOUN ADJ
 4 نرم‌افزاری NOUN ADJ
 29 رایانه‌ای ADJ NOUN
@@ -617,6 +663,7 @@
 22 ت PRON NOUN
 23 ویروسی ADJ NOUN
 2 الحاقی ADJ NOUN
+7 ضمیمه‌ای ADJ NOUN
 12 ویژوال‌بیسیک NOUN NUM
 16 ذخیره NOUN ADJ
 3 سمفونیک NOUN NUM
@@ -641,10 +688,10 @@
 18 کوتاه‌مدت ADV ADJ
 22 رده NOUN ADJ
 22 درمانی ADJ NOUN
-43 برابر ADP NOUN
 52 رده NOUN ADJ
 2 رده NOUN VERB
 22 ایزونیازید NOUN VERB
+31 اتامبوتول NOUN ADJ
 19 رده NOUN ADJ
 1 ساخارین NOUN _
 4 ساخارین NOUN ADJ
@@ -764,7 +811,6 @@
 11 پربار ADJ NOUN
 1 بنا NOUN ADP
 34 باضافهٔ ADP NOUN
-4 خزانه‌ای NOUN ADJ
 24 گرانبار ADJ NOUN
 38 هم CONJ SCONJ
 47 بخصوص CONJ NOUN
@@ -783,7 +829,6 @@
 2 عروضی NOUN ADJ
 20 که CONJ SCONJ
 12 حکیم ADJ NOUN
-11 دور ADV ADJ
 30 که CONJ SCONJ
 33 اینگونه DET ADV
 36 بی‌شاخ ADJ NOUN

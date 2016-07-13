@@ -1,45 +1,71 @@
-3 avevano AUX VERB
-10 fatica NOUN VERB
-14 qualcun PRON DET
-15 altro ADJ PRON
-16 sia VERB NOUN
-5 tipica ADJ NOUN
-6 camminata NOUN VERB
-32 Rosa PROPN ADJ
-17 spegnere VERB NOUN
-9 figlia NOUN VERB
-11 questo DET PRON
-34 rassicurante ADJ ADP
-23 un NUM DET
-26 tutti PRON DET
-18 scene NOUN PRON
-51 bianchi NOUN ADJ
-54 volevano AUX VERB
-5 altri DET ADJ
-6 grandi NOUN ADJ
-9 solo ADJ ADV
-59 fosse AUX VERB
-1 Dietro ADP ADV
-4 affumicate ADJ VERB
-19 soddisfatto ADJ NOUN
-2 militanti NOUN DET
-3 serbi ADJ NOUN
-16 invidia NOUN VERB
-12 lungo ADJ NOUN
-12 questo PRON DET
-3 Parlamento PROPN NOUN
-15 ... PUNCT PAUSE
-3 duro NOUN ADJ
-9 ha VERB NOUN
-16 sere NOUN VERB
-17 fa ADV VERB
-50 normale NOUN ADJ
-9 lo PRON DET
-1 Stia VERB NOUN
-5 stesso ADV ADJ
-6 tremenda ADJ NOUN
-9 che SCONJ PRON
-17 parlamentare NOUN ADJ
+ADJ:NOUN	55
+NOUN:ADJ	36
+ADJ:VERB	28
+NOUN:VERB	28
+VERB:NOUN	22
+PRON:DET	22
+VERB:ADJ	15
+NOUN:PROPN	13
+ADV:ADP	10
+AUX:VERB	10
+PROPN:NOUN	8
+SCONJ:PRON	7
+ADP:ADV	7
+ADJ:DET	6
+VERB:AUX	6
+ADJ:PRON	6
+DET:PRON	6
+ADV:NOUN	5
+DET:ADV	5
+NOUN:ADV	5
+PROPN:ADJ	5
+ADV:VERB	4
+PRON:ADJ	4
+DET:ADJ	4
+ADJ:ADV	4
+NOUN:DET	4
+NOUN:PRON	3
+ADV:ADJ	3
+VERB:ADP	3
+PRON:NOUN	3
+NUM:DET	3
+PROPN:DET	3
+ADJ:ADP	3
+PROPN:VERB	3
+PRON:SCONJ	3
+VERB:CONJ	2
+VERB:ADV	2
+ADP:VERB	2
+ADJ:PROPN	2
+CONJ:PRON	2
+PRON:ADV	2
+CONJ:VERB	2
+ADP:ADJ	2
+CONJ:ADP	1
+DET:PROPN	1
+AUX:DET	1
+SCONJ:ADV	1
+PRON:CONJ	1
+PUNCT:PAUSE	1
+DET:NOUN	1
+DET:_	1
+VERB:DET	1
+_:ADJ	1
+VERB:PRON	1
+ADP:PROPN	1
+NOUN:ADP	1
+PRON:ADP	1
+X:DET	1
+INTJ:NOUN	1
+PRON:VERB	1
+PROPN:INTJ	1
+VERB:PROPN	1
+NOUN:SCONJ	1
+CONJ:SCONJ	1
+PROPN:PUNCT	1
+ADP:SCONJ	1
+CONJ:ADV	1
+ NOUN ADJ
 37 precisa ADJ NOUN
 2 come ADV ADP
 3 no INTJ NOUN
@@ -59,6 +85,7 @@
 5 siano VERB AUX
 6 proposte NOUN VERB
 7 serie ADJ NOUN
+5 vengano AUX VERB
 11 Costituzionali PROPN ADJ
 19 altre DET ADJ
 8 fin ADV ADP
@@ -68,6 +95,7 @@
 3 po' ADV NOUN
 6 appeal NOUN DET
 4 apolide NOUN ADJ
+5 toscano ADJ VERB
 9 che SCONJ PRON
 10 quarantenne ADJ NOUN
 1 Mare NOUN VERB
@@ -97,7 +125,6 @@
 8 altre DET ADJ
 3 first NOUN ADJ
 10 la PRON DET
-11 copre VERB NOUN
 1 Precisa ADJ VERB
 12 eccitanti NOUN VERB
 22 contro ADV ADP
@@ -105,6 +132,7 @@
 1 Dopo ADP PROPN
 5 don NOUN ADV
 5 tante DET NOUN
+7 vicende NOUN VERB
 13 degradata ADJ VERB
 2 una PRON DET
 13 loro PRON DET
@@ -112,17 +140,16 @@
 1 Negozi NOUN DET
 4 aperti VERB ADJ
 15 una NUM DET
-1 Slot NOUN PROPN
 9 altre DET PRON
 9 quali PRON DET
 2 buone ADJ NOUN
 11 accurata ADJ NOUN
-5 cui DET PRON
 29 quadri ADJ NOUN
 2 ultimi NOUN ADJ
 8 rigato ADJ VERB
 19 imbottito VERB NOUN
 2 stessa PRON ADJ
+3 che PRON SCONJ
 8 distr. VERB NOUN
 11 smaltati ADJ VERB
 12 lisci ADJ VERB
@@ -149,6 +176,7 @@
 31 come ADP ADV
 40 addolcenti VERB ADJ
 50 exfoliant ADJ NOUN
+53 tonificante ADJ VERB
 4 tutto PRON DET
 15 che SCONJ PRON
 5 che DET PRON
@@ -156,13 +184,13 @@
 11 impatto NOUN VERB
 21 II ADJ PROPN
 9 subito VERB ADV
+2 Cole PROPN ADJ
 4 responsabile NOUN ADJ
 22 delusi ADJ NOUN
 29 raggiunto VERB ADJ
 1 Romana PROPN ADJ
 7 Terni PROPN NOUN
 17 Valdarno PROPN INTJ
-22 Metallurgica PROPN ADJ
 27 Navigazione PROPN NOUN
 54 credito NOUN VERB
 61 Buoni NOUN PROPN
@@ -188,6 +216,7 @@
 32 affissa VERB NOUN
 12 esistente VERB ADJ
 1 Ispirato ADJ VERB
+3 chiare ADJ VERB
 13 incontro ADV NOUN
 17 fermi ADJ NOUN
 5 cosa NOUN PRON
@@ -207,7 +236,7 @@
 30 autorizzi VERB NOUN
 3 privati NOUN ADJ
 14 regolare VERB ADJ
-6 media ADJ NOUN
+6 media ADJ DET
 4 deputati NOUN VERB
 9 Presidenza NOUN PROPN
 24 leda VERB ADP
@@ -229,13 +258,13 @@
 50 stranieri NOUN ADJ
 3 europea PROPN ADJ
 11 Centro NOUN PROPN
-13 destra NOUN VERB
 31 neutra ADJ ADP
 46 sede NOUN VERB
 10 franche ADJ ADV
-11 esentasse ADJ NOUN
+11 esentasse ADJ PRON
 2 tutto PRON DET
 14 che PRON DET
+25 proprio DET ADV
 16 eccedenti VERB ADJ
 24 è AUX VERB
 19 socialista ADJ NOUN
@@ -262,7 +291,6 @@
 7 Salone NOUN PROPN
 2 Beato ADJ VERB
 11 Esteri NOUN PROPN
-8 indiziato VERB NOUN
 36 sia CONJ VERB
 7 maggiore ADJ NOUN
 20 prima ADJ ADV
@@ -305,6 +333,7 @@
 4 run X DET
 5 king-size ADJ PROPN
 2 animale ADJ NOUN
+10 destro ADJ NOUN
 5 suoni NOUN ADJ
 17 de ADP VERB
 18 L' PROPN DET

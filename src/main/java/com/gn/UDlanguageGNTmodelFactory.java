@@ -56,7 +56,7 @@ public class UDlanguageGNTmodelFactory {
 		System.out.println("System time (msec): " + (time2-time1));
 	}
 	
-	private void testLanguage(String languageName, String languageID) throws IOException{
+	private void testLanguage(String languageName, String languageID, boolean debugTest) throws IOException{
 
 		String corpusFilename = ConlluToConllMapper.getCorpusPropsFile(languageName, languageID);
 		String modelZipFileName = ConlluToConllMapper.getGNTmodelZipFileName(languageName, languageID);
@@ -64,14 +64,14 @@ public class UDlanguageGNTmodelFactory {
 		
 		GNTdataProperties.configTmpFileName = "resources/dataConfig.xml";
 		
-		RunTagger.runner(modelZipFileName, corpusFilename, archiveTxtName);
+		RunTagger.runner(modelZipFileName, corpusFilename, archiveTxtName, debugTest);
 	}
 	
-	private void testAllLanguages() throws IOException{
+	private void testAllLanguages(boolean debugTest) throws IOException{
 		UDlanguagePerformance udPerformance = new UDlanguagePerformance();
 		for (Pair<String, String> language : UDlanguages.languages){
 			System.out.println("Testing of: " + language);
-			this.testLanguage(language.getL(), language.getR());
+			this.testLanguage(language.getL(), language.getR(), debugTest);
 			// NOTE: will only use values from last call of corpus.EvalConllFile.computeAccuracy(String, boolean)
 			// if several are called for one language. Currently this is just the test file;
 			GNTperformance gntPerformance = new GNTperformance();
@@ -82,7 +82,8 @@ public class UDlanguageGNTmodelFactory {
 	
 	public static void main(String[] args) throws IOException{
 		UDlanguageGNTmodelFactory udFactory = new UDlanguageGNTmodelFactory();
-		udFactory.testAllLanguages();
+		//udFactory.trainAllLanguages();
+		udFactory.testAllLanguages(false);
 	}
 
 }

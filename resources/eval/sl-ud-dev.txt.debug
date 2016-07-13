@@ -1,59 +1,93 @@
-1 Social X VERB
-2 development X NOUN
-1 Joj INTJ NOUN
-1 DUBLIN PROPN CONJ
-7 sporočilo VERB NOUN
-11 dovolj DET ADV
-5 je VERB AUX
-3 Kočevja PROPN NOUN
-18 tik ADV NOUN
-23 gneča NOUN VERB
-2 to DET PRON
-4 sta VERB ADJ
-29 en NUM ADJ
-6 dvesto NUM ADV
-4 dodeli VERB ADJ
-6 Ministrstvu NOUN PROPN
-26 občinam NOUN PRON
-41 suša NOUN ADP
-10 skupno ADV ADJ
-6 več ADV DET
-18 portali NOUN VERB
-7 zlate ADJ VERB
-16 ali ADV CONJ
-6 sta VERB AUX
-3 mehanizme NOUN PRON
-16 sili NOUN VERB
-18 jasno ADV ADJ
-10 to DET PRON
-12 prakso NOUN VERB
-9 OZ PROPN NOUN
-7 nekaterim DET PRON
-10 zastopalo VERB NOUN
-3 stroške NOUN ADJ
-2 so VERB AUX
-9 nižja ADJ NOUN
-16 izven ADP ADJ
-10 je VERB AUX
-12 pojasnil NOUN VERB
-7 poročila NOUN VERB
-5 enem NUM DET
-10 Studio NOUN PROPN
-11 Marketing NOUN PROPN
-2 poročila NOUN VERB
-7 osnova NOUN ADJ
-11 zajema VERB ADJ
-26 je VERB AUX
-27 del NOUN VERB
-16 redakcijsko ADV ADJ
-27 preda VERB SCONJ
-28 zunanjemu ADJ PRON
-6 je AUX VERB
-10 Studiu NOUN PROPN
-11 A4 X PROPN
-11 samostojne ADJ NOUN
-10 niti PART VERB
-19 redni ADJ NOUN
+ADJ:NOUN	76
+NOUN:VERB	70
+VERB:AUX	69
+NOUN:ADJ	47
+AUX:VERB	45
+NOUN:PROPN	34
+DET:PRON	33
+ADV:ADJ	32
+VERB:NOUN	28
+ADJ:ADV	24
+NOUN:PRON	21
+PROPN:NOUN	19
+ADJ:VERB	19
+PRON:DET	19
+NOUN:ADP	16
+ADV:CONJ	15
+ADV:NOUN	14
+PRON:NOUN	13
+VERB:ADJ	12
+ADJ:PRON	10
+ADJ:DET	9
+NUM:ADJ	8
+NOUN:AUX	7
+ADJ:PROPN	7
+NOUN:ADV	7
+ADV:PART	7
+ADV:DET	6
+DET:ADV	6
+ADV:PRON	6
+CONJ:ADV	6
+ADJ:PART	5
+SCONJ:PART	5
+VERB:ADV	5
+DET:NOUN	5
+NOUN:CONJ	5
+PART:VERB	5
+PROPN:ADJ	5
+ADJ:NUM	4
+ADV:VERB	4
+VERB:PRON	4
+CONJ:PART	4
+ADP:ADV	4
+ADV:SCONJ	3
+VERB:SCONJ	3
+CONJ:VERB	3
+NOUN:DET	3
+NOUN:PART	2
+PROPN:CONJ	2
+DET:AUX	2
+PRON:ADJ	2
+ADJ:ADP	2
+PROPN:VERB	2
+AUX:NOUN	2
+DET:ADJ	2
+PART:SCONJ	2
+NOUN:NUM	2
+NOUN:SCONJ	2
+CONJ:NOUN	2
+PROPN:PART	1
+X:NOUN	1
+NUM:ADV	1
+DET:PROPN	1
+ADV:ADP	1
+X:CONJ	1
+NUM:NOUN	1
+ADP:VERB	1
+PRON:AUX	1
+NUM:DET	1
+ADP:NOUN	1
+AUX:ADJ	1
+VERB:DET	1
+NUM:PRON	1
+PART:NOUN	1
+PROPN:X	1
+PROPN:ADP	1
+DET:SCONJ	1
+INTJ:NOUN	1
+ADJ:AUX	1
+PROPN:ADV	1
+ADP:ADJ	1
+NUM:AUX	1
+PART:DET	1
+DET:PART	1
+CONJ:AUX	1
+VERB:PROPN	1
+PROPN:PRON	1
+VERB:PART	1
+INTJ:ADJ	1
+X:VERB	1
+OUN
 1 Enotam NOUN ADV
 1 Dne NOUN ADJ
 13 Odborov NOUN PROPN
@@ -61,6 +95,7 @@
 29 ovrednoteni ADJ NOUN
 2 današnje ADJ NOUN
 43 sile NOUN VERB
+2 kronološko ADJ NOUN
 3 shemo NOUN VERB
 9 sta AUX NOUN
 8 sporno ADJ ADV
@@ -71,9 +106,11 @@
 7 jeza NOUN ADP
 7 pogosta ADJ NOUN
 5 raste VERB NOUN
+5 čustveno ADV ADJ
 3 smo VERB AUX
 18 je VERB AUX
 1 Kakšno PRON DET
+2 je VERB AUX
 20 je VERB AUX
 22 kratka ADJ ADV
 23 postaja NOUN VERB
@@ -115,13 +152,13 @@
 36 prave ADJ NOUN
 13 ali ADV CONJ
 15 nepooblaščeno ADV ADJ
-18 kakšnega DET PRON
-2 ali CONJ VERB
+2 ali CONJ ADV
 5 rezultatih NOUN ADJ
 14 koga PRON NOUN
 15 uporabi VERB NOUN
 2 smo VERB AUX
 5 argumentov NOUN ADJ
+23 so VERB AUX
 7 voščim VERB ADV
 1 Jože PROPN PART
 12 zasedanje NOUN ADJ
@@ -138,8 +175,7 @@
 6 lahke ADJ NOUN
 7 ali ADV CONJ
 11 takšni DET PRON
-12 nameni NOUN VERB
-4 recimo VERB AUX
+4 recimo VERB ADV
 6 so AUX VERB
 21 osebi NOUN PRON
 7 eno NUM ADJ
@@ -173,7 +209,7 @@
 17 preskušnjo NOUN PRON
 19 tujem ADJ NOUN
 14 drevišnjimi ADJ PRON
-16 mlade ADJ NOUN
+15 vodi VERB NOUN
 2 Belillova ADJ PROPN
 14 hitro ADJ ADV
 2 Letošnji ADJ PROPN
@@ -193,6 +229,7 @@
 18 blizu ADP ADV
 2 osličeve ADJ NOUN
 14 vsakega PRON DET
+1 Fileje NOUN ADV
 3 svetlo ADV VERB
 10 lovorove ADJ NOUN
 20 četrt DET NOUN
@@ -263,6 +300,7 @@
 7 težko ADV ADJ
 12 zato ADV CONJ
 6 zgornja ADJ NOUN
+8 je VERB AUX
 12 veseli VERB ADJ
 1 Naj SCONJ PART
 15 sredi ADP VERB
@@ -279,6 +317,7 @@
 15 toploti NOUN VERB
 21 volni NOUN ADJ
 6 izredni ADJ NOUN
+7 odmeva VERB ADJ
 6 si PRON NOUN
 3 je VERB AUX
 4 darila NOUN VERB
@@ -290,7 +329,6 @@
 3 čas NOUN ADP
 9 draga ADJ PRON
 10 darila NOUN VERB
-11 skregana ADJ NOUN
 23 seno NOUN ADJ
 2 sem AUX VERB
 6 seno NOUN ADJ
@@ -299,6 +337,7 @@
 17 prerasti VERB NOUN
 6 razosebi VERB PRON
 27 kulturno ADV ADJ
+29 čustveno ADV ADJ
 2 je VERB AUX
 6 teže ADV PART
 15 najti VERB ADJ
@@ -307,6 +346,7 @@
 16 poskusi NOUN PRON
 9 diplomate NOUN VERB
 16 Opice NOUN PROPN
+2 veliko ADJ DET
 2 je AUX VERB
 14 gradnji NOUN ADJ
 4 gradnji NOUN ADJ
@@ -314,7 +354,9 @@
 23 nadomestila NOUN VERB
 3 kredit NOUN VERB
 1 Celjsko ADJ ADV
+2 gradbeno ADJ NOUN
 4 več ADV PART
+3 so VERB AUX
 20 je AUX VERB
 21 to DET PRON
 16 kajpak PART VERB
@@ -348,6 +390,7 @@
 1 Pesem NOUN AUX
 5 ter CONJ NOUN
 12 čistim ADJ PRON
+4 meni PRON DET
 6 kratki ADJ NOUN
 6 nisem VERB AUX
 10 novemu ADJ NOUN
@@ -355,6 +398,7 @@
 11 nama PRON NOUN
 6 je AUX VERB
 3 je VERB AUX
+4 vse PRON DET
 5 staro ADJ NOUN
 7 pročelja NOUN VERB
 8 hiš NOUN VERB
@@ -430,8 +474,6 @@
 17 ploščate ADJ VERB
 18 kamne NOUN ADJ
 10 barvo NOUN ADJ
-3 težko ADJ ADV
-5 ali CONJ VERB
 8 niti PART VERB
 1 Ženske ADJ NOUN
 8 tik ADV NOUN
@@ -440,23 +482,24 @@
 22 mlade NOUN ADJ
 2 sredini NOUN ADJ
 13 mlade ADJ NOUN
+9 so VERB AUX
 8 iste DET NOUN
 5 cukete NOUN VERB
 7 patišoni NOUN VERB
 14 kuna NOUN ADP
-12 kake DET ADJ
+12 kake DET NOUN
 6 široka ADJ NOUN
 11 koščkih NOUN ADJ
 11 odlično ADJ ADV
 5 bo VERB AUX
 7 vaših DET ADJ
-17 zrelo ADJ ADV
+15 eno NUM ADJ
+17 zrelo ADJ NOUN
 18 papajo NOUN VERB
 10 kašo NOUN DET
 15 podlakti NOUN PRON
 2 dele NOUN VERB
 7 folijo NOUN VERB
-25 hranilno ADJ ADV
 26 kremo NOUN VERB
 2 multipla ADJ NOUN
 6 niti CONJ PART
@@ -475,12 +518,12 @@
 23 čistočo NOUN ADJ
 38 uravnavan ADJ NOUN
 1 Čebulo NOUN VERB
+5 je VERB AUX
 12 visoki ADJ NOUN
 14 odteče VERB ADJ
 8 poči VERB NOUN
 7 porod NOUN ADP
 3 rek NOUN ADP
-21 zdravilno ADJ ADV
 8 to DET PRON
 9 izredno ADJ ADV
 14 najprej ADV DET
@@ -498,7 +541,6 @@
 1 Teh PRON DET
 26 bodoče ADJ NOUN
 6 to DET PRON
-5 bistveno ADJ ADV
 3 nekaj PRON DET
 4 ste AUX NOUN
 2 ste AUX VERB
@@ -506,11 +548,11 @@
 3 tega DET PRON
 14 te DET NOUN
 32 Vladi NOUN PROPN
-35 bo AUX VERB
 18 Vlade NOUN PROPN
 22 javno ADV ADJ
 24 odkrito ADV ADJ
 27 ali ADV CONJ
+28 so VERB AUX
 29 ti DET PRON
 30 tokovi NOUN ADJ
 7 naj PART SCONJ
@@ -552,6 +594,7 @@
 18 nasploh ADV PART
 32 en NUM ADJ
 6 peš ADV VERB
+13 obdelane ADJ NOUN
 13 so VERB AUX
 15 goste ADJ NOUN
 17 težko ADV ADJ
@@ -579,9 +622,9 @@
 50 novi ADJ NOUN
 22 ali CONJ VERB
 41 mrtvo ADJ NOUN
+8 naj PART SCONJ
 20 kosmate ADJ VERB
 1 Jasno PROPN ADJ
-11 dušo NOUN VERB
 3 težko ADV ADJ
 14 glasbi NOUN AUX
 3 ni AUX VERB
@@ -592,11 +635,13 @@
 8 pokriti ADJ VERB
 12 kristali NOUN VERB
 1 Bob PROPN ADP
+12 so VERB AUX
 9 negotovo ADJ ADV
 26 sosednja NOUN ADJ
 25 hranili NOUN VERB
-10 zelnate ADJ VERB
+10 zelnate ADJ NOUN
 6 zato ADV CONJ
+3 so VERB AUX
 15 zelnatim ADJ VERB
 5 čisto ADV ADJ
 6 plitvo ADV NOUN
@@ -608,7 +653,6 @@
 1 Luk NOUN PROPN
 8 dovolj DET ADV
 18 sosednje NOUN ADJ
-23 liste NOUN VERB
 2 so VERB AUX
 3 jesenske ADJ NOUN
 1 Vršički NOUN SCONJ
@@ -628,7 +672,6 @@
 7 tal NOUN VERB
 8 tako CONJ ADV
 7 tleh NOUN DET
-8 debelo ADJ NOUN
 9 listnato ADJ ADV
 4 ne CONJ PART
 6 ne CONJ PART
@@ -667,6 +710,7 @@
 5 modro ADV ADJ
 13 so AUX VERB
 18 kakšno PRON DET
+19 pošto NOUN PRON
 6 je AUX VERB
 7 Subaru NOUN PROPN
 1 Okoli ADP ADV
@@ -676,11 +720,10 @@
 3 pikro ADV NOUN
 16 glede ADP ADV
 22 to DET PRON
-14 Variantom PROPN NOUN
 16 TDI PROPN NOUN
 33 Volkswagnu NOUN PROPN
 9 nekom PRON NOUN
-37 preda VERB PART
+37 preda VERB SCONJ
 1 Ta PRON DET
 6 nastopa VERB NOUN
 11 vse DET PRON
@@ -701,7 +744,6 @@
 3 vsega DET PRON
 1 Zanje PRON NOUN
 7 pravi ADJ VERB
-2 je AUX VERB
 4 Žilavec PROPN NOUN
 8 je AUX VERB
 17 pretres NOUN ADV
@@ -710,14 +752,12 @@
 21 sredi NOUN ADP
 11 velemestih NOUN NUM
 2 Odločite VERB PROPN
-10 raje ADV NOUN
 10 kolona NOUN ADP
 1 Si VERB PRON
 13 pikro ADV NOUN
 11 sobo NOUN AUX
 25 oblačil NOUN VERB
 6 je AUX VERB
-2 mnogih DET NOUN
 6 so AUX VERB
 7 vse ADV PRON
 17 marmornatih ADJ NOUN
@@ -733,7 +773,6 @@
 6 zaseden ADJ NOUN
 20 ljubeznivo ADV NOUN
 27 Dnevnik NOUN PROPN
-24 te PRON VERB
 3 težko ADV ADJ
 26 Telekoma PROPN NOUN
 1 Župani NOUN ADJ
@@ -767,7 +806,6 @@
 13 Skladovnici NOUN PROPN
 9 vsi PRON DET
 12 antioglasi NOUN VERB
-4 je AUX VERB
 7 samo ADJ PART
 8 Zveza NOUN PROPN
 5 veliko ADV DET
@@ -779,7 +817,6 @@
 6 Singh PROPN NOUN
 16 osmo ADJ AUX
 32 osma ADJ NOUN
-33 zmaga NOUN VERB
 3 korenite ADJ VERB
 9 bo AUX VERB
 2 je AUX VERB
@@ -799,6 +836,7 @@
 4 opozorilo NOUN VERB
 12 vozilo NOUN VERB
 6 stroška NOUN ADJ
+21 katerem PRON DET
 1 Ta PRON DET
 8 napoti VERB NOUN
 29 pooblastil NOUN VERB

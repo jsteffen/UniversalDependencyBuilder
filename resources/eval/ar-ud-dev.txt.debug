@@ -1,50 +1,96 @@
-4 المعارضين ADJ NOUN
-16 معارضة ADJ NOUN
-35 العراقيين NOUN ADJ
-13 البرية NOUN ADJ
-45 غاندي X ADJ
-3 كيلي X ADJ
-19 ارجئ VERB X
-20 ل CONJ ADP
-21 نكون VERB NOUN
-22 اصوات X NOUN
-26 الذين PRON X
-35 ظالم NOUN X
-7 البرية NOUN ADJ
-10 التاي X _
-12 ابدى VERB NOUN
-26 نونو X CONJ
-4 ارسنال X VERB
-6 وفنربغشة X NOUN
-9 ديبورتيفو X CONJ
-11-12 وريال _ X
-14 الاسبانيان ADJ X
-21 غوميش X NOUN
-3 راديك X _
-4 بايبل X CONJ
-6 وسط NOUN ADP
-25 لنس X NOUN
-9 عقدا NOUN X
-15 فنربغشة X NOUN
-12 ر PUNCT NOUN
-24 ريشتر X NOUN
-22 ادى VERB ADJ
-7 ف X CONJ
-18 بينون X VERB
-28 ني PRON X
-6 الفلسطينيين ADJ NOUN
-1 رفح X NOUN
-4 غزة X NOUN
-14 بدا X VERB
-16 فتى NOUN X
-28 غزة X NOUN
-29-30 مابين _ ADP
-3 المدرب NOUN X
-16 غزة X NOUN
-26 فعاليات ADJ NOUN
-27 نظرية ADJ NOUN
-30 عملية ADJ NOUN
-9 الفتيان NOUN X
+X:NOUN	497
+ADJ:NOUN	175
+NOUN:X	137
+X:ADJ	121
+NOUN:ADJ	109
+VERB:NOUN	90
+_:NOUN	89
+X:VERB	80
+NOUN:VERB	67
+X:PRON	61
+_:X	51
+ADJ:X	37
+X:_	33
+NOUN:ADP	29
+DET:PRON	27
+ADJ:VERB	22
+VERB:ADP	21
+VERB:X	21
+X:CONJ	20
+PRON:X	20
+CONJ:ADP	18
+NOUN:_	18
+X:ADP	17
+PART:CONJ	15
+ADP:NOUN	14
+_:ADJ	14
+PRON:DET	14
+X:NUM	13
+NOUN:CONJ	11
+_:VERB	11
+VERB:ADJ	10
+SYM:PUNCT	9
+ADJ:_	9
+X:PART	8
+ADJ:ADP	7
+CONJ:PART	7
+PRON:ADP	7
+NOUN:PRON	6
+PRON:ADJ	6
+PRON:_	6
+NOUN:PART	5
+VERB:CONJ	4
+VERB:_	4
+PRON:NOUN	4
+ADV:NOUN	4
+X:DET	4
+AUX:VERB	4
+_:CONJ	4
+ADP:_	4
+CONJ:ADJ	3
+CONJ:_	3
+PUNCT:NOUN	3
+ADV:CONJ	3
+VERB:PRON	3
+PART:X	3
+ADP:ADV	3
+_:ADP	3
+PART:ADP	2
+ADJ:PART	2
+PART:PRON	2
+ADV:ADP	2
+ADP:VERB	2
+ADJ:CONJ	2
+PART:VERB	2
+PROPN:X	2
+NOUN:ADV	2
+PRON:ADV	2
+PRON:VERB	2
+ADJ:PRON	2
+ADP:PRON	2
+NUM:ADJ	1
+NUM:VERB	1
+_:PRON	1
+NUM:NOUN	1
+ADJ:NUM	1
+VERB:PUNCT	1
+ADP:CONJ	1
+_:PART	1
+PRON:CONJ	1
+PROPN:NOUN	1
+CONJ:X	1
+DET:NOUN	1
+ADV:VERB	1
+PART:NOUN	1
+NUM:X	1
+DET:ADP	1
+NOUN:NUM	1
+VERB:PART	1
+ADJ:ADV	1
+ADV:X	1
+CONJ:NOUN	1
+CONJ:ADV	1
+� NOUN X
 14 الكلاشنكوف X NOUN
 28 فوق ADP NOUN
 29 حصان NOUN CONJ

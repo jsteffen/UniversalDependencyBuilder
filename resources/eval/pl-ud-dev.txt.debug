@@ -1,54 +1,89 @@
-4 są VERB AUX
-5 rozwiedzeni ADJ VERB
-2 tym ADV DET
-17 metod NOUN ADP
-6 innych NOUN ADJ
-8 to CONJ VERB
-7 powyżej ADP ADJ
-8 30 ADJ NUM
-8 ubezpieczonych VERB ADJ
-1 Jerzy PROPN NOUN
-4 jakiejś DET NOUN
-4 piękna NOUN ADP
-9 peema NOUN VERB
-1 Zygmunt PROPN NOUN
-2 biegnie VERB PART
-2 milkną VERB ADJ
-4 stąd ADV ADP
-4 niemu PRON ADP
-1 Bogoria PROPN NOUN
-4 tyczkowatą ADJ AUX
-4 nosze NOUN ADJ
-1 Francuzi PROPN CONJ
-1 Drużyna NOUN ADP
-24 strzale NOUN CONJ
-6 śledczych NOUN ADJ
-7 znane ADJ VERB
-7 może VERB PART
-6 Operze NOUN PROPN
-12 obowiązującym ADJ VERB
-4 zwalczali VERB NOUN
-4 Święto NOUN PROPN
-5 Niepodległości NOUN PROPN
-6 odsłonięto VERB DET
-8 Pomnik NOUN PROPN
-9 Niepodległości NOUN PROPN
-1 Łódzki ADJ NOUN
-7 losie NOUN PRON
-8 2- NOUN PUNCT
-32 uniesionej VERB ADJ
-35 zebranym VERB ADJ
-1 To PRON VERB
-3 Nocny PROPN ADJ
-6 staż NOUN PART
-8 sędziego NOUN ADJ
-9 obrobiony VERB ADJ
+NOUN:PROPN	33
+ADJ:NOUN	27
+NOUN:VERB	26
+ADJ:VERB	20
+PROPN:NOUN	19
+NOUN:ADJ	19
+AUX:VERB	17
+VERB:NOUN	16
+VERB:ADJ	16
+NOUN:ADP	10
+VERB:PART	10
+PRON:NOUN	7
+PRON:VERB	7
+DET:PRON	7
+VERB:PRON	6
+ADV:PART	6
+ADJ:PRON	6
+ADJ:PROPN	5
+ADV:NOUN	5
+ADV:ADP	4
+ADJ:ADP	4
+CONJ:VERB	4
+VERB:AUX	4
+NUM:VERB	3
+NOUN:PRON	3
+ADV:ADJ	3
+PROPN:CONJ	3
+DET:NOUN	3
+ADP:NOUN	3
+CONJ:PART	3
+PROPN:ADJ	3
+PART:SCONJ	3
+NOUN:SCONJ	3
+CONJ:NOUN	3
+VERB:CONJ	2
+PART:ADP	2
+PART:ADV	2
+VERB:ADP	2
+NOUN:PART	2
+SCONJ:ADV	2
+VERB:ADV	2
+NOUN:X	2
+ADJ:NUM	2
+NOUN:AUX	2
+VERB:DET	2
+PART:NOUN	2
+ADJ:DET	2
+NOUN:ADV	2
+PROPN:ADP	2
+PRON:ADP	2
+DET:ADJ	2
+PRON:DET	2
+ADV:PRON	2
+X:NOUN	1
+SCONJ:PRON	1
+NUM:ADJ	1
+ADP:NUM	1
+NUM:ADV	1
+CONJ:PRON	1
+ADV:DET	1
+ADV:CONJ	1
+NOUN:PUNCT	1
+DET:VERB	1
+PROPN:SCONJ	1
+PRON:ADJ	1
+NOUN:CONJ	1
+PART:CONJ	1
+PART:VERB	1
+PROPN:VERB	1
+AUX:NOUN	1
+ADV:NUM	1
+ADP:ADV	1
+PRON:NUM	1
+ADJ:AUX	1
+ADP:ADJ	1
+PROPN:PRON	1
+PART:PROPN	1
+ADP:PRON	1
+J
 7 bezrobotnych NOUN ADJ
 1 Chevillon PROPN PRON
 2 minionym ADJ DET
 7 było AUX VERB
 8 to VERB PRON
 4 Zachodniego ADJ PRON
+8 miliony NOUN X
 9 zł X NOUN
 1 Rybnik PROPN NOUN
 3 trzema NUM VERB
@@ -95,13 +130,12 @@
 17 drogowi ADJ NOUN
 1 Wokół ADV ADP
 5 oblodzony VERB NOUN
-16 dla ADP NOUN
-3 kilkanaście DET NOUN
 4 bulwersujące ADJ VERB
 1 Klakson NOUN PROPN
 2 poniekąd PART NOUN
 3 ku ADP NOUN
 4 temu PRON ADP
+12 pamięci NOUN VERB
 3 Skrzycznem PROPN NOUN
 5 tym DET PRON
 2 ta DET NOUN
@@ -141,7 +175,6 @@
 14 ona PRON VERB
 3 ta DET PRON
 18 pilnie ADV PART
-3 to VERB PRON
 4 któraś PRON NOUN
 4 to PRON VERB
 18 nią PRON VERB
@@ -152,7 +185,6 @@
 4 pewnie ADV PART
 2 olbrzymie ADJ NOUN
 8 złote NOUN ADJ
-13 przyczynia VERB NOUN
 10 niezbędna ADJ ADP
 1 Żegnajcie VERB NOUN
 3 Hawaje PROPN VERB
@@ -182,8 +214,10 @@
 14 czy CONJ PART
 1 Zrzesza VERB ADJ
 6 udziela VERB NOUN
+13 żadnej DET ADJ
 5 radnego NOUN ADJ
 1 Radny NOUN ADJ
+15 ponoć PART NOUN
 7 poborową NOUN ADJ
 6 teściowej NOUN ADJ
 7 złote ADJ DET
@@ -191,7 +225,6 @@
 4 Boże ADJ PROPN
 5 Słowo NOUN ADV
 2 to DET VERB
-10 to VERB PRON
 7 żadne DET ADJ
 2 je PRON ADJ
 1 Drogie ADJ NOUN
@@ -199,18 +232,17 @@
 14 czystego ADJ PRON
 7 Instytucie NOUN PROPN
 4 ani CONJ VERB
-5 skomplikowanych ADJ VERB
 9 siły NOUN VERB
 11 rozpoczną VERB NOUN
 1 Reidernowa PROPN ADJ
 1 Niemalże PART SCONJ
 7 Aneksie NOUN PROPN
 5 są AUX VERB
-4 zamilkła VERB NOUN
 2 pełna ADJ ADP
 6 wystrzelawszy VERB ADJ
 7 niż ADP NUM
 8 do NOUN ADP
+11 ziem NOUN VERB
 1 Dumnie ADV PRON
 4 Imperatorowej NOUN ADJ
 1 Co ADP PRON
@@ -232,7 +264,6 @@
 6 Profesorze NOUN PROPN
 10 olbrzymią ADJ NOUN
 18 swojemu ADJ ADP
-2 rzeczą NOUN ADJ
 3 piąta ADJ NOUN
 5 Marszałek NOUN PROPN
 3 następujących ADJ VERB
@@ -244,7 +275,6 @@
 8 nią PRON NOUN
 4 jest AUX VERB
 5 to VERB PRON
-6 problem NOUN AUX
 7 skomplikowany ADJ VERB
 6 Marszałku NOUN PROPN
 3 przykro VERB ADV
@@ -273,7 +303,6 @@
 3 wapna NOUN ADJ
 1 Księżyc NOUN PROPN
 4 nią PRON NOUN
-2 jedzie VERB AUX
 4 pewno PART ADV
 3 beczy VERB NOUN
 1 Wania PROPN NOUN
@@ -309,7 +338,6 @@
 14 starszy ADJ NOUN
 15 posterunkowy NOUN ADJ
 1 Radomski ADJ PROPN
-3 pozwala VERB NOUN
 9 zostały AUX NOUN
 1 Najwięcej NUM ADV
 1 Dwaj NUM VERB
@@ -334,12 +362,12 @@
 6 Skarbem NOUN PROPN
 25 Rosji PROPN NOUN
 7 imponująca ADJ NOUN
+9 sięga VERB CONJ
 16 jest AUX VERB
 17 to VERB PRON
 19 tłusta ADJ NOUN
 21 ciężka ADJ NOUN
 3 zawdzięcza VERB ADP
-6 glebie NOUN PRON
 3 jest AUX VERB
 5 Masterowi NOUN PROPN
 12 to CONJ PRON
@@ -353,16 +381,17 @@
 5 ustalony VERB NOUN
 1 Róża PROPN CONJ
 9 Zdrowia NOUN PROPN
-3 bądź CONJ AUX
+3 bądź CONJ NOUN
 4 całkowite ADJ VERB
 7 Królestwa PROPN NOUN
 3 wykryta VERB NOUN
 11 niestrzeżonym VERB ADJ
+8 to PRON VERB
 4 Republiki NOUN PROPN
 6 utracone VERB PRON
 3 Pałacu NOUN PROPN
 7 powstaną VERB ADJ
-11 trzema NUM NOUN
+11 trzema NUM VERB
 17 dużą ADJ VERB
 2 tym DET PRON
 4 Zalewem NOUN PROPN

@@ -84,5 +84,7 @@ Steps to do:
 7. Update UDlanguagePerformance
 -> DONE
 	
-	
+8. Evaluate errors:
+- count how often certain errors occur, e.g., how often NOUN is tagged as PROPN
+- can use eval-debug files directly for this
 

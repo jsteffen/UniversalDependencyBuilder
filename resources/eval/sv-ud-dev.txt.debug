@@ -1,55 +1,85 @@
-18 löd VERB NOUN
-1 Ett PRON DET
-24 ont NOUN ADJ
-8 enkel ADJ NOUN
-17 erfor VERB NOUN
-19 lärde VERB DET
-11 beroende NOUN ADJ
-17 beroende NOUN ADJ
-20 kibbutzen NOUN DET
-21 ... PUNCT PAUSE
-27 vän NOUN CONJ
-39 han PRON AUX
-22 ensidigt ADJ ADV
-23 beroende NOUN ADJ
-11 lämpade ADJ VERB
-19 vad ADV PRON
-20 mera ADJ ADV
-29 upp ADP ADV
-31 nedvänt ADJ VERB
-38 dö VERB NOUN
-6 allt DET ADV
-16 katastrof NOUN ADV
-22 fler ADJ CONJ
-32 svåra ADJ DET
-18 utan CONJ ADP
-18 ekonomiskt ADJ ADV
-19 oberoende NOUN ADJ
-2 huvudtes NOUN VERB
-11 lika ADV ADJ
-23 oberoende NOUN ADJ
-12 bli AUX VERB
-14 emanciperade VERB ADJ
-17 som CONJ PRON
-5 henne PRON ADJ
-6 lika ADJ ADV
-40 som CONJ PRON
-57 bröt VERB ADV
-60 band VERB NOUN
-2 börda NOUN ADJ
-13 vårda VERB ADJ
-11 tragedi NOUN ADP
-3 barnsköterska NOUN ADJ
-12 syssla NOUN VERB
-13 otänkbara ADJ ADV
-3 som CONJ PRON
-4 om SCONJ ADP
-2 har AUX VERB
-8 blivit AUX VERB
-11 diciplinerade VERB ADJ
-25 mycket ADJ ADV
-28 möda NOUN VERB
-20 deras DET VERB
+ADV:ADJ	34
+ADJ:ADV	32
+CONJ:PRON	31
+AUX:VERB	28
+ADJ:NOUN	26
+ADJ:VERB	25
+NOUN:VERB	25
+DET:PRON	24
+NOUN:ADJ	23
+VERB:AUX	20
+ADV:NOUN	18
+VERB:ADJ	15
+ADP:ADV	14
+PRON:DET	14
+NOUN:PROPN	13
+ADV:PRON	12
+VERB:NOUN	11
+ADV:ADP	10
+PRON:NOUN	10
+PUNCT:PAUSE	10
+CONJ:ADP	9
+PRON:ADV	9
+CONJ:ADV	9
+PRON:CONJ	7
+DET:NOUN	7
+SYM:PUNCT	7
+NOUN:CONJ	7
+NOUN:PRON	6
+PROPN:NOUN	6
+ADV:VERB	6
+DET:ADV	6
+NOUN:ADV	6
+NOUN:DET	6
+SCONJ:ADP	5
+SCONJ:PART	5
+ADV:CONJ	5
+PART:SCONJ	5
+VERB:ADP	4
+ADJ:PROPN	4
+ADP:NOUN	4
+VERB:DET	4
+PRON:ADJ	4
+PRON:SCONJ	4
+SCONJ:ADV	3
+VERB:ADV	3
+ADV:DET	3
+NUM:DET	3
+DET:VERB	3
+NOUN:ADP	3
+DET:ADJ	3
+ADP:ADJ	3
+ADV:SCONJ	2
+NOUN:AUX	2
+ADJ:DET	2
+DET:SCONJ	2
+PROPN:ADV	2
+INTJ:ADV	2
+ADJ:PRON	2
+DET:NUM	1
+PRON:PROPN	1
+ADJ:PART	1
+CONJ:ADJ	1
+NUM:ADP	1
+ADJ:NUM	1
+ADP:VERB	1
+PRON:AUX	1
+ADJ:CONJ	1
+NUM:PRON	1
+ADP:PROPN	1
+ADJ:SCONJ	1
+PRON:ADP	1
+INTJ:NOUN	1
+CONJ:VERB	1
+ADJ:AUX	1
+PUNCT:SYM	1
+ADV:PART	1
+NOUN:SCONJ	1
+ADP:DET	1
+CONJ:NOUN	1
+ADP:SCONJ	1
+ADP:PRON	1
+ERB
 5 andra PRON ADJ
 6 de PRON DET
 5 rätt ADV ADJ
@@ -62,6 +92,7 @@
 19 amerikanske ADJ ADV
 33 ur ADP ADV
 18 fast ADJ ADV
+4 olika ADJ ADV
 13 något ADV PRON
 19 som CONJ PRON
 25 öga NOUN ADJ
@@ -91,12 +122,12 @@
 11 Date NOUN PROPN
 6 Vol. NOUN PROPN
 2 1-åringars NOUN DET
+3 beteende NOUN AUX
 20 som CONJ PRON
 7 något ADV DET
 18 över ADP ADV
 19 tidigare ADJ ADV
 1 Rabins PROPN NOUN
-8 kunde AUX DET
 15 föga ADJ VERB
 1 Rabin PROPN ADV
 6 rad NOUN ADJ
@@ -108,12 +139,10 @@
 35 utvecklade ADJ VERB
 5 bra ADJ ADV
 12 kategoriskt ADV ADJ
-15 om ADP SCONJ
 8 sakta ADV VERB
 9 som CONJ PRON
 5 allt DET ADV
 1 Hurudan ADV NOUN
-8 rätta ADJ VERB
 14 skarpt ADV VERB
 7 varifrån ADV ADP
 8 stort ADJ ADV
@@ -139,9 +168,11 @@
 25 en NUM DET
 2 ens ADV NOUN
 6 några DET NUM
+10 ledande ADJ NOUN
 3 har AUX VERB
 6 erkänt VERB ADJ
 16 mätbart ADJ VERB
+10 oavsett ADP DET
 16 genomgående ADV ADJ
 3 genomgående ADV ADJ
 12 vunnit VERB ADV
@@ -150,6 +181,7 @@
 5 avlagda ADJ VERB
 8 examina NOUN DET
 11 överlägset ADV NOUN
+8 typiska ADJ AUX
 12 samt CONJ ADJ
 22 det DET PRON
 23 ekonomiskt ADV ADJ
@@ -161,7 +193,7 @@
 6 att SCONJ PART
 10 beträffande ADP ADJ
 31 nära ADV ADJ
-33 oavsett ADV ADJ
+33 oavsett ADV VERB
 39 ej ADV NOUN
 41 oavsett ADP VERB
 58 - SYM PUNCT
@@ -178,12 +210,14 @@
 10 nära ADV ADJ
 13 - SYM PUNCT
 13 utan CONJ ADP
+33 mer ADJ ADV
 14 bli AUX VERB
 16 likställd VERB ADJ
 9 kommer VERB AUX
 1 Viktigast ADJ ADV
 3 allt PRON DET
 4 blott ADV NOUN
+7 tidigt ADJ ADV
 19 den DET PRON
 21 allra ADV VERB
 14 tablett NOUN DET
@@ -193,6 +227,7 @@
 7 små ADJ VERB
 14 manligt ADV ADJ
 16 yrkena NOUN ADJ
+5 fler PRON ADJ
 11 som ADV PRON
 12 anförtros VERB NOUN
 3 som CONJ PRON
@@ -202,6 +237,7 @@
 13 att PART SCONJ
 33 självfallet ADV NOUN
 5 att PART SCONJ
+6 fullt ADV VERB
 14 som CONJ VERB
 23 maka NOUN ADV
 9 har VERB AUX
@@ -227,6 +263,7 @@
 10 modern ADJ NOUN
 5 enstämmigt ADV ADJ
 15 en NUM DET
+19 vågade VERB AUX
 6 orättvist ADJ NOUN
 17 man NOUN PRON
 12 sann ADJ NOUN
@@ -240,12 +277,10 @@
 26 föga ADV ADJ
 34 vilken PRON DET
 18 överhuvud ADV NOUN
-20 är VERB AUX
 21 fundamentalt ADV ADJ
 5 kortsynt ADJ NOUN
 7 att PART SCONJ
 8 som ADV PRON
-15 man NOUN PRON
 3 ursäkta VERB ADJ
 13 fantasilöst ADJ NOUN
 10 blir AUX VERB
@@ -302,6 +337,7 @@
 4 för ADV ADP
 20 de DET PRON
 7 få AUX VERB
+9 som CONJ PRON
 4 samhällstillvända ADJ VERB
 1 Allt DET ADV
 5 blev AUX VERB
@@ -328,7 +364,6 @@
 10 fick AUX VERB
 16 Röda ADJ PROPN
 26 som CONJ PRON
-4 kommer VERB AUX
 28 än ADV CONJ
 1 Fast CONJ ADV
 2 mycket PRON ADV
@@ -340,7 +375,6 @@
 23 allt DET VERB
 1 Låt VERB ADV
 1 Erik PROPN NOUN
-6 var DET VERB
 14 dragen ADJ NOUN
 4 gift ADJ VERB
 9 ingen PRON NOUN
@@ -352,7 +386,7 @@
 8 något PRON DET
 16 dom PRON NOUN
 13 självständigt ADJ ADV
-8 bättre ADV ADJ
+14 kärleksfull ADJ NOUN
 16 glatt ADV SCONJ
 17 uppoffrande ADJ VERB
 18 Mamma NOUN PROPN
@@ -369,15 +403,16 @@
 5 ditt DET NOUN
 6 fan INTJ NOUN
 7 heller ADV CONJ
-9 allt DET ADV
+9 allt DET PRON
 17 allt PRON ADV
 3 för ADV ADP
 7 ekonomin NOUN DET
+8 dom PRON NOUN
 9 vill VERB NOUN
 7 får AUX VERB
 5 sparken NOUN CONJ
 12 ... PUNCT PAUSE
-5 det PRON DET
+5 det PRON NOUN
 6 en NUM DET
 4 något ADV DET
 1 Dom PRON SCONJ
@@ -386,6 +421,7 @@
 25 för CONJ ADP
 4 man PRON NOUN
 13 som CONJ PRON
+1 Glada ADJ VERB
 12 dåligt ADV ADJ
 15 bo VERB NOUN
 5 Svenska ADJ PROPN
@@ -494,8 +530,10 @@
 5 som PRON CONJ
 11 uteslutande ADV ADJ
 25 tillräckligt ADV ADJ
+14 oförändrat ADJ VERB
 9 det DET PRON
 13 blev VERB AUX
+3 har AUX VERB
 18 fast SCONJ ADV
 23 fast SCONJ ADV
 4 risk NOUN ADJ
@@ -503,7 +541,6 @@
 15 försvåra VERB DET
 5 kommer VERB AUX
 3 rörande ADP ADJ
-8 som PRON CONJ
 9 godmodigt ADJ ADV
 11 harmset ADJ NOUN
 6 positiv ADJ NOUN
@@ -555,7 +592,6 @@
 5 att PART SCONJ
 5 annorlunda ADJ ADV
 3 trots NOUN ADP
-26 kunskapsinnehav NOUN ADP
 35 ingen DET NOUN
 37 ringa ADJ VERB
 51 gifter VERB ADP
@@ -576,6 +612,7 @@
 47 framåtanda NOUN ADJ
 2 får AUX VERB
 5 gräva VERB NOUN
+6 ner ADV NOUN
 9 det DET PRON
 21 som CONJ PRON
 4 få AUX VERB

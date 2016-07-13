@@ -1,61 +1,94 @@
-9 gelijke X ADJ
-10 spelen X NOUN
-11 van ADV ADP
-6 zette VERB PROPN
-6 gelopen AUX VERB
-5 trainen VERB NOUN
-21 waar ADJ ADV
-1 Bellaart ADV PROPN
-9 tal X ADV
-10 van X ADP
-12 op ADV ADP
-36 vermoeide VERB NUM
-53 van PROPN ADP
-3 dat SCONJ PRON
-1 Bellaart ADV PROPN
-7 De ADP PROPN
-9 kort ADJ ADV
-11 spits ADJ NOUN
-12 Eikelboom NOUN PROPN
-24 ter X ADJ
-25 discussie X NOUN
-1 Delmee INTJ ADV
-18 het X DET
-19 beste X ADJ
-5 De ADP PROPN
-16 overlopen AUX VERB
-1 Ronduit ADV ADP
-17 totaal ADJ NOUN
-23 scherpte NOUN VERB
-4 liefst ADJ X
-14 De ADP PROPN
-9 best ADJ NOUN
-2 heeft AUX VERB
-6 meest ADV NOUN
-5 uit X ADP
-6 handen X NOUN
-7 gegeven AUX VERB
-3 tweemaal ADV NOUN
-5 return PROPN NOUN
-13 meerdere PRON NOUN
-16 erkennen AUX VERB
-10 komen AUX VERB
-4 zijn PRON AUX
-6 heeft AUX VERB
-11 gearresteerd VERB AUX
-4 dat SCONJ PRON
-15 hand X NOUN
-1 Kameroen PROPN CONJ
-9 hebben VERB AUX
-2 München NUM PRON
+AUX:VERB	40
+X:PROPN	32
+X:ADP	28
+VERB:AUX	27
+X:NOUN	26
+ADJ:NOUN	16
+NOUN:VERB	16
+VERB:NOUN	15
+NOUN:PROPN	15
+PROPN:NOUN	14
+ADP:DET	13
+DET:PRON	11
+ADV:ADP	9
+VERB:ADJ	8
+PRON:DET	8
+X:DET	7
+X:ADJ	7
+X:VERB	7
+SCONJ:PRON	6
+ADJ:VERB	6
+NOUN:ADP	6
+PROPN:ADP	6
+PRON:AUX	5
+NOUN:ADJ	5
+ADP:PROPN	5
+NOUN:X	4
+ADJ:PROPN	4
+ADV:NOUN	4
+X:PRON	4
+VERB:PRON	4
+ADP:X	4
+ADJ:ADV	4
+DET:PROPN	3
+ADV:PROPN	3
+NOUN:ADV	3
+PRON:ADV	3
+X:ADV	3
+NUM:ADJ	2
+ADV:ADJ	2
+VERB:ADP	2
+AUX:PRON	2
+NUM:NOUN	2
+PRON:X	2
+PROPN:CONJ	2
+ADV:CONJ	2
+PROPN:DET	2
+PROPN:X	2
+ADP:ADV	2
+ADJ:AUX	2
+PRON:SCONJ	2
+ADP:SCONJ	2
+SCONJ:ADP	1
+NOUN:PRON	1
+X:CONJ	1
+PRON:NOUN	1
+SCONJ:ADV	1
+ADV:SCONJ	1
+VERB:ADV	1
+NOUN:AUX	1
+ADP:CONJ	1
+ADP:VERB	1
+NUM:DET	1
+VERB:NUM	1
+PROPN:NUM	1
+DET:NOUN	1
+ADP:NOUN	1
+NUM:PRON	1
+ADJ:ADP	1
+PROPN:VERB	1
+AUX:NOUN	1
+ADJ:DET	1
+DET:ADP	1
+VERB:SCONJ	1
+PROPN:ADV	1
+NOUN:NUM	1
+ADJ:X	1
+INTJ:ADV	1
+VERB:PROPN	1
+NOUN:SCONJ	1
+ADJ:PRON	1
+PROPN:PUNCT	1
+CONJ:SCONJ	1
+PRON
 3 heeft AUX VERB
 2 return PROPN NOUN
 6 actie X NOUN
 14 heeft VERB AUX
 2 heb VERB AUX
+12 benut VERB NOUN
 5 het X DET
 6 werk X NOUN
-7 om SCONJ ADP
 9 Kasteelclub NOUN PROPN
 13 tekenen NOUN VERB
 15 om SCONJ ADP
@@ -95,7 +128,7 @@
 39 Zusters X PROPN
 40 Missionarissen X PROPN
 41 Consolata X PROPN
-6 jezuïet NOUN DET
+6 jezuïet NOUN ADP
 7 La DET PROPN
 9 gesterkt AUX VERB
 3 heeft VERB AUX
@@ -106,7 +139,6 @@
 10 aan X ADP
 11 de ADP DET
 12 dag X NOUN
-17 aanpakken VERB NOUN
 28 gewijde VERB ADJ
 1 Rev.Chris X PROPN
 2 Sterry X PROPN
@@ -120,7 +152,7 @@
 11 Kritiek X PROPN
 17 voor ADP X
 18 meest PRON X
-15 Internationaal X PROPN
+15 Internationaal X ADJ
 16 Theaterschool X PROPN
 17 Festival X PROPN
 1 Benjamin PROPN ADP
@@ -138,7 +170,6 @@
 17 belovende VERB ADJ
 21 voor PROPN ADP
 22 de ADP DET
-4 Balearen NOUN PROPN
 1 Avondvluchten NOUN VERB
 4 al PRON ADV
 3 trof VERB SCONJ
@@ -152,7 +183,6 @@
 12 al ADP ADV
 22 moeten AUX VERB
 23 landen NOUN VERB
-5 middernacht ADV NOUN
 12 ongemeen VERB ADJ
 2 aangezochte ADJ VERB
 6 onder ADP X
@@ -299,6 +329,7 @@
 12 kenmerken NOUN VERB
 10 dan SCONJ ADV
 9 beloofde VERB NOUN
+7 veel DET PRON
 25 veel DET PRON
 14 Konmar NOUN PROPN
 17 guldens NOUN ADP
@@ -306,6 +337,7 @@
 10 Konmars PROPN NOUN
 19 boeken VERB NOUN
 9 waar ADJ ADV
+7 gewerkt AUX VERB
 16 voller ADJ NOUN
 18 verser ADJ ADV
 13 onacceptabel ADV ADJ
@@ -335,15 +367,16 @@
 15 binnen ADV ADP
 4 overtuigd AUX VERB
 15 gaan AUX VERB
-10 beneden ADP ADV
 9 afwijkt VERB AUX
 20 Staten-Generaal PROPN NOUN
+23 kunnen VERB AUX
 2 handjevol NOUN ADJ
 4 kampte VERB ADP
 7 van PROPN ADP
 15 stemmen NOUN VERB
 34 Eerste ADJ PROPN
 2 Molenaar PROPN NOUN
+13 over ADV ADP
 5 aan ADV ADP
 26 motiveerde VERB ADJ
 27 SP-kamerlid PROPN NOUN
@@ -364,7 +397,7 @@
 16 van PROPN ADP
 4 gereserveerd ADJ AUX
 4 maar ADV CONJ
-6 zijn VERB AUX
+6 zijn VERB PRON
 18 wél NUM ADJ
 1 GroenLinks NOUN PROPN
 2 dat PRON SCONJ
@@ -405,6 +438,7 @@
 12 het PRON DET
 17 kiezen VERB NOUN
 11 gestreken AUX VERB
+2 heeft VERB AUX
 13 één VERB NOUN
 7 leggen AUX VERB
 1 België ADJ PROPN
@@ -412,7 +446,6 @@
 6 het X DET
 7 gebied X NOUN
 8 van X ADP
-13 genomen AUX VERB
 8 Verklaring X NOUN
 9 van X ADP
 10 Laken X PROPN
@@ -426,11 +459,13 @@
 16 teveel DET PRON
 18 hebben VERB AUX
 3 naar ADV ADP
+1 België PROPN NOUN
 13 wél ADJ NOUN
 17 achter ADP X
 18 de DET ADP
 19 hand NOUN X
 1 Verhofstadt PROPN VERB
+10 het DET PRON
 11 herboren ADJ NOUN
 12 België NOUN PROPN
 5 be X DET

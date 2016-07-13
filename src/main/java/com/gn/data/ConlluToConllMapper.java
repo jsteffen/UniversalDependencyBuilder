@@ -351,7 +351,7 @@ public class ConlluToConllMapper {
 	 * @throws IOException
 	 */
 	public static void main(String[] args) throws IOException{
-
+		UDlanguages.addLanguages();
 		for (Pair<String, String> language : UDlanguages.languages){
 			System.out.println("Processing: " + language);
 			ConlluToConllMapper.initLanguageCorpusPropsFile(language.getR());
