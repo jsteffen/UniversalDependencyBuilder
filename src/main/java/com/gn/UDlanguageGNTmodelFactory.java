@@ -82,7 +82,7 @@ public class UDlanguageGNTmodelFactory {
 	
 	public static void main(String[] args) throws IOException{
 		UDlanguageGNTmodelFactory udFactory = new UDlanguageGNTmodelFactory();
-		//udFactory.trainAllLanguages();
+		udFactory.trainAllLanguages();
 		udFactory.testAllLanguages(false);
 	}
 
