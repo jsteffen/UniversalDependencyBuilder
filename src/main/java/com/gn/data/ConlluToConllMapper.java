@@ -151,7 +151,8 @@ public class ConlluToConllMapper {
 		ConlluToConllMapper.dataProps.setProperty("withWordFeats", "false");
 		ConlluToConllMapper.dataProps.setProperty("withShapeFeats", "true");
 		ConlluToConllMapper.dataProps.setProperty("withSuffixFeats", "true");
-		ConlluToConllMapper.dataProps.setProperty("withClusterFeats", "false");		
+		ConlluToConllMapper.dataProps.setProperty("withClusterFeats", "false");
+		ConlluToConllMapper.dataProps.setProperty("withLabelFeats", "false");
 	}
 
 	private static void writeLanguageDataPropsFile(String languageName, String languageID) throws IOException{

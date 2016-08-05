@@ -1,27 +1,27 @@
-ADJ:NOUN	208
-NOUN:ADJ	117
-X:NOUN	39
+ADJ:NOUN	211
+NOUN:ADJ	111
+X:NOUN	37
 NOUN:ADP	33
 ADP:NOUN	32
-NOUN:VERB	30
+NOUN:VERB	28
 CONJ:SCONJ	28
 VERB:NOUN	27
-ADJ:VERB	22
-PRON:DET	21
+ADJ:VERB	21
+PRON:DET	20
 PRON:NOUN	18
 ADV:NOUN	17
 _:NOUN	16
 ADV:ADJ	11
-ADJ:ADV	11
-DET:PRON	10
+DET:PRON	11
+ADJ:ADV	10
 VERB:ADJ	9
 NUM:NOUN	9
 NOUN:ADV	9
 NOUN:NUM	9
 ADJ:NUM	8
-SCONJ:CONJ	8
+NOUN:PRON	7
+SCONJ:CONJ	7
 SCONJ:ADP	6
-NOUN:PRON	6
 X:CONJ	6
 NOUN:CONJ	6
 ADP:ADV	6
@@ -33,6 +33,7 @@ X:PRON	4
 INTJ:NOUN	4
 NOUN:DET	4
 ADJ:PART	3
+PRON:ADJ	3
 ADP:ADJ	3
 X:ADP	3
 X:ADV	3
@@ -43,9 +44,7 @@ VERB:ADP	2
 ADP:PART	2
 CONJ:PRON	2
 ADV:CONJ	2
-PRON:ADJ	2
 VERB:PRON	2
-DET:ADV	2
 DET:ADJ	2
 VERB:AUX	2
 PRON:SCONJ	2
@@ -64,12 +63,15 @@ SCONJ:NOUN	1
 ADJ:ADP	1
 ADJ:SCONJ	1
 _:VERB	1
+DET:ADV	1
 ADJ:DET	1
 PRON:NUM	1
 AUX:VERB	1
 ADJ:X	1
+X:ADJ	1
 CONJ:NOUN	1
-�پارچه ADJ ADV
+� ADJ NOUN
+16 یکپارچه ADJ ADV
 12 میان ADP NOUN
 8 هم PRON SCONJ
 16 متضرر ADJ NOUN
@@ -108,7 +110,6 @@ CONJ:NOUN	1
 58 گزینشی ADJ NOUN
 67 دوم‌خردادی ADJ NOUN
 68 بجد ADV NOUN
-11 جنجالی ADJ NOUN
 1 به‌زعم ADP NOUN
 13 میلیارد NUM NOUN
 21 به‌موقع ADV NOUN
@@ -146,7 +147,6 @@ CONJ:NOUN	1
 13 ممتاز ADJ ADP
 2 این CONJ PRON
 10 بن X NOUN
-3 هم SCONJ CONJ
 12 مدارا ADJ PART
 16 بن X NOUN
 14 بن X NOUN
@@ -172,7 +172,7 @@ CONJ:NOUN	1
 40 فقد X NOUN
 41 انتهت X NOUN
 42 الی X NOUN
-43 منک X NOUN
+43 منک X ADJ
 44 امور X NOUN
 46 لم X NOUN
 47 اکن X NOUN
@@ -207,7 +207,6 @@ CONJ:NOUN	1
 17 میانداز VERB ADJ
 27 باش VERB NOUN
 11 ولا X ADV
-13 الذین X NOUN
 14 لایوقنون X NOUN
 17 روم NOUN VERB
 10 بی‌ثبات ADJ NOUN
@@ -217,7 +216,6 @@ CONJ:NOUN	1
 10-11 نامه‌ات _ NOUN
 11 ات PRON NOUN
 1 متذکر ADJ NOUN
-24 رغبت NOUN ADJ
 8 نیکی NOUN NUM
 2-3 نامه‌ات _ NOUN
 3 ات PRON NOUN
@@ -232,7 +230,6 @@ CONJ:NOUN	1
 23 کشتی VERB NOUN
 11 پرپینه ADJ NOUN
 11 بستی VERB ADJ
-6 زیاد NOUN ADJ
 13 که CONJ SCONJ
 20 الولد X NOUN
 21 للفراش X NOUN
@@ -243,12 +240,11 @@ CONJ:NOUN	1
 4 سخت ADV ADP
 1 ای INTJ NOUN
 1 گویی ADV NOUN
-1 زیاد NOUN ADJ
 7 اجداد NOUN VERB
 8 ت PRON NOUN
 4 جدم NOUN VERB
 8 نشستی VERB ADJ
-2 اینهمه DET ADV
+2 اینهمه DET PRON
 1 حال ADV NOUN
 3-4 نامه‌ات _ NOUN
 4 ات PRON NOUN
@@ -260,6 +256,7 @@ CONJ:NOUN	1
 10-11 دینت _ NOUN
 11 ت PRON NOUN
 5 افضل ADJ X
+3 نتوانم VERB NOUN
 2-3 نامه‌ات _ NOUN
 3 ات PRON NOUN
 4 نوشته‌ای VERB ADJ
@@ -309,7 +306,6 @@ CONJ:NOUN	1
 10 تعدادی DET NOUN
 15 اطلاعاتی NOUN ADJ
 23 جاسوسی ADJ NOUN
-38 مقطعی NOUN ADJ
 53 هم CONJ SCONJ
 55 ضد‌استعماری ADJ NOUN
 63 پادشاهی ADJ NOUN
@@ -336,22 +332,22 @@ CONJ:NOUN	1
 18 همزمان ADJ ADV
 21 خام ADJ NOUN
 35 نموده VERB ADJ
-18 متر NOUN ADJ
 25 منقوش ADJ NOUN
 30 نخودی ADJ NOUN
 32 خاکستری ADJ NOUN
 34 نیز CONJ SCONJ
 38 گلی ADJ NOUN
-3 بیانگر NOUN ADJ
 6 نخ NOUN ADJ
 9 پارچه NOUN ADV
 13 سفالگری NOUN ADJ
 7 آمده ADJ VERB
+11 تپه NOUN ADJ
 14 ساکن ADJ NOUN
 14 شهری ADJ NOUN
 1 همچنین CONJ SCONJ
 48 فیزیکی ADJ NUM
 7 دفاتر NOUN ADJ
+12 کاوش ADJ NOUN
 7 نفره ADJ NOUN
 24 فلزی ADJ NOUN
 11 قشم NOUN ADJ
@@ -359,6 +355,7 @@ CONJ:NOUN	1
 9 درصدد ADJ NOUN
 17 قشم NOUN ADJ
 26 بندر NOUN ADP
+33 صفوی NOUN PRON
 3 دویست NUM VERB
 16 ترکمن NOUN PRON
 11 نامی ADJ NOUN
@@ -371,11 +368,13 @@ CONJ:NOUN	1
 2 مختومقلی NOUN ADJ
 2 سه‌ساله NOUN ADJ
 12 شهیر ADJ NOUN
+15 عاطفی ADJ NOUN
 24 اردبیلی NOUN ADJ
 2 بهزیستی NOUN ADJ
 10 تنها ADV ADJ
 4 بهزیستی NOUN ADJ
 24 بهزیستی NOUN ADJ
+25 استان NOUN ADP
 8 بهزیستی NOUN ADJ
 3 عمرانی ADJ NOUN
 13 دهدشت NOUN VERB
@@ -453,7 +452,6 @@ CONJ:NOUN	1
 4 تیم NOUN VERB
 3 برگشت NOUN VERB
 7 ایرسوتر NOUN ADJ
-1 پکن NOUN VERB
 7 چینی ADJ NOUN
 23 رایانه‌ای ADJ NOUN
 1 این PRON DET
@@ -508,18 +506,15 @@ CONJ:NOUN	1
 6 نخست ADJ NUM
 6 کیلومتری ADJ NOUN
 8 بندر NOUN ADP
-21 طی NOUN ADP
 4 زنجانی ADJ NOUN
 8 دیگر DET ADJ
 37 ترک NOUN ADJ
 10 تدارکاتی ADJ NOUN
 22 حیطه NOUN ADJ
 23 رفتاری ADJ NOUN
-10 هاشمی NOUN ADJ
 22 همین PRON DET
 23-24 کافیست _ NOUN
 13 تند ADJ NOUN
-19 آن PRON DET
 20 به‌زعم ADP NOUN
 28 شما NOUN PRON
 46 سکولار ADJ NOUN
@@ -528,7 +523,6 @@ CONJ:NOUN	1
 17 که SCONJ CONJ
 25 جهت ADP NOUN
 10 کلان ADJ NOUN
-27 سلیم ADJ VERB
 1 بعضی DET PRON
 21 حداکثر ADV ADJ
 22 ظرف ADP NOUN
@@ -567,6 +561,7 @@ CONJ:NOUN	1
 80 بسان ADV NOUN
 86 بی‌حدومرز ADJ NOUN
 8 اضطراری ADJ NOUN
+9 زخمی ADJ NOUN
 18 آن PRON DET
 19 اضطراری ADJ NOUN
 16 تا SCONJ ADP
@@ -574,11 +569,11 @@ CONJ:NOUN	1
 13 هرواین NOUN PRON
 17 تقریبی ADJ NOUN
 2 سجاد‌نواز NOUN ADP
-15 قاچاقچی ADJ ADV
-15 بازداشت NOUN VERB
+15 قاچاقچی ADJ NOUN
 13 ده NUM NOUN
 16 مذاکره‌کننده NOUN ADJ
 7 گروگانگیر ADJ NOUN
+12 وی PRON ADJ
 14 صحیح ADJ NOUN
 7 خودکار ADJ NOUN
 29 بزرگسالان NOUN ADV
@@ -591,6 +586,7 @@ CONJ:NOUN	1
 18 کشته ADJ VERB
 23 مجروح ADJ NOUN
 36 شلیک NOUN NUM
+12 زخمی ADJ NOUN
 21 حتمی ADJ NOUN
 16 واحد ADJ NOUN
 11 میانه‌روانه‌تر ADV ADJ
@@ -649,7 +645,6 @@ CONJ:NOUN	1
 24 بارانی NOUN ADJ
 29 فرو ADP ADV
 14 سیراب ADJ NOUN
-4 ویروسی ADJ NOUN
 2 اوت‌لوک NOUN ADJ
 4 نرم‌افزاری NOUN ADJ
 29 رایانه‌ای ADJ NOUN
@@ -663,7 +658,6 @@ CONJ:NOUN	1
 22 ت PRON NOUN
 23 ویروسی ADJ NOUN
 2 الحاقی ADJ NOUN
-7 ضمیمه‌ای ADJ NOUN
 12 ویژوال‌بیسیک NOUN NUM
 16 ذخیره NOUN ADJ
 3 سمفونیک NOUN NUM
@@ -747,7 +741,6 @@ CONJ:NOUN	1
 9 آن DET PRON
 10 ابر NOUN ADP
 11 بین VERB ADP
-13 گرید VERB NOUN
 14 چون ADV SCONJ
 2 آن DET PRON
 4 بین VERB ADP

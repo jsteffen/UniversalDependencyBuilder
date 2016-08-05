@@ -1,51 +1,49 @@
-ADJ:NOUN	41
-ADJ:VERB	37
-VERB:NOUN	23
-NOUN:VERB	23
-AUX:VERB	23
+ADJ:NOUN	40
+ADJ:VERB	36
+NOUN:VERB	24
 NOUN:PROPN	23
-VERB:ADJ	17
+VERB:NOUN	22
+AUX:VERB	21
+VERB:ADJ	15
+NOUN:ADJ	15
 VERB:AUX	15
 ADJ:ADV	15
 PUNCT:PAUSE	14
-NOUN:ADJ	14
-ADV:ADJ	12
 PROPN:NOUN	12
-ADV:NOUN	11
-DET:PRON	11
-DET:NUM	10
-ADJ:PROPN	8
+ADV:NOUN	12
+DET:PRON	12
+DET:NUM	11
+ADV:ADJ	11
+ADJ:PROPN	10
 INTJ:PART	6
-VERB:PRON	6
 NOUN:ADV	6
 PROPN:ADJ	6
-DET:ADJ	6
-PRON:DET	6
 ADJ:PRON	6
 ADJ:NUM	5
+NOUN:CONJ	5
+VERB:PRON	5
 NOUN:ADP	5
+DET:ADJ	5
 VERB:PART	5
+PRON:DET	5
 NOUN:PRON	4
 NUM:DET	4
-DET:NOUN	4
 DET:VERB	4
-NOUN:CONJ	4
 PROPN:ADP	4
 PART:PRON	3
 NOUN:PART	3
+DET:NOUN	3
 PRON:ADJ	3
 PART:VERB	3
 ADJ:ADP	3
 VERB:CONJ	2
 SCONJ:ADP	2
 NUM:ADJ	2
-ADV:ADP	2
 VERB:ADP	2
 PRON:AUX	2
 CONJ:PUNCT	2
 PROPN:CONJ	2
 ADV:CONJ	2
-PART:NOUN	2
 PROPN:VERB	2
 ADJ:DET	2
 PRON:NUM	2
@@ -57,12 +55,14 @@ PROPN:PART	1
 PRON:PROPN	1
 PART:ADV	1
 DET:PROPN	1
+ADV:ADP	1
 PUNCT:ADP	1
 AUX:PRON	1
 CONJ:PRON	1
 VERB:NUM	1
 ADV:VERB	1
 SCONJ:NOUN	1
+PART:NOUN	1
 PART:CONJ	1
 ADP:PROPN	1
 VERB:INTJ	1
@@ -71,6 +71,7 @@ ADV:PROPN	1
 PRON:ADV	1
 VERB:SCONJ	1
 PROPN:ADV	1
+CONJ:VERB	1
 PART:DET	1
 INTJ:VERB	1
 PROPN:PRON	1
@@ -79,7 +80,8 @@ PROPN:AUX	1
 NOUN:SCONJ	1
 CONJ:NOUN	1
 ADV:PRON	1
-дно ADJ ADV
+�о PRON DET
+10 очевидно ADJ ADV
 1 То PART PRON
 3 паднала ADJ VERB
 1 Да INTJ PART
@@ -90,8 +92,7 @@ ADV:PRON	1
 2 е AUX VERB
 16 взаимно ADV ADJ
 19 беше AUX VERB
-20 приета VERB ADJ
-2 онова DET NOUN
+2 онова DET PRON
 8 дълго ADJ ADV
 17 Сатирата PROPN NOUN
 6 по-силно ADJ ADV
@@ -126,13 +127,11 @@ ADV:PRON	1
 10 ... PUNCT PAUSE
 3 звено NOUN VERB
 5 постъпилите ADJ NOUN
-1 Насвятка VERB NOUN
 4 една DET NOUN
 5 великолепна ADJ ADP
 1 Нима PART VERB
 1 Денят NOUN VERB
 11 внесено ADJ VERB
-25 напред ADV ADP
 40 ни PRON ADJ
 12 майстори NOUN VERB
 14 занаятчии NOUN CONJ
@@ -190,7 +189,6 @@ ADV:PRON	1
 17 приет ADJ VERB
 3 лично ADJ ADV
 9 едно NUM DET
-11 избрани ADJ VERB
 1 ГЕРБ NOUN PROPN
 3 ПЕЧАТ NOUN PROPN
 5 ЗНАМЕ NOUN PROPN
@@ -198,7 +196,6 @@ ADV:PRON	1
 9 СТОЛИЦА NOUN PROPN
 9 дойче ADJ ADV
 4 една DET NUM
-9 онова DET ADJ
 3 разпадналото ADJ NOUN
 7 записки NOUN ADJ
 1 Мами VERB CONJ
@@ -219,7 +216,7 @@ ADV:PRON	1
 13 Втория ADJ PROPN
 13 руска ADJ VERB
 9 събс PROPN ADP
-1 Жп ADJ NOUN
+1 Жп ADJ PROPN
 9 Св. PROPN ADJ
 2 едно DET NUM
 13 урната NOUN ADJ
@@ -270,7 +267,6 @@ ADV:PRON	1
 1 Това DET PRON
 6 прави ADJ VERB
 9 въпроса NOUN VERB
-2 е AUX VERB
 1 Благодарим VERB PRON
 13 възмути VERB PRON
 10 е VERB AUX
@@ -303,7 +299,7 @@ ADV:PRON	1
 9 Предтеча NOUN PROPN
 16 Спасителя NOUN PROPN
 11 изпуснат ADJ VERB
-8 видимо ADV ADJ
+8 видимо ADV NOUN
 5 XXI ADJ PROPN
 12 един DET NUM
 12 брат NOUN VERB
@@ -327,7 +323,6 @@ ADV:PRON	1
 7 провеждали VERB PART
 17 2000 PROPN ADJ
 8 Г NOUN PROPN
-2 това PRON DET
 19 ВИП PROPN NOUN
 14 разясни VERB ADJ
 8 избрана VERB NOUN
@@ -376,9 +371,7 @@ ADV:PRON	1
 1 Предвидени VERB ADJ
 10 натрупан ADJ NOUN
 11 и PROPN CONJ
-3 изпратя VERB PRON
 20 са AUX VERB
-21 иззети VERB ADJ
 3 заподозрения ADJ NOUN
 4 довело VERB NOUN
 9 добри ADJ VERB
@@ -440,6 +433,7 @@ ADV:PRON	1
 10 могъща ADJ NOUN
 3 моите DET NOUN
 17 това DET PRON
+10 длани NOUN ADJ
 5 това DET PRON
 22 ... PUNCT PAUSE
 9 си AUX PRON
@@ -448,23 +442,24 @@ ADV:PRON	1
 3 отдава VERB ADJ
 1 Стресиращо ADJ PRON
 2 Ново PROPN ADJ
+9 среда NOUN VERB
 3 получа VERB AUX
 8 е AUX VERB
 7 то PART PRON
 22 Форум NOUN PROPN
 24 леката ADJ NOUN
-2 са AUX VERB
 16 Топлофикация NOUN PROPN
 12 шестимата NUM ADJ
 7 хлебно ADJ ADV
+4 US ADJ PROPN
 8 лесно ADJ ADV
+18 територии NOUN CONJ
 6 ярко ADV ADJ
 1 Един NUM DET
 12 един NUM DET
 10 гл. ADJ NOUN
 17 гл. ADJ NOUN
 4 пъшка VERB NOUN
-17 ето PART NOUN
 19 вагоните NOUN VERB
 24 солидни ADJ NOUN
 41 реноме NOUN PRON

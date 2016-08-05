@@ -1,37 +1,37 @@
-X:NOUN	497
+X:NOUN	492
 ADJ:NOUN	175
-NOUN:X	137
-X:ADJ	121
-NOUN:ADJ	109
+NOUN:X	135
+X:ADJ	124
+NOUN:ADJ	112
 VERB:NOUN	90
-_:NOUN	89
+_:NOUN	86
 X:VERB	80
-NOUN:VERB	67
+NOUN:VERB	69
 X:PRON	61
 _:X	51
-ADJ:X	37
-X:_	33
+ADJ:X	38
+X:_	34
 NOUN:ADP	29
 DET:PRON	27
-ADJ:VERB	22
 VERB:ADP	21
-VERB:X	21
+ADJ:VERB	21
 X:CONJ	20
+NOUN:_	20
 PRON:X	20
+VERB:X	20
 CONJ:ADP	18
-NOUN:_	18
-X:ADP	17
+X:ADP	16
+_:ADJ	15
 PART:CONJ	15
 ADP:NOUN	14
-_:ADJ	14
 PRON:DET	14
 X:NUM	13
+VERB:ADJ	11
 NOUN:CONJ	11
 _:VERB	11
-VERB:ADJ	10
+ADJ:_	10
 SYM:PUNCT	9
-ADJ:_	9
-X:PART	8
+X:PART	7
 ADJ:ADP	7
 CONJ:PART	7
 PRON:ADP	7
@@ -41,14 +41,14 @@ PRON:_	6
 NOUN:PART	5
 VERB:CONJ	4
 VERB:_	4
-PRON:NOUN	4
+CONJ:_	4
 ADV:NOUN	4
 X:DET	4
 AUX:VERB	4
 _:CONJ	4
 ADP:_	4
 CONJ:ADJ	3
-CONJ:_	3
+PRON:NOUN	3
 PUNCT:NOUN	3
 ADV:CONJ	3
 VERB:PRON	3
@@ -64,7 +64,6 @@ ADJ:CONJ	2
 PART:VERB	2
 PROPN:X	2
 NOUN:ADV	2
-PRON:ADV	2
 PRON:VERB	2
 ADJ:PRON	2
 ADP:PRON	2
@@ -78,19 +77,19 @@ ADP:CONJ	1
 _:PART	1
 PRON:CONJ	1
 PROPN:NOUN	1
-CONJ:X	1
 DET:NOUN	1
 ADV:VERB	1
 PART:NOUN	1
 NUM:X	1
+PRON:ADV	1
 DET:ADP	1
 NOUN:NUM	1
 VERB:PART	1
 ADJ:ADV	1
 ADV:X	1
 CONJ:NOUN	1
-CONJ:ADV	1
-� NOUN X
+ عملية ADJ NOUN
+9 الفتيان NOUN X
 14 الكلاشنكوف X NOUN
 28 فوق ADP NOUN
 29 حصان NOUN CONJ
@@ -106,6 +105,7 @@ CONJ:ADV	1
 43 يهنئ VERB NOUN
 15 منح VERB NOUN
 16 الصغير ADJ NOUN
+29 القومي ADJ NOUN
 30 الكوبي ADJ X
 10 اليان X NOUN
 13 كاتدرائيات NOUN ADJ
@@ -153,7 +153,6 @@ CONJ:ADV	1
 33 رافضا ADJ NOUN
 6 نادي NOUN X
 7 انقرة NOUN X
-31 الاهلي X NOUN
 45 نادي NOUN X
 46 انقرة NOUN X
 52 نظير NOUN _
@@ -171,7 +170,7 @@ CONJ:ADV	1
 63 ل CONJ ADP
 64 يرد VERB NOUN
 71 رفض VERB NOUN
-73 حنفي X ADP
+73 حنفي X ADJ
 3 حنفي X VERB
 4 دخل VERB NOUN
 4 يتقبل VERB ADP
@@ -237,7 +236,8 @@ CONJ:ADV	1
 11 عظيما ADJ ADV
 16 آل X ADP
 18 مرشحا NOUN ADJ
-3 حاكم NOUN X
+3 حاكم NOUN _
+5 المرشح NOUN VERB
 7 خطاب NOUN X
 24 مستقبل NOUN _
 25 آل X ADP
@@ -248,7 +248,7 @@ CONJ:ADV	1
 29 عالقين ADJ X
 35 إن PART CONJ
 43 كنا VERB X
-47 مضى VERB X
+47 مضى VERB ADJ
 17 ان CONJ PART
 4 / SYM PUNCT
 4 / SYM PUNCT
@@ -387,6 +387,7 @@ CONJ:ADV	1
 18 بريطانيا ADJ X
 25 بغداد X NOUN
 34-35 واللطيفية _ X
+8 سرية NOUN ADJ
 12 تشالينجر X VERB
 10 اول ADJ X
 20 قبل NOUN ADP
@@ -394,8 +395,8 @@ CONJ:ADV	1
 1 البعد X NOUN
 2 الجغرافيــــــا NOUN PRON
 7 جمعية ADJ NOUN
-21 تونس NOUN X
 1 محور NOUN X
+12 الاسرائيليين ADJ NOUN
 3 موافق ADJ NOUN
 6 هام ADJ NOUN
 11 الاختلاف NOUN X
@@ -446,7 +447,7 @@ CONJ:ADV	1
 16 الجغرافيا NOUN ADJ
 6 اقباط ADJ NOUN
 12 المشمولين ADJ NOUN
-4 حازم X ADJ
+4 حازم X VERB
 3 اسر NOUN X
 4 قبطية ADJ X
 65 التي PRON DET
@@ -510,7 +511,6 @@ CONJ:ADV	1
 18 ما DET PRON
 20 بذل VERB NOUN
 22 الموالون NOUN VERB
-23-24 لاسرائيل _ NOUN
 29 اكثر X ADJ
 39 منحاز ADJ NOUN
 40-41 لاسرائيل _ NOUN
@@ -543,16 +543,15 @@ CONJ:ADV	1
 10 ان PART CONJ
 41 بطريرك NOUN X
 67 مشغول ADJ NOUN
+90 الجالية NOUN ADJ
 120-121 بينما _ CONJ
 123 تستجدي VERB ADJ
 124 القروض NOUN X
-130 ذا PRON NOUN
 142 امتهان NOUN VERB
 153 البطريرك NOUN X
 154 ألغي VERB X
 7 الاستماع NOUN X
 14 المنتمي ADJ VERB
-26 الرافضة ADJ NOUN
 27 تلبؤ X VERB
 28 اسرائيل X NOUN
 29 موقعاً NOUN ADJ
@@ -638,7 +637,7 @@ CONJ:ADV	1
 16 وتمكينها X PRON
 17 وتمكينها X PRON
 9 التحولات X NOUN
-10 العميقة X NOUN
+10 العميقة X ADJ
 11-12 والمتلاحقة _ ADJ
 11 والمتلاحقة X ADJ
 12 والمتلاحقة X ADJ
@@ -678,6 +677,7 @@ CONJ:ADV	1
 36 نحو NOUN ADP
 12 مارك X NOUN
 16 تتراجع VERB NOUN
+18 الخارجية ADJ NOUN
 2 تجتذب VERB NOUN
 52 ما PRON CONJ
 66 السابق NOUN ADJ
@@ -701,7 +701,6 @@ CONJ:ADV	1
 39 ليس AUX VERB
 60 ما DET PRON
 100 إن PART CONJ
-113 ك ADP _
 3 خطاب X NOUN
 24 يقلص VERB ADJ
 28 الضار ADJ NOUN
@@ -716,7 +715,6 @@ CONJ:ADV	1
 36 الزجاج NOUN X
 37 والبللور X NOUN
 52 المقــــدم ADJ NOUN
-3 خطاب X NOUN
 27 فتح NOUN VERB
 5 ان PART CONJ
 11 أولى X ADJ
@@ -862,7 +860,6 @@ CONJ:ADV	1
 57 ه PRON X
 60-61 والامين _ NOUN
 60 والامين X ADJ
-61 والامين X NOUN
 69 الاب X NOUN
 70 يوسف NOUN X
 17-18 والحضور _ NOUN
@@ -884,6 +881,7 @@ CONJ:ADV	1
 16 الموارنة X NOUN
 20 ل CONJ ADP
 21 يصوب VERB NOUN
+32 مضمون NOUN VERB
 34 البطاركة X NOUN
 36 مدخلا NOUN PART
 40 القواسم X NOUN
@@ -920,7 +918,6 @@ CONJ:ADV	1
 28 والكرامة X NOUN
 29 والكرامة X NOUN
 32-33 والعيش _ VERB
-32 والعيش X VERB
 33 والعيش X NOUN
 34 معا ADV X
 36 محبة X NOUN
@@ -988,6 +985,7 @@ CONJ:ADV	1
 31 الاميركي X ADJ
 36 لنزع X NOUN
 37 الشرعية NOUN ADJ
+42 المسيحي ADJ X
 53-54 والخلاص _ X
 53 والخلاص X NOUN
 54 والخلاص X NOUN
@@ -1013,7 +1011,6 @@ CONJ:ADV	1
 41 التباس NOUN X
 43-44 فالفاتيكان _ X
 44 فالفاتيكان X VERB
-19 غالبا ADJ NOUN
 21 ما DET PRON
 29-30 والعكس _ NOUN
 29 والعكس X NOUN
@@ -1049,7 +1046,7 @@ CONJ:ADV	1
 20-21 والنزاعات _ NOUN
 20 والنزاعات X NOUN
 21 والنزاعات X NOUN
-3 قصير ADJ NOUN
+3 قصير ADJ X
 10 المسلمين ADJ NOUN
 16 اغفال X NOUN
 24 التطرق X NOUN
@@ -1126,6 +1123,7 @@ CONJ:ADV	1
 55 تقريباً NOUN ADJ
 83 نحن PRON X
 84 نضمن VERB ADP
+91 مساس NOUN VERB
 10 المجمدة X ADJ
 30 من PRON ADP
 6-7 كصيارفة _ NOUN
@@ -1157,6 +1155,7 @@ CONJ:ADV	1
 40 المعارضة ADJ NOUN
 59 التزكية NOUN ADJ
 18 الكشوف NOUN X
+11 حامية NOUN ADJ
 18 انتشاره PRON X
 43 مدافعة NOUN ADJ
 31 السمح ADJ VERB
@@ -1170,7 +1169,6 @@ CONJ:ADV	1
 54 حكم NOUN _
 55 منجستو X CONJ
 56 هيلاماريام X NOUN
-18 رفض NOUN VERB
 21 تصدي NOUN VERB
 26 أعلى ADJ ADP
 20 مندوبا NOUN X
@@ -1275,12 +1273,13 @@ CONJ:ADV	1
 8 مدعياً X ADJ
 27 اللاذقية NOUN ADJ
 35 المهجور ADJ NOUN
+49 كي CONJ _
 50 يوقف VERB NOUN
 54 ما DET PRON
 3 يعلون X NOUN
 5 لكن X CONJ
 18-19 سنوجه _ X
-18 سنوجه X NOUN
+18 سنوجه X VERB
 19 سنوجه X VERB
 65 مصر X NOUN
 66 إيران X NOUN
@@ -1308,8 +1307,10 @@ CONJ:ADV	1
 67 التعبئة NOUN ADJ
 76 التعرضي X VERB
 19 العائد ADJ NOUN
+22 يدير VERB NOUN
 25 البعث NOUN X
 47 موحداً ADJ NOUN
+21 متحالفة ADJ NOUN
 1 موسى NOUN _
 8 عمرو NOUN X
 9 موسى NOUN X
@@ -1373,7 +1374,7 @@ CONJ:ADV	1
 4 المصري X ADJ
 8 فياض X NOUN
 17 مدخولات X NOUN
-32 مشتقات ADJ X
+32 مشتقات ADJ NOUN
 57 فياض X NOUN
 3 فياض X NOUN
 17 واعداً ADJ NOUN
@@ -1503,6 +1504,7 @@ CONJ:ADV	1
 10 ما DET PRON
 11 فات VERB NOUN
 8 الكاظمية X ADJ
+17 وادي X NOUN
 1-2 والذين _ X
 21 أساور X NOUN
 4 البغداديات ADJ NOUN
@@ -1583,11 +1585,11 @@ CONJ:ADV	1
 12 قلق ADJ NOUN
 36 ل CONJ ADP
 3 إحصائيات X ADJ
-12 مقدم ADJ NOUN
 4 أشهر ADJ NOUN
 11 حالة NOUN ADJ
 17 رضا X NOUN
 19 الذي X PRON
+8 المخلوع ADJ X
 13 بريئاً ADJ NOUN
 14 حتى ADP CONJ
 24 زياً NOUN ADJ
@@ -1614,7 +1616,6 @@ CONJ:ADV	1
 33 العام ADJ NOUN
 60 العام ADJ NOUN
 66 صيغ NOUN X
-70 معمول ADJ VERB
 6 عراقيين NOUN ADJ
 5 عراقيون NOUN ADJ
 11 العام ADJ NOUN
@@ -1624,9 +1625,7 @@ CONJ:ADV	1
 27 شن NOUN VERB
 5 أنت PRON VERB
 4 مؤكد ADJ VERB
-2 أعتقد X PART
 5-6 سأكون _ X
-7 حتى CONJ ADV
 8 يطلع VERB NOUN
 14 مجرياتها X PRON
 4 يحال VERB NOUN
@@ -1640,7 +1639,6 @@ CONJ:ADV	1
 42 التهم NOUN _
 43 يحال VERB NOUN
 44 المتهم ADJ _
-46 ذاك PRON ADV
 54 ل CONJ ADP
 61 العام ADJ NOUN
 8 قصف X NOUN
@@ -1679,7 +1677,7 @@ CONJ:ADV	1
 19 ومنعت X VERB
 22-23 مهنتي _ X
 34 منعت X VERB
-39-40 تنفيذي _ NOUN
+39-40 تنفيذي _ ADJ
 39 تنفيذي X ADJ
 40 تنفيذي X ADJ
 58 أنظر X VERB
@@ -1730,7 +1728,6 @@ CONJ:ADV	1
 11-12 والية _ NOUN
 11 والية X ADJ
 12 والية X NOUN
-18 المروحية ADJ NOUN
 31 المكتظ ADJ NOUN
 35 وابل X NOUN
 36 كثيف X ADJ
@@ -1779,14 +1776,12 @@ CONJ:ADV	1
 8 السنغافورية ADJ X
 6 اصحاء X ADJ
 5 حتى ADV ADP
-13 مشتبه ADJ X
 17 البكتيريا NOUN X
 10 إن CONJ PART
 14 شديد ADJ NOUN
 5 عقد NOUN VERB
 8 حتى ADV ADP
 13 صدام NOUN X
-23 فيما CONJ X
 9 الاستجابة X NOUN
 18 اجل X NOUN
 1 المنتدى X NOUN
@@ -1880,7 +1875,6 @@ CONJ:ADV	1
 2 تدين VERB X
 5 الاخيرة X ADJ
 8-9 والتى _ X
-11 حامد X VERB
 13 اصفى X ADP
 29 الاطفال X NOUN
 30 والمراسلين X ADJ
@@ -1906,7 +1900,6 @@ CONJ:ADV	1
 8-9 وقطار _ NOUN
 8 وقطار X NOUN
 9 وقطار X NOUN
-14-15 بولاية _ X
 7 وفاة X NOUN
 24 سريناجار X NOUN
 19 يستقلون VERB NOUN
@@ -1919,6 +1912,7 @@ CONJ:ADV	1
 14 كبرى X ADJ
 33 رواتبهم X _
 34 رواتبهم X PRON
+41 عدا ADP _
 43 الاجور X NOUN
 4 فين X ADJ
 6 اسطول X NOUN
@@ -1963,12 +1957,12 @@ CONJ:ADV	1
 27 اى CONJ ADJ
 32 نيوهامبشاير X NOUN
 1 يقطن VERB NOUN
-9 ذوى X NOUN
+9 ذوى X _
 10 الاصول X NOUN
 11 الافريقية X ADJ
 15 محليون ADJ NUM
 29 التمهديدية X ADJ
-14-15 وبوب _ NOUN
+14-15 وبوب _ X
 14 وبوب X NOUN
 15 وبوب X NOUN
 16 جراهام X NOUN
@@ -1991,6 +1985,8 @@ CONJ:ADV	1
 6 فيديل X _
 14 ادوارد X NOUN
 15 شيفرنادزه X PRON
+42 الأكيد ADJ _
+4 وزراء NOUN _
 6 باكاليثا X NOUN
 21 معجبة X NOUN
 25-26 وشعب _ NOUN
@@ -2002,6 +1998,7 @@ CONJ:ADV	1
 7 الذين X PRON
 15 العزيز NOUN X
 16 بلخادم X NOUN
+24 زرهوني X ADJ
 12 عبد NOUN X
 15 اشنهو X PRON
 16 بدلا ADV NOUN
@@ -2070,7 +2067,6 @@ CONJ:ADV	1
 15 كانجر X _
 16 خارسو X CONJ
 19 راجورى X ADJ
-6 قتل VERB NOUN
 11-12 بمنطقة _ NOUN
 11 بمنطقة X NOUN
 16 بونش X NOUN

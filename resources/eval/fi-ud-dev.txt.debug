@@ -1,38 +1,37 @@
-ADJ:NOUN	71
+ADJ:NOUN	72
 NOUN:VERB	59
 VERB:NOUN	45
-PROPN:NOUN	40
-NOUN:ADJ	40
+PROPN:NOUN	41
+NOUN:ADJ	37
 NOUN:PROPN	27
-VERB:ADJ	25
-ADJ:VERB	25
-ADV:NOUN	24
-NOUN:ADV	23
+VERB:ADJ	24
+ADJ:VERB	24
+NOUN:ADV	24
+ADV:NOUN	22
 AUX:VERB	16
+VERB:ADV	14
 X:NOUN	13
-VERB:ADV	12
+ADV:VERB	11
 SYM:EMO	11
-NOUN:PRON	10
-PRON:NOUN	10
-ADV:VERB	10
 ADJ:PRON	10
+NOUN:PRON	9
+PRON:NOUN	9
 PRON:ADJ	9
-VERB:AUX	9
 ADJ:ADV	9
 X:PROPN	9
 ADV:SCONJ	8
 VERB:PRON	8
-ADV:ADJ	6
+VERB:AUX	8
+ADV:ADJ	7
+ADP:ADV	7
 PROPN:VERB	6
 PRON:ADV	6
-ADP:ADV	6
 ADV:PRON	6
 NUM:ADV	5
 ADV:ADP	5
 ADP:NOUN	5
 INTJ:VERB	5
 PUNCT:PAUSE	4
-NOUN:NUM	4
 PRON:VERB	4
 NOUN:AUX	3
 ADJ:PROPN	3
@@ -40,6 +39,7 @@ SCONJ:VERB	3
 X:PRON	3
 PRON:NUM	3
 INTJ:NOUN	3
+NOUN:NUM	3
 VERB:PROPN	3
 PROPN:PRON	3
 NOUN:SCONJ	3
@@ -53,6 +53,7 @@ NUM:NOUN	2
 SYM:NOUN	2
 NUM:PRON	2
 ADJ:ADP	2
+ADJ:SCONJ	2
 AUX:NOUN	2
 ADV:PROPN	2
 PROPN:ADJ	2
@@ -67,7 +68,6 @@ VERB:ADP	1
 INTJ:AUX	1
 NOUN:X	1
 NUM:PUNCT	1
-ADP:VERB	1
 SCONJ:AUX	1
 X:PUNCT	1
 PROPN:CONJ	1
@@ -77,14 +77,14 @@ SYM:PUNCT	1
 NOUN:CONJ	1
 X:NUM	1
 NOUN:ADP	1
-ADJ:SCONJ	1
 SYM:URL	1
 ADJ:AUX	1
 X:ADJ	1
 INTJ:ADV	1
 PRON:SCONJ	1
 X:HASH	1
-ri PROPN NOUN
+DJ NOUN
+11 Jari PROPN NOUN
 4 ilmeetön ADJ NOUN
 15 :) SYM EMO
 14 käärittyjen VERB NOUN
@@ -104,11 +104,10 @@ ri PROPN NOUN
 3 kotonakin ADV PRON
 4 väsäillä VERB PRON
 3 jaksoinkin VERB ADV
-4 mukaamme ADV NOUN
+4 mukaamme ADV VERB
 13 uudesta ADJ NOUN
 4 löysä NOUN ADJ
 5 liehuvine ADJ PRON
-9 tekstiiliylijäämistä NOUN PRON
 13 lisää ADV VERB
 16 ;) SYM EMO
 1 Minttu PROPN VERB
@@ -134,13 +133,13 @@ ri PROPN NOUN
 8 valmiitakin ADJ PRON
 11 time-lapse X PRON
 12 dollyja X CONJ
-15 haluanko VERB NOUN
 20 niin CONJ ADV
 22 kuin CONJ SCONJ
 25 Arduinolla PROPN NOUN
 6 puoli NOUN VERB
 20 bulb-modessa X NOUN
 23 osta VERB NOUN
+24 erillistä ADJ NOUN
 25 driver-chippiä X NOUN
 3 päädyn VERB NOUN
 14 tarvitse AUX VERB
@@ -159,7 +158,7 @@ ri PROPN NOUN
 4 nähnyt VERB ADV
 17 :D SYM EMO
 1 Shieldit PROPN NOUN
-7 alle ADV NOUN
+7 alle ADV ADJ
 1 Optoerotin NOUN VERB
 10 itse PRON ADV
 11 kameraan NOUN AUX
@@ -208,7 +207,6 @@ ri PROPN NOUN
 3 ala VERB NOUN
 4 kuin ADV SCONJ
 10 ... PUNCT PAUSE
-3 lemppari NOUN NUM
 6 ruoalla NOUN ADV
 7 kuin CONJ SCONJ
 9 on VERB AUX
@@ -219,7 +217,7 @@ ri PROPN NOUN
 5 nopsaan ADV VERB
 6 kypsyviä VERB ADJ
 5 kahtia ADV NOUN
-9 reilun ADJ VERB
+9 reilun ADJ SCONJ
 1 Lisä VERB NOUN
 3 kiinankaali NOUN VERB
 1 Varo VERB PROPN
@@ -240,7 +238,6 @@ ri PROPN NOUN
 8 välistä ADJ VERB
 12 esillä ADV NOUN
 1 Uudelle ADJ NOUN
-11 kannattaisi VERB AUX
 31 tuossa PRON ADV
 4 mainitsemanne VERB PRON
 2 huomautettavaa VERB NOUN
@@ -249,7 +246,6 @@ ri PROPN NOUN
 13 yhtä NUM ADV
 19 vastaavien ADJ NOUN
 1 Sallikaa VERB NOUN
-8 olevan VERB AUX
 12 toisiin PRON ADJ
 15 naudanlihan NOUN ADV
 8 EY:n NOUN PROPN
@@ -266,7 +262,6 @@ ri PROPN NOUN
 11 kovempaa ADV ADJ
 3 voimalla NOUN VERB
 11 autosi NOUN VERB
-14 avainta NOUN ADJ
 2 ajatuksineni NOUN VERB
 1 Hihasi NOUN VERB
 6 välistä NOUN ADJ
@@ -274,9 +269,9 @@ ri PROPN NOUN
 12 autiolta ADJ NOUN
 4 maalla NOUN ADJ
 11 selällään NOUN ADV
-16 tuulen NOUN VERB
 17 leikkiä NOUN VERB
 21 peipposen NOUN PRON
+22 laulaa VERB NOUN
 24 pullolleen ADV VERB
 3 lampi NOUN ADJ
 3 puhdas ADJ NOUN
@@ -289,7 +284,8 @@ ri PROPN NOUN
 13 viisaimpien ADJ NOUN
 2 kauniita ADJ NOUN
 1 Ylpeinä ADJ NOUN
-3 innoissamme NOUN ADJ
+3 innoissamme NOUN VERB
+5 taskumme NOUN VERB
 5 keneltäkään PRON NUM
 13 puolinaisista ADJ NOUN
 24 merkittyinä VERB ADJ
@@ -326,7 +322,6 @@ ri PROPN NOUN
 4 toimistobiosfäärin NOUN ADV
 15 runsastuvia ADJ VERB
 1 Yksi PRON NUM
-4 havaittavia VERB ADJ
 6 nimettyihin VERB NOUN
 9 karjahdus NOUN PROPN
 1 Mitkään PRON ADV
@@ -381,6 +376,7 @@ ri PROPN NOUN
 5 uudesta ADJ NOUN
 4 parijonoon NOUN AUX
 3 kato INTJ NOUN
+1 Riki PROPN NOUN
 8 vallan ADV NOUN
 7 lemahtavan VERB ADJ
 2 raitiovaunut NOUN VERB
@@ -410,8 +406,8 @@ ri PROPN NOUN
 3 Koivuselästä PROPN NOUN
 2 seisova VERB ADJ
 6 kuin ADV SCONJ
-2 itseämme PRON NOUN
-4 omista ADJ NOUN
+1 Työnsin VERB ADV
+11 työnsin VERB ADV
 4 pakolaisia NOUN ADJ
 3 enemmän ADJ ADV
 1 Luovan NOUN VERB
@@ -488,11 +484,9 @@ ri PROPN NOUN
 38 takuita NOUN PRON
 39 vastaavat VERB ADJ
 10 säädetyissä VERB PRON
-29 lisätakuista NOUN ADJ
 31 muista PRON VERB
 16 luotettavien ADJ VERB
 6 viipymättä VERB ADV
-5 kohti ADP VERB
 4 tein VERB NOUN
 15 mielijuoma NOUN ADJ
 18 kotikonstein NOUN VERB
@@ -514,6 +508,7 @@ ri PROPN NOUN
 7 parempaakin ADJ NOUN
 1 Filen PROPN VERB
 12 oluen NOUN VERB
+18 kotikonstein NOUN ADV
 3 Gourmet NOUN PROPN
 3 aion AUX NOUN
 7 lehden NOUN VERB
@@ -523,6 +518,7 @@ ri PROPN NOUN
 23 olevalla AUX VERB
 6 joitakin PRON NOUN
 9 makkaramassa NOUN VERB
+6 olisi VERB AUX
 12 sopivaksi ADJ NOUN
 16 päälle ADV ADP
 11 keskiajallakaan NOUN ADV
@@ -556,6 +552,7 @@ ri PROPN NOUN
 7 perinteisemmälläkin ADJ ADV
 8 yhdet NUM NOUN
 14 oppineen VERB NOUN
+17 aikuisen ADJ NOUN
 4 kaksikielisillä ADJ PRON
 1 Kielenopiskelijoilla NOUN PRON
 11 vierasta ADJ NOUN
@@ -615,7 +612,7 @@ ri PROPN NOUN
 10 LV37 SYM PROPN
 11 Kätilöopiston NOUN PROPN
 4 o.s. NOUN VERB
-3 siirtymistään NOUN VERB
+1 Ennen ADP ADV
 5 Kenttäurheilijat-58:a PROPN NOUN
 4 天津飯 X PUNCT
 18 luoma VERB ADJ

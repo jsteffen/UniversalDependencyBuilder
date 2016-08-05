@@ -1,56 +1,55 @@
-ADJ:NOUN	219
-NOUN:PROPN	125
-NOUN:ADJ	108
+ADJ:NOUN	217
+NOUN:PROPN	119
+NOUN:ADJ	105
+PROPN:NOUN	103
 VERB:NOUN	99
-PROPN:NOUN	99
-NOUN:VERB	99
-VERB:AUX	69
-ADV:NOUN	67
-AUX:VERB	53
-ADJ:VERB	46
-NOUN:ADV	41
-ADP:NOUN	40
+NOUN:VERB	96
+VERB:AUX	73
+ADV:NOUN	69
+AUX:VERB	50
+NOUN:ADV	43
+ADP:NOUN	42
+ADJ:VERB	42
 DET:NOUN	34
 ADV:DET	26
+ADJ:ADV	26
 NOUN:ADP	26
-ADJ:ADV	25
 NOUN:CONJ	23
-NUM:NOUN	22
+NUM:NOUN	23
 ADJ:PROPN	20
-AUX:NOUN	20
+AUX:NOUN	19
 ADV:ADJ	18
 ADP:ADV	17
 ADV:VERB	16
-PRON:NOUN	16
+PRON:NOUN	15
 ADJ:DET	15
 VERB:ADJ	14
 VERB:ADV	14
 DET:ADV	14
 NOUN:AUX	13
 NOUN:DET	12
+NOUN:NUM	12
 PUNCT:PAUSE	11
-NOUN:NUM	11
 ADV:NUM	10
 NOUN:PART	10
 NUM:PROPN	9
 DET:ADJ	9
 PROPN:VERB	8
-ADV:CONJ	7
 ADJ:AUX	7
 PROPN:ADV	7
+ADV:ADP	7
 CONJ:DET	6
+ADV:CONJ	6
 DET:VERB	6
-ADV:ADP	6
 VERB:DET	6
+NOUN:PRON	5
+PROPN:ADJ	5
 X:NOUN	5
 CONJ:VERB	5
 CONJ:NOUN	5
 PRON:PROPN	4
 NUM:ADJ	4
-NOUN:PRON	4
 VERB:ADP	4
-PROPN:ADJ	4
-NUM:DET	4
 ADP:ADJ	4
 NUM:AUX	4
 VERB:PROPN	4
@@ -64,6 +63,7 @@ AUX:ADV	3
 ADV:PROPN	3
 INTJ:NOUN	3
 AUX:DET	3
+NUM:DET	3
 CONJ:X	3
 PROPN:CONJ	3
 X:PROPN	3
@@ -72,6 +72,7 @@ NUM:ADV	2
 NUM:ADP	2
 AUX:ADJ	2
 ADJ:ADP	2
+PRON:VERB	2
 DET:PART	2
 X:VERB	2
 PROPN:PART	2
@@ -89,7 +90,6 @@ AUX:X	1
 VERB:PRON	1
 PROPN:X	1
 PRON:ADV	1
-PRON:VERB	1
 PROPN:PRON	1
 PROPN:AUX	1
 SYM:PROPN	1
@@ -104,7 +104,7 @@ ADP:AUX	1
 AUX:PART	1
 CONJ:AUX	1
 DET:PRON	1
-PROPN NOUN
+ROPN NOUN
 7 herrialdeko NOUN ADP
 7 zer-nolako ADJ NOUN
 10 Konstituzioak NOUN PROPN
@@ -114,7 +114,6 @@ PROPN NOUN
 11 eraso VERB NOUN
 6 lasai ADJ ADV
 2 dut AUX VERB
-2 zurezkoa NOUN ADJ
 12 Ikus VERB PROPN
 1 Miarritzen PROPN VERB
 10 beldurrarenak NOUN ADJ
@@ -170,7 +169,6 @@ PROPN NOUN
 17 EAEkoak NOUN PROPN
 2 maitemindurik VERB NOUN
 10 interesik NOUN ADV
-1 Sumendiek NOUN PROPN
 4 era VERB NOUN
 5 eskasetan ADJ NOUN
 1 Bitxi ADJ PROPN
@@ -212,12 +210,12 @@ PROPN NOUN
 13 ea INTJ NOUN
 4 soberan ADJ VERB
 1 Zerk DET PROPN
-1 Turkiarra NOUN ADJ
 15 dituztela AUX VERB
 4 formaz NOUN ADJ
 7 zen AUX VERB
 1 Goiz ADV NOUN
 2 hartan ADV DET
+12 partidatan NOUN ADV
 1 Zeharkako ADJ NOUN
 5 asko ADV DET
 11 eurentzat PRON NOUN
@@ -226,11 +224,11 @@ PROPN NOUN
 2 Kontxarako PROPN NOUN
 11 ezustekoa NOUN ADJ
 14 horren ADV DET
-3 soinu NOUN VERB
 9 alemanaren ADJ NOUN
 1 Lehen ADV NUM
 12 hogeitaka DET ADP
 3 unea NOUN ADJ
+8 da VERB AUX
 14 hain ADV ADP
 15 hurbil ADV ADJ
 19 ziren VERB AUX
@@ -247,6 +245,7 @@ PROPN NOUN
 12 erdara NOUN DET
 6 ihes NOUN ADJ
 15 atzean NOUN VERB
+1 Anatoliatik PROPN NOUN
 7 ez NOUN PART
 11 haietatik DET NOUN
 12 asko ADV DET
@@ -304,6 +303,7 @@ PROPN NOUN
 7 oilasko NOUN DET
 9 era CONJ NOUN
 11 txigorkiekin NOUN VERB
+12 dira VERB AUX
 1 Lotinak PROPN NOUN
 12 arreta NOUN VERB
 3 denetarik DET NOUN
@@ -311,7 +311,6 @@ PROPN NOUN
 11 ikusteko NOUN VERB
 3 arraroak ADJ NOUN
 9 antiterrorista ADJ NOUN
-39 jakitera VERB NOUN
 4 xume ADJ NOUN
 10 sarrerak NOUN ADJ
 15 aberatsenei ADJ NOUN
@@ -479,7 +478,7 @@ PROPN NOUN
 1 Donibandarrek NOUN PROPN
 1 Inperio NOUN PROPN
 8 gainean ADV NOUN
-11 izugarri ADJ VERB
+11 izugarri ADJ ADV
 13 berdingabearen ADJ NOUN
 3 etorkina NOUN VERB
 6 ia ADV NOUN
@@ -491,7 +490,7 @@ PROPN NOUN
 4 sozio ADJ NOUN
 7 benetazko ADJ NOUN
 2 gainean NOUN ADP
-2 zu PRON NOUN
+2 zu PRON VERB
 5 ... PUNCT PAUSE
 9 propio ADJ AUX
 11 bereziaz ADJ ADV
@@ -535,6 +534,7 @@ PROPN NOUN
 24 zatitua VERB NOUN
 1 MAPEI PROPN NOUN
 19 Etorkizuneko NOUN PROPN
+20 Tourreko PROPN NOUN
 1 Lehen ADV NUM
 5 oinez NOUN VERB
 11 zen VERB AUX
@@ -598,7 +598,6 @@ PROPN NOUN
 3 begiratzeak VERB NOUN
 1 Mauleko PROPN NOUN
 7 laster ADV ADP
-8 urriko NOUN VERB
 10 azaroko NOUN ADJ
 3 present ADJ DET
 5 hauexek DET VERB
@@ -627,11 +626,9 @@ PROPN NOUN
 11 biak NUM NOUN
 8 dela VERB AUX
 10 eurek PRON NOUN
-12 zuketen AUX NOUN
 1 Gutxi ADV DET
 3 asko ADV DET
 4 danok DET NOUN
-6 gaitu AUX VERB
 5 ikaragarri ADV VERB
 8 bidaiariez NOUN PART
 4 berri ADJ NOUN
@@ -715,7 +712,6 @@ PROPN NOUN
 11 berri NOUN ADJ
 11 helduta VERB NOUN
 1 Izugarria ADJ NOUN
-4 lauean ADJ NOUN
 6 adina ADV ADJ
 1 Gaurko ADV ADJ
 14 gizonik NOUN PRON
@@ -728,12 +724,12 @@ PROPN NOUN
 12 zenutela AUX VERB
 13 zuen PRON VERB
 2 Asko ADV DET
-1 Praktikan NOUN PROPN
 2 AB NOUN PROPN
 8 gehienetan DET ADJ
 3 asko ADV DET
 5 makarron NOUN VERB
 8 ... PUNCT PAUSE
+5 atean NOUN NUM
 3 zuhur ADJ NOUN
 2 iskanbila NOUN VERB
 2 batak NUM NOUN
@@ -791,10 +787,12 @@ PROPN NOUN
 1 Salamancako PROPN NOUN
 3 erdian NOUN ADP
 9 merkatua NOUN VERB
+14 gutxi DET ADV
 1 Telekomek PROPN NOUN
 16 berantegi ADJ VERB
 17 zen VERB AUX
 14 den AUX VERB
+8 abian ADV NOUN
 2 Nagusiaren NOUN PROPN
 2 gaudek VERB NOUN
 7 gaurko ADV ADJ
@@ -827,7 +825,6 @@ PROPN NOUN
 6 gazteek ADJ NOUN
 6 meskitara NOUN ADV
 13 teknologikoaren ADJ NOUN
-15 berrira ADJ NOUN
 1 Plazerrez NOUN ADV
 4 dut AUX VERB
 8 dudana VERB NOUN
@@ -858,6 +855,7 @@ PROPN NOUN
 13 kanpora ADP NOUN
 1 Valentzian PROPN NOUN
 8 Dinamoren NOUN PROPN
+18 Bartzelona PROPN ADJ
 4 DE X PROPN
 13 kriminala ADJ NOUN
 7 bezalako ADP ADJ
@@ -871,7 +869,6 @@ PROPN NOUN
 17 ordubetera NOUN VERB
 1 Dagoeneko VERB ADV
 20 Alemaniaren PROPN NOUN
-1 Hegazkinaren NOUN PROPN
 5 zain ADP ADV
 13 hauetarik DET NOUN
 14 aunitz DET ADP
@@ -898,7 +895,6 @@ PROPN NOUN
 15 ezta CONJ X
 14 materialen NOUN ADJ
 18 ezaugarrien NOUN ADJ
-1 Palestinarrekiko ADJ VERB
 6 da AUX VERB
 10 horregatik DET ADV
 12 Bakearen NOUN PROPN
@@ -968,6 +964,7 @@ PROPN NOUN
 1 Arantxak PROPN NOUN
 7 ius NOUN VERB
 9 armatura VERB NOUN
+13 Lizarrako PROPN NOUN
 3 diferentea ADJ VERB
 23 legez ADV NOUN
 6 orduko NOUN ADJ
@@ -979,7 +976,7 @@ PROPN NOUN
 6 erein VERB DET
 1 Arakil PROPN NOUN
 12 arte ADP NOUN
-1 Buruzagi NOUN PROPN
+1 Buruzagi NOUN ADV
 16 deklaratzaileetan ADJ NOUN
 8 oinez ADV VERB
 9 abia VERB NOUN
@@ -1003,7 +1000,6 @@ PROPN NOUN
 12 Erdiko NOUN PROPN
 17 bihurriarekin ADJ NOUN
 2 suediarrari ADJ NOUN
-6 asko DET ADV
 1 Nafarren NOUN CONJ
 5 Superkoparako PROPN NOUN
 9 dira VERB AUX
@@ -1046,12 +1042,12 @@ PROPN NOUN
 16 asko ADV DET
 19 eurei PRON NOUN
 6 gustuko NOUN ADJ
+3 iluntzen VERB NOUN
 2 Aldeko ADP NOUN
 1 Atentaturik NOUN VERB
 8 eginikoak VERB NOUN
 9 Irekiko VERB NOUN
 10 askoz DET ADV
-2 Pierresena NOUN PROPN
 14 niregana PRON NOUN
 26 seko-seko ADV PROPN
 4 zortzikoteko NOUN VERB
@@ -1070,7 +1066,6 @@ PROPN NOUN
 3 aditu ADJ VERB
 12 bretoi ADJ DET
 3 dute AUX VERB
-10 ari AUX VERB
 12 aizkoran ADV NOUN
 17 taldekako ADV NOUN
 9 irlandar ADJ NOUN
@@ -1078,7 +1073,7 @@ PROPN NOUN
 13 zarauztarraren ADJ NOUN
 9 atzelari NOUN AUX
 10 titularrak NOUN ADJ
-1 40-14ko NUM DET
+1 40-14ko NUM NOUN
 2 alorrean NOUN ADP
 2 Horrexegatik DET ADV
 24 tartean ADV ADP
@@ -1130,12 +1125,13 @@ PROPN NOUN
 7 San NOUN PROPN
 3 iduriz NOUN ADV
 5 berriz ADV CONJ
+7 gelako NOUN VERB
 10 ziren AUX VERB
 11 larrienak ADJ NOUN
 1 Cardosoz PROPN DET
 2 gain ADP ADV
 5 Chavez PROPN PART
-5 aldaketen NOUN VERB
+5 aldaketen NOUN PRON
 11 onartezina ADJ NOUN
 13 baideritzo VERB ADV
 7 entrenamenduetara NOUN VERB
@@ -1176,6 +1172,7 @@ PROPN NOUN
 1 Lehen ADV NUM
 7 aurreko ADP NOUN
 17 gainerakoez ADJ PART
+1 Errastik PROPN NOUN
 12 ari AUX VERB
 1 Jureria PROPN NOUN
 8 agure NOUN PRON
@@ -1216,7 +1213,6 @@ PROPN NOUN
 3 Museoan NOUN PROPN
 5 Dantza NOUN PROPN
 15 hots NOUN CONJ
-3 folklorearen NOUN VERB
 11 zaharrak ADJ NOUN
 17 gabon INTJ NOUN
 2 erabiliena VERB ADJ
@@ -1229,6 +1225,7 @@ PROPN NOUN
 3 zen VERB AUX
 25 gazteiztarra ADJ NOUN
 10 demokraten NOUN VERB
+6 da VERB AUX
 6 izaeraz NOUN DET
 8 esku ADP NOUN
 16 berriak ADJ NOUN
@@ -1283,7 +1280,7 @@ PROPN NOUN
 4 txarrez ADJ ADV
 1 Trabeska ADV NOUN
 9 luze ADV NOUN
-11 gabe ADP ADV
+10 gabe ADV ADP
 5 aintzakotzat ADV ADJ
 4 Iraultzailearen ADJ NOUN
 9 ostean ADV NOUN
@@ -1340,7 +1337,7 @@ PROPN NOUN
 22 irudi NOUN VERB
 23 garrantzitsuko ADJ NOUN
 12 atzerago NOUN ADV
-1 Hiriak NOUN PROPN
+14 Udalaren NOUN PROPN
 4 duen VERB AUX
 14 britainiarren NOUN ADJ
 13 Administraziotik NOUN PROPN
@@ -1408,7 +1405,6 @@ PROPN NOUN
 5 ugari ADJ DET
 14 bizidunaren ADJ NOUN
 17 bizigabearen ADJ NOUN
-2 handikoen ADJ NOUN
 15 zorrotz ADV NOUN
 3 selekziorentzat NOUN DET
 1 Jasta VERB NOUN
@@ -1440,7 +1436,6 @@ PROPN NOUN
 3 kanpora ADP ADV
 7 urtuek VERB NOUN
 8 solidotzean VERB NOUN
-10 ditzaketen AUX VERB
 14 uharte NOUN ADP
 15 bolkanikoetan ADJ NOUN
 1 Enfrentamenduek NOUN PROPN
@@ -1474,6 +1469,7 @@ PROPN NOUN
 16 biak NUM ADJ
 2 orduan CONJ ADV
 5 berri NOUN ADJ
+6 laburrak ADJ NOUN
 10 kutsu NOUN ADJ
 12 errudun NOUN ADJ
 13 bila ADP NOUN
@@ -1496,7 +1492,6 @@ PROPN NOUN
 8 buruan ADP NOUN
 8 aldiz NOUN CONJ
 10 eguerdiko NOUN ADP
-10 aproposena ADJ VERB
 7 ezertxo PRON NOUN
 5 agertze NOUN VERB
 8 mantso-mantso ADJ ADV
@@ -1525,8 +1520,8 @@ PROPN NOUN
 20 betiere ADV CONJ
 2 normaltzat ADJ VERB
 10 lehen ADV NUM
+18 serioa ADJ NOUN
 26 ohiaren ADJ NOUN
-9 indartsuri ADJ NOUN
 12 denarentzat VERB ADJ
 5 armatuetako VERB ADJ
 3 irabazi NOUN VERB
@@ -1539,7 +1534,6 @@ PROPN NOUN
 1 Gorri-berdeekin ADJ NOUN
 14 gogor ADJ ADV
 8 hitzezko ADJ NOUN
-21 itsasondoarrak NOUN ADJ
 3 herritarrek NOUN PROPN
 15 zehatz-mehatz ADV NOUN
 10 atxiloturik VERB NOUN
@@ -1564,7 +1558,7 @@ PROPN NOUN
 2 Ortodoxoak ADJ NOUN
 10 hurrengoa ADJ NOUN
 13 iduriz NOUN VERB
-14 ahulenik ADJ VERB
+14 ahulenik ADJ NOUN
 7 Herriaren NOUN PROPN
 7 aurrenekoen ADJ NOUN
 3 gainerakoen ADJ NOUN
@@ -1584,7 +1578,6 @@ PROPN NOUN
 5 sendoago ADJ VERB
 10 gora ADV NOUN
 12 puntako NOUN VERB
-16 kubatarrak NOUN ADJ
 4 lekuan ADP NOUN
 5 berak DET NOUN
 5 ofiziala NOUN ADJ
@@ -1592,7 +1585,6 @@ PROPN NOUN
 13 5ekoak NOUN NUM
 18 erraz ADJ ADV
 3 Federazioa NOUN PROPN
-1 Foro NOUN PROPN
 2 hamarretatik NUM NOUN
 4 bitartean ADP NOUN
 1 Mantxa PROPN NOUN
@@ -1623,6 +1615,7 @@ PROPN NOUN
 8 armatua VERB ADJ
 3 beterik VERB NOUN
 8 nahasian VERB NOUN
+10 eskuetan ADP NOUN
 2 idazkari NOUN AUX
 13 errusiarren NOUN ADJ
 7 eskerga ADJ NOUN
@@ -1634,13 +1627,14 @@ PROPN NOUN
 2 begira ADP ADV
 2 Eurek PRON PROPN
 7 gu PRON NOUN
-5 zurigorriek ADJ NOUN
+9 bila ADP NOUN
 16 adinakoa ADV NOUN
 3 Lehenengo ADV NUM
 8 beheraino NOUN ADV
 2 iraultzailearen ADJ NOUN
 3 jatorrietaraino NOUN ADV
 4 zale ADJ NOUN
+6 bizi NOUN ADJ
 10 orduan CONJ ADV
 12 bietan NUM DET
 14 euskaldun NOUN ADJ
@@ -1673,6 +1667,7 @@ PROPN NOUN
 12 atzera ADV NOUN
 13 San NOUN PROPN
 6 inguruan ADP NOUN
+13 duen VERB AUX
 14 eragin NOUN VERB
 15 ezkorra ADJ AUX
 16 argi ADJ ADV
@@ -1694,6 +1689,7 @@ PROPN NOUN
 11 infiltratu VERB NOUN
 12 itzuliko VERB ADJ
 11 gain ADP NOUN
+8 bezala ADP ADV
 11 duten VERB AUX
 15 dela VERB AUX
 28 zuhur ADJ NOUN
