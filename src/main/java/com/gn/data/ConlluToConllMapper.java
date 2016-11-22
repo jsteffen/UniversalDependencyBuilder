@@ -16,9 +16,6 @@ import data.Pair;
 
 public class ConlluToConllMapper {
 
-	public static String conlluPath = "/Users/gune00/data/UniversalDependencies/";
-	public static String conllPath = "/Users/gune00/data/UniversalDependencies/conll/";
-
 	private static Properties corpusProps = new Properties();
 	private static Properties dataProps = new Properties();
 	
@@ -26,22 +23,21 @@ public class ConlluToConllMapper {
 	 * Define file names for corpusProps and dataProps
 	 */
 	public  static String getCorpusPropsFile(String languageName, String languageID){
-		return ConlluToConllMapper.
-				conllPath + languageName + "/" + languageID + "-corpusProps.xml";
+		return UDlanguages.conllPath + languageName + "/" + languageID + "-corpusProps.xml";
 	}
 	
 	public  static String getDataPropsFile(String languageName, String languageID){
-		return ConlluToConllMapper.
+		return UDlanguages.
 				conllPath + languageName + "/" + languageID + "-dataProps.xml";
 	}
 	
 	public  static String getGNTmodelZipFileName(String languageName, String languageID){
-		return ConlluToConllMapper.
+		return UDlanguages.
 				conllPath + languageName + "/" + languageID + "-GNTmodel.zip";
 	}
 	
 	public static String getMDPmodelZipFileName(String languageName, String languageID) {
-		return ConlluToConllMapper.
+		return UDlanguages.
 				conllPath + languageName + "/" + languageID + "-MDPmodel.zip";
 	}
 	
@@ -50,21 +46,18 @@ public class ConlluToConllMapper {
 	}
 	
 	public static String getConllTrainFile(String languageName, String languageID) {
-		return ConlluToConllMapper.
+		return UDlanguages.
 				conllPath + languageName + "/" + languageID + "-ud-train.conll";
 	}
 	public static String getConllTestFile(String languageName, String languageID) {
-		return ConlluToConllMapper.
+		return UDlanguages.
 				conllPath + languageName + "/" + languageID + "-ud-test.conll";
 	}
 
 	public static String getConllDevFile(String languageName, String languageID) {
-		return ConlluToConllMapper.
+		return UDlanguages.
 				conllPath + languageName + "/" + languageID + "-ud-dev.conll";
 	}
-
-
-
 
 	/* Create corpusProp.xml file
 	 * E.g., conll/Arabic/arabicCorpusProps.xml
@@ -182,10 +175,15 @@ public class ConlluToConllMapper {
 	 * @return
 	 */
 	private  static String makeConlluFileName (String languageName, String languageID, String mode){
-		String fileName =
-				ConlluToConllMapper.conlluPath + "UD_" + languageName + "-master/" + languageID + "-ud-" + mode + ".conllu";
+		String fileName = "";
+		if (UDlanguages.version.equals("1_2")){
+			fileName = UDlanguages.conlluPath + "UD_" + languageName + "-master/" + languageID + "-ud-" + mode + ".conllu";
+		}
+		else
+			if (UDlanguages.version.equals("1_3")){
+				fileName = UDlanguages.conlluPath + "UD_" + languageName  + languageID + "-ud-" + mode + ".conllu";
+			}
 		return fileName;
-
 	}
 
 	/**
@@ -197,17 +195,15 @@ public class ConlluToConllMapper {
 	 * @return
 	 */
 	private  static String makeConllFileName (String languageName, String languageID, String mode){
-		String conllDirName = ConlluToConllMapper.conllPath + languageName +"/";
+		String conllDirName = UDlanguages.conllPath + languageName +"/";
 		File conllLangDir = new File(conllDirName);
 		if (!conllLangDir.exists()) conllLangDir.mkdir();
 		String fileName = conllDirName + languageID + "-ud-" + mode + ".conll";
 		return fileName;
-
 	}
 
 	private static String makeSentenceFileName(String conllFileName){
 		return conllFileName.split("\\.conll")[0]+"-sents.txt";
-
 	}
 
 	/**
@@ -284,7 +280,6 @@ public class ConlluToConllMapper {
 				String[] tokenizedLine = line.split("\t");
 				tokens.add(tokenizedLine[1]);
 			}
-
 		}
 		reader.close();
 		writer.close();
@@ -345,6 +340,38 @@ public class ConlluToConllMapper {
 		ConlluToConllMapper.transformerDev(languageName, languageID);
 		ConlluToConllMapper.transformerTest(languageName, languageID);
 	}
+	
+	public static void runUDversion_1_2() throws IOException{
+		UDlanguages.setVersion_1_2();
+		
+		UDlanguages.addLanguages();
+		for (Pair<String, String> language : UDlanguages.languages){
+			System.out.println("Processing: " + language);
+			initLanguageCorpusPropsFile(language.getR());
+			initLanguageDataPropsFile(language.getR());
+
+			transformer(language.getL(), language.getR());
+
+			writeLanguageCorpusPropsFile(language.getL(), language.getR());
+			writeLanguageDataPropsFile(language.getL(), language.getR());
+		}
+	}
+	
+	public static void runUDversion_1_3() throws IOException{
+		UDlanguages.setVersion_1_3();
+		
+		UDlanguages.addLanguages();
+		for (Pair<String, String> language : UDlanguages.languages){
+			System.out.println("Processing: " + language);
+			initLanguageCorpusPropsFile(language.getR());
+			initLanguageDataPropsFile(language.getR());
+
+			transformer(language.getL(), language.getR());
+
+			writeLanguageCorpusPropsFile(language.getL(), language.getR());
+			writeLanguageDataPropsFile(language.getL(), language.getR());
+		}
+	}
 
 	/**
 	 * Loop across languages
@@ -352,18 +379,6 @@ public class ConlluToConllMapper {
 	 * @throws IOException
 	 */
 	public static void main(String[] args) throws IOException{
-		UDlanguages.addLanguages();
-		for (Pair<String, String> language : UDlanguages.languages){
-			System.out.println("Processing: " + language);
-			ConlluToConllMapper.initLanguageCorpusPropsFile(language.getR());
-			ConlluToConllMapper.initLanguageDataPropsFile(language.getR());
-
-			ConlluToConllMapper.transformer(language.getL(), language.getR());
-
-			ConlluToConllMapper.writeLanguageCorpusPropsFile(language.getL(), language.getR());
-			ConlluToConllMapper.writeLanguageDataPropsFile(language.getL(), language.getR());
-		}
+		runUDversion_1_2();
 	}
-
-
 }
