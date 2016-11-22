@@ -24,7 +24,8 @@ import data.Pair;
  */
 public class UDlanguageGNTmodelFactory {
 	
-	public UDlanguageGNTmodelFactory(){
+	public UDlanguageGNTmodelFactory(String version){
+		UDlanguages.version = version;
 		UDlanguages.addLanguages();
 	}
 	
@@ -81,8 +82,8 @@ public class UDlanguageGNTmodelFactory {
 	}
 	
 	public static void main(String[] args) throws IOException{
-		UDlanguageGNTmodelFactory udFactory = new UDlanguageGNTmodelFactory();
-		udFactory.trainAllLanguages();
+		UDlanguageGNTmodelFactory udFactory = new UDlanguageGNTmodelFactory("1_3");
+		//udFactory.trainAllLanguages();
 		udFactory.testAllLanguages(false);
 	}
 

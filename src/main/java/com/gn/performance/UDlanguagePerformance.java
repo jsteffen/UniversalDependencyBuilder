@@ -4,6 +4,8 @@ import java.text.DecimalFormat;
 import java.util.ArrayList;
 import java.util.List;
 
+import org.apache.commons.lang.StringUtils;
+
 import data.Pair;
 
 public class UDlanguagePerformance {
@@ -37,44 +39,45 @@ public class UDlanguagePerformance {
 	}
 	
 	public String toGNTString(){
-		String output = "Lang |  Acc   |  OOV   |  INV   |  Tok/Sec\n";
+		String output = StringUtils.rightPad("Lang", 14, ' ') +" |  Acc   |  OOV   |  INV   |  Tok/Sec\n";
 		output +=       "------------------------------------------\n";
 		DecimalFormat formatter = new DecimalFormat("#0.00");
 		double avgAcc = 0.0;
 		double avgOOV = 0.0;
 		
 		for (Pair<String,GNTperformance> pair : gntLanguagesPerformance){
-			output += pair.getL() + "   | " + pair.getR().toString() + "\n";
+			output += StringUtils.rightPad(pair.getL(), 14, ' ')  + " | " + pair.getR().toString() + "\n";
 			avgAcc += pair.getR().getAcc();
 			avgOOV += pair.getR().getAccOOV();
 		}
 		
 		output +=       "------------------------------------------\n";
 		// Compute average values
-		output += "Avg  |  " + formatter.format((avgAcc / gntLanguagesPerformance.size())*100) + 
+		output += StringUtils.rightPad("Avg", 14, ' ') +" | " + formatter.format((avgAcc / gntLanguagesPerformance.size())*100) + 
 				" |  " + formatter.format((avgOOV / gntLanguagesPerformance.size())*100);
+		output += "\n#Languages: "+ gntLanguagesPerformance.size();
 		
 		return output;
 	}
 	
 	public String toMDPString() {
-		String output = "Lang |  UAS   |  LAS   |  Speed tot. \n";
-		output +=       "------------------------------------\n";
+		String output = StringUtils.rightPad("Lang", 14, ' ') +" |  UAS   |  LAS   |  Speed tot. \n";
+		output +=       "--------------------------------------------\n";
 		DecimalFormat formatter = new DecimalFormat("#0.00");
 		double avgUnAcc = 0.0;
 		double avgLabAcc = 0.0;
 		
 		for (Pair<String,MDPperformance> pair : mdpLanguagesPerformance){
-			output += pair.getL() + "   | " + pair.getR().toString() + "\n";
+			output += StringUtils.rightPad(pair.getL(), 14, ' ')  + " | " + pair.getR().toString() + "\n";
 			avgUnAcc += pair.getR().getUnlabeledAcc();
 			avgLabAcc += pair.getR().getLabeledAcc();
 		}
 		
-		output +=       "------------------------------------------\n";
+		output +=       "--------------------------------------------\n";
 		// Compute average values
-		output += "Avg  |  " + formatter.format((avgUnAcc / mdpLanguagesPerformance.size())*100) + 
+		output += StringUtils.rightPad("Avg", 14, ' ') + " | " + formatter.format((avgUnAcc / mdpLanguagesPerformance.size())*100) + 
 				" |  " + formatter.format((avgLabAcc / mdpLanguagesPerformance.size())*100);
-		
+		output += "\n#Languages: "+ mdpLanguagesPerformance.size();
 		return output;
 	}
 

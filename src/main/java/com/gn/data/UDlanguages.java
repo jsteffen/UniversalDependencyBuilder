@@ -26,6 +26,7 @@ public class UDlanguages {
 	}
 
 	private static List<Pair<String,String>> addLanguages_1_2(){
+		setVersion_1_2();
 		languages.add(new Pair<String,String>("Arabic", "ar"));
 		languages.add(new Pair<String,String>("Bulgarian", "bg"));
 		languages.add(new Pair<String,String>("Czech", "cs"));
@@ -52,6 +53,7 @@ public class UDlanguages {
 	}
 
 	private static List<Pair<String, String>> addLanguages_1_3() {
+		setVersion_1_3();
 		languages.add(new Pair<String,String>("Ancient_Greek", "grc"));
 		languages.add(new Pair<String,String>("Ancient_Greek-PROIEL", "grc_proiel"));
 		languages.add(new Pair<String,String>("Arabic", "ar"));
@@ -67,7 +69,7 @@ public class UDlanguages {
 		languages.add(new Pair<String,String>("Dutch", "nl"));
 		languages.add(new Pair<String,String>("Dutch-LassySmall", "nl_lassysmall"));
 		languages.add(new Pair<String,String>("English", "en"));
-		languages.add(new Pair<String,String>("English-ESL", "en_esl"));
+		//	languages.add(new Pair<String,String>("English-ESL", "en_esl")); // causes very low recall; also not used by Google
 		languages.add(new Pair<String,String>("English-LinES", "en_lines"));
 		languages.add(new Pair<String,String>("Estonian", "et"));
 		languages.add(new Pair<String,String>("Finnish", "fi"));
@@ -83,11 +85,11 @@ public class UDlanguages {
 		languages.add(new Pair<String,String>("Indonesian", "id"));
 		languages.add(new Pair<String,String>("Irish", "ga"));
 		languages.add(new Pair<String,String>("Italian", "it"));
-		//languages.add(new Pair<String,String>("Japanese-KTC", "ja_ktc")); // text corpus needed
+		// languages.add(new Pair<String,String>("Japanese-KTC", "ja_ktc")); // text corpus needed; ; also not used by Google
 		languages.add(new Pair<String,String>("Kazakh", "kk"));
 		languages.add(new Pair<String,String>("Latin", "la"));
 		languages.add(new Pair<String,String>("Latin-ITTB", "la_ittb"));
-		languages.add(new Pair<String,String>("Latin-PROIEL", "la_proiel"));
+		// languages.add(new Pair<String,String>("Latin-PROIEL", "la_proiel")); // causes unvalid label error in MDP parser and LibLinear
 		languages.add(new Pair<String,String>("Latvian", "lv"));
 		languages.add(new Pair<String,String>("Norwegian", "no"));
 		languages.add(new Pair<String,String>("Old_Church_Slavonic", "cu"));

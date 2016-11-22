@@ -18,7 +18,8 @@ public class UDlanguageMDPmodelFactory {
 
 	private Eval eval;
 
-	public UDlanguageMDPmodelFactory(){
+	public UDlanguageMDPmodelFactory(String version){
+		UDlanguages.version = version;
 		UDlanguages.addLanguages();
 	}
 
@@ -79,7 +80,7 @@ public class UDlanguageMDPmodelFactory {
 
 	public static void main(String[] args) 
 			throws IOException, NoSuchAlgorithmException, InvalidInputDataException{
-		UDlanguageMDPmodelFactory udFactory = new UDlanguageMDPmodelFactory();
+		UDlanguageMDPmodelFactory udFactory = new UDlanguageMDPmodelFactory("1_3");
 		udFactory.testAllLanguages();
 	}
 }
