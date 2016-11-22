@@ -6,19 +6,19 @@ import java.util.List;
 import data.Pair;
 
 public class UDlanguages {
-	
+
 	public static String conlluPath = null;
 	public static String conllPath = null;
 	public static String version = null;
 
 	public static List<Pair<String,String>> languages = new ArrayList<Pair<String,String>>();
-	
+
 	public static void setVersion_1_2(){
 		conlluPath = "/Users/gune00/data/UniversalDependencies/";
 		conllPath = "/Users/gune00/data/UniversalDependencies/conll/";
 		version = "1_2";
 	}
-	
+
 	public static void setVersion_1_3(){
 		conlluPath = "/Users/gune00/data/UniversalDependencies/ud-treebanks-v1.3/";
 		conllPath = "/Users/gune00/data/UniversalDependencies/conll3/";
@@ -50,7 +50,7 @@ public class UDlanguages {
 		languages.add(new Pair<String,String>("Swedish", "sv"));
 		return languages;
 	}
-	
+
 	private static List<Pair<String, String>> addLanguages_1_3() {
 		languages.add(new Pair<String,String>("Ancient_Greek", "grc"));
 		languages.add(new Pair<String,String>("Ancient_Greek-PROIEL", "grc_proiel"));
@@ -108,18 +108,13 @@ public class UDlanguages {
 		languages.add(new Pair<String,String>("Turkish", "tr"));
 		return languages;
 	}
-	
-	
-	public static List<Pair<String,String>> addLanguages(){
-		if (UDlanguages.version.equals("1_2")){
-			return addLanguages_1_2();
-		}
-		else
-			if (UDlanguages.version.equals("1_3")){
-				return addLanguages_1_3();
-			}
-			else
-				return null;
-	}
 
+
+	public static List<Pair<String,String>> addLanguages(){
+		switch (UDlanguages.version){
+		case "1_2": return addLanguages_1_2();
+		case "1_3": return addLanguages_1_3();
+		default: return null;
+		}
+	}
 }
