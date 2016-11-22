@@ -181,7 +181,7 @@ public class ConlluToConllMapper {
 		}
 		else
 			if (UDlanguages.version.equals("1_3")){
-				fileName = UDlanguages.conlluPath + "UD_" + languageName  + languageID + "-ud-" + mode + ".conllu";
+				fileName = UDlanguages.conlluPath + "UD_" + languageName  + "/" + languageID + "-ud-" + mode + ".conllu";
 			}
 		return fileName;
 	}
@@ -379,6 +379,6 @@ public class ConlluToConllMapper {
 	 * @throws IOException
 	 */
 	public static void main(String[] args) throws IOException{
-		runUDversion_1_2();
+		runUDversion_1_3();
 	}
 }
