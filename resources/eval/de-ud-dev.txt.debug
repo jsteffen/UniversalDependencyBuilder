@@ -1,1049 +1,1014 @@
-ADV:ADJ	150
-NOUN:PROPN	133
-PRON:DET	83
-PROPN:NOUN	71
-AUX:VERB	68
-VERB:AUX	35
-VERB:ADJ	32
-ADJ:PROPN	29
-ADJ:VERB	28
-PRON:ADV	22
-PRON:ADJ	21
-ADV:ADP	20
-CONJ:ADV	20
-CONJ:ADP	18
-ADV:VERB	18
-DET:PRON	18
-ADJ:ADV	15
-ADJ:PRON	14
-ADV:PRON	14
-NOUN:ADJ	11
-NOUN:VERB	10
-ADV:SCONJ	9
-PUNCT:PAUSE	9
-X:PUNCT	9
-ADV:PROPN	9
-CONJ:SCONJ	9
-NOUN:ADV	8
-VERB:NOUN	7
-ADV:NOUN	7
-VERB:PRON	7
-ADV:PART	7
-X:PROPN	7
-PRON:NOUN	6
-SCONJ:ADP	5
-ADJ:DET	5
-X:NOUN	4
-PROPN:ADV	4
-PRON:PROPN	3
-NOUN:PRON	3
-VERB:ADP	3
-SCONJ:ADV	3
-ADJ:NOUN	3
-ADV:CONJ	3
-SCONJ:CONJ	3
-PROPN:VERB	3
-ADP:ADV	3
-ADP:ADJ	3
-X:EMO	2
-CONJ:PRON	2
-ADV:DET	2
-NUM:PROPN	2
-VERB:DET	2
-DET:ADV	2
-PROPN:ADP	2
-PRON:VERB	2
-VERB:PROPN	2
-PART:PROPN	2
-X:VERB	2
-CONJ:PROPN	1
-SCONJ:PRON	1
-NUM:ADJ	1
-PART:ADV	1
-NUM:ADV	1
-DET:PROPN	1
-_:PRON	1
-VERB:ADV	1
-ADP:CONJ	1
-ADP:VERB	1
-NUM:DET	1
-AUX:ADJ	1
-SCONJ:VERB	1
-AUX:ADP	1
-X:NUM	1
-ADP:PROPN	1
-NOUN:ADP	1
-PRON:ADP	1
-PROPN:ADJ	1
-NOUN:NUM	1
-PUNCT:EMO	1
-PRON:SCONJ	1
-SCONJ:DET	1
-ADP:PRON	1
-V NOUN
-17 deren PRON NOUN
-1 Mit PRON ADP
-13 Ihres ADJ PROPN
-13 Besucher NOUN PROPN
-10 seinen PRON DET
-1 Hab AUX ADP
-4 wie ADV ADP
-7 seine PRON DET
-8 völlig ADV ADJ
-16 ist AUX VERB
-19 aufgehoben VERB ADJ
-5 wenn CONJ SCONJ
-8 gehetzt ADJ ADV
-3 hab AUX VERB
-10 denn ADV CONJ
-22 genau ADV ADJ
-3 gut ADV ADJ
-5 Nummer NOUN PROPN
-6 EINS NOUN PROPN
-11 Aachener ADJ PROPN
-12 City NOUN PROPN
-4 die PRON DET
-5 unserer PRON ADJ
-8 dazu PRON ADV
-20 liebe NOUN VERB
-1 Möbel NOUN PROPN
-10 lässt AUX VERB
-17 ein NUM DET
-20 länger ADV ADJ
-23 etwas PRON ADV
-24 besseres NOUN ADJ
-1 Das PRON DET
-7 etwas ADV PRON
-9 übertrieben ADJ VERB
-3 als CONJ ADP
-2 hab AUX VERB
-5 abgefertigt ADJ VERB
-1 Wahrscheinlich ADV ADJ
-1 Denn ADV SCONJ
-10 mal NOUN ADV
-1 Die PRON DET
-5 Schneiderei NOUN NUM
-1 Mein PRON DET
-2 Sakko NOUN PROPN
-4 Ärmel NOUN PROPN
-6 zu ADV PART
-9 da ADV SCONJ
-13 wie CONJ ADP
-14 original ADV ADJ
-15 gekürzt VERB ADJ
-9 direkt ADV ADJ
-21-22 fürs _ PRON
-7 daran PRON ADV
-27 als SCONJ ADP
-39 kurz ADV ADJ
-16 Sonderwünsche NOUN PROPN
-18 € X PUNCT
-5 meinen PRON DET
-7 schlecht ADV ADJ
-10 aber CONJ ADV
-26 stoße VERB ADJ
-10 als CONJ ADP
-2 verwunder VERB PRON
-8 lange ADV ADJ
-3 uneingeschränkt ADV VERB
-6 bin AUX VERB
-19 direkt ADV ADJ
-4 bestimmt ADV VERB
-7 mal NOUN ADV
-12 noch CONJ ADV
-2 sind AUX VERB
-4 öfter ADV PRON
-12 gut ADV ADJ
-2 spontan ADV ADJ
-5 gleichbleibend ADV ADJ
-11 wurde VERB AUX
-13 enttäuscht ADJ VERB
-4 öfteren NOUN ADJ
-5 gut ADV ADJ
-12 angenehm ADV ADJ
-5 neu ADV ADJ
-15 verweilen NOUN ADJ
-1 Liebe ADJ PROPN
-5 .... PUNCT PAUSE
-10 ... PUNCT PAUSE
-4 selten ADV ADJ
-15 wie SCONJ CONJ
-7 hat AUX VERB
-2 haben VERB AUX
-9 exakt ADV ADJ
-25 etwas ADV PRON
-27 als CONJ ADP
-28 geplant ADJ ADV
-5 problemlos ADV PRON
-8 betroffen VERB ADJ
-13 umgehend ADV ADJ
-4 Schöne ADJ PROPN
-8 70er NOUN ADJ
-7 hatten VERB AUX
-1 Selbstverständlich ADV ADJ
-2 sind AUX VERB
-8 Möbel PROPN NOUN
-13 Segmüller PROPN NOUN
-6 noch CONJ ADV
-11 die PRON DET
-12 mithalten VERB ADJ
-6 soweit CONJ SCONJ
-8 das PRON DET
-13 die PRON DET
-14 deutlich ADV ADJ
-2 eben ADV VERB
-2 Firma NOUN PROPN
-13 unserem PRON DET
-19 sauber ADV ADJ
-21 ordentlich ADV ADJ
-12 präsentiert ADJ VERB
-4 gut ADV ADJ
-6 sauber ADV ADJ
-7 bezüglich ADP ADV
-10 Firma NOUN PROPN
-1 Vielen PRON ADJ
-8 voller ADP ADJ
-19 Firma NOUN PROPN
-8 als ADV SCONJ
-8 waren AUX VERB
-8 eines DET PRON
-8 ca ADV PROPN
-14 aber CONJ ADV
-18 ist AUX VERB
-4 gern ADV VERB
-5 ein ADV DET
-10 die PRON DET
-11 man NOUN PRON
-16 ist AUX VERB
-14 Datenbank NOUN PROPN
-6 beraten ADJ VERB
-1 War NOUN VERB
-21 verschriebene VERB ADJ
-3 unserem PRON ADJ
-15 bischen PRON ADJ
-10 gebissenem VERB ADJ
-8 etwas PRON ADV
-9 Antibakterielles NOUN PROPN
-6 später ADV ADJ
-8 ganz ADV ADJ
-14 ausmache VERB NOUN
-5 TA NOUN PROPN
-8 zu ADV PART
-20 ... PUNCT PAUSE
-2 AlPonte PROPN NOUN
-11 keines PRON DET
-10 gerichtet ADJ VERB
-8 Vespa PROPN NOUN
-7 Freitag PROPN NOUN
-8 kurz ADV ADJ
-13 derselbe PRON ADJ
-21 kurz ADV ADJ
-29 wären AUX VERB
-31 ausreichend ADV ADJ
-33 vorhanden VERB ADJ
-8 Vespa PROPN NOUN
-3 selbstverständlich ADV ADJ
-11 frage VERB AUX
-16 wie SCONJ CONJ
-16 Spa NOUN PROPN
-1 Zimmer NOUN ADV
-2 sind AUX VERB
-2 hätten AUX VERB
-5 moderneres NOUN ADJ
-9 sicherlich ADV ADJ
-7 dauernd ADV ADJ
-5 meiner PRON DET
-9 Hotel PROPN NOUN
-3 sind AUX VERB
-23 weg ADV VERB
-24 ... PUNCT PAUSE
-4 gutes NOUN PRON
-11 trots ADP ADV
-12 geleisteter VERB ADJ
-6 lassen AUX VERB
-7 bis SCONJ ADP
-2 über ADV ADP
-4 T X NOUN
-5 € X PUNCT
-2 Öffentlich ADV ADJ
-11 weingarten PROPN VERB
-5 positiv ADV ADJ
-5 ausgestattet ADJ VERB
-9 TechnoGym PROPN NOUN
-22 rollen NOUN VERB
-30 Sauna NOUN PROPN
-8 Ihr PRON PROPN
-16 einer DET PRON
-4 euch PRON ADV
-11 Ihr PRON NOUN
-12 werdet AUX VERB
-3 super ADV ADJ
-9 haben VERB AUX
-4 mehr PRON ADV
-4 meiner PRON DET
-36 Yoga NOUN PROPN
-38 Lehrers NOUN PROPN
-2 verdient VERB DET
-8 Burrichter PROPN NOUN
-11 seiner PRON DET
-12 Yoga NOUN PROPN
-23 kontinuierlich ADV ADJ
-10 geworden AUX VERB
-11 ... PUNCT PAUSE
-1 Dr. NOUN PROPN
-2 Sieben PROPN NOUN
-3 ist AUX VERB
-5 hervorragend ADV ADJ
-20 haben VERB AUX
-7 Dr. NOUN PROPN
-10 wie CONJ ADP
-18 den PRON VERB
-23 % X NOUN
-1 Bin VERB PROPN
-9 Dr. NOUN PROPN
-15 bin AUX VERB
-17 zufrieden VERB ADJ
-18 gewesen AUX VERB
-2 Dr. NOUN PROPN
-6 äußerst ADV ADJ
-5 schön ADV ADJ
-6 eingerichtet ADJ VERB
-17 tiptop ADJ VERB
-6 ;-) PUNCT EMO
-2 eben ADV VERB
-6 erste ADV ADJ
-13 Doktor NOUN PROPN
-1 Unangemeldet ADV VERB
-4 dazwischen ADV ADP
-8 ca ADV ADP
-13 erträglich ADV ADJ
-13 Doktor NOUN PROPN
-8 werden VERB AUX
-5 bis ADV ADP
-1 Einwandfreier ADJ PROPN
-7 Rauschgold PROPN NOUN
-14 der PRON DET
-2 haben VERB AUX
-11 Ihren PRON PROPN
-12 Schlaf NOUN PROPN
-5 Rauschgold PROPN NOUN
-7 Rauschgold PROPN NOUN
-8 fern ADV VERB
-14 Ruhe NOUN PROPN
-1 Denn ADV SCONJ
-4 soviel ADV PRON
-7 wo PRON ADV
-14 socially ADV PROPN
-1 STELLT NOUN PROPN
-2 DIE DET PROPN
-3 VERANSTALTER NOUN PROPN
-2 Pizzeria NOUN PROPN
-5 als ADV ADP
-14 Käse NOUN PROPN
-17 damit SCONJ ADV
-20 verbrannte NOUN VERB
-3 war AUX VERB
-9 essen NOUN VERB
-14 Öl NOUN PROPN
-15 bzw CONJ PROPN
-5 Hotel NOUN PROPN
-11 bereit VERB ADJ
-3 / X PUNCT
-10 bin VERB AUX
-6 gut ADV ADJ
-10 / X PUNCT
-12 ein ADV PRON
-17 gut ADV ADJ
-2 perfect ADJ VERB
-12 sahne NOUN ADP
-5 ist AUX VERB
-4 Pasta NOUN PROPN
-6 Salate NOUN PROPN
-2 TV PROPN NOUN
-11 LIVE NOUN PROPN
-15 ect X VERB
-21 schauen NOUN VERB
-6 nur ADV ADP
-14 interessiert VERB ADJ
-4 gemütlich ADV ADJ
-1 Typisch ADV ADJ
-2 Italienisch ADJ PROPN
-2 liebes ADJ DET
-7 wie CONJ ADP
-2 / X PUNCT
-5 waren VERB AUX
-27 etwas ADV PRON
-28 tiefer ADV ADJ
-9 Parkett NOUN PROPN
-16 eingedeckt VERB ADJ
-29 ... PUNCT PAUSE
-8 konnten VERB AUX
-4 Fastfood NOUN PROPN
-5 sein AUX VERB
-6 muss VERB AUX
-6 wie CONJ ADP
-14 Haus PROPN NOUN
-2 vergelich NOUN ADJ
-7 ihr PRON DET
-8 Hamburger ADJ PROPN
-9 original NOUN ADJ
-11 über ADV ADP
-9 seine PRON DET
-6 super ADJ ADV
-8 Frisch ADJ NOUN
-6 Burger NOUN PROPN
-6 Burger NOUN PROPN
-7 Läden NOUN PROPN
-6 Niederdorf PROPN NOUN
-8 wo PRON ADV
-9 Abends ADV NOUN
-12 meisten PRON NOUN
-13 los ADV ADJ
-6 hatte VERB ADJ
-7 Badewann NOUN PROPN
-13 Flat NOUN PROPN
-3 das PRON DET
-1 Nebst ADP ADV
-4 TV NOUN PROPN
-5 's X VERB
-3 hat AUX VERB
-9 stark ADV ADJ
-12 hat VERB AUX
-30 gästeorientiert ADJ VERB
-5 Eintrag NOUN PROPN
-11 Herbalife PROPN NOUN
-6 meines PRON DET
-2 seine PRON DET
-6 relativ ADV ADJ
-8 mein PRON ADJ
-22 wiederkehrendem ADJ DET
-3 das PRON DET
-1 Nettes ADJ PRON
-1 Brauch VERB ADV
-3 's PRON ADV
-5 Spass NOUN PROPN
-1 Schönen ADJ DET
-3 Büro NOUN PROPN
-4 für ADP PROPN
-1 Bin VERB ADP
-4 schnell ADV ADJ
-9 später ADV ADJ
-1 Bin VERB ADP
-5 Pappel PROPN NOUN
-1 Kenne VERB NOUN
-2 schnell ADV ADJ
-11 die PRON DET
-13 extra ADV PROPN
-6 ausschließlich ADV ADJ
-15 Formatierten VERB NOUN
-7 hatten VERB AUX
-3 später ADV ADJ
-10 Leine NOUN PROPN
-12 Fuß NOUN PROPN
-23 wollten VERB AUX
-2 ganz ADV VERB
-3 wichtig ADV ADJ
-8 dem DET PRON
-7 ade ADV VERB
-7 meines PRON DET
-8 freut VERB ADJ
-11 :-) X EMO
-3 LKW NOUN PROPN
-4 Weiterbildung NOUN PROPN
-7 Weaving PROPN NOUN
-15 wohl ADJ ADV
-6 einige DET PRON
-14 kennen ADV VERB
-1 Aber CONJ ADV
-4 bin AUX VERB
-7 gut ADV ADJ
-10 schnell ADV ADJ
-13 kompetent ADV ADJ
-6 einem PRON DET
-1 Denn CONJ ADV
-3 war AUX VERB
-7 gleich ADV PROPN
-4 ob SCONJ VERB
-20 ordentlich ADV ADJ
-22 freundlich ADV ADJ
-6 zu ADV PART
-7 viele ADJ PRON
-15 voll ADV ADJ
-1 Kam NOUN VERB
-6 Dr. NOUN PROPN
-1 Völlig ADV ADJ
-1 Bin NOUN VERB
-3 froh ADJ PRON
-1 Seitdem SCONJ ADV
-6 Schuhe NOUN PROPN
-3 wesentlich ADV ADJ
-4 länger ADV ADJ
-7 Billig ADJ PROPN
-4 viele ADJ PRON
-10 :-) X EMO
-5 als SCONJ ADP
-12 gerechtfertigt ADJ VERB
-7 wie ADV CONJ
-1 Alles ADV PRON
-7 .... PUNCT PAUSE
-1 Beides PRON DET
-1 Choclet PROPN NOUN
-2 Choclet PROPN NOUN
-7 choclet PROPN ADJ
-3 Rosenheimer ADJ PROPN
-4 sauber ADV ADJ
-5 abgestellte VERB ADJ
-9 Hertz PROPN NOUN
-4 sind AUX VERB
-21 deren PRON DET
-23 hundertprozentig ADV ADJ
-2 meine VERB PRON
-12 Isarstrasse PROPN NOUN
-3 Hertz PROPN NOUN
-12 Programms NOUN PROPN
-7 wie CONJ ADP
-8 Sand NOUN PROPN
-9 direkt ADV ADJ
-12 Humboldthafen PROPN NOUN
-7 viel ADJ PRON
-11 daß PRON SCONJ
-18 wird VERB AUX
-2 mußten AUX VERB
-10 überfordert ADJ VERB
-2 penetrant ADV ADJ
-6 dudelnde VERB ADJ
-10 laut ADJ VERB
-16 schwer ADV ADJ
-11 daß CONJ SCONJ
-27 Krawall NOUN PROPN
-31 angenervt ADJ VERB
-7 anders ADJ ADV
-8 diedenkweisen PROPN VERB
-4 Kurs NOUN PROPN
-6 Practitioner NOUN PROPN
-13 absolute ADV PART
-4 mehrfach ADV ADJ
-12 reibungslos ADV ADJ
-4 astreiner ADJ DET
-12 enttäuscht VERB ADJ
-2 will VERB AUX
-1 Extrem ADV NOUN
-2 viel ADJ PRON
-6 Thomann PROPN NOUN
-3 Shop NOUN PROPN
-4 hat VERB AUX
-15 hat VERB AUX
-11 später ADV ADJ
-12 hatte VERB AUX
-3 online NOUN ADV
-4 shopping NOUN VERB
-9 Fa NOUN PROPN
-5 ... PUNCT PAUSE
-4 ausführlich ADV ADJ
-6 wie CONJ ADP
-4 daran ADV PRON
-14 tätig VERB ADJ
-15 ist AUX VERB
-16 hatte AUX VERB
-11 gut ADV ADJ
-17 weitere PRON ADJ
-18 per ADP ADJ
-14 Herrn NOUN PROPN
-22 meiner PRON DET
-24 professionell ADV ADJ
-31 pdf NOUN PROPN
-5 meiner PRON DET
-4 tatsächlich ADV ADJ
-7 angegebenen VERB ADJ
-4 perfekt ADV ADJ
-15 einen PRON VERB
-16 der DET PRON
-17 lecker ADV ADJ
-18 gefüllten VERB ADJ
-9 schön ADV ADJ
-13 mag VERB ADJ
-18 voll ADV ADJ
-20 seine PRON DET
-4 klasse ADJ NOUN
-10 lecker ADV ADJ
-2 viel VERB PRON
-7 Schuchmann PROPN NOUN
-8 's PART PROPN
-3 hiermit ADV ADP
-7 die PRON DET
-3 meiner PRON DET
-1 Paniertes VERB ADJ
-5 Fertigpanade NOUN PROPN
-8 Fertig ADJ PROPN
-9 Remolade NOUN PROPN
-8 Spass NOUN PROPN
-16 gebotene NOUN ADJ
-1 Uns NOUN PRON
-2 ist AUX VERB
-5 ihre PRON DET
-6 einsamer ADJ PRON
-6 Wohnmobile NOUN PROPN
-9 keines PRON DET
-11 hat VERB AUX
-3 60qm X NUM
-16 Weidenallee PROPN NOUN
-9 Weidenallee PROPN NOUN
-2 Ihre PRON DET
-7 sicher ADJ ADV
-11 getroffen VERB AUX
-4 vierbeinigen ADJ PRON
-7 etwas PRON ADV
-4 selben PRON ADJ
-4 wären AUX VERB
-6 Verzweifelt VERB NOUN
-6 problem NOUN ADJ
-7 ist AUX VERB
-12 hat AUX VERB
-15 ständig ADV ADJ
-7 aber CONJ ADV
-9 wurde VERB AUX
-10 schlimmer ADJ ADV
-11 als CONJ ADP
-7 Ton NOUN PROPN
-13 gegenüber ADV ADP
-3 war AUX VERB
-15 Müll NOUN PROPN
-20 : X PUNCT
-21 ( X PUNCT
-7 die DET PRON
-12 hart ADV ADJ
-13 ihre PRON DET
-1 Naja ADV PROPN
-10 City NOUN PROPN
-4 kühl ADJ ADV
-2 Hamam PROPN NOUN
-15 all DET ADV
-1 Da ADV SCONJ
-2 werd AUX VERB
-7 andere PRON ADJ
-5 wirklich ADJ ADV
-10 ausgesprochen ADV VERB
-11 ruhig ADV ADJ
-4 wenig PRON ADV
-6 doch CONJ ADV
-7 mehr PRON ADV
-12 's PART PROPN
-13 Hotel NOUN PROPN
-17 völlig ADV ADJ
-12 ist AUX VERB
-20 Weitere ADV NOUN
-4 umsonst ADJ ADV
-5 zimmer NOUN ADV
-8 einzelzimmer NOUN ADV
-11 SEHR ADV PROPN
-12 LAUT ADJ PROPN
-5 direkt ADV ADJ
-13 warm ADV ADJ
-7 Hexenschopf PROPN NOUN
-5 wohl ADJ ADV
-2 mitten ADV VERB
-9 gut ADV ADJ
-10 besucht ADJ VERB
-6 all DET ADV
-5 durchgehend ADV ADJ
-4 meiner PRON DET
-8 abzüglich ADP ADJ
-12 € X NOUN
-13 neu ADV ADJ
-1 Das PRON DET
-9 etwas PRON ADV
-1 Zusätzlich ADV ADJ
-5 Jugndliche NOUN PROPN
-5 weg ADJ ADV
-15 andere PRON ADJ
-19 10 NUM PROPN
-4 unfreiwillig ADV ADJ
-10 wegen ADP VERB
-2 hatte AUX VERB
-10 € X PUNCT
-10 € X PUNCT
-3 Wunderbar ADJ PROPN
-18 da ADV PROPN
-4 bestimmt ADV VERB
-1 Da ADV SCONJ
-6 Tropische ADJ PROPN
-12 bis ADV ADP
-15 anderen PRON ADJ
-13 ihre PRON DET
-16 daß CONJ SCONJ
-30 Arbeitsmarkt NOUN PROPN
-7 die DET PRON
-8 kleinen PRON ADJ
-10 wenig PRON ADV
-7 alle DET PRON
-1 Weber PROPN ADV
-10 doch SCONJ CONJ
-15 eine PRON DET
-18 anderen PRON ADJ
-7 leicht ADV ADJ
-11 per ADP PRON
-12 saldo NOUN ADV
-5 geschlossen ADJ VERB
-25 Waigel NOUN PROPN
-6 Europaparlament PROPN NOUN
-7 Ministerpräsident NOUN PROPN
-12 gefährdet VERB ADJ
-10 sein PRON DET
-4 Weißen PROPN NOUN
-1 Wie ADV ADP
-3 europaweit ADV ADJ
-8 sozial ADV CONJ
-6 andere PRON ADJ
-2 Braunschweiger ADJ PROPN
-3 Biologe NOUN PROPN
-4 beobachtete VERB ADJ
-5 Deutsche NOUN PROPN
-4 natürlich ADV ADJ
-7 diejenige PRON ADJ
-10 KCTU PROPN NOUN
-3 hat AUX VERB
-19 Bundesarbeitsgericht PROPN NOUN
-36 AZR X NOUN
-14 bereit ADV ADJ
-7 seinen PRON DET
-2 Berliner ADJ PROPN
-6 ihr PRON DET
-5 hatte AUX VERB
-11 schärfer ADV PRON
-2 Bundesrepublik NOUN PROPN
-11 aktiv ADV ADJ
-23 all PRON ADV
-5 D X PROPN
-11 D X PROPN
-15 Thyssen PROPN NOUN
-19 E X PROPN
-21 plus NOUN PROPN
-24 mittelfristig ADV ADJ
-25 wahrscheinlich ADV ADJ
-2 FRG PROPN NOUN
-5 CDU NOUN PROPN
-9 seiner PRON DET
-9 aber CONJ ADV
-14 zu ADV PART
-7 weniger CONJ PRON
-14 als CONJ ADP
-6 seine PRON DET
-3 wird VERB AUX
-9 aber CONJ ADV
-11 wie CONJ ADP
-14 rein ADV DET
-22 später ADV ADJ
-6 ob CONJ SCONJ
-14 Bitte ADV NOUN
-23 hat VERB AUX
-4 dick ADV PROPN
-5 schneller ADV ADJ
-3 legten VERB ADJ
-7 lahm ADV VERB
-18 wo PRON ADV
-20 wie ADV SCONJ
-30 Lebendiger ADJ PROPN
-31 Ortsverein NOUN PROPN
-7 das PRON PROPN
-6 Agenda NOUN PROPN
-7 21 NUM PROPN
-16 NGO NOUN PROPN
-4 ihre PRON DET
-10 daß CONJ SCONJ
-13 imstande ADJ ADV
-22 ihren PRON DET
-12 viele PRON ADJ
-13 andere PRON ADJ
-14 sind VERB NOUN
-6 bis SCONJ ADP
-6 Zürcher ADJ PROPN
-11 Gütersloher ADJ PROPN
-14 Stiftung PROPN NOUN
-17 verbreitete VERB ADJ
-13 die DET PRON
-10 Atomkraftwerk NOUN PROPN
-22 bevor ADV SCONJ
-11 ihrer PRON DET
-12 Melatonin PROPN NOUN
-1 Roman PROPN NOUN
-4 Bundeswehr PROPN NOUN
-11 ihren PRON DET
-31 Bundeswehr PROPN NOUN
-10 unmittelbar ADV ADJ
-4 Bosnien PROPN NOUN
-3 ihren PRON DET
-5 künftig ADV ADJ
-12 unanständigen ADJ VERB
-4 hatte AUX VERB
-11 seinen PRON DET
-4 einzigen PRON ADJ
-6 alle ADJ PRON
-15 Bauman NOUN PROPN
-4 unbefangener ADV PRON
-6 flexibler ADV ADJ
-2 Bundessozialgericht PROPN NOUN
-17 derer PRON ADJ
-23 unter ADV ADP
-18 Platin PROPN NOUN
-2 Görtz PROPN NOUN
-9 Intensivmedizin NOUN PROPN
-7 unterbreitet VERB ADJ
-4 planmäßig ADV ADJ
-8 MEZ X PROPN
-21 gab VERB ADP
-24 später ADV ADJ
-27 frei ADV ADJ
-8 einig ADJ ADV
-12 deren PRON DET
-4 Repräsentantenhaus PROPN NOUN
-5 hat AUX VERB
-4 stationierten VERB ADJ
-4 meisten PRON NOUN
-5 deutschsprechend ADV ADJ
-12 St. NOUN PROPN
-15 St. NOUN PROPN
-18 St. NOUN PROPN
-21 St. NOUN PROPN
-17 interessant ADJ VERB
-1 Wissen NOUN VERB
-5 Not NOUN PROPN
-7 plötzlich ADV ADJ
-13 ihren PRON DET
-27 seit SCONJ ADP
-39 ihre PRON DET
-12 sein PRON DET
-8 schlechter ADV ADJ
-10 als CONJ ADP
-17 Sprecher NOUN PROPN
-15 scheitern VERB NOUN
-4 hatte AUX VERB
-8 acht NUM ADV
-9 um CONJ ADP
-13 je SCONJ ADV
-14 größer ADJ PRON
-8 verkrustet ADJ VERB
-2 Slow X PROPN
-3 Speed X PROPN
-5 ist AUX VERB
-1 Birkut PROPN VERB
-5 weitgehend ADV ADJ
-4 das PRON DET
-7 Mark NOUN PROPN
-4 weiter ADJ ADV
-18 der DET PRON
-25 Renommierklubs NOUN PROPN
-26 aufgerückte ADJ VERB
-11 Dollar NOUN PROPN
-2 ist AUX VERB
-13 tiefer ADV ADJ
-1 Früher ADV ADJ
-13 mußten AUX VERB
-30 Vize NOUN PROPN
-11 statt ADV ADP
-6 Thyssen PROPN NOUN
-3 Dubliner ADJ PROPN
-14 Frankfurter NOUN PROPN
-15 ihren PRON DET
-18 gleichzeitig ADV ADJ
-19 wachse VERB PRON
-22 international ADV ADJ
-17 Cafés NOUN PROPN
-18 beziehungsweise CONJ ADV
-24 deren PRON DET
-11 Landeskriminalamtes NOUN PROPN
-37 Paragraph NOUN PROPN
-39 a X PROPN
-5 doch CONJ ADV
-17 jedoch CONJ ADV
-3 hatte AUX VERB
-11 Russen PROPN NOUN
-9 Münchner ADJ PROPN
-14 Wirtschaftsforschung NOUN PROPN
-12 noch CONJ ADV
-18 seiner PRON DET
-14 ähnlich ADV ADJ
-15 wie CONJ ADP
-23 ist AUX VERB
-27 seiner PRON DET
-30 mehrfach ADV VERB
-21 Münchner ADJ PROPN
-22 Kessel NOUN PROPN
-1 Viele ADJ PRON
-9 allermeisten ADJ NOUN
-13 habe VERB AUX
-11 mußten AUX VERB
-9 Konzernchef NOUN PROPN
-17 Amsterdamer ADJ PROPN
-18 Tageszeitung NOUN PROPN
-3 haben VERB AUX
-7 Evangelen PROPN NOUN
-18 ihren PRON DET
-5 Anti ADJ PROPN
-19 sei AUX VERB
-11 Queen PROPN NOUN
-22 Freddie PROPN NOUN
-23 wollte VERB AUX
-16 Mann NOUN PROPN
-1 Berlin PROPN ADP
-14 einen DET PRON
-18 ohne CONJ ADP
-19 ihre PRON DET
-31 Universität PROPN NOUN
-7 euch PRON ADV
-6 seine PRON DET
-9 der DET PRON
-10 vermutlich ADV ADJ
-11 längste ADJ VERB
-9 Aufklärungseinsätze NOUN PROPN
-11 Ostslawonien PROPN NOUN
-11 besser ADV ADJ
-4 seine PRON DET
-8 unter ADV ADP
-1 Um ADV ADP
-4 Gulden PROPN NOUN
-2 Präsident PROPN NOUN
-14 Junta NOUN PROPN
-13 seinem PRON DET
-18 Wachstum NOUN PROPN
-24 das PRON DET
-6 seine PRON DET
-11 aber CONJ ADV
-10 zwischen ADV ADP
-17 Mark NOUN PROPN
-2 Wie ADV SCONJ
-14 jedoch CONJ ADV
-6 an ADV ADP
-5 voraussichtlich ADV ADJ
-7 Zwangsurlaub NOUN PROPN
-9 haben AUX VERB
-15 ihr PRON DET
-20 Europäischen ADJ PROPN
-21 Druckwasserreaktor NOUN PROPN
-25 offiziell ADV ADJ
-10 seiner PRON DET
-23 werden VERB AUX
-1 Auwald PROPN ADV
-7 sein PRON DET
-7 verloren ADV VERB
-8 Vorreiter NOUN PROPN
-13 werden VERB AUX
-9 adressierte ADJ VERB
-19 gut ADV ADJ
-2 Kasseler ADJ PROPN
-4 haben AUX VERB
-7 Bundesverwaltungsgericht PROPN NOUN
-3 zu PART ADV
-7 daß CONJ SCONJ
-20 mehr PRON ADV
-1 Kohl PROPN ADV
-8 mehr PRON ADV
-13 Pastor NOUN PROPN
-18 Christusgemeinde PROPN NOUN
-5 dafür ADV PRON
-8 die DET PRON
-2 will VERB AUX
-2 mußte AUX ADJ
-3 Küng PROPN NOUN
-7 relativ ADV ADJ
-17 ist AUX VERB
-20 seines PRON DET
-21 Wiener ADJ PROPN
-22 Jahrzehnts NOUN PROPN
-1 Melden VERB DET
-8 droht VERB PRON
-4 Handelsbeauftragte NOUN PROPN
-18 verjährt ADJ VERB
-25 verbreitet VERB ADJ
-4 morgen NOUN ADV
-2 bin AUX VERB
-3 wählen VERB PRON
-22 anderer PRON ADJ
-15 etlichen PRON ADJ
-20 nicht ADV PART
-1 Doch CONJ ADV
-6 daran ADV PRON
-13 Polen NOUN PROPN
-6 dem DET PRON
-7 Ex ADV NOUN
-13 hingegen CONJ ADV
-5 erneut ADV ADJ
-19 Steuern NOUN PROPN
-15 Gesamtbetriebsratschefin NOUN PROPN
-4 ihr PRON DET
-14 mehr PRON ADV
-15 als ADP CONJ
-4 räumte VERB PROPN
-10 Farnung PROPN NOUN
-14 beliebig ADV ADJ
-16 höllisch ADV ADJ
-1 Natürlich ADV ADJ
-8 wie CONJ ADP
-13 Hessischen ADJ PROPN
-14 Verbraucherzentrale NOUN PROPN
-18 wo PRON ADV
-25 Minibus NOUN PROPN
-27 Taxi NOUN PROPN
-9 Ring NOUN PROPN
-12 gemeinsam ADV ADJ
-23 nachhaltig ADV ADJ
-6 hat AUX VERB
-13 der DET PRON
-20 seiner PRON DET
-27 Osten PROPN NOUN
-3 seine PRON DET
-8 leicht ADV ADJ
-10 Innenminister NOUN PROPN
-13 schwer ADV ADJ
-5 hatten AUX VERB
-3 hatte AUX VERB
-11 erneut ADV ADJ
-17 Osten PROPN NOUN
-8 wird VERB AUX
-13 zu ADV PART
-14 heiß ADJ VERB
-5 bildungspolitisch ADV ADJ
-12 Präsident NOUN PROPN
-4 leer ADV ADJ
-16 bekannt ADV ADJ
-38 ängstlich ADV ADJ
-8 viel ADJ PRON
-5 schwer ADV ADJ
-7 gespickt ADJ VERB
-15 Kakerlaken NOUN PROPN
-27 wie CONJ ADP
-26 Bündnis PROPN NOUN
-1 Kohl PROPN ADV
-9 war AUX VERB
-19 der DET PRON
-22 unverletzt ADV VERB
-11 komplexer ADJ PRON
-24 viel ADV PRON
-4 gerichtlich ADV ADJ
-2 New ADJ PROPN
-3 Yorker ADJ PROPN
-5 vollständig ADV ADJ
-22 vollständig ADV ADJ
-3 Bundesbank PROPN NOUN
-5 natürlich ADV ADJ
-11 ist VERB AUX
-3 hätten AUX VERB
-6 daß CONJ SCONJ
-2 wurde VERB AUX
-1 Generalsekretär NOUN ADJ
-7 die DET PRON
-8 jahrelang ADV ADJ
-13 Copyrights NOUN PROPN
-15 hatte AUX VERB
-20 Fab PROPN ADP
-33 Fans NOUN PROPN
-4 Werkschau NOUN PROPN
-18 erneut ADV ADJ
-8 will VERB AUX
-12 AEG PROPN NOUN
-3 war AUX VERB
-4 offiziell ADV ADJ
-1 Bis ADV ADP
-2 zu ADV ADP
-6 haben AUX VERB
-14 seines PRON DET
-21 Falklandkrieg PROPN NOUN
+11: 4 eines DET PRON
+12: 5 seiner PRON DET
+30: 3 viertel NUM ADJ
+60: 14 weiter ADV ADJ
+61: 15 Empfelen VERB NOUN
+64: 1 Aber CONJ ADV
+68: 5 das SCONJ DET
+77: 14 sonder CONJ PRON
+80: 17 Ihre PRON NOUN
+96: 1 Ob CONJ SCONJ
+116: 5 prompt ADV ADJ
+117: 6 erhalten VERB ADJ
+128: 1 Danke ADV NOUN
+176: 11 Ihren PRON NOUN
+184: 3 Allem NOUN PROPN
+189: 8 Kind NOUN PROPN
+213: 1 Mehr PRON ADV
+214: 2 braucht AUX VERB
+224: 5 Radkranz NOUN PROPN
+238: 1 Das SCONJ PRON
+247: 10 bin AUX VERB
+258: 3 hatte AUX VERB
+274: 9 seine PRON DET
+307: 7 wie CONJ ADV
+341: 10 sind AUX VERB
+342: 11 hervorzuheben VERB ADJ
+367: 13 meines PRON DET
+387: 9 was VERB PRON
+401: 7 schnell ADV ADJ
+411: 7 laufendem ADJ DET
+416: 12 Funk NOUN PROPN
+420: 1 Mein PRON DET
+422: 3 hat AUX VERB
+441: 10 genervt ADJ VERB
+482: 3 EUR PROPN NOUN
+484: 5 das PRON DET
+487: 8 natürlich ADV ADJ
+500: 8 ca ADV PROPN
+505: 13 EUR PROPN NOUN
+513: 6 mein PRON DET
+559: 17 EUR PROPN NOUN
+563: 21 meines PRON DET
+572: 4 angeblich ADV ADJ
+607: 1 Sibille PROPN NOUN
+613: 7 Wikingerdorf PROPN NOUN
+615: 9 viel ADJ PRON
+634: 4 beusch NOUN ADJ
+642: 12 ... PUNCT PAUSE
+645: 2 engangierte ADJ VERB
+668: 7 Preis NOUN PROPN
+669: 8 Leistung NOUN PROPN
+686: 8 mal ADV NOUN
+711: 17 deren PRON NOUN
+734: 1 Mit PRON ADP
+777: 13 Ihres ADJ PROPN
+794: 13 Besucher NOUN PROPN
+846: 10 seinen PRON DET
+854: 1 Hab AUX ADP
+860: 7 keinem PRON DET
+869: 4 wie ADV ADP
+872: 7 seine PRON DET
+873: 8 völlig ADV ADJ
+882: 16 ist AUX VERB
+885: 19 aufgehoben VERB ADJ
+892: 5 wenn CONJ SCONJ
+895: 8 gehetzt ADJ ADV
+902: 3 hab AUX VERB
+909: 10 denn ADV CONJ
+937: 22 genau ADV ADJ
+960: 3 gut ADV ADJ
+986: 5 Nummer NOUN PROPN
+987: 6 EINS NOUN PROPN
+1002: 11 Aachener ADJ PROPN
+1003: 12 City NOUN PROPN
+1032: 4 die PRON DET
+1033: 5 unserer PRON ADJ
+1036: 8 dazu PRON ADV
+1048: 20 liebe NOUN VERB
+1055: 1 Möbel NOUN PROPN
+1064: 10 lässt AUX VERB
+1086: 17 ein NUM DET
+1089: 20 länger ADV ADJ
+1092: 23 etwas PRON ADV
+1093: 24 besseres NOUN ADJ
+1144: 1 Das PRON DET
+1150: 7 etwas ADV PRON
+1152: 9 übertrieben ADJ VERB
+1165: 3 als CONJ ADP
+1171: 2 hab AUX VERB
+1174: 5 abgefertigt ADJ VERB
+1195: 1 Wahrscheinlich ADV ADJ
+1204: 1 Denn ADV SCONJ
+1213: 10 mal NOUN ADV
+1216: 1 Die PRON DET
+1220: 5 Schneiderei NOUN NUM
+1228: 1 Mein PRON DET
+1229: 2 Sakko NOUN PROPN
+1231: 4 Ärmel NOUN PROPN
+1233: 6 zu ADV PART
+1236: 9 da ADV SCONJ
+1240: 13 wie CONJ ADP
+1241: 14 original ADV ADJ
+1242: 15 gekürzt VERB ADJ
+1253: 9 direkt ADV ADJ
+1266: 21-22 fürs _ PRON
+1283: 7 daran PRON ADV
+1303: 27 als SCONJ ADP
+1315: 39 kurz ADV ADJ
+1396: 18 € X PUNCT
+1417: 5 meinen PRON DET
+1432: 7 schlecht ADV ADJ
+1481: 10 aber CONJ ADV
+1497: 26 stoße VERB ADJ
+1512: 10 als CONJ ADP
+1517: 2 verwunder VERB PRON
+1523: 8 lange ADV ADJ
+1538: 3 uneingeschränkt ADV VERB
+1548: 6 bin AUX VERB
+1561: 19 direkt ADV ADJ
+1570: 4 bestimmt ADV VERB
+1573: 7 mal NOUN ADV
+1598: 12 noch CONJ ADV
+1604: 2 sind AUX VERB
+1636: 4 öfter ADV PRON
+1644: 12 gut ADV ADJ
+1649: 2 spontan ADV ADJ
+1669: 5 gleichbleibend ADV ADJ
+1691: 11 wurde VERB AUX
+1693: 13 enttäuscht ADJ VERB
+1707: 4 öfteren NOUN ADJ
+1721: 5 gut ADV ADJ
+1728: 12 angenehm ADV ADJ
+1736: 5 neu ADV ADJ
+1747: 15 verweilen NOUN ADJ
+1757: 1 Liebe ADJ PROPN
+1767: 5 .... PUNCT PAUSE
+1778: 10 ... PUNCT PAUSE
+1790: 4 selten ADV ADJ
+1801: 15 wie SCONJ CONJ
+1834: 7 hat AUX VERB
+1876: 2 haben VERB AUX
+1908: 9 exakt ADV ADJ
+1924: 25 etwas ADV PRON
+1926: 27 als CONJ ADP
+1927: 28 geplant ADJ ADV
+1936: 5 problemlos ADV PRON
+1939: 8 betroffen VERB ADJ
+1944: 13 umgehend ADV ADJ
+1951: 4 Schöne ADJ NOUN
+1992: 8 70er NOUN ADJ
+2020: 7 hatten VERB AUX
+2033: 1 Selbstverständlich ADV ADJ
+2034: 2 sind AUX VERB
+2040: 8 Möbel PROPN NOUN
+2045: 13 Segmüller PROPN NOUN
+2054: 6 noch CONJ ADV
+2060: 11 die PRON DET
+2061: 12 mithalten VERB ADJ
+2069: 6 soweit CONJ SCONJ
+2071: 8 das PRON DET
+2076: 13 die PRON DET
+2077: 14 deutlich ADV ADJ
+2082: 2 eben ADV VERB
+2086: 2 Firma NOUN PROPN
+2097: 13 unserem PRON DET
+2120: 19 sauber ADV ADJ
+2122: 21 ordentlich ADV ADJ
+2142: 12 präsentiert ADJ VERB
+2171: 4 gut ADV ADJ
+2173: 6 sauber ADV ADJ
+2187: 7 bezüglich ADP ADV
+2202: 10 Firma NOUN PROPN
+2206: 1 Vielen PRON ADJ
+2218: 8 voller ADP ADJ
+2223: 13 unserem PRON DET
+2229: 19 Firma NOUN PROPN
+2242: 8 als ADV SCONJ
+2261: 8 waren AUX VERB
+2287: 8 eines DET PRON
+2298: 8 ca ADV PROPN
+2304: 14 aber CONJ ADV
+2308: 18 ist AUX VERB
+2319: 4 gern ADV VERB
+2345: 10 die PRON DET
+2346: 11 man NOUN PRON
+2351: 16 ist AUX VERB
+2367: 14 Datenbank NOUN PROPN
+2376: 6 beraten ADJ VERB
+2386: 1 War NOUN VERB
+2417: 21 verschriebene VERB ADJ
+2424: 3 unserem PRON ADJ
+2436: 15 bischen PRON ADJ
+2450: 10 gebissenem VERB ADJ
+2463: 8 etwas PRON ADV
+2464: 9 Antibakterielles NOUN PROPN
+2472: 6 später ADV ADJ
+2474: 8 ganz ADV ADJ
+2492: 14 ausmache VERB NOUN
+2507: 5 TA NOUN PROPN
+2510: 8 zu ADV PART
+2523: 20 ... PUNCT PAUSE
+2526: 2 AlPonte PROPN NOUN
+2553: 11 keines PRON DET
+2585: 10 gerichtet ADJ VERB
+2595: 8 Vespa PROPN NOUN
+2606: 7 Freitag PROPN NOUN
+2607: 8 kurz ADV ADJ
+2612: 13 derselbe PRON ADJ
+2620: 21 kurz ADV ADJ
+2629: 29 wären AUX VERB
+2631: 31 ausreichend ADV ADJ
+2633: 33 vorhanden VERB ADJ
+2644: 8 Vespa PROPN NOUN
+2651: 3 selbstverständlich ADV ADJ
+2672: 11 frage VERB AUX
+2677: 16 wie SCONJ CONJ
+2733: 16 Spa NOUN PROPN
+2739: 1 Zimmer NOUN ADV
+2740: 2 sind AUX VERB
+2750: 2 hätten AUX VERB
+2753: 5 moderneres NOUN ADJ
+2765: 9 sicherlich ADV ADJ
+2793: 1 Du PRON PROPN
+2799: 7 dauernd ADV ADJ
+2807: 5 meiner PRON DET
+2812: 9 Hotel PROPN NOUN
+2827: 3 sind AUX VERB
+2847: 23 weg ADV VERB
+2848: 24 ... PUNCT PAUSE
+2858: 4 gutes NOUN PRON
+2865: 11 trots ADP ADV
+2866: 12 geleisteter VERB ADJ
+2882: 6 lassen AUX VERB
+2883: 7 bis SCONJ ADP
+2890: 2 über ADV ADP
+2892: 4 T X NOUN
+2893: 5 € X PUNCT
+2904: 2 Öffentlich ADV ADJ
+2919: 11 weingarten PROPN VERB
+2926: 5 positiv ADV ADJ
+2935: 5 ausgestattet ADJ VERB
+2939: 9 TechnoGym PROPN NOUN
+2952: 22 rollen NOUN VERB
+2960: 30 Sauna NOUN PROPN
+2970: 8 Ihr PRON PROPN
+2978: 16 einer DET PRON
+3010: 4 euch PRON ADV
+3018: 11 Ihr PRON NOUN
+3019: 12 werdet AUX VERB
+3041: 3 super ADV ADJ
+3047: 9 haben VERB AUX
+3053: 4 mehr PRON ADV
+3061: 4 meiner PRON DET
+3093: 36 Yoga NOUN PROPN
+3095: 38 Lehrers NOUN PROPN
+3100: 2 verdient VERB DET
+3115: 8 Burrichter PROPN NOUN
+3118: 11 seiner PRON DET
+3119: 12 Yoga NOUN PROPN
+3130: 23 kontinuierlich ADV ADJ
+3144: 10 geworden AUX VERB
+3189: 11 ... PUNCT PAUSE
+3191: 1 Dr. NOUN ADJ
+3192: 2 Sieben PROPN NOUN
+3193: 3 ist AUX VERB
+3195: 5 hervorragend ADV ADJ
+3264: 20 haben VERB AUX
+3274: 7 Dr. NOUN PROPN
+3277: 10 wie CONJ ADP
+3285: 18 den PRON VERB
+3290: 23 % X NOUN
+3313: 1 Bin VERB PROPN
+3321: 9 Dr. NOUN PROPN
+3327: 15 bin AUX VERB
+3329: 17 zufrieden VERB ADJ
+3330: 18 gewesen AUX VERB
+3334: 2 Dr. NOUN PROPN
+3338: 6 äußerst ADV ADJ
+3350: 5 schön ADV ADJ
+3351: 6 eingerichtet ADJ VERB
+3362: 17 tiptop ADJ VERB
+3371: 6 ;-) PUNCT EMO
+3374: 2 eben ADV VERB
+3378: 6 erste ADV ADJ
+3385: 13 Doktor NOUN PROPN
+3389: 1 Unangemeldet ADV VERB
+3392: 4 dazwischen ADV ADP
+3396: 8 ca ADV ADP
+3401: 13 erträglich ADV ADJ
+3420: 13 Doktor NOUN PROPN
+3430: 8 werden VERB AUX
+3442: 5 bis ADV ADP
+3449: 1 Einwandfreier ADJ PROPN
+3462: 7 Rauschgold PROPN NOUN
+3469: 14 der PRON DET
+3476: 2 haben VERB AUX
+3485: 11 Ihren PRON PROPN
+3486: 12 Schlaf NOUN PROPN
+3495: 5 Rauschgold PROPN NOUN
+3517: 7 Rauschgold PROPN NOUN
+3518: 8 fern ADV VERB
+3524: 14 Ruhe NOUN PROPN
+3529: 1 Denn ADV SCONJ
+3532: 4 soviel ADV PRON
+3535: 7 wo PRON ADV
+3542: 14 socially ADV PROPN
+3547: 1 STELLT NOUN PROPN
+3548: 2 DIE DET PROPN
+3549: 3 VERANSTALTER NOUN PROPN
+3556: 2 Pizzeria NOUN PROPN
+3588: 5 als ADV ADP
+3597: 14 Käse NOUN PROPN
+3600: 17 damit SCONJ ADV
+3603: 20 verbrannte NOUN VERB
+3610: 3 war AUX VERB
+3616: 9 essen NOUN VERB
+3621: 14 Öl NOUN PROPN
+3622: 15 bzw CONJ PROPN
+3632: 5 Hotel NOUN PROPN
+3651: 11 bereit VERB ADJ
+3660: 3 / X PUNCT
+3677: 10 bin VERB AUX
+3688: 6 gut ADV ADJ
+3692: 10 / X PUNCT
+3694: 12 ein ADV PRON
+3699: 17 gut ADV ADJ
+3704: 2 perfect ADJ VERB
+3718: 12 sahne NOUN ADP
+3725: 5 ist AUX VERB
+3735: 4 Pasta NOUN PROPN
+3737: 6 Salate NOUN PROPN
+3749: 2 TV PROPN NOUN
+3771: 11 LIVE NOUN PROPN
+3775: 15 ect X VERB
+3782: 21 schauen NOUN VERB
+3790: 6 nur ADV ADP
+3798: 14 interessiert VERB ADJ
+3804: 4 gemütlich ADV ADJ
+3814: 1 Typisch ADV ADJ
+3815: 2 Italienisch ADJ PROPN
+3819: 2 liebes ADJ DET
+3824: 7 wie CONJ ADP
+3831: 2 / X PUNCT
+3890: 5 waren VERB AUX
+3912: 27 etwas ADV PRON
+3913: 28 tiefer ADV ADJ
+3930: 9 Parkett NOUN PROPN
+3937: 16 eingedeckt VERB ADJ
+3950: 29 ... PUNCT PAUSE
+3959: 8 konnten VERB AUX
+3979: 4 Fastfood NOUN PROPN
+3980: 5 sein AUX VERB
+3981: 6 muss VERB AUX
+3994: 6 wie CONJ ADP
+4002: 14 Haus PROPN NOUN
+4006: 2 vergelich NOUN ADJ
+4011: 7 ihr PRON DET
+4025: 8 Hamburger ADJ PROPN
+4026: 9 original NOUN ADJ
+4028: 11 über ADV ADP
+4041: 9 seine PRON DET
+4050: 6 super ADJ ADV
+4066: 8 Frisch ADJ NOUN
+4079: 6 Burger NOUN PROPN
+4115: 6 Burger NOUN PROPN
+4116: 7 Läden NOUN PROPN
+4140: 6 Niederdorf PROPN NOUN
+4142: 8 wo PRON ADV
+4143: 9 Abends ADV NOUN
+4147: 12 meisten PRON NOUN
+4148: 13 los ADV ADJ
+4161: 6 hatte VERB ADJ
+4162: 7 Badewann NOUN PROPN
+4168: 13 Flat NOUN PROPN
+4206: 3 das PRON DET
+4212: 1 Nebst ADP ADV
+4215: 4 TV NOUN PROPN
+4216: 5 's X VERB
+4226: 3 hat AUX VERB
+4232: 9 stark ADV ADJ
+4235: 12 hat VERB AUX
+4253: 30 gästeorientiert ADJ VERB
+4266: 5 Eintrag NOUN PROPN
+4289: 11 Herbalife PROPN NOUN
+4297: 6 meines PRON DET
+4308: 2 seine PRON DET
+4312: 6 relativ ADV ADJ
+4329: 22 wiederkehrendem ADJ DET
+4355: 3 das PRON DET
+4367: 1 Nettes ADJ PRON
+4394: 1 Brauch VERB ADV
+4403: 3 's PRON ADV
+4411: 5 Spass NOUN PROPN
+4414: 1 Schönen ADJ DET
+4416: 3 Büro NOUN PROPN
+4417: 4 für ADP PROPN
+4422: 1 Bin VERB ADP
+4438: 4 schnell ADV ADJ
+4454: 9 später ADV ADJ
+4461: 1 Bin VERB ADP
+4465: 5 Pappel PROPN NOUN
+4495: 1 Kenne VERB NOUN
+4511: 2 schnell ADV ADJ
+4524: 11 die PRON DET
+4526: 13 extra ADV PROPN
+4542: 6 ausschließlich ADV ADJ
+4551: 15 Formatierten VERB NOUN
+4576: 7 hatten VERB AUX
+4623: 3 später ADV ADJ
+4630: 10 Leine NOUN PROPN
+4632: 12 Fuß NOUN PROPN
+4668: 23 wollten VERB AUX
+4690: 2 ganz ADV VERB
+4691: 3 wichtig ADV ADJ
+4696: 8 dem DET PRON
+4745: 7 ade ADV VERB
+4758: 7 meines PRON DET
+4769: 8 freut VERB ADJ
+4772: 11 :-) X EMO
+4811: 3 LKW NOUN PROPN
+4812: 4 Weiterbildung NOUN PROPN
+4826: 7 Weaving PROPN NOUN
+4834: 15 wohl ADJ ADV
+4842: 6 einige DET PRON
+4850: 14 kennen ADV VERB
+4854: 1 Aber CONJ ADV
+4857: 4 bin AUX VERB
+4860: 7 gut ADV ADJ
+4863: 10 schnell ADV ADJ
+4866: 13 kompetent ADV ADJ
+4880: 6 einem PRON DET
+4888: 1 Denn CONJ ADV
+4921: 3 war AUX VERB
+4925: 7 gleich ADV PROPN
+4940: 4 ob SCONJ VERB
+4956: 20 ordentlich ADV ADJ
+4958: 22 freundlich ADV ADJ
+4970: 6 zu ADV PART
+4971: 7 viele ADJ PRON
+4979: 15 voll ADV ADJ
+4983: 1 Kam NOUN VERB
+4988: 6 Dr. NOUN PROPN
+5002: 1 Völlig ADV ADJ
+5009: 1 Bin NOUN VERB
+5022: 1 Seitdem SCONJ ADV
+5027: 6 Schuhe NOUN PROPN
+5049: 3 wesentlich ADV ADJ
+5050: 4 länger ADV ADJ
+5053: 7 Billig ADJ PROPN
+5068: 4 viele ADJ PRON
+5074: 10 :-) X EMO
+5088: 6 gerne ADV VERB
+5101: 5 als SCONJ ADP
+5108: 12 gerechtfertigt ADJ VERB
+5117: 7 wie ADV SCONJ
+5125: 1 Alles ADV PRON
+5131: 7 .... PUNCT PAUSE
+5154: 1 Beides PRON DET
+5160: 1 Choclet PROPN NOUN
+5165: 2 Choclet PROPN NOUN
+5198: 7 choclet PROPN ADJ
+5204: 3 Rosenheimer ADJ PROPN
+5217: 4 sauber ADV ADJ
+5218: 5 abgestellte VERB ADJ
+5222: 9 Hertz PROPN NOUN
+5230: 4 sind AUX VERB
+5247: 21 deren PRON DET
+5249: 23 hundertprozentig ADV ADJ
+5254: 2 meine VERB PRON
+5264: 12 Isarstrasse PROPN NOUN
+5269: 3 Hertz PROPN NOUN
+5278: 12 Programms NOUN PROPN
+5290: 7 wie CONJ ADP
+5291: 8 Sand NOUN PROPN
+5321: 9 direkt ADV ADJ
+5325: 12 Humboldthafen PROPN NOUN
+5337: 7 viel ADJ PRON
+5341: 11 daß PRON SCONJ
+5348: 18 wird VERB AUX
+5352: 2 mußten AUX VERB
+5402: 10 überfordert ADJ VERB
+5421: 2 penetrant ADV ADJ
+5425: 6 dudelnde VERB ADJ
+5429: 10 laut ADJ VERB
+5435: 16 schwer ADV ADJ
+5450: 11 daß CONJ SCONJ
+5466: 27 Krawall NOUN PROPN
+5470: 31 angenervt ADJ VERB
+5480: 7 anders ADJ ADV
+5521: 8 diedenkweisen PROPN VERB
+5528: 4 Kurs NOUN PROPN
+5530: 6 Practitioner NOUN PROPN
+5552: 13 absolute ADV PART
+5593: 4 mehrfach ADV ADJ
+5601: 12 reibungslos ADV ADJ
+5627: 4 astreiner ADJ DET
+5642: 12 enttäuscht VERB ADJ
+5669: 2 will VERB AUX
+5674: 1 Extrem ADV NOUN
+5675: 2 viel ADJ PRON
+5692: 6 Thomann PROPN NOUN
+5704: 3 Shop NOUN PROPN
+5716: 4 hat VERB AUX
+5727: 15 hat VERB AUX
+5752: 11 später ADV ADJ
+5753: 12 hatte VERB AUX
+5764: 3 online NOUN ADV
+5765: 4 shopping NOUN VERB
+5777: 9 Fa NOUN PROPN
+5852: 5 ... PUNCT PAUSE
+5857: 4 ausführlich ADV ADJ
+5876: 6 wie CONJ ADP
+5883: 4 daran ADV PRON
+5893: 14 tätig VERB ADJ
+5894: 15 ist AUX VERB
+5897: 1 Meine PRON DET
+5913: 16 hatte AUX VERB
+5940: 11 gut ADV ADJ
+5946: 17 weitere PRON ADJ
+5947: 18 per ADP ADJ
+5970: 14 Herrn NOUN PROPN
+5978: 22 meiner PRON DET
+5980: 24 professionell ADV ADJ
+5987: 31 pdf NOUN PROPN
+5996: 5 meiner PRON DET
+6017: 4 tatsächlich ADV ADJ
+6020: 7 angegebenen VERB ADJ
+6032: 4 perfekt ADV ADJ
+6050: 15 einen PRON VERB
+6051: 16 der DET PRON
+6052: 17 lecker ADV ADJ
+6053: 18 gefüllten VERB ADJ
+6065: 9 schön ADV ADJ
+6069: 13 mag VERB ADJ
+6074: 18 voll ADV ADJ
+6076: 20 seine PRON DET
+6092: 4 klasse ADJ NOUN
+6107: 10 lecker ADV ADJ
+6112: 2 viel VERB PRON
+6118: 8 's PART PROPN
+6123: 3 hiermit ADV ADP
+6143: 7 die PRON DET
+6169: 3 meiner PRON DET
+6176: 1 Paniertes VERB ADJ
+6180: 5 Fertigpanade NOUN PROPN
+6183: 8 Fertig ADJ PROPN
+6184: 9 Remolade NOUN PROPN
+6198: 8 Spass NOUN PROPN
+6206: 16 gebotene NOUN ADJ
+6210: 1 Uns NOUN PRON
+6211: 2 ist AUX VERB
+6250: 5 ihre PRON DET
+6263: 6 einsamer ADJ PRON
+6274: 6 Wohnmobile NOUN PROPN
+6277: 9 keines PRON DET
+6279: 11 hat VERB AUX
+6300: 3 60qm X NUM
+6313: 16 Weidenallee PROPN NOUN
+6341: 9 Weidenallee PROPN NOUN
+6380: 2 Ihre PRON DET
+6385: 7 sicher ADJ ADV
+6389: 11 getroffen VERB AUX
+6437: 4 vierbeinigen ADJ PRON
+6440: 7 etwas PRON ADV
+6448: 4 selben PRON ADJ
+6470: 4 wären AUX VERB
+6472: 6 Verzweifelt VERB NOUN
+6480: 6 problem NOUN ADJ
+6492: 7 ist AUX VERB
+6497: 12 hat AUX VERB
+6500: 15 ständig ADV ADJ
+6510: 7 aber CONJ ADV
+6512: 9 wurde VERB AUX
+6513: 10 schlimmer ADJ ADV
+6514: 11 als CONJ ADP
+6544: 7 Ton NOUN PROPN
+6550: 13 gegenüber ADV ADP
+6563: 3 war AUX VERB
+6575: 15 Müll NOUN PROPN
+6580: 20 : X PUNCT
+6581: 21 ( X PUNCT
+6594: 12 hart ADV ADJ
+6595: 13 ihre PRON DET
+6621: 1 Naja ADV PROPN
+6630: 10 City NOUN PROPN
+6649: 4 kühl ADJ ADV
+6672: 2 Hamam PROPN NOUN
+6701: 15 all DET ADV
+6706: 1 Da ADV SCONJ
+6707: 2 werd AUX VERB
+6712: 7 andere PRON ADJ
+6765: 5 wirklich ADJ ADV
+6770: 10 ausgesprochen ADV VERB
+6771: 11 ruhig ADV ADJ
+6778: 4 wenig PRON ADV
+6780: 6 doch CONJ ADV
+6792: 3 ganz ADV ADJ
+6796: 7 mehr PRON ADV
+6821: 12 's PART PROPN
+6822: 13 Hotel NOUN PROPN
+6826: 17 völlig ADV ADJ
+6887: 12 ist AUX VERB
+6896: 20 Weitere ADV NOUN
+6902: 4 umsonst ADJ ADV
+6911: 5 zimmer NOUN ADV
+6914: 8 einzelzimmer NOUN ADV
+6917: 11 SEHR ADV PROPN
+6918: 12 LAUT ADJ PROPN
+6925: 5 direkt ADV ADJ
+6966: 13 warm ADV ADJ
+6977: 7 Hexenschopf PROPN NOUN
+7001: 5 wohl ADJ ADV
+7006: 2 mitten ADV VERB
+7013: 9 gut ADV ADJ
+7014: 10 besucht ADJ VERB
+7022: 6 all DET ADV
+7031: 5 durchgehend ADV ADJ
+7049: 4 meiner PRON DET
+7053: 8 abzüglich ADP ADJ
+7057: 12 € X NOUN
+7087: 13 neu ADV ADJ
+7093: 1 Das PRON DET
+7101: 9 etwas PRON ADV
+7106: 1 Zusätzlich ADV ADJ
+7110: 5 Jugndliche NOUN PROPN
+7141: 5 weg ADJ ADV
+7158: 15 andere PRON ADJ
+7233: 19 10 NUM PROPN
+7244: 4 unfreiwillig ADV ADJ
+7250: 10 wegen ADP VERB
+7259: 2 hatte AUX VERB
+7267: 10 € X PUNCT
+7281: 10 € X PUNCT
+7286: 3 Wunderbar ADJ PROPN
+7307: 18 da ADV PROPN
+7314: 4 bestimmt ADV VERB
+7318: 1 Da ADV SCONJ
+7323: 6 Tropische ADJ PROPN
+7341: 12 bis ADV ADP
+7345: 15 anderen PRON ADJ
+7362: 13 ihre PRON DET
+7399: 16 daß CONJ SCONJ
+7413: 30 Arbeitsmarkt NOUN PROPN
+7431: 7 die DET PRON
+7432: 8 kleinen PRON ADJ
+7434: 10 wenig PRON ADV
+7443: 7 alle DET PRON
+7454: 1 Weber PROPN ADV
+7463: 10 doch SCONJ CONJ
+7468: 15 eine PRON DET
+7471: 18 anderen PRON ADJ
+7481: 7 leicht ADV ADJ
+7538: 11 per ADP PRON
+7539: 12 saldo NOUN ADV
+7548: 5 geschlossen ADJ VERB
+7582: 25 Waigel NOUN PROPN
+7591: 6 Europaparlament PROPN NOUN
+7619: 7 Ministerpräsident NOUN PROPN
+7634: 12 gefährdet VERB ADJ
+7660: 10 sein PRON DET
+7677: 4 Weißen PROPN NOUN
+7701: 1 Wie ADV ADP
+7703: 3 europaweit ADV ADJ
+7708: 8 sozial ADV CONJ
+7733: 6 andere PRON ADJ
+7737: 2 Braunschweiger ADJ NOUN
+7738: 3 Biologe NOUN PROPN
+7739: 4 beobachtete VERB ADJ
+7740: 5 Deutsche NOUN PROPN
+7750: 4 natürlich ADV ADJ
+7753: 7 diejenige PRON ADJ
+7780: 10 KCTU PROPN NOUN
+7786: 3 hat AUX VERB
+7829: 19 Bundesarbeitsgericht PROPN NOUN
+7847: 36 AZR X NOUN
+7884: 14 bereit ADV ADJ
+7907: 7 seinen PRON DET
+7950: 2 Berliner ADJ PROPN
+7997: 6 ihr PRON DET
+8081: 5 hatte AUX VERB
+8087: 11 schärfer ADV PRON
+8095: 2 Bundesrepublik NOUN PROPN
+8104: 11 aktiv ADV ADJ
+8116: 23 all PRON ADV
+8131: 5 D X PROPN
+8132: 6 1 NUM PROPN
+8137: 11 D X PROPN
+8141: 15 Thyssen PROPN NOUN
+8145: 19 E X PROPN
+8147: 21 plus NOUN PROPN
+8150: 24 mittelfristig ADV ADJ
+8151: 25 wahrscheinlich ADV ADJ
+8181: 2 FRG PROPN NOUN
+8185: 6 weiter ADV ADJ
+8198: 5 CDU NOUN PROPN
+8219: 9 seiner PRON DET
+8239: 9 aber CONJ ADV
+8306: 14 zu ADV PART
+8307: 15 lax ADJ AUX
+8319: 7 weniger CONJ PRON
+8326: 14 als CONJ ADP
+8342: 6 seine PRON DET
+8375: 3 wird VERB AUX
+8381: 9 aber CONJ ADV
+8383: 11 wie CONJ ADP
+8386: 14 rein ADV DET
+8394: 22 später ADV ADJ
+8408: 6 ob CONJ SCONJ
+8416: 14 Bitte ADV NOUN
+8425: 23 hat VERB AUX
+8446: 4 dick ADV PROPN
+8470: 5 schneller ADV ADJ
+8478: 3 legten VERB ADJ
+8482: 7 lahm ADV VERB
+8503: 18 wo PRON ADV
+8505: 20 wie ADV SCONJ
+8516: 31 Ortsverein NOUN PROPN
+8528: 7 das PRON PROPN
+8593: 6 Agenda NOUN PROPN
+8594: 7 21 NUM PROPN
+8603: 16 NGO NOUN PROPN
+8615: 4 ihre PRON DET
+8621: 10 daß CONJ SCONJ
+8624: 13 imstande ADJ ADV
+8633: 22 ihren PRON DET
+8673: 12 viele PRON ADJ
+8674: 13 andere PRON ADJ
+8675: 14 sind VERB NOUN
+8684: 6 bis SCONJ ADP
+8704: 6 Zürcher ADJ PROPN
+8710: 11 Gütersloher ADJ PROPN
+8713: 14 Stiftung PROPN NOUN
+8716: 17 verbreitete VERB ADJ
+8732: 13 die DET PRON
+8770: 10 Atomkraftwerk NOUN PROPN
+8783: 22 bevor ADV SCONJ
+8809: 11 ihrer PRON DET
+8810: 12 Melatonin PROPN NOUN
+8816: 1 Roman PROPN NOUN
+8819: 4 Bundeswehr PROPN NOUN
+8826: 11 ihren PRON DET
+8847: 31 Bundeswehr PROPN NOUN
+8859: 10 unmittelbar ADV ADJ
+8880: 4 Bosnien PROPN NOUN
+8905: 3 ihren PRON DET
+8907: 5 künftig ADV ADJ
+8914: 12 unanständigen ADJ VERB
+8965: 4 hatte AUX VERB
+8972: 11 seinen PRON DET
+8989: 4 einzigen PRON ADJ
+8991: 6 alle ADJ PRON
+9000: 15 Bauman NOUN PROPN
+9006: 4 unbefangener ADV PRON
+9008: 6 flexibler ADV ADJ
+9043: 2 Bundessozialgericht PROPN NOUN
+9058: 17 derer PRON ADJ
+9064: 23 unter ADV ADP
+9106: 18 Platin PROPN NOUN
+9118: 2 Görtz PROPN NOUN
+9167: 9 Intensivmedizin NOUN PROPN
+9223: 7 unterbreitet VERB ADJ
+9330: 4 planmäßig ADV ADJ
+9334: 8 MEZ X PROPN
+9347: 21 gab VERB ADP
+9350: 24 später ADV ADJ
+9353: 27 frei ADV ADJ
+9379: 8 einig ADJ ADV
+9383: 12 deren PRON DET
+9395: 4 Repräsentantenhaus PROPN NOUN
+9396: 5 hat AUX VERB
+9410: 4 stationierten VERB ADJ
+9417: 4 meisten PRON NOUN
+9418: 5 deutschsprechend ADV ADJ
+9425: 12 St. NOUN PROPN
+9428: 15 St. NOUN PROPN
+9431: 18 St. NOUN PROPN
+9434: 21 St. NOUN PROPN
+9454: 17 interessant ADJ VERB
+9457: 1 Wissen NOUN VERB
+9461: 5 Not NOUN PROPN
+9463: 7 plötzlich ADV ADJ
+9517: 13 ihren PRON DET
+9531: 27 seit SCONJ ADP
+9544: 39 ihre PRON DET
+9561: 12 sein PRON DET
+9624: 8 schlechter ADV ADJ
+9626: 10 als CONJ ADP
+9633: 17 Sprecher NOUN PROPN
+9674: 15 scheitern VERB NOUN
+9698: 4 hatte AUX VERB
+9702: 8 acht NUM ADV
+9724: 9 um CONJ ADP
+9728: 13 je SCONJ ADV
+9729: 14 größer ADJ PRON
+9764: 8 verkrustet ADJ VERB
+9837: 2 Slow X PROPN
+9838: 3 Speed X PROPN
+9840: 5 ist AUX VERB
+9848: 1 Birkut PROPN VERB
+9863: 5 weitgehend ADV ADJ
+9876: 4 das PRON DET
+9886: 7 Mark NOUN PROPN
+9899: 4 weiter ADJ ADV
+9913: 18 der DET PRON
+9920: 25 Renommierklubs NOUN PROPN
+9921: 26 aufgerückte ADJ VERB
+9935: 11 Dollar NOUN PROPN
+9940: 2 ist AUX VERB
+9952: 13 tiefer ADV ADJ
+9960: 1 Früher ADV ADJ
+9972: 13 mußten AUX VERB
+9989: 30 Vize NOUN PROPN
+10008: 11 statt ADV ADP
+10040: 6 Thyssen PROPN NOUN
+10058: 3 Dubliner ADJ PROPN
+10108: 14 Frankfurter NOUN PROPN
+10109: 15 ihren PRON DET
+10112: 18 gleichzeitig ADV ADJ
+10113: 19 wachse VERB PRON
+10116: 22 international ADV ADJ
+10154: 17 Cafés NOUN PROPN
+10155: 18 beziehungsweise CONJ ADV
+10161: 24 deren PRON DET
+10176: 11 Landeskriminalamtes NOUN PROPN
+10202: 37 Paragraph NOUN PROPN
+10204: 39 a X PROPN
+10225: 5 doch CONJ ADV
+10237: 17 jedoch CONJ ADV
+10255: 3 hatte AUX VERB
+10264: 11 Russen PROPN NOUN
+10278: 9 Münchner ADJ PROPN
+10283: 14 Wirtschaftsforschung NOUN PROPN
+10303: 12 noch CONJ ADV
+10324: 18 seiner PRON DET
+10349: 14 ähnlich ADV ADJ
+10350: 15 wie CONJ ADP
+10385: 23 ist AUX VERB
+10390: 27 seiner PRON DET
+10393: 30 mehrfach ADV VERB
+10445: 21 Münchner ADJ PROPN
+10446: 22 Kessel NOUN PROPN
+10463: 1 Viele ADJ PRON
+10471: 9 allermeisten ADJ NOUN
+10494: 13 habe VERB AUX
+10515: 11 mußten AUX VERB
+10535: 9 Konzernchef NOUN PROPN
+10543: 17 Amsterdamer ADJ PROPN
+10544: 18 Tageszeitung NOUN PROPN
+10585: 3 haben VERB AUX
+10589: 7 Evangelen PROPN NOUN
+10600: 18 ihren PRON DET
+10610: 5 Anti ADJ PROPN
+10625: 19 sei AUX VERB
+10674: 11 Queen PROPN NOUN
+10685: 22 Freddie PROPN NOUN
+10686: 23 wollte VERB AUX
+10722: 16 Mann NOUN PROPN
+10738: 1 Berlin PROPN ADP
+10764: 14 einen DET PRON
+10768: 18 ohne CONJ ADP
+10769: 19 ihre PRON DET
+10805: 31 Universität PROPN NOUN
+10815: 7 euch PRON ADV
+10824: 6 seine PRON DET
+10828: 10 vermutlich ADV ADJ
+10829: 11 längste ADJ VERB
+10897: 9 Aufklärungseinsätze NOUN PROPN
+10899: 11 Ostslawonien PROPN NOUN
+10912: 11 besser ADV ADJ
+10942: 4 seine PRON DET
+10946: 8 unter ADV ADP
+10959: 1 Um ADV ADP
+10962: 4 Gulden PROPN NOUN
+10976: 2 Präsident PROPN NOUN
+10988: 14 Junta NOUN PROPN
+11005: 13 seinem PRON DET
+11048: 24 das PRON DET
+11068: 6 seine PRON DET
+11073: 11 aber CONJ ADV
+11093: 10 zwischen ADV ADP
+11100: 17 Mark NOUN PROPN
+11122: 2 Wie ADV SCONJ
+11174: 14 jedoch CONJ ADV
+11190: 6 an ADV ADP
+11253: 5 voraussichtlich ADV ADJ
+11255: 7 Zwangsurlaub NOUN PROPN
+11267: 9 haben AUX VERB
+11274: 15 ihr PRON DET
+11279: 20 Europäischen ADJ PROPN
+11280: 21 Druckwasserreaktor NOUN PROPN
+11284: 25 offiziell ADV ADJ
+11297: 10 seiner PRON DET
+11310: 23 werden VERB AUX
+11314: 1 Auwald PROPN ADV
+11320: 7 sein PRON DET
+11333: 7 verloren ADV VERB
+11371: 8 Vorreiter NOUN PROPN
+11376: 13 werden VERB AUX
+11387: 9 adressierte ADJ VERB
+11397: 19 gut ADV ADJ
+11407: 2 Kasseler ADJ PROPN
+11409: 4 haben AUX VERB
+11412: 7 Bundesverwaltungsgericht PROPN NOUN
+11432: 3 zu PART ADV
+11436: 7 daß CONJ SCONJ
+11449: 20 mehr PRON ADV
+11522: 8 mehr PRON ADV
+11527: 13 Pastor NOUN PROPN
+11532: 18 Christusgemeinde PROPN NOUN
+11543: 5 dafür ADV PRON
+11546: 8 die DET PRON
+11571: 2 will VERB AUX
+11589: 2 mußte AUX ADJ
+11590: 3 Küng PROPN NOUN
+11604: 7 relativ ADV ADJ
+11614: 17 ist AUX VERB
+11617: 20 seines PRON DET
+11618: 21 Wiener ADJ PROPN
+11619: 22 Jahrzehnts NOUN PROPN
+11624: 1 Melden VERB DET
+11631: 8 droht VERB PRON
+11639: 4 Handelsbeauftragte NOUN PROPN
+11726: 18 verjährt ADJ VERB
+11733: 25 verbreitet VERB ADJ
+11745: 4 morgen NOUN ADV
+11772: 2 bin AUX VERB
+11773: 3 wählen VERB PRON
+11792: 22 anderer PRON ADJ
+11809: 15 etlichen PRON ADJ
+11814: 20 nicht ADV PART
+11886: 1 Doch CONJ ADV
+11891: 6 daran ADV PRON
+11955: 13 Polen NOUN PROPN
+11974: 6 dem DET PRON
+11975: 7 Ex ADV NOUN
+12004: 13 hingegen CONJ ADV
+12024: 5 erneut ADV ADJ
+12061: 19 Steuern NOUN PROPN
+12098: 15 Gesamtbetriebsratschefin NOUN PROPN
+12116: 4 ihr PRON DET
+12126: 14 mehr PRON ADV
+12127: 15 als ADP CONJ
+12141: 4 räumte VERB PROPN
+12161: 10 Farnung PROPN NOUN
+12165: 14 beliebig ADV ADJ
+12185: 16 höllisch ADV ADJ
+12223: 1 Natürlich ADV ADJ
+12230: 8 wie CONJ ADP
+12236: 14 Verbraucherzentrale NOUN PROPN
+12272: 18 wo PRON ADV
+12280: 25 Minibus NOUN PROPN
+12282: 27 Taxi NOUN PROPN
+12299: 9 Ring NOUN PROPN
+12338: 12 gemeinsam ADV ADJ
+12349: 23 nachhaltig ADV ADJ
+12378: 6 hat AUX VERB
+12422: 13 der DET PRON
+12429: 20 seiner PRON DET
+12437: 27 Osten PROPN NOUN
+12444: 3 seine PRON DET
+12449: 8 leicht ADV ADJ
+12454: 13 schwer ADV ADJ
+12462: 5 hatten AUX VERB
+12480: 3 hatte AUX VERB
+12488: 11 erneut ADV ADJ
+12495: 17 Osten PROPN NOUN
+12512: 8 wird VERB AUX
+12517: 13 zu ADV PART
+12518: 14 heiß ADJ VERB
+12525: 5 bildungspolitisch ADV ADJ
+12549: 12 Präsident NOUN PROPN
+12557: 4 leer ADV ADJ
+12580: 16 bekannt ADV ADJ
+12602: 38 ängstlich ADV ADJ
+12641: 8 viel ADJ PRON
+12650: 5 schwer ADV ADJ
+12674: 7 gespickt ADJ VERB
+12683: 15 Kakerlaken NOUN PROPN
+12714: 27 wie CONJ ADP
+12752: 26 Bündnis PROPN NOUN
+12784: 9 war AUX VERB
+12794: 19 der DET PRON
+12797: 22 unverletzt ADV VERB
+12830: 11 komplexer ADJ PRON
+12843: 24 viel ADV PRON
+12900: 4 gerichtlich ADV ADJ
+12919: 2 New ADJ PROPN
+12920: 3 Yorker ADJ PROPN
+12939: 5 vollständig ADV ADJ
+12956: 22 vollständig ADV ADJ
+12968: 3 Bundesbank PROPN NOUN
+12970: 5 natürlich ADV ADJ
+12995: 11 ist VERB AUX
+13009: 3 hätten AUX VERB
+13012: 6 daß CONJ SCONJ
+13031: 2 wurde VERB AUX
+13036: 1 Generalsekretär NOUN ADJ
+13065: 7 die DET PRON
+13066: 8 jahrelang ADV ADJ
+13071: 13 Copyrights NOUN PROPN
+13073: 15 hatte AUX VERB
+13078: 20 Fab PROPN ADP
+13091: 33 Fans NOUN PROPN
+13098: 4 Werkschau NOUN PROPN
+13127: 18 erneut ADV ADJ
+13138: 8 will VERB AUX
+13142: 12 AEG PROPN NOUN
+13177: 3 war AUX VERB
+13178: 4 offiziell ADV ADJ
+13183: 1 Bis ADV ADP
+13184: 2 zu ADV ADP
+13188: 6 haben AUX VERB
+13298: 14 seines PRON DET
+13305: 21 Falklandkrieg PROPN NOUN

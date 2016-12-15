@@ -1,1632 +1,1567 @@
-PROPN:NOUN	474
-NOUN:PROPN	248
-ADJ:NOUN	83
-NOUN:ADJ	83
-ADJ:PROPN	59
-PROPN:ADJ	54
-AUX:VERB	32
-VERB:AUX	32
-NOUN:VERB	30
-PRON:DET	27
-VERB:NOUN	26
-NOUN:ADP	25
-PROPN:NUM	22
-DET:PRON	21
-ADP:NOUN	18
-ADJ:VERB	18
-NUM:PROPN	14
-PROPN:VERB	14
-PROPN:ADP	13
-ADV:ADP	12
-VERB:ADJ	11
-VERB:PROPN	11
-PRON:SCONJ	11
-DET:CONJ	10
-PART:SCONJ	10
-ADJ:ADV	10
-ADV:NOUN	9
-VERB:ADP	8
-ADP:ADV	8
-PART:ADP	7
-NOUN:PART	7
-NUM:NOUN	7
-ADJ:ADP	7
-PRON:ADP	7
-DET:ADJ	7
-ADP:ADJ	7
-PART:PROPN	7
-ADV:PRON	6
-PROPN:CONJ	5
-NOUN:CONJ	5
-ADJ:PART	4
-ADV:ADJ	4
-NOUN:X	4
-DET:NOUN	4
-AUX:ADP	4
-PART:NOUN	4
-DET:ADV	4
-PRON:ADV	4
-PROPN:PART	3
-X:NOUN	3
-PRON:NOUN	3
-ADV:DET	3
-ADV:VERB	3
-ADV:PROPN	3
-NOUN:NUM	3
-NOUN:DET	3
-SCONJ:PRON	2
-CONJ:ADP	2
-NOUN:PRON	2
-SCONJ:PART	2
-CONJ:DET	2
-NOUN:AUX	2
-ADP:VERB	2
-DET:VERB	2
-ADJ:DET	2
-ADV:PART	2
-PROPN:PRON	2
-PROPN:AUX	2
-NOUN:SCONJ	2
-ADJ:PRON	2
-CONJ:ADV	2
-CONJ:PROPN	1
-DET:NUM	1
-PART:ADJ	1
-NUM:ADJ	1
-PART:ADV	1
-DET:PROPN	1
-ADP:PART	1
-PRON:PART	1
-SCONJ:ADV	1
-ADV:SCONJ	1
-PUNCT:PROPN	1
-NUM:DET	1
-SCONJ:VERB	1
-PRON:ADJ	1
-ADP:PROPN	1
-ADP:AUX	1
-AUX:NOUN	1
-ADV:NUM	1
-NOUN:ADV	1
-ADJ:PUNCT	1
-ADJ:AUX	1
-PROPN:ADV	1
-PRON:VERB	1
-DET:PART	1
-��ान NOUN PROPN
-3 चिरनिद्रा NOUN PROPN
-4 महापरिनिर्वाण PROPN NOUN
-4 रामाभार PROPN NOUN
-9 बंधन PROPN NOUN
-10 विहार PROPN NOUN
-5 यह PRON DET
-6 रामाभार PROPN NOUN
-7 स्‍तूप PROPN NOUN
-1 अर्द्धगोलाकर ADJ VERB
-4 ठीक PART ADP
-5 सामने ADP ADV
-3 थाई PROPN ADJ
-5 सोने NOUN VERB
-3 मंदिर PROPN NOUN
-3 सबसे ADJ ADV
-13 वाट PROPN NOUN
-15 मंदिर PROPN NOUN
-5 सरकार PROPN NOUN
-7 सौजन्‍य ADP NOUN
-4 थाई PROPN ADJ
-5 सोने NOUN VERB
-11 चीनी ADJ NOUN
-4 जातक NOUN ADP
-5 फव्वारा NOUN VERB
-4 पहले ADP ADV
-18 पगोडा PROPN NOUN
-2 मंदिर PROPN NOUN
-12 देखना VERB AUX
-7 बँधी VERB ADJ
-9 सुरम्‍य ADJ NOUN
-17 तो PRON SCONJ
-21 ये PRON DET
-1 जलमंदिर PROPN NOUN
-9 शिव PROPN NOUN
-5 बिरला PROPN VERB
-6 धर्मशाला NOUN AUX
-7 है VERB AUX
-12 28 PROPN NUM
-10 रेलवे PROPN NOUN
-11 जंक्‍शन PROPN NOUN
-4 घंटे NOUN PROPN
-13 हवाई ADJ NOUN
-2 लोटस PROPN NOUN
-4 निक्‍को PROPN ADP
-8 रेसीडेंसी PROPN NOUN
-10 पथिक PROPN ADJ
-11 निवास PROPN NOUN
-3 पथिक PROPN ADJ
-3 धर्मशाला NOUN PROPN
-6 धर्मशाला NOUN PROPN
-1 बौद्ध ADJ NOUN
-10 व्‍यवस्‍था NOUN AUX
-3 युगांतर NOUN PROPN
-13 प्रदाता NOUN VERB
-14 रहा VERB AUX
-1 हिमालय PROPN NOUN
-3 तीर्थ NOUN PROPN
-7 यत्र PRON NOUN
-9 तत्र PRON NOUN
-12 खिसकती VERB NOUN
-5 अत्यंत ADV ADJ
-10 पुष्पकुंज NOUN PROPN
-8 दूब NOUN PROPN
-13 असंख्य DET ADJ
-26 उद्दाम ADJ PROPN
-17 मानो ADV SCONJ
-21 वाले AUX ADP
-28 यह PRON DET
-22 पैदल NOUN ADJ
-26 पालकी NOUN ADP
-1 यह PRON DET
-2 उत्तराखंड PROPN NOUN
-6 शिव PROPN NOUN
-12 सुदृढ़ ADJ PROPN
-13 पाषाण NOUN ADJ
-9 पोली ADJ VERB
-10 है VERB AUX
-2 मंडप NOUN PROPN
-4 पुरुष ADJ NOUN
-5 प्रमाण ADJ NOUN
-10 अत्यंत ADV PROPN
-5 शंकराचार्य PROPN NOUN
-1 निःसंदेह ADV NOUN
-9 सरोवर PROPN NOUN
-11 गाँधी PROPN ADJ
-12 स्मारक PROPN NOUN
-6 सरकार PROPN NOUN
-8 लचर ADJ ADP
-19 लगभग ADV PART
-4 जेद्दा PROPN NOUN
-21 संप्रभु ADJ NOUN
-36 उलट ADP NOUN
-5 लचर ADJ VERB
-6 रही VERB AUX
-5 अस्थिरता NOUN VERB
-6 है VERB AUX
-19 संप्रभु ADJ NOUN
-29 अनदेखी ADJ NOUN
-25 घोषणा PROPN NOUN
-8 मुझसे PRON ADP
-27 चाहेंगे VERB AUX
-2 मठ NOUN PROPN
-8 वार्षिक ADJ PROPN
-9 आराधना NOUN PROPN
-1 यह DET PRON
-30 आराधना NOUN VERB
-14 आराधना NOUN PROPN
-11 भजन NOUN PROPN
-19 स्वर्ण NOUN PROPN
-20 कलश NOUN PROPN
-9 के PROPN ADP
-13 आदिस्थानम NOUN PROPN
-1 योजना NOUN PROPN
-9 कमेटी NOUN PROPN
-1 दसवीं ADJ PROPN
-6 रकम NOUN DET
-7 पहले ADJ ADV
-7 योजना NOUN PROPN
-21 वृहद ADJ PROPN
-22 क्षेत्रफल NOUN ADJ
-6 यह PRON DET
-10 तकरीबन ADV PART
-13 कि PART SCONJ
-1 खुफिया PROPN ADJ
-2 ब्यूरो PROPN NOUN
-4 १९६८ PROPN NUM
-7 आईपीएस NOUN PROPN
-11 ब्यूरो PROPN NOUN
-13 रिटायर NOUN ADJ
-23 पाधी PROPN NOUN
-1 पाधी PROPN NOUN
-8 १९७० PROPN NUM
-17 ब्यूरो PROPN NOUN
-1 ब्यूरो NOUN PROPN
-13 रिटायर NOUN X
-9 बाहर ADV ADP
-6 लोकपाल NOUN PROPN
-1 लोकपाल NOUN PROPN
-1 कानून PROPN NOUN
-16 लोकपाल NOUN PROPN
-22 बेदाग ADJ NOUN
-1 जेएमएम PROPN NOUN
-6 लोकपाल NOUN PROPN
-14 रूप NOUN ADP
-3 यह PRON DET
-5 विज्ञान PROPN NOUN
-7 लोकपाल NOUN PROPN
-29 लोकपाल NOUN PROPN
-15 लोकपाल NOUN PROPN
-8 लोकपाल NOUN PROPN
-2 हम DET PRON
-19 बाहर ADV ADP
-1 लोकपाल NOUN PROPN
-28 उतने DET VERB
-8 लोकपाल NOUN PROPN
-17 फिक्सड ADJ PROPN
-21 वॉकी NOUN VERB
-23 अनलिमिटेड ADJ PROPN
-6 फिक्सड ADJ PROPN
-11 वॉकी NOUN ADP
-15 अनलिमिटेड ADJ PROPN
-20 तरह ADP NOUN
-15 टेलीसर्विस PROPN NOUN
-20 फिक्सड ADJ NOUN
-38 समान ADP ADJ
-5 एसेस PROPN NOUN
-15 यह PRON DET
-16 फिक्सड ADJ NOUN
-5 फिक्सड ADJ NOUN
-18 फिक्सड ADJ PROPN
-11 धारा NOUN PROPN
-12 १३ NUM PROPN
-14 ११ NUM PROPN
-16 १ NUM PROPN
-19 बी NOUN PROPN
-6 फ्लैश X NOUN
-10 अनबिलिवेबल PROPN NOUN
-20 आपके PRON ADP
-6 खुलकर VERB PROPN
-15 बोले VERB NOUN
-26 अदा NOUN ADJ
-7 जो DET PRON
-13 आजम NOUN PROPN
-27 पाकिस्तान NOUN PROPN
-8 सेकुलर ADJ NOUN
-24 जी PART PROPN
-16 फिर PART ADV
-2 विधानसभा PROPN NOUN
-18 बांट VERB NOUN
-3 ब्यूरो PROPN NOUN
-6 गठबंधन NOUN PROPN
-40 कम DET NOUN
-4 सुप्रीमो PROPN NOUN
-14 स्टीफन PROPN PART
-10 भवें NOUN ADJ
-9 गठबंधन NOUN PROPN
-3 नन NOUN PART
-7 नन NOUN PART
-12 नन NOUN PROPN
-1 लिहाजा CONJ ADV
-9 जैसा PRON SCONJ
-10 कि PART SCONJ
-12 काउंसिल NOUN PROPN
-11 वही DET PRON
-14 नन NOUN PROPN
-23 लिहाजा CONJ ADV
-26 नन NOUN PROPN
-34 निस्वार्थ ADJ NOUN
-37 दबे ADJ VERB
-38 कुचले ADJ VERB
-6 पंजीकरण PROPN NOUN
-7 समिति PROPN NOUN
-21 नन NOUN PART
-3 नियम NOUN PROPN
-13 सुन VERB NOUN
-14 ली AUX VERB
-3 शुक्र NOUN ADJ
-9 यू NOUN PROPN
-10 टर्न NOUN VERB
-6 विदेश PROPN NOUN
-14 मुख्य ADJ NOUN
-12 जमा NOUN ADJ
-2 दलाली NOUN PROPN
-6 मंत्रणा NOUN PROPN
-7 रखने VERB AUX
-2 पाठक PROPN NOUN
-8 समिति PROPN NOUN
-3 पूर्व ADP ADJ
-13 रेड PROPN NOUN
-15 नोटिस PROPN NOUN
-16 चस्पा NOUN PROPN
-26 तो PRON SCONJ
-9 बहुत DET ADV
-6 सरकार NOUN PROPN
-8 २००४ PROPN NOUN
-7 संयुक्त NOUN ADJ
-11 बहुत ADV DET
-15 जमानती ADJ VERB
-16 है VERB AUX
-3 जड़ NOUN ADJ
-8 स्वास्थ्य PROPN NOUN
-13 जन NOUN PROPN
-17 केंद्रीय ADJ PROPN
-19 क्षेत्र NOUN PROPN
-29 ०३ PROPN NUM
-11 राष्ट्रीय PROPN ADJ
-12 शिक्षा PROPN NOUN
-34 सकल ADJ PROPN
-35 घरेलू ADJ PROPN
-12 केंद्र NOUN PROPN
-7 साक्षर ADJ NOUN
-21 आगे ADP ADV
-22 रही VERB AUX
-15 मिलियन NUM NOUN
-23 बख्शा VERB NOUN
-25 जाएगा AUX VERB
-20 दोहरे DET ADJ
-9 मंत्री NOUN PROPN
-10 राष्ट्र ADJ PROPN
-7 निकाला AUX VERB
-9 दया NOUN CONJ
-2 भवन NOUN PROPN
-7 तो SCONJ PRON
-9 मंत्री NOUN PROPN
-12 मेरी PRON ADJ
-22 मेरी PRON NOUN
-15 जहां ADV PRON
-13 करें VERB NOUN
-14 वरना SCONJ VERB
-18 दोहरे DET ADJ
-2 युद्ध NOUN PROPN
-8 समिति PROPN NOUN
-29 द्रास PROPN NOUN
-14 अवकाश ADJ NOUN
-34 प्वाइंट PROPN NOUN
-35 ५३५३ PROPN NUM
-2 युद्ध NOUN PROPN
-4 समय ADP NOUN
-5 ब्रिगेडियर NOUN PROPN
-1 ब्रिगेडियर NOUN PROPN
-5 समिति PROPN NOUN
-1 ब्रिगेडियर NOUN PROPN
-20 साथ NOUN ADP
-8 ब्रिगेडियर NOUN PROPN
-16 तोलोलिंग PROPN NOUN
-24 प्वाइंट PROPN NOUN
-25 ५३५३ PROPN NUM
-6 रही VERB PROPN
-9 शीतल ADJ NOUN
-16 आई VERB PROPN
-23 रिट्रीट PROPN NOUN
-7 रिट्रीट PROPN NOUN
-10 यादें NOUN ADP
-10 रिट्रीट PROPN NOUN
-1 होटल NOUN PROPN
-3 फ्लावर PROPN NOUN
-10 रिट्रीट PROPN NOUN
-6 स्व. ADJ PROPN
-11 स्व. ADJ PUNCT
-15 रिट्रीट PROPN NOUN
-3 वे DET PRON
-11 ओझल ADJ NOUN
-6 देवदार PROPN NOUN
-10 यादें NOUN ADP
-5 उड़ाने VERB NOUN
-16 बहुतेरे ADJ NOUN
-17 थे VERB AUX
-1 रिट्रीट PROPN NOUN
-3 निर्जन ADJ NOUN
-4 वक्त ADP NOUN
-9 नितांत ADJ NOUN
-3 तो PART SCONJ
-8 हामटा PROPN ADP
-9 पास PROPN ADP
-12 पास PROPN ADV
-32 ब्यास PROPN NOUN
-40 ७ PROPN NUM
-41 सिस्टर PROPN NOUN
-44 फ्रेंडशिप PROPN NOUN
-45 पीक PROPN ADJ
-51 अनेकों DET NOUN
-17 सेब NOUN PRON
-1 वहीं ADV PRON
-11 पीक PROPN ADJ
-13 संमजोतर PROPN ADJ
-3 मंदिर PROPN NOUN
-7 प्रकरण NOUN PROPN
-6 स्वामी NOUN PROPN
-13 पुनः ADV ADJ
-11 समिति PROPN NOUN
-9 स्वामी NOUN PROPN
-6 आमने NOUN VERB
-14 दूरभाष NOUN PRON
-20 समिति PROPN NOUN
-44 न्यासी NOUN PROPN
-1 श्री NOUN PROPN
-17 मंथन NOUN PART
-11 जी PART PROPN
-19 मौलाना NOUN PROPN
-29 कारी PROPN NOUN
-34 सिया NOUN PROPN
-35 मौलाना NOUN PROPN
-6 श्री NOUN PROPN
-1 श्री NOUN PROPN
-8 सभी DET PRON
-22 जी PART PROPN
-23 महाराज NOUN PROPN
-7 जी PART PROPN
-15 जी PART PROPN
-1 श्री NOUN PROPN
-12 भवन PROPN NOUN
-4 जी PART NOUN
-12 जी PART PROPN
-10 साथ ADV ADP
-5 छूट NOUN PROPN
-6 सीमा NOUN PROPN
-15 फ्रेमवर्क PROPN NOUN
-21 पॉलिसी PROPN NOUN
-22 स्टेटमेंट PROPN NOUN
-24 फिस्कल PROPN NOUN
-26 स्ट्रेटजी PROPN ADJ
-27 स्टेटमेंट PROPN NOUN
-4 पॉलिसी PROPN NOUN
-5 स्टेटमेंट PROPN NOUN
-8 बजट PROPN NOUN
-9 प्रबंधन PROPN NOUN
-10 कानून PROPN NOUN
-22 सकल NOUN PROPN
-23 घरेलू NOUN ADJ
-2 दर NOUN PROPN
-9 दर NOUN PROPN
-15 प्रत्यक्ष PROPN ADJ
-16 विदेशी PROPN ADJ
-18 मुद्रास्फीती NOUN VERB
-5 समूह PROPN NOUN
-13 टैप X NOUN
-14 कर AUX VERB
-5 समूह PROPN NOUN
-10 समूह PROPN NOUN
-9 लैंड NOUN PROPN
-13 टैप X NOUN
-20 जीएसएम NOUN PROPN
-16 चुने VERB ADP
-17 हुए AUX VERB
-21 तत्काल ADJ ADV
-1 पूर्वी ADJ PROPN
-20 कारीगर NOUN SCONJ
-2 कारीगर NOUN PROPN
-11 सब्जी PROPN NOUN
-13 पोस्टमार्टम PROPN NOUN
-12 यमुनापार PROPN NOUN
-13 विकास PROPN NOUN
-14 बोर्ड PROPN ADJ
-13 नंबर PROPN NOUN
-18 नंबर PROPN NOUN
-22 विश्वास PROPN NOUN
-9 ब्यूटी PROPN NOUN
-7 ग्रोवर PROPN NOUN
-3 तरह ADP NOUN
-8 चंद DET NOUN
-3 कारीगर NOUN SCONJ
-16 कारीगर NOUN PROPN
-6 बराबर ADV PROPN
-2 नंबर PROPN NOUN
-4 दमकल PROPN NOUN
-5 विभाग PROPN NOUN
-11 सब्जी PROPN NOUN
-13 मुर्दाघर PROPN NOUN
-2 संजय NOUN PROPN
-5 अस्पताल PROPN NOUN
-3 की ADP VERB
-4 और DET CONJ
-20 बनीं VERB PROPN
-25 सबसे ADJ ADV
-11 तरह ADP NOUN
-9 चार NUM NOUN
-6 मोरचे NOUN VERB
-22 हैं AUX VERB
-2 बाकी DET ADJ
-9 सबसे ADJ ADV
-4 १०वीं PROPN ADJ
-7 सृष्टि PROPN NOUN
-8 कृष्णमूर्ति PROPN NOUN
-18 सृष्टि PROPN NOUN
-2 सृष्टि PROPN NOUN
-13 कविता NOUN PROPN
-4 सृष्टि PROPN NOUN
-17 खेल NOUN PROPN
-1 कविता NOUN PROPN
-8 यह PRON DET
-16 हम DET PRON
-17 सभी PRON DET
-1 सृष्टि PROPN NOUN
-9 पाक PROPN ADJ
-25 सृष्टि PROPN NOUN
-2 पूर्व ADP ADJ
-16 से PART ADP
-36 तो SCONJ PRON
-17 १७ NUM PROPN
-7 बेसिक ADJ PROPN
-7 सेलुलर NOUN ADJ
-10 कप PROPN NOUN
-16 भारतीय ADJ PROPN
-17 क्रिकेट PROPN NOUN
-19 अतिरिक्त ADJ NOUN
-1 बाएं ADJ NOUN
-19 लंबे ADJ PROPN
-20 अरसे NOUN ADP
-2 कप PROPN NOUN
-11 अगरकर PROPN VERB
-15 गावस्कर PROPN VERB
-17 हेमांग PROPN NOUN
-18 बदानी PROPN VERB
-44 लक्ष्मीपति PROPN NOUN
-20 उठे AUX VERB
-29 और DET CONJ
-6 और DET ADJ
-9 काले ADJ VERB
-10 घने ADJ ADP
-8 दर NOUN PROPN
-18 तसवीर NOUN PROPN
-5 धरे ADV VERB
-6 के PART ADP
-7 धरे ADV ADP
-15 दर NOUN PROPN
-3 कर NOUN VERB
-7 उच्च NOUN ADJ
-1 आर्थिक PROPN ADJ
-2 सर्वेक्षण PROPN NOUN
-24 कार्यक्रम PROPN NOUN
-3 बजट PROPN NOUN
-14 जीडीपी PROPN NOUN
-9 कमोबेश ADV NOUN
-7 रही VERB AUX
-11 हॉक PROPN NOUN
-12 उन्नत PROPN ADJ
-13 प्रशिक्षण PROPN NOUN
-14 विमान PROPN NOUN
-5 भारतीय PROPN ADJ
-6 वायु PROPN NOUN
-8 सेना PROPN NOUN
-17 हॉक PROPN NOUN
-18 एजेटी PROPN NOUN
-21 ब्रिटिश PROPN ADJ
-22 सरकार PROPN NOUN
-14 हॉक PROPN NOUN
-15 एजेटी PROPN NOUN
-16 २०१० PROPN NUM
-10 ब्रिटिश PROPN ADJ
-11 एरोस्पेस PROPN NOUN
-5 पहले ADJ ADV
-1 मंत्री NOUN PROPN
-1 हाईपर NOUN CONJ
-16 हाईपर NOUN ADP
-9 हाईपर NOUN ADP
-6 ५२ NUM PROPN
-7 कैलिबर NOUN PROPN
-9 हॉविटजर PROPN NOUN
-10 प्रणाली PROPN NOUN
-2 हाईकोर्ट PROPN NOUN
-9 सस्ती ADJ NOUN
-21 भर्ती ADJ NOUN
-26 आय NOUN ADJ
-34 कार्ड PROPN NOUN
-4 मरीज़ NOUN PROPN
-13 सस्ती ADJ NOUN
-22 लगवाएँ VERB NOUN
-25 निशुल्क ADJ NOUN
-26 बेड NOUN PROPN
-10 एस्कॉर्टस PROPN NOUN
-23 अस्पताल PROPN NOUN
-36 मरीज़ NOUN PROPN
-1 अधिकांश ADJ DET
-15 अपेक्षा ADP NOUN
-18 बेड NOUN ADJ
-16 परमाणु PROPN NOUN
-17 रिएक्टर PROPN NOUN
-6 परमाणु PROPN NOUN
-8 आयोग PROPN NOUN
-4 मंत्री PROPN NOUN
-25 राय PROPN NOUN
-4 हवारा PROPN NOUN
-6 हवारा PROPN NOUN
-23 काबू ADJ NOUN
-16 नवांशहर PROPN NOUN
-29 हवारा PROPN NOUN
-24 गया VERB AUX
-4 पुलिस PROPN NOUN
-12 डेरा NOUN VERB
-1 वहीं PRON ADV
-6 मौजूद ADJ PROPN
-1 दूसरा NOUN ADJ
-3 दोनों NUM NOUN
-11 हवारा PROPN NOUN
-16 उसको PRON ADP
-9 हवारा PROPN NOUN
-3 कंट्रोलर PROPN NOUN
-4 एंड PROPN NOUN
-5 ऑडिटर PROPN NOUN
-6 जनरल PROPN NOUN
-29 खड़ा VERB ADJ
-30 हुआ AUX VERB
-1 कॉल PROPN NOUN
-11 नियंत्रकों NOUN PROPN
-22 कार्यक्रम NOUN PROPN
-15 वियतनाम PROPN NOUN
-1 कॉल PROPN NOUN
-4 नियामक ADJ NOUN
-11 लेखा NOUN VERB
-1 कॉल PROPN NOUN
-22 चुनाव PROPN NOUN
-23 आयोग PROPN NOUN
-6 चुनाव PROPN NOUN
-7 आयोग PROPN NOUN
-3 सप्तऋषि PROPN NOUN
-2 प्रमुख NOUN ADJ
-13 सी PART ADJ
-3 सप्तऋषि PROPN NOUN
-9 लोकसभा PROPN NOUN
-11 विधानसभा PROPN NOUN
-8 चुनाव PROPN NOUN
-9 आयोग PROPN NOUN
-26 नज़र NOUN ADP
-19 सबसे PRON ADV
-20 ऊपर ADP ADV
-1 ग्लेनईगल्स PROPN NOUN
-3 जी PROPN ADJ
-7 जो PRON DET
-14 केंद्र NOUN PROPN
-1 वैसे PRON ADV
-2 जी PROPN ADJ
-2 क्योटो PROPN NOUN
-3 प्रोटोकॉल PROPN NOUN
-21 जी PROPN NOUN
-23 ८ PROPN NUM
-3 समूह PROPN NOUN
-1 आतंकवादी NOUN ADJ
-5 जेसीओ PROPN NOUN
-1 आतंकी NOUN ADJ
-3 नायक NOUN PROPN
-6 एके NOUN ADP
-13 ८ NUM PROPN
-16 ४ NUM PROPN
-3 तबका NOUN ADP
-13 कृषि PROPN NOUN
-16 आयोग PROPN NOUN
-7 कृषि PROPN NOUN
-10 आयोग PROPN NOUN
-2 अतिरिक्त ADP ADJ
-22 हिसाब ADP NOUN
-1 कृषि PROPN NOUN
-4 आयोग PROPN NOUN
-8 और CONJ DET
-25 जो DET PRON
-8 लागत NOUN ADJ
-7 काफी ADV DET
-9 मूल्य NOUN PROPN
-14 मिल VERB ADJ
-16 पाता AUX VERB
-18 की ADP VERB
-19 है VERB AUX
-13 काफी ADV DET
-21 नाबार्ड PROPN NOUN
-5 लैनहम PROPN PRON
-11 प्रमुख NOUN ADJ
-2 एनआरआई PROPN VERB
-1 मंत्री NOUN PROPN
-15 मंत्री NOUN PROPN
-4 मंत्री NOUN PROPN
-8 जो DET PRON
-5 और DET CONJ
-6 संक्रामक NOUN ADJ
-10 आयुर्वेद NOUN PROPN
-15 आयुर्वेद NOUN PROPN
-2 आयुर्वेद NOUN PROPN
-11 परियोजना PROPN NOUN
-11 अनुसूचित ADJ NOUN
-15 अनुसूचित ADJ NOUN
-9 अनुसूचित ADJ NOUN
-14 अनुसूचित ADJ NOUN
-12 अनुसूचित ADJ NOUN
-17 अनुसूचित ADJ NOUN
-10 कर्जदार ADJ NOUN
-15 था VERB AUX
-9 व्यवसाय NOUN PROPN
-11 उत्पादक ADJ NOUN
-4 शासन PROPN NOUN
-30 शासन PROPN NOUN
-5 स्वीकार ADJ NOUN
-4 भंग ADJ NOUN
-3 चुनाव PROPN NOUN
-4 आयोग PROPN NOUN
-7 विधानसभा PROPN NOUN
-10 शासन PROPN NOUN
-16 चुनाव PROPN NOUN
-17 आयोग PROPN NOUN
-2 पंजी NOUN PROPN
-7 थल NOUN PROPN
-10 अनदेखी NOUN ADJ
-17 नौ NOUN NUM
-10 पूँजी NOUN ADP
-13 दोगुना ADJ PART
-2 बजट PROPN NOUN
-1 पूँजी NOUN PROPN
-4 दोगुना ADJ PART
-31 थल NOUN PROPN
-11 खर्च NOUN PROPN
-12 सकल ADJ PROPN
-13 घरेलू ADJ PROPN
-31 अपेक्षा ADP NOUN
-7 अपेक्षा ADP NOUN
-9 थल NOUN PROPN
-22 नौ NOUN NUM
-4 थल NOUN PROPN
-2 नौ NOUN NUM
-32 अपेक्षा ADP NOUN
-16 कर NOUN VERB
-5 मंत्रालय PROPN NOUN
-14 बिज्र NOUN PROPN
-21 उत्पाद NOUN PROPN
-7 २००० PROPN NUM
-10 विशेष ADJ NOUN
-12 कर NOUN VERB
-12 और DET CONJ
-14 मारुति PROPN NOUN
-7 ठंडा ADJ PROPN
-22 इमराना PROPN NOUN
-5 आव्रजक ADJ NOUN
-13 उल्टे ADJ NOUN
-2 ढिंग PROPN NOUN
-14 ससुर NOUN PROPN
-24 थानान्तर्गत NOUN ADP
-26 जेरामाई PROPN NOUN
-27 गाँव NOUN PROPN
-32 अकेली ADJ VERB
-33 थी VERB AUX
-13 दी AUX VERB
-10 कृत NOUN ADJ
-8 नागरिक PROPN NOUN
-9 कानून PROPN NOUN
-16 भारतीय NOUN ADJ
-1 यह PRON DET
-16 मिलकर ADV VERB
-4 पूर्व ADP PROPN
-8 कॉलेज PROPN NOUN
-10 अर्थशास्त्र PROPN NOUN
-11 डकैत NOUN PROPN
-16 सीमा PROPN NOUN
-6 हिंदू NOUN ADJ
-7 रीति NOUN PROPN
-3 इटावा PROPN NOUN
-12 सीमा PROPN NOUN
-1 सीमा PROPN NOUN
-10 निर्भय PROPN NOUN
-5 बहादुरी ADJ NOUN
-4 सीमा PROPN NOUN
-10 सीमा PROPN NOUN
-17 तो PRON SCONJ
-5 टुडे PROPN NOUN
-14 आत्म NOUN ADJ
-23 की VERB ADP
-35 धारा NOUN PROPN
-15 शक्ति NOUN PROPN
-4 संग्राम NOUN PROPN
-37 साथ ADV ADP
-24 पहले ADV ADP
-9 ऐसा DET PRON
-16 यह PRON DET
-3 वसंत PROPN NOUN
-4 साठे PROPN VERB
-17 गुरुद्वारा PROPN ADP
-29 पाये AUX VERB
-6 तो PRON SCONJ
-24 गुरुद्वारा NOUN PROPN
-5 भड़काने VERB NOUN
-1 साठे PROPN NOUN
-13 तीन PROPN NUM
-14 मूर्ति PROPN NOUN
-8 गलतफहमी NOUN ADJ
-1 भारतीय PROPN ADJ
-9 वाला ADP AUX
-15 बायोटेक्नोलॅजी NOUN ADJ
-19 तीन NUM NOUN
-1 इसी PRON DET
-16 लश्कर PROPN NOUN
-4 इंस्टीटयूट PROPN NOUN
-7 मेडिकल PROPN NOUN
-26 सटी VERB PROPN
-5 इफ्तखार PROPN NOUN
-16 हवाले NOUN ADP
-4 डॉलफिन PROPN NOUN
-19 इफ्तखार PROPN NOUN
-35 इफ्तखार PROPN NOUN
-37 आतंकी NOUN ADJ
-16 १२वीं PROPN ADJ
-14 शख्स NOUN PROPN
-1 इफ्तखार PROPN NOUN
-3 सिमी PROPN NOUN
-4 इफ्तखार PROPN NOUN
-10 इंस्टीटयूट PROPN NOUN
-13 मेडिकल PROPN NOUN
-16 साइंस PROPN NOUN
-18 बायो NOUN PROPN
-5 शख्स NOUN PROPN
-10 इफ्तखार PROPN NOUN
-11 इफ्तखार PROPN NOUN
-14 छिपी VERB PROPN
-15 रह AUX VERB
-4 अंग्रेजी ADJ PART
-15 यह PRON DET
-15 मिस्त्र PROPN NOUN
-23 एमआई PROPN VERB
-2 ५ PROPN NUM
-5 १७ PROPN NUM
-43 पुरस्कार PROPN NOUN
-10 निर्माणाधीन ADJ PROPN
-12 पुल NOUN PROPN
-16 अचानक ADV NOUN
-1 चंडीमंदिर PROPN NOUN
-3 पश्चिमी PROPN ADJ
-4 कमान PROPN NOUN
-13 डूबने VERB ADP
-11 पश्चिमी PROPN ADJ
-12 कमान PROPN NOUN
-1 नायब NOUN ADJ
-2 सूबेदार NOUN ADJ
-3 उपायुक्त NOUN ADJ
-19 होने AUX VERB
-14 यह PRON DET
-15 पहाड़ी ADJ NOUN
-22 डूबे VERB ADJ
-28 नहीं NOUN PART
-3 निर्माणाधीन ADJ PROPN
-19 और DET CONJ
-16 पोआरी PROPN NOUN
-14 नगदी ADJ NOUN
-4 ब्रिज PROPN NOUN
-8 वाला AUX ADP
-14 कि PART SCONJ
-28 क्रूर ADJ ADV
-2 निर्माणाधीन ADJ NOUN
-15 पौने DET NUM
-6 मुगेसकेटी PROPN NOUN
-12 संजीवन PROPN NOUN
-8 हवाले NOUN ADP
-4 प्रत्यक्षदर्शी NOUN ADJ
-13 टाशी PROPN NOUN
-6 चौथी ADJ VERB
-13 यह PRON DET
-1 पंचकूला PROPN NOUN
-13 चंडीमंदिर PROPN NOUN
-15 पश्चिमी PROPN ADJ
-16 कमान PROPN NOUN
-20 इराकियों PROPN NOUN
-9 गूंजा VERB NOUN
-10 करती AUX VERB
-19 उरी PROPN ADJ
-22 कमान PROPN NOUN
-23 पोस्ट PROPN NOUN
-2 इसीलिए PRON ADP
-6 बस NOUN PROPN
-11 उरी PROPN NOUN
-1 कमान PROPN NOUN
-2 पोस्ट PROPN NOUN
-19 यह DET PRON
-20 सपना NOUN VERB
-21 था VERB AUX
-27 यह DET PRON
-33 यह DET PRON
-11 १९४७ PROPN NUM
-25 करते AUX VERB
-1 भावविह्वल ADJ PROPN
-3 उरी PROPN NOUN
-4 कमान PROPN NOUN
-5 ब्रिज PROPN NOUN
-13 तो PRON SCONJ
-17 सीमा PROPN NOUN
-19 संगठन PROPN NOUN
-36 लकड़ी NOUN ADJ
-41 कमान PROPN NOUN
-42 ब्रिज PROPN NOUN
-27 कमान PROPN NOUN
-28 पोस्ट PROPN NOUN
-1 यह PRON DET
-10 पोस्ट PROPN NOUN
-20 भरसक ADJ ADV
-22 भारत ADJ PROPN
-26 इतने DET VERB
-2 वर्ल्ड PROPN NOUN
-5 बस NOUN PROPN
-11 काफी DET ADV
-9 भारत ADJ PROPN
-12 संबंध NOUN ADP
-25 मूलभूत ADJ ADP
-6 संबंध NOUN ADP
-8 आयाम NOUN PROPN
-16 नाटो PROPN NOUN
-2 बहुत DET ADV
-18 पॉपुलर ADJ NOUN
-5 ट्रेंडी ADJ PROPN
-1 पंचसितारा NOUN PROPN
-9 स्पा NOUN PROPN
-13 टू NUM ADJ
-15 नूडल्स NOUN PROPN
-19 परोसा VERB NOUN
-20 जा AUX VERB
-3 द PROPN NOUN
-6 ऑफ PROPN ADJ
-7 हास्य PROPN NOUN
-9 लोकप्रियता NOUN PROPN
-1 जरा DET PROPN
-4 डालिए VERB ADP
-5 सूर्य PROPN NOUN
-6 नमस्कार PROPN NOUN
-2 पॉवर PROPN NOUN
-7 सूर्य PROPN NOUN
-8 नमस्कार PROPN NOUN
-18 बीट PROPN NOUN
-13 सूर्य PROPN NOUN
-14 नमस्कार PROPN NOUN
-4 सूर्य PROPN NOUN
-5 नमस्कार PROPN NOUN
-3 पॉवर PROPN NOUN
-6 भले PART NOUN
-11 पर CONJ ADP
-16 योग PROPN NOUN
-1 प्रातः NOUN ADV
-1 आरोग्य NOUN PROPN
-9 रहे AUX VERB
-10 स्पा NOUN PROPN
-12 ब्यूटी NOUN PROPN
-13 सैलून NOUN PROPN
-7 स्पा NOUN PROPN
-2 ओजोन PROPN NOUN
-14 क्षेत्रवार NOUN ADJ
-10 पहले ADJ ADP
-22 यह PRON DET
-6 प्रत्यक्ष ADJ PROPN
-7 यह DET PRON
-5 ४० NUM PROPN
-4 अंडमानीज PROPN NOUN
-1 ये PRON DET
-4 ग्रेट PROPN NOUN
-8 भर्ती ADJ NOUN
-9 ग्रेट PROPN NOUN
-10 अंडमानीज PROPN NOUN
-14 जिरोकी PROPN ADP
-1 ग्रेट PROPN NOUN
-2 अंडमानीज PROPN NOUN
-5 स्ट्रेट PROPN NOUN
-6 द्वीप PROPN NOUN
-12 ग्रेट PROPN NOUN
-13 अंडमानीज PROPN NOUN
-9 जिरोकी PROPN ADP
-12 मिरगी PROPN NOUN
-1 लाल ADJ PROPN
-2 टी NOUN PROPN
-8 जिरोकी PROPN ADP
-9 टूटी ADJ PROPN
-11 फूटी ADJ NOUN
-12 हिंदी PROPN NOUN
-2 राजा NOUN ADJ
-3 हूं VERB AUX
-2 जैसा ADV PRON
-5 वैसा ADV PRON
-1 ग्रेट PROPN NOUN
-2 अंडमानीज PROPN NOUN
-9 भांप VERB NOUN
-11 पाए AUX VERB
-6 ग्रेट PROPN NOUN
-7 अंडमानीज PROPN NOUN
-16 कि PART SCONJ
-24 सदियों ADJ NOUN
-1 स्वतंत्र PROPN ADJ
-4 खूबी NOUN ADJ
-1 आदिवासी NOUN ADJ
-13 एकदम ADV NOUN
-3 तीर NOUN PROPN
-10 भाले NOUN VERB
-1 ग्रेट PROPN NOUN
-2 अंडमानीज PROPN NOUN
-11 तरह ADP NOUN
-1 नुकसान ADJ NOUN
-2 देह ADJ NOUN
-4 पीकर VERB NOUN
-9 ग्रेट PROPN NOUN
-10 अंडमानीज PROPN NOUN
-1 आदिम ADJ PROPN
-9 ग्रेट PROPN NOUN
-10 अंडमानीज PROPN NOUN
-6 आदी ADJ AUX
-7 हूं VERB AUX
-5 जिरोकी PROPN ADP
-9 वाले AUX ADP
-14 जिरोकी PROPN ADP
-1 रिक्टर PROPN NOUN
-2 पैमाने PROPN NOUN
-2 केंद्र NOUN PROPN
-3 स्पोर्ट NOUN PROPN
-4 सिटी NOUN PROPN
-14 पैमाने PROPN ADP
-2 केंद्र NOUN PROPN
-19 केंद्र NOUN PROPN
-6 करीब PART ADP
-18 केंद्र NOUN PROPN
-15 रिकॉर्ड NOUN X
-9 केंद्र NOUN PROPN
-11 रिक्टर PROPN NOUN
-12 पैमाने PROPN VERB
-6 बेचैन ADJ PART
-21 मास्टर PROPN NOUN
-22 प्लान PROPN NOUN
-37 मिक्सलैंड NOUN PROPN
-4 एमसीडी PROPN NOUN
-19 बंधा VERB NOUN
-6 जो DET PRON
-4 अस्सी NUM DET
-18 भू NOUN ADJ
-23 बनी VERB PROPN
-3 १८९ NUM PROPN
-7 रोड NOUN PROPN
-8 संघर्ष PROPN NOUN
-9 मोर्चा PROPN NOUN
-6 राष्ट्रीय NOUN PROPN
-8 सार्वजनिक NOUN ADJ
-13 पीएसयू NOUN PROPN
-6 सरकार PROPN NOUN
-3 सार्वजनिक NOUN ADJ
-21 पब्लिक NOUN ADJ
-22 इश्यू NOUN PROPN
-32 पाँच NUM NOUN
-9 ये PRON VERB
-11 सार्वजनिक NOUN ADJ
-20 प्रति ADP PART
-21 दृढ़ ADJ VERB
-6 पीएसयू NOUN PROPN
-13 सार्वजनिक NOUN ADJ
-2 सार्वजनिक NOUN ADJ
-8 बोर्ड NOUN PROPN
-14 कोयला NOUN PROPN
-5 छूट NOUN PROPN
-17 कार्यक्रम PROPN NOUN
-16 कि PART SCONJ
-10 ढाँचागत PROPN ADJ
-21 पॅलिसी PROPN PRON
-5 सहकारी ADJ NOUN
-1 हरित PROPN ADJ
-2 क्रांति PROPN NOUN
-4 जनक NOUN ADJ
-12 दो ADV NUM
-13 टूक ADV NOUN
-1 धरती NOUN PROPN
-20 केमिकल NOUN PROPN
-21 फर्टीलाईज़र NOUN PROPN
-3 प्रगतिशील ADJ PROPN
-9 फार्म PROPN NOUN
-28 साठ NUM NOUN
-30 सत्तर NUM PROPN
-35 बाकी DET ADJ
-37 हरित PROPN ADJ
-38 क्रांति PROPN NOUN
-46 अन्न NOUN PROPN
-53 ताकता VERB NOUN
-10 सोच NOUN VERB
-11 थी VERB AUX
-14 अन्न NOUN ADJ
-5 अरब NUM NOUN
-7 बढ़िया ADJ VERB
-8 है VERB AUX
-5 फोरेस्टरी PROPN NOUN
-7 कृषि PROPN NOUN
-2 फार्म PROPN NOUN
-4 पापुलर NOUN VERB
-16 से DET PART
-4 फोरेस्टरी PROPN NOUN
-10 पुरस्कार PROPN NOUN
-24 से PART ADP
-27 कि PART SCONJ
-4 कृषि PROPN NOUN
-5 वानिकी PROPN ADP
-7 अपार ADJ NOUN
-16 ८ NUM PROPN
-23 लकड़ी NOUN ADJ
-3 फूड PROPN ADJ
-17 फोरेस्टरी PROPN NOUN
-24 तो PRON SCONJ
-12 गुट NOUN PROPN
-14 विस्फोटक ADJ NOUN
-28 बैठ VERB AUX
-30 तो PRON SCONJ
-40 लिया AUX VERB
-6 एसओजी PROPN ADJ
-10 जैसे ADV ADP
-5 फायर NOUN ADJ
-25 लिए VERB ADP
-7 आतंकी NOUN ADJ
-11 बाहर ADV ADP
-4 लिए VERB ADP
-6 खड़े VERB ADJ
-4 रेडियो NOUN PROPN
-25 प्रमुख NOUN ADJ
-33 ले AUX VERB
-9 तबाह ADJ PROPN
-12 महफूज़ ADJ NOUN
-8 प्रभाकरन PROPN NOUN
-8 अटकलें NOUN VERB
-16 प्रभाकरन PROPN NOUN
-18 तमिल PROPN VERB
-20 प्रमुख NOUN ADJ
-25 खुफिया ADJ NOUN
-28 अम्मान PROPN NOUN
-16 सुनामी ADJ NOUN
-14 प्रभाकरन PROPN NOUN
-24 सुनाई VERB NOUN
-26 दी AUX VERB
-13 जाफना PROPN VERB
-6 वह DET PRON
-6 प्रभाकरन PROPN NOUN
-9 तमिल ADJ PROPN
-10 जनता NOUN PROPN
-15 इस PRON DET
-17 भरी VERB PROPN
-1 रेडियो NOUN PROPN
-4 वाइस NOUN DET
-20 प्रभाकरन PROPN NOUN
-22 अम्मान PROPN NOUN
-2 विधानसभा PROPN NOUN
-12 पूर्व ADJ PROPN
-4 महंत PROPN NOUN
-4 महंत PROPN NOUN
-9 महंत PROPN NOUN
-12 अगप PROPN NOUN
-2 पहले ADV ADP
-3 महंत PROPN NOUN
-10 कौन DET PRON
-11 सी PART PROPN
-6 सुनामी PROPN NOUN
-7 पुनर्निर्माण PROPN NOUN
-8 परियोजना PROPN NOUN
-10 आयोग PROPN NOUN
-20 गमर PROPN NOUN
-10 आयोग PROPN NOUN
-12 सुनामी PROPN NOUN
-13 पुनर्निर्माण PROPN NOUN
-14 योजना PROPN NOUN
-2 सरकार PROPN NOUN
-3 यह PRON DET
-14 तमिल PROPN VERB
-17 तमिल PROPN VERB
-3 सुनामी PROPN NOUN
-4 पुनर्निर्माण PROPN NOUN
-5 योजना PROPN NOUN
-8 पड़े VERB NOUN
-3 अबुझमादिया PROPN ADJ
-4 समुदाय PROPN NOUN
-2 वन PROPN PART
-5 ब्रिटिश NOUN ADJ
-1 आदिवासी PROPN NOUN
-2 शोध PROPN NOUN
-3 और PROPN CONJ
-4 प्रशिक्षण PROPN NOUN
-5 संस्थान PROPN NOUN
-7 संयुक्त NOUN ADJ
-17 हम DET PRON
-3 पंचायती NOUN ADJ
-42 हैं AUX VERB
-25 ठीक ADV NOUN
-26 से PART ADP
-4 पंचायती NOUN ADJ
-2 यह PRON DET
-8 पूर्ण ADJ PROPN
-8 मंत्रालय NOUN PROPN
-4 पड़े VERB ADJ
-19 सर्वाधिक PROPN ADJ
-20 वरीयता PROPN NOUN
-3 दि PROPN ADJ
-4 नेशन PROPN NOUN
-16 ज्यादातर NOUN ADJ
-15 बाद ADP ADV
-10 बस PROPN NOUN
-11 सेवा PROPN NOUN
-1 सर्वाधिक ADV ADJ
-2 वरीयता ADJ NOUN
-7 गैर NOUN ADJ
-3 जेलमंत्री PROPN NOUN
-16 जेलकर्मियों NOUN PROPN
-8 जेल NOUN PROPN
-21 तो PRON PART
-11 मार VERB NOUN
-12 डालने AUX VERB
-2 जेल NOUN PROPN
-27 अजित PROPN ADJ
-28 सरकार PROPN NOUN
-6 पूर्व ADP ADJ
-14 दक्षिण ADJ PROPN
-16 समुद्री ADJ PROPN
-17 जल NOUN PROPN
-7 सागर NOUN PROPN
-4 ठहरे VERB ADJ
-17 ऊँचा ADJ VERB
-18 हुआ VERB AUX
-14 कि PART SCONJ
-3 जो DET PRON
-13 दक्षिण ADJ PROPN
-3 तुतिकोरिन PROPN PART
-16 जल NOUN PROPN
-38 बेहद DET ADV
-9 बहाली NOUN PROPN
-4 ३६ NUM PROPN
-5 नगर NOUN PROPN
-8 राज्यसभा PROPN NOUN
-18 नियंत्रण PROPN NOUN
-20 रेखा PROPN NOUN
-26 और DET CONJ
-9 ऑफ NOUN PROPN
-11 कमेटी NOUN PROPN
-17 स्टाफ NOUN PROPN
-27 सेल NOUN PROPN
-5 सुनामी PROPN NOUN
-6 राहत PROPN NOUN
-7 अभियान PROPN NOUN
-10 रक्षा NOUN PROPN
-11 स्टॉफ NOUN PROPN
-43 डिफेंस PROPN NOUN
-6 भारतीय PROPN ADJ
-7 सेना PROPN NOUN
-19 अल्पसंख्यक NOUN PROPN
-23 दिया VERB AUX
-9 स्वरूप PROPN ADP
-22 रहेंगे AUX VERB
-2 वायुसेना PROPN NOUN
-6 फ्रांसीसी PROPN ADJ
-7 वायु PROPN NOUN
-8 सेना PROPN NOUN
-17 २ PROPN NOUN
-5 एसयू NOUN PROPN
-7 ३० NOUN PROPN
-13 आईएल NOUN PROPN
-15 ७८ NOUN PROPN
-17 एअर NOUN PROPN
-18 रीफ्यूलर NOUN PROPN
-4 एअर NOUN PROPN
-5 मार्शल NOUN PROPN
-10 २४ PROPN NUM
-13 एसयू NOUN PROPN
-15 ३० NOUN PROPN
-20 मिड PROPN NOUN
-21 एअर PROPN NOUN
-23 स्क्वॅड्रन PROPN NOUN
-25 आईएल NOUN PROPN
-27 ७८ NOUN PROPN
-4 एअर NOUN PROPN
-5 मार्शल NOUN PROPN
-13 भारतीय PROPN ADJ
-14 वायु PROPN NOUN
-15 सेना PROPN NOUN
-12 मुश्किल ADJ NOUN
-16 है VERB AUX
-15 गरूड़ PROPN NOUN
-17 २ PROPN NUM
-29 वायुसेना PROPN NOUN
-2 सुखोई PROPN NOUN
-10 २००० PROPN NUM
-12 ५ PROPN NUM
-20 मिराज NOUN PROPN
-21 २००० PROPN NUM
-9 हवाई ADJ NOUN
-1 एअर NOUN PROPN
-2 मार्शल NOUN PROPN
-15 बेबाकी NOUN ADJ
-13 शासन PROPN NOUN
-9 पहले ADJ ADV
-10 दलित NOUN ADJ
-1 मध्य ADJ PROPN
-15 जन्मे VERB PROPN
-10 प्राथमिक ADJ NOUN
-4 पैदल NOUN ADJ
-10 लिया VERB AUX
-1 इंटरमीडिएट PROPN NOUN
-3 महाराजा PROPN NOUN
-1 यूनीवर्सिटी NOUN PROPN
-6 लेक्चरर NOUN PROPN
-2 चक्र NOUN PROPN
-3 घूमा VERB PROPN
-6 भारतीय PROPN ADJ
-8 स्कूल PROPN NOUN
-9 ऑफ PROPN NOUN
-10 इकोनॅमिक्स PROPN NOUN
-12 दाखिला NOUN VERB
-13 लिया VERB AUX
-21 सेवा NOUN PROPN
-12 ओट्टापलम PROPN NOUN
-3 सरकार PROPN NOUN
-6 विज्ञान PROPN NOUN
-7 एवं PROPN CONJ
-8 तकनीकी PROPN ADJ
-9 मंत्री PROPN NOUN
-8 भारतीय PROPN ADJ
-9 सेना PROPN NOUN
-9 सौदे NOUN VERB
-6 कैरियर PROPN NOUN
-7 पोत PROPN NOUN
-8 एडमिरल PROPN NOUN
-9 गाशकोव PROPN CONJ
-11 ६६ NUM PROPN
-14 ट्रेनर NOUN PROPN
-18 प्रणाली PROPN NOUN
-12 और DET CONJ
-14 सौदे NOUN PROPN
-20 पड़े AUX NOUN
-21 हैं AUX VERB
-20 अटके VERB NOUN
-21 हैं AUX VERB
-5 भारतीय PROPN ADJ
-6 वायु PROPN NOUN
-7 सेना PROPN NOUN
-6 २१ NOUN PROPN
-7 एस NOUN PROPN
-9 जगह ADP NOUN
-11 २००० PROPN NUM
-13 ५ PROPN NUM
-1 भारतीय PROPN ADJ
-2 सेना PROPN NOUN
-18 बहुमूल्य ADJ NOUN
-4 सोना NOUN VERB
-7 सोना NOUN PROPN
-6 सोने NOUN VERB
-5 सोना NOUN PROPN
-4 हाजिर NOUN PROPN
-6 ९९९ NUM PROPN
-4 सिक्का NOUN ADP
-22 बदनाम ADJ NOUN
-5 तो PRON SCONJ
-29 आगे ADV ADP
-12 मुश्किल NOUN ADJ
-7 तो PRON SCONJ
-11 तो PART SCONJ
-11 टोकाटाकी NOUN ADJ
-26 घोटाले PROPN NOUN
-10 की VERB ADP
-8 देखे VERB AUX
-20 उठ VERB PROPN
-21 खड़े VERB ADJ
-22 हुए AUX VERB
-7 तो PRON SCONJ
-8 इस PRON DET
-10 प्रति NOUN ADP
-6 यह PRON DET
-17 शासन PROPN NOUN
-14 धारीवाल PROPN NOUN
-8 धारीवाल PROPN NOUN
-18 धारीवाल PROPN NOUN
-8 चुनाव PROPN NOUN
-9 आयोग PROPN NOUN
-14 पार्टी PROPN NOUN
-10 चुनाव PROPN NOUN
-11 आयोग PROPN NOUN
-15 चुनाव PROPN NOUN
-16 आयोग PROPN NOUN
-3 मुख्य NOUN ADJ
-14 बार ADV NOUN
-2 चुनावी NOUN ADJ
-24 छेड़खानी NOUN VERB
-25 कर VERB AUX
-28 केंद्र NOUN PROPN
-30 कर AUX VERB
-13 दलित NOUN ADJ
-6 प्रधानंमत्री PROPN NOUN
-6 जैसे ADV ADP
-9 दूसरे ADJ PRON
-11 सिख ADJ VERB
-22 काब़िज़ ADJ VERB
-14 ऐसी DET PRON
-6 मान NOUN ADJ
-8 इसलिए PRON ADP
-2 सबको PRON ADP
-10 थोड़ा ADJ VERB
-22 बखूबी ADV VERB
-10 चुटकी NOUN ADP
-11 ली VERB AUX
-14 सरदार NOUN ADJ
-20 सरदार NOUN ADJ
-12 डबल DET NOUN
-21 नीचे ADP ADV
-13 से PART ADP
-10 निगरानी NOUN ADJ
-11 संबंधी ADJ VERB
-9 अवश्य ADV NOUN
-16 उलट VERB NOUN
-22 पहले ADV ADP
-31 ले AUX VERB
-1 बीएड PROPN NOUN
-29 और DET CONJ
-20 भैया PROPN AUX
-11 विधान NOUN PROPN
-12 मंडल NOUN PROPN
-25 पूर्व ADJ PROPN
-56 तमाम ADJ DET
-2 शिकार PROPN NOUN
-3 मामले PROPN NOUN
-9 बाल PROPN NOUN
-19 हिरण NOUN PROPN
-18 पुलिस PROPN NOUN
-7 फ्लैग NOUN PROPN
-8 मार्च NOUN PROPN
-7 फ्लैग NOUN PROPN
-8 मार्च NOUN PROPN
-6 गुस्साई VERB ADJ
-3 डिवीजनल NOUN PROPN
-4 कमिश्नर NOUN PROPN
-26 दशकों ADJ NOUN
-9 संयुक्त ADJ PROPN
-31 अपेक्षाकृत ADP ADV
-33 प्राधिकरण PROPN NOUN
-8 वाकआउट NOUN X
-19 प्रति NOUN PART
-4 जेपीसी PROPN NOUN
-16 वाकआउट NOUN X
-30 प्राधिकरण PROPN NOUN
-7 पाठक PROPN NOUN
-4 हनन NOUN PROPN
-8 पेयजल NOUN VERB
-5 पैमाना NOUN VERB
-3 प्लान NOUN PROPN
-8 राष्ट्रीय ADJ PROPN
-10 अदालत NOUN PROPN
-5 पड़े VERB NOUN
-1 जंग PROPN NOUN
-16 कभी ADV PRON
-18 कभी ADV PRON
-23 अलग ADJ ADV
-8 शांति NOUN PROPN
-2 अल्लाह PROPN NOUN
-4 शुक्र NOUN PROPN
-12 तो SCONJ PART
-17 विस्फोटक ADJ NOUN
-9 सीमा PROPN NOUN
-11 चौकसी NOUN DET
-16 डिपो NOUN PROPN
-22 और CONJ DET
-13 डिपो NOUN ADP
-18 अमोनियम PROPN NOUN
-19 नाइट्रेट PROPN NOUN
-5 विस्फोटक ADJ NOUN
-15 थे VERB AUX
-5 दक्षिण PROPN ADJ
-6 बस्तर PROPN NOUN
-14 बटालियन PROPN NOUN
-28 ग्राफ NOUN ADJ
-29 सबसे PRON ADV
-30 ऊपर ADP ADV
-4 सरकार PROPN NOUN
-12 चलती VERB NOUN
-17 पूर्व ADP ADJ
-1 लोकतांत्रिक PROPN ADJ
-2 मोर्चा PROPN NOUN
-8 जबरदस्त ADV ADJ
-1 खाद्य NOUN ADJ
-9 खाद्य NOUN ADP
-8 खाद्य NOUN ADJ
-11 खाद्य NOUN ADJ
-11 अकसर ADV NOUN
-9 खाद्य NOUN ADJ
-3 ब्यूरो NOUN PROPN
-5 हवाई PROPN NOUN
-6 अड्डे PROPN NOUN
-26 बहु ADJ PROPN
-7 हवाई PROPN NOUN
-11 दसवें ADJ PROPN
-13 गुरु NOUN PROPN
-21 सिंघल PROPN NOUN
-19 गुरु NOUN PROPN
-9 यह PRON DET
-16 सिख PROPN NOUN
-2 अधिकार PROPN NOUN
-3 मंच PROPN NOUN
-21 पक्का ADJ ADP
-1 इसी PRON DET
-15 मानने VERB ADP
-10 खौफजदा ADJ PROPN
-13 उबर VERB NOUN
-16 पाया AUX VERB
-5 संदेहास्पद ADJ NOUN
-3 मेट्रो NOUN PROPN
-5 डबल NOUN PROPN
-6 डेकर NOUN VERB
-10 गुस्साए ADJ VERB
-5 / PUNCT PROPN
-37 सेंटर PROPN NOUN
-5 बम ADJ PROPN
-12 सेंटर PROPN NOUN
-30 ये PRON DET
-6 एस्टोन PROPN NOUN
-7 विश्वविद्यालय PROPN NOUN
-8 चाइनीज PROPN NOUN
-9 क्वार्टर PROPN NOUN
-7 मेट्रो NOUN PROPN
-8 रेल NOUN PROPN
-7 कुछ DET PRON
-16 आतंकी NOUN ADJ
-8 मस्जिद PROPN NOUN
-4 और DET CONJ
-17 सिख ADJ NOUN
-3 सेक्यूलर ADJ NOUN
-8 राष्ट्रद्रोही NOUN ADJ
-14 भाई PROPN NOUN
-3 तो PART SCONJ
-16 विध्वंस NOUN PROPN
-22 अखंड ADJ PROPN
-3 और DET CONJ
-12 सेक्यूलर ADJ PROPN
-9 सेक्यूलर ADJ NOUN
-15 पर CONJ ADP
-20 जाय AUX ADP
-9 संयम NOUN PROPN
-11 हिंदू NOUN PROPN
-13 मुस्लिम NOUN PROPN
-22 जिम्मेदार NOUN ADJ
-20 हिंदुत्व ADJ NOUN
-12 तो SCONJ PART
-12 तोहफे NOUN VERB
-13 दिए VERB AUX
-2 बोर्ड PROPN NOUN
-10 जाएंगी AUX VERB
-12 बोर्ड PROPN NOUN
-15 यूनियन PROPN NOUN
-11 डी PROPN NOUN
-3 ए ADJ VERB
-4 वन ADJ PROPN
-6 ए ADJ PROPN
-7 क्लास ADJ PROPN
-6 मेहरबान ADJ PROPN
-13 गुना PART NOUN
-1 जैसे SCONJ ADV
-12 बीएसएनएल PROPN NOUN
-3 पसर्नल ADJ NOUN
-9 देवी NOUN PROPN
-14 विरोध ADP NOUN
-21 कर्फ्र्यू NOUN PROPN
-11 देवी NOUN PROPN
-15 विरोध ADP NOUN
-17 कर्फ्र्यू NOUN PROPN
-18 तोड़ VERB NOUN
-19 कर AUX VERB
-1 भड़की VERB ADJ
-19 छोड़े VERB ADJ
-8 कर्फ्र्यू NOUN PROPN
-7 होटल PROPN NOUN
-14 राज्यसभा PROPN NOUN
-16 प्रति NOUN PART
-4 एकल ADJ NOUN
-15 करीबी NOUN ADJ
-18 होटल PROPN NOUN
-21 और CONJ PROPN
-22 लोक PROPN NOUN
-6 विधानसभा PROPN NOUN
-10 मद्देनज़र ADP NOUN
-11 और DET ADJ
-9 अधिनियम PROPN NOUN
-3 सब NOUN PROPN
-18 सहाब PROPN NOUN
-32 विदेश ADJ NOUN
-2 केंद्र NOUN PROPN
-6 भारतीय NOUN ADJ
-4 प्रवासी ADJ PRON
-20 कराके VERB NOUN
-6 केंद्रीय PROPN ADJ
-7 मंत्रिमंडल PROPN NOUN
-5 राज्यमंत्री PROPN NOUN
-7 परती ADJ PROPN
-20 वृक्ष PROPN ADJ
-22 पुरस्कार PROPN NOUN
-7 11वां ADJ PROPN
-8 अन्तर्राष्ट्रीय ADJ PROPN
-9 दिवस NOUN PROPN
-5 उन्नाव PROPN NOUN
-12 वैज्ञानिक NOUN ADJ
-16 योजना PROPN NOUN
-2 सरकार PROPN NOUN
-5 चैंबर NOUN PROPN
-6 कवि NOUN PROPN
-10 कविता NOUN PROPN
-3 पहाड़ी ADJ NOUN
-5 आदिवासी ADJ NOUN
-15 पक्की ADJ ADP
-8 विद्युतीकरण PROPN NOUN
-1 कैंसर ADJ NOUN
-10 अस्पताल PROPN NOUN
-21 फाईनल ADJ PROPN
-10 मास्टर PROPN NOUN
-16 ग्रेट PROPN NOUN
-17 हो PROPN VERB
-8 ज़ीनत PROPN NOUN
-9 अमान PROPN NOUN
-2 सरकार PROPN NOUN
-7 ग्रुप PROPN NOUN
+2: 2 काल PROPN NOUN
+13: 13 483 PROPN NUM
+15: 15 पूर्व PROPN ADJ
+37: 12 अत्‍यंत ADJ NOUN
+38: 13 महत्‍व NOUN CONJ
+42: 1 बौद्ध PROPN NOUN
+46: 5 लुंबनी PROPN VERB
+48: 7 बोधगया PROPN AUX
+57: 16 विशद् ADJ NOUN
+72: 11 फाह्यान PROPN NOUN
+83: 22 गौरव NOUN PROPN
+94: 5 महत्‍व NOUN CONJ
+95: 6 बौद्ध PROPN ADJ
+121: 19 मूर्ति PROPN NOUN
+128: 2 करें VERB NOUN
+141: 10 आपका PRON ADP
+156: 10 मंदिर PROPN NOUN
+165: 3 महत्‍व NOUN CONJ
+167: 5 मंदिर PROPN NOUN
+176: 5 अजंता PROPN NOUN
+187: 4 हूबहू ADV PROPN
+188: 5 अजंता PROPN NOUN
+194: 11 तरह ADP NOUN
+218: 3 पूर्व ADJ ADP
+219: 4 हिस्‍से NOUN ADP
+240: 3 अजंता PROPN NOUN
+245: 8 महापरिनिर्वाण PROPN NOUN
+246: 9 मूर्ति PROPN NOUN
+256: 5 अजंता PROPN NOUN
+258: 7 पूर्व ADP ADJ
+271: 9 बौद्ध ADJ NOUN
+273: 11 रहा VERB NOUN
+308: 7 सा PART NOUN
+334: 2 मंदिर PROPN NOUN
+339: 7 माथा PROPN CONJ
+340: 8 कुँवर PROPN NOUN
+353: 8 अवतार NOUN ADJ
+378: 1 माथा PROPN CONJ
+379: 2 कुँवर PROPN NOUN
+398: 2 भगवान NOUN PROPN
+415: 3 चिरनिद्रा NOUN PROPN
+423: 4 महापरिनिर्वाण PROPN NOUN
+457: 4 रामाभार PROPN NOUN
+475: 9 बंधन PROPN NOUN
+486: 5 यह PRON DET
+487: 6 रामाभार PROPN NOUN
+488: 7 स्‍तूप PROPN NOUN
+517: 1 अर्द्धगोलाकर ADJ VERB
+585: 5 सामने ADP ADV
+633: 3 थाई PROPN ADJ
+668: 5 सोने NOUN VERB
+676: 1 वाट PROPN NOUN
+678: 3 मंदिर PROPN NOUN
+683: 3 सबसे ADJ ADV
+693: 13 वाट PROPN NOUN
+695: 15 मंदिर PROPN NOUN
+703: 5 सरकार PROPN NOUN
+705: 7 सौजन्‍य ADP NOUN
+727: 4 थाई PROPN ADJ
+762: 5 सोने NOUN VERB
+845: 11 चीनी ADJ NOUN
+853: 4 जातक NOUN ADP
+868: 5 फव्वारा NOUN VERB
+875: 4 पहले ADP ADV
+889: 18 पगोडा PROPN NOUN
+899: 2 मंदिर PROPN NOUN
+926: 12 देखना VERB AUX
+939: 7 बँधी VERB ADJ
+941: 9 सुरम्‍य ADJ NOUN
+949: 17 तो PRON SCONJ
+953: 21 ये PRON DET
+967: 1 जलमंदिर PROPN NOUN
+988: 9 शिव PROPN NOUN
+1004: 5 बिरला PROPN VERB
+1005: 6 धर्मशाला NOUN AUX
+1006: 7 है VERB AUX
+1024: 12 28 PROPN NUM
+1039: 10 रेलवे PROPN NOUN
+1040: 11 जंक्‍शन PROPN NOUN
+1047: 4 घंटे NOUN PROPN
+1089: 13 हवाई ADJ NOUN
+1143: 2 लोटस PROPN NOUN
+1145: 4 निक्‍को PROPN ADP
+1149: 8 रेसीडेंसी PROPN NOUN
+1151: 10 पथिक PROPN ADJ
+1152: 11 निवास PROPN NOUN
+1170: 3 पथिक PROPN ADJ
+1197: 3 धर्मशाला NOUN PROPN
+1200: 6 धर्मशाला NOUN PROPN
+1219: 1 बौद्ध ADJ NOUN
+1228: 10 व्‍यवस्‍था NOUN AUX
+1234: 3 युगांतर NOUN PROPN
+1244: 13 प्रदाता NOUN VERB
+1245: 14 रहा VERB AUX
+1268: 1 हिमालय PROPN NOUN
+1277: 3 तीर्थ NOUN PROPN
+1291: 7 यत्र PRON NOUN
+1293: 9 तत्र PRON NOUN
+1296: 12 खिसकती VERB NOUN
+1306: 5 अत्यंत ADV ADJ
+1311: 10 पुष्पकुंज NOUN PROPN
+1324: 8 दूब NOUN PROPN
+1342: 13 असंख्य DET ADJ
+1355: 26 उद्दाम ADJ PROPN
+1381: 17 मानो ADV SCONJ
+1385: 21 वाले AUX ADP
+1392: 28 यह PRON DET
+1415: 19 केदारनाथ PROPN VERB
+1418: 22 पैदल NOUN ADJ
+1422: 26 पालकी NOUN ADP
+1429: 1 यह PRON DET
+1430: 2 उत्तराखंड PROPN NOUN
+1481: 12 सुदृढ़ ADJ PROPN
+1482: 13 पाषाण NOUN ADJ
+1502: 9 पोली ADJ VERB
+1503: 10 है VERB AUX
+1512: 2 मंडप NOUN PROPN
+1533: 4 पुरुष ADJ NOUN
+1534: 5 प्रमाण ADJ NOUN
+1563: 5 शंकराचार्य PROPN NOUN
+1588: 1 निःसंदेह ADV NOUN
+1616: 9 सरोवर PROPN NOUN
+1642: 11 गाँधी PROPN ADJ
+1643: 12 स्मारक PROPN NOUN
+1674: 6 सरकार PROPN NOUN
+1676: 8 लचर ADJ ADP
+1687: 19 लगभग ADV PART
+1696: 4 जेद्दा PROPN NOUN
+1713: 21 संप्रभु ADJ NOUN
+1728: 36 उलट ADP NOUN
+1736: 5 लचर ADJ VERB
+1737: 6 रही VERB AUX
+1745: 5 अस्थिरता NOUN VERB
+1746: 6 है VERB AUX
+1821: 19 संप्रभु ADJ NOUN
+1831: 29 अनदेखी ADJ NOUN
+1859: 25 घोषणा PROPN NOUN
+1882: 8 मुझसे PRON ADP
+1901: 27 चाहेंगे VERB AUX
+2045: 2 मठ NOUN PROPN
+2052: 9 आराधना NOUN PROPN
+2067: 1 यह DET PRON
+2140: 30 आराधना NOUN VERB
+2162: 14 आराधना NOUN PROPN
+2226: 11 भजन NOUN PROPN
+2234: 19 स्वर्ण NOUN PROPN
+2235: 20 कलश NOUN PROPN
+2248: 9 के PROPN ADP
+2252: 13 आदिस्थानम NOUN PROPN
+2386: 1 योजना NOUN PROPN
+2394: 9 कमेटी NOUN PROPN
+2429: 1 दसवीं ADJ PROPN
+2454: 6 रकम NOUN DET
+2455: 7 पहले ADJ ADV
+2485: 7 योजना NOUN PROPN
+2499: 21 वृहद ADJ PROPN
+2500: 22 क्षेत्रफल NOUN ADJ
+2542: 5 रकम NOUN DET
+2591: 6 यह PRON DET
+2610: 10 तकरीबन ADV PART
+2654: 13 कि PART SCONJ
+2663: 1 खुफिया PROPN ADJ
+2664: 2 ब्यूरो PROPN NOUN
+2691: 4 १९६८ PROPN NUM
+2694: 7 आईपीएस NOUN PROPN
+2698: 11 ब्यूरो PROPN NOUN
+2725: 13 रिटायर NOUN ADJ
+2735: 23 पाधी PROPN NOUN
+2745: 1 पाधी PROPN NOUN
+2762: 8 १९७० PROPN NUM
+2771: 17 ब्यूरो PROPN NOUN
+2783: 1 ब्यूरो NOUN PROPN
+2795: 13 रिटायर NOUN X
+2830: 9 बाहर ADV ADP
+2840: 6 लोकपाल NOUN PROPN
+2865: 1 लोकपाल NOUN PROPN
+2886: 1 कानून PROPN NOUN
+2901: 16 लोकपाल NOUN PROPN
+2907: 22 बेदाग ADJ NOUN
+2913: 1 जेएमएम PROPN NOUN
+2983: 6 लोकपाल NOUN PROPN
+3017: 14 रूप NOUN ADP
+3026: 3 यह PRON DET
+3047: 5 विज्ञान PROPN NOUN
+3068: 7 लोकपाल NOUN PROPN
+3090: 29 लोकपाल NOUN PROPN
+3115: 15 लोकपाल NOUN PROPN
+3134: 8 लोकपाल NOUN PROPN
+3148: 2 हम DET PRON
+3165: 19 बाहर ADV ADP
+3247: 1 लोकपाल NOUN PROPN
+3318: 28 उतने DET VERB
+3361: 8 लोकपाल NOUN PROPN
+3404: 17 फिक्सड ADJ PROPN
+3408: 21 वॉकी NOUN VERB
+3410: 23 अनलिमिटेड ADJ PROPN
+3426: 6 फिक्सड ADJ PROPN
+3431: 11 वॉकी NOUN ADP
+3435: 15 अनलिमिटेड ADJ PROPN
+3440: 20 तरह ADP NOUN
+3483: 15 टेलीसर्विस PROPN NOUN
+3488: 20 फिक्सड ADJ NOUN
+3506: 38 समान ADP ADJ
+3518: 5 एसेस PROPN NOUN
+3528: 15 यह PRON DET
+3529: 16 फिक्सड ADJ NOUN
+3539: 5 फिक्सड ADJ NOUN
+3576: 18 फिक्सड ADJ PROPN
+3593: 11 धारा NOUN PROPN
+3594: 12 १३ NUM PROPN
+3596: 14 ११ NUM PROPN
+3598: 16 १ NUM PROPN
+3601: 19 बी NOUN PROPN
+3640: 6 फ्लैश X NOUN
+3644: 10 अनबिलिवेबल PROPN NOUN
+3654: 20 आपके PRON ADP
+3748: 6 खुलकर VERB PROPN
+3757: 15 बोले VERB NOUN
+3768: 26 अदा NOUN ADJ
+3810: 7 जो DET PRON
+3833: 13 आजम NOUN PROPN
+3847: 27 पाकिस्तान NOUN PROPN
+3914: 8 सेकुलर ADJ NOUN
+3946: 24 जी PART PROPN
+3979: 16 फिर PART ADV
+4067: 2 विधानसभा PROPN NOUN
+4102: 18 बांट VERB NOUN
+4152: 3 ब्यूरो PROPN NOUN
+4229: 6 गठबंधन NOUN PROPN
+4263: 40 कम DET NOUN
+4270: 4 सुप्रीमो PROPN NOUN
+4411: 14 स्टीफन PROPN PART
+4426: 10 भवें NOUN ADJ
+4440: 9 गठबंधन NOUN PROPN
+4475: 3 नन NOUN PART
+4529: 7 नन NOUN PART
+4558: 12 नन NOUN PROPN
+4581: 1 लिहाजा CONJ ADV
+4589: 9 जैसा PRON SCONJ
+4590: 10 कि PART SCONJ
+4592: 12 काउंसिल NOUN PROPN
+4618: 14 नन NOUN PROPN
+4658: 23 लिहाजा CONJ ADV
+4661: 26 नन NOUN PROPN
+4707: 34 निस्वार्थ ADJ NOUN
+4710: 37 दबे ADJ VERB
+4711: 38 कुचले ADJ VERB
+4726: 6 पंजीकरण PROPN NOUN
+4727: 7 समिति PROPN NOUN
+4768: 21 नन NOUN PART
+4790: 3 नियम NOUN PROPN
+4859: 13 सुन VERB NOUN
+4860: 14 ली AUX VERB
+4947: 9 यू NOUN PROPN
+4948: 10 टर्न NOUN VERB
+4957: 6 विदेश PROPN NOUN
+4993: 14 मुख्य ADJ NOUN
+5054: 12 जमा NOUN ADJ
+5083: 2 दलाली NOUN PROPN
+5181: 7 रखने VERB AUX
+5408: 2 पाठक PROPN NOUN
+5414: 8 समिति PROPN NOUN
+5438: 3 पूर्व ADP ADJ
+5448: 13 रेड PROPN NOUN
+5450: 15 नोटिस PROPN NOUN
+5451: 16 चस्पा NOUN PROPN
+5526: 26 तो PRON SCONJ
+5585: 9 बहुत DET ADV
+5715: 6 सरकार NOUN PROPN
+5717: 8 २००४ PROPN NOUN
+5780: 11 बहुत ADV DET
+5784: 15 जमानती ADJ VERB
+5785: 16 है VERB AUX
+5848: 3 जड़ NOUN ADJ
+5883: 9 कार्यक्रम PROPN NOUN
+5918: 8 स्वास्थ्य PROPN NOUN
+5923: 13 जन NOUN PROPN
+5961: 17 केंद्रीय ADJ PROPN
+5963: 19 क्षेत्र NOUN PROPN
+5973: 29 ०३ PROPN NUM
+5993: 11 राष्ट्रीय PROPN ADJ
+5994: 12 शिक्षा PROPN NOUN
+6016: 34 सकल ADJ PROPN
+6017: 35 घरेलू ADJ PROPN
+6048: 12 केंद्र NOUN PROPN
+6128: 7 साक्षर ADJ NOUN
+6206: 21 आगे ADP ADV
+6207: 22 रही VERB AUX
+6255: 15 मिलियन NUM NOUN
+6354: 23 बख्शा VERB NOUN
+6356: 25 जाएगा AUX VERB
+6378: 20 दोहरे DET ADJ
+6421: 9 मंत्री NOUN PROPN
+6422: 10 राष्ट्र ADJ PROPN
+6458: 7 निकाला AUX VERB
+6481: 9 दया NOUN CONJ
+6495: 2 भवन NOUN PROPN
+6604: 7 तो SCONJ PRON
+6619: 9 मंत्री NOUN PROPN
+6622: 12 मेरी PRON ADJ
+6632: 22 मेरी PRON NOUN
+6661: 15 जहां ADV PRON
+6715: 13 करें VERB NOUN
+6716: 14 वरना SCONJ VERB
+6720: 18 दोहरे DET ADJ
+6728: 2 युद्ध NOUN PROPN
+6733: 7 सुब्रह्मण्यम PROPN ADJ
+6734: 8 समिति PROPN NOUN
+6755: 29 द्रास PROPN NOUN
+6783: 14 अवकाश ADJ NOUN
+6803: 34 प्वाइंट PROPN NOUN
+6804: 35 ५३५३ PROPN NUM
+6815: 2 युद्ध NOUN PROPN
+6817: 4 समय ADP NOUN
+6818: 5 ब्रिगेडियर NOUN PROPN
+6825: 1 ब्रिगेडियर NOUN PROPN
+6828: 4 सुब्रह्मण्यम PROPN ADJ
+6829: 5 समिति PROPN NOUN
+6845: 1 ब्रिगेडियर NOUN PROPN
+6864: 20 साथ NOUN ADP
+6883: 8 ब्रिगेडियर NOUN PROPN
+6891: 16 तोलोलिंग PROPN NOUN
+6899: 24 प्वाइंट PROPN NOUN
+6900: 25 ५३५३ PROPN NUM
+6942: 6 रही VERB PROPN
+6945: 9 शीतल ADJ NOUN
+6952: 16 आई VERB PROPN
+6959: 23 रिट्रीट PROPN NOUN
+6976: 7 रिट्रीट PROPN NOUN
+6996: 10 यादें NOUN ADP
+7016: 10 रिट्रीट PROPN NOUN
+7023: 1 होटल NOUN PROPN
+7025: 3 फ्लावर PROPN NOUN
+7032: 10 रिट्रीट PROPN NOUN
+7064: 6 स्व. ADJ PROPN
+7069: 11 स्व. ADJ PUNCT
+7073: 15 रिट्रीट PROPN NOUN
+7105: 3 वे DET PRON
+7113: 11 ओझल ADJ NOUN
+7125: 6 देवदार PROPN NOUN
+7171: 10 यादें NOUN ADP
+7185: 5 उड़ाने VERB NOUN
+7196: 16 बहुतेरे ADJ NOUN
+7197: 17 थे VERB AUX
+7226: 1 रिट्रीट PROPN NOUN
+7228: 3 निर्जन ADJ NOUN
+7253: 4 वक्त ADP NOUN
+7353: 9 नितांत ADJ NOUN
+7377: 3 तो PART SCONJ
+7431: 8 हामटा PROPN ADP
+7432: 9 पास PROPN ADP
+7435: 12 पास PROPN ADV
+7455: 32 ब्यास PROPN NOUN
+7463: 40 ७ PROPN NUM
+7464: 41 सिस्टर PROPN NOUN
+7467: 44 फ्रेंडशिप PROPN NOUN
+7468: 45 पीक PROPN ADJ
+7474: 51 अनेकों DET NOUN
+7527: 24 भीनी ADJ NOUN
+7553: 17 सेब NOUN PRON
+7572: 1 वहीं ADV PRON
+7660: 11 पीक PROPN ADJ
+7662: 13 संमजोतर PROPN ADJ
+7695: 3 मंदिर PROPN NOUN
+7699: 7 प्रकरण NOUN PROPN
+7727: 6 स्वामी NOUN PROPN
+7734: 13 पुनः ADV ADJ
+7751: 10 समन्वय PROPN NOUN
+7752: 11 समिति PROPN NOUN
+7816: 9 स्वामी NOUN PROPN
+7829: 6 आमने NOUN VERB
+7837: 14 दूरभाष NOUN PRON
+7874: 19 समन्वय PROPN NOUN
+7875: 20 समिति PROPN NOUN
+7938: 44 न्यासी NOUN PROPN
+7971: 1 श्री NOUN PROPN
+7987: 17 मंथन NOUN PART
+8002: 11 जी PART PROPN
+8010: 19 मौलाना NOUN PROPN
+8020: 29 कारी PROPN NOUN
+8025: 34 सिया NOUN PROPN
+8129: 6 श्री NOUN PROPN
+8136: 1 श्री NOUN PROPN
+8143: 8 सभी DET PRON
+8157: 22 जी PART PROPN
+8158: 23 महाराज NOUN PROPN
+8185: 7 जी PART PROPN
+8206: 15 जी PART PROPN
+8220: 1 श्री NOUN PROPN
+8231: 12 भवन PROPN NOUN
+8244: 4 जी PART NOUN
+8306: 12 जी PART PROPN
+8410: 5 छूट NOUN PROPN
+8411: 6 सीमा NOUN PROPN
+8453: 15 फ्रेमवर्क PROPN NOUN
+8459: 21 पॉलिसी PROPN NOUN
+8460: 22 स्टेटमेंट PROPN NOUN
+8462: 24 फिस्कल PROPN NOUN
+8464: 26 स्ट्रेटजी PROPN ADJ
+8465: 27 स्टेटमेंट PROPN NOUN
+8473: 4 पॉलिसी PROPN NOUN
+8474: 5 स्टेटमेंट PROPN NOUN
+8518: 8 बजट PROPN NOUN
+8519: 9 प्रबंधन PROPN NOUN
+8520: 10 कानून PROPN NOUN
+8532: 22 सकल NOUN PROPN
+8533: 23 घरेलू NOUN ADJ
+8550: 2 दर NOUN PROPN
+8593: 9 दर NOUN PROPN
+8599: 15 प्रत्यक्ष PROPN ADJ
+8600: 16 विदेशी PROPN ADJ
+8631: 18 मुद्रास्फीती NOUN VERB
+8752: 5 समूह PROPN NOUN
+8760: 13 टैप X NOUN
+8783: 14 कर AUX VERB
+8845: 5 समूह PROPN NOUN
+8992: 10 समूह PROPN NOUN
+9014: 9 लैंड NOUN PROPN
+9018: 13 टैप X NOUN
+9025: 20 जीएसएम NOUN PROPN
+9065: 16 चुने VERB ADP
+9066: 17 हुए AUX VERB
+9109: 21 तत्काल ADJ ADV
+9120: 1 पूर्वी ADJ PROPN
+9139: 20 कारीगर NOUN SCONJ
+9149: 2 कारीगर NOUN PROPN
+9241: 11 सब्जी PROPN NOUN
+9243: 13 पोस्टमार्टम PROPN NOUN
+9295: 12 यमुनापार PROPN NOUN
+9296: 13 विकास PROPN NOUN
+9297: 14 बोर्ड PROPN ADJ
+9319: 13 नंबर PROPN NOUN
+9324: 18 नंबर PROPN NOUN
+9328: 22 विश्वास PROPN NOUN
+9342: 9 ब्यूटी PROPN NOUN
+9358: 7 ग्रोवर PROPN NOUN
+9372: 3 तरह ADP NOUN
+9433: 8 चंद DET NOUN
+9445: 3 कारीगर NOUN SCONJ
+9468: 16 कारीगर NOUN PROPN
+9481: 6 बराबर ADV PROPN
+9496: 2 नंबर PROPN NOUN
+9512: 18 वजह ADP NOUN
+9546: 4 दमकल PROPN NOUN
+9547: 5 विभाग PROPN NOUN
+9593: 11 सब्जी PROPN NOUN
+9595: 13 मुर्दाघर PROPN NOUN
+9601: 2 संजय NOUN PROPN
+9604: 5 अस्पताल PROPN NOUN
+9660: 3 की ADP VERB
+9661: 4 और DET CONJ
+9807: 20 बनीं VERB PROPN
+9812: 25 सबसे ADJ ADV
+9830: 11 तरह ADP NOUN
+9844: 9 चार NUM NOUN
+9858: 6 मोरचे NOUN VERB
+9874: 22 हैं AUX VERB
+9916: 2 बाकी DET ADJ
+10085: 9 सबसे ADJ ADV
+10142: 4 १०वीं PROPN ADJ
+10145: 7 सृष्टि PROPN NOUN
+10146: 8 कृष्णमूर्ति PROPN NOUN
+10156: 18 सृष्टि PROPN NOUN
+10180: 2 सृष्टि PROPN NOUN
+10185: 7 कतई ADV DET
+10191: 13 कविता NOUN PROPN
+10207: 4 सृष्टि PROPN NOUN
+10220: 17 खेल NOUN PROPN
+10230: 1 कविता NOUN PROPN
+10237: 8 यह PRON DET
+10245: 16 हम DET PRON
+10246: 17 सभी PRON DET
+10254: 1 सृष्टि PROPN NOUN
+10262: 9 पाक PROPN ADJ
+10278: 25 सृष्टि PROPN NOUN
+10294: 2 पूर्व ADP ADJ
+10308: 16 से PART ADP
+10391: 36 तो SCONJ PRON
+10447: 17 १७ NUM PROPN
+10490: 7 बेसिक ADJ PROPN
+10514: 7 सेलुलर NOUN ADJ
+10589: 10 कप PROPN NOUN
+10595: 16 भारतीय ADJ PROPN
+10596: 17 क्रिकेट PROPN NOUN
+10657: 19 अतिरिक्त ADJ NOUN
+10755: 1 बाएं ADJ NOUN
+10806: 19 लंबे ADJ PROPN
+10807: 20 अरसे NOUN ADP
+10824: 2 कप PROPN NOUN
+10833: 11 अगरकर PROPN VERB
+10839: 17 हेमांग PROPN NOUN
+10840: 18 बदानी PROPN VERB
+10901: 44 लक्ष्मीपति PROPN NOUN
+10924: 20 उठे AUX VERB
+10933: 29 और DET CONJ
+10964: 6 और DET ADJ
+11040: 9 काले ADJ VERB
+11041: 10 घने ADJ ADP
+11074: 8 दर NOUN PROPN
+11125: 18 तसवीर NOUN PROPN
+11164: 5 धरे ADV VERB
+11165: 6 के PART ADP
+11166: 7 धरे ADV ADP
+11186: 15 दर NOUN PROPN
+11257: 3 कर NOUN VERB
+11277: 7 उच्च NOUN ADJ
+11436: 1 आर्थिक PROPN ADJ
+11437: 2 सर्वेक्षण PROPN NOUN
+11459: 24 कार्यक्रम PROPN NOUN
+11474: 3 बजट PROPN NOUN
+11563: 14 जीडीपी PROPN NOUN
+11578: 9 कमोबेश ADV NOUN
+11590: 7 रही VERB AUX
+11631: 11 हॉक PROPN NOUN
+11632: 12 उन्नत PROPN ADJ
+11633: 13 प्रशिक्षण PROPN NOUN
+11634: 14 विमान PROPN NOUN
+11654: 5 भारतीय PROPN ADJ
+11655: 6 वायु PROPN NOUN
+11657: 8 सेना PROPN NOUN
+11690: 17 हॉक PROPN NOUN
+11691: 18 एजेटी PROPN NOUN
+11694: 21 ब्रिटिश PROPN ADJ
+11695: 22 सरकार PROPN NOUN
+11719: 14 हॉक PROPN NOUN
+11720: 15 एजेटी PROPN NOUN
+11754: 16 २०१० PROPN NUM
+11768: 10 ब्रिटिश PROPN ADJ
+11769: 11 एरोस्पेस PROPN NOUN
+11833: 5 पहले ADJ ADV
+11843: 1 मंत्री NOUN PROPN
+11872: 1 हाईपर NOUN CONJ
+11887: 16 हाईपर NOUN ADP
+11924: 9 हाईपर NOUN ADP
+11943: 6 ५२ NUM PROPN
+11944: 7 कैलिबर NOUN PROPN
+11946: 9 हॉविटजर PROPN NOUN
+11947: 10 प्रणाली PROPN NOUN
+11992: 2 हाईकोर्ट PROPN NOUN
+12066: 9 सस्ती ADJ NOUN
+12078: 21 भर्ती ADJ NOUN
+12083: 26 आय NOUN ADJ
+12091: 34 कार्ड PROPN NOUN
+12143: 13 सस्ती ADJ NOUN
+12201: 22 लगवाएँ VERB NOUN
+12204: 25 निशुल्क ADJ NOUN
+12205: 26 बेड NOUN PROPN
+12244: 10 एस्कॉर्टस PROPN NOUN
+12257: 23 अस्पताल PROPN NOUN
+12270: 36 मरीज़ NOUN PROPN
+12283: 1 अधिकांश ADJ DET
+12297: 15 अपेक्षा ADP NOUN
+12300: 18 बेड NOUN ADJ
+12380: 16 परमाणु PROPN NOUN
+12381: 17 रिएक्टर PROPN NOUN
+12394: 6 परमाणु PROPN NOUN
+12396: 8 आयोग PROPN NOUN
+12408: 4 मंत्री PROPN NOUN
+12429: 25 राय PROPN NOUN
+12440: 4 हवारा PROPN NOUN
+12464: 6 हवारा PROPN NOUN
+12481: 23 काबू ADJ NOUN
+12516: 16 नवांशहर PROPN NOUN
+12529: 29 हवारा PROPN NOUN
+12565: 24 गया VERB AUX
+12572: 4 पुलिस PROPN NOUN
+12580: 12 डेरा NOUN VERB
+12609: 1 वहीं PRON ADV
+12614: 6 मौजूद ADJ PROPN
+12672: 1 दूसरा NOUN ADJ
+12690: 3 दोनों NUM NOUN
+12746: 11 हवारा PROPN NOUN
+12751: 16 उसको PRON ADP
+12826: 9 हवारा PROPN NOUN
+12844: 3 कंट्रोलर PROPN NOUN
+12845: 4 एंड PROPN NOUN
+12846: 5 ऑडिटर PROPN NOUN
+12847: 6 जनरल PROPN NOUN
+12870: 29 खड़ा VERB ADJ
+12871: 30 हुआ AUX VERB
+12875: 1 कॉल PROPN NOUN
+12885: 11 नियंत्रकों NOUN PROPN
+12896: 22 कार्यक्रम NOUN PROPN
+12918: 15 वियतनाम PROPN NOUN
+12939: 1 कॉल PROPN NOUN
+12966: 4 नियामक ADJ NOUN
+12973: 11 लेखा NOUN VERB
+13024: 1 कॉल PROPN NOUN
+13104: 22 चुनाव PROPN NOUN
+13105: 23 आयोग PROPN NOUN
+13124: 6 चुनाव PROPN NOUN
+13125: 7 आयोग PROPN NOUN
+13158: 3 सप्तऋषि PROPN NOUN
+13172: 2 प्रमुख NOUN ADJ
+13201: 13 सी PART ADJ
+13221: 3 सप्तऋषि PROPN NOUN
+13247: 9 लोकसभा PROPN NOUN
+13249: 11 विधानसभा PROPN NOUN
+13267: 8 चुनाव PROPN NOUN
+13268: 9 आयोग PROPN NOUN
+13321: 26 नज़र NOUN ADP
+13343: 19 सबसे PRON ADV
+13344: 20 ऊपर ADP ADV
+13348: 1 ग्लेनईगल्स PROPN NOUN
+13350: 3 जी PROPN ADJ
+13354: 7 जो PRON DET
+13396: 14 केंद्र NOUN PROPN
+13446: 1 वैसे PRON ADV
+13447: 2 जी PROPN ADJ
+13482: 2 क्योटो PROPN NOUN
+13483: 3 प्रोटोकॉल PROPN NOUN
+13516: 21 जी PROPN NOUN
+13518: 23 ८ PROPN NUM
+13531: 3 समूह PROPN NOUN
+13628: 1 आतंकवादी NOUN ADJ
+13640: 5 जेसीओ PROPN NOUN
+13720: 1 आतंकी NOUN ADJ
+13765: 3 नायक NOUN PROPN
+13783: 6 एके NOUN ADP
+13790: 13 ८ NUM PROPN
+13793: 16 ४ NUM PROPN
+13814: 3 तबका NOUN ADP
+13824: 13 कृषि PROPN NOUN
+13827: 16 आयोग PROPN NOUN
+13842: 7 कृषि PROPN NOUN
+13845: 10 आयोग PROPN NOUN
+13879: 2 अतिरिक्त ADP ADJ
+13922: 22 हिसाब ADP NOUN
+13931: 1 कृषि PROPN NOUN
+13934: 4 आयोग PROPN NOUN
+13938: 8 और CONJ DET
+14045: 25 जो DET PRON
+14120: 8 लागत NOUN ADJ
+14149: 7 काफी ADV DET
+14190: 9 मूल्य NOUN PROPN
+14212: 14 मिल VERB ADJ
+14214: 16 पाता AUX VERB
+14243: 18 की ADP VERB
+14244: 19 है VERB AUX
+14259: 13 काफी ADV DET
+14267: 21 नाबार्ड PROPN NOUN
+14362: 5 लैनहम PROPN PRON
+14368: 11 प्रमुख NOUN ADJ
+14387: 2 एनआरआई PROPN VERB
+14423: 1 मंत्री NOUN PROPN
+14465: 15 मंत्री NOUN PROPN
+14496: 4 मंत्री NOUN PROPN
+14516: 8 जो DET PRON
+14541: 5 और DET CONJ
+14542: 6 संक्रामक NOUN ADJ
+14563: 10 आयुर्वेद NOUN PROPN
+14568: 15 आयुर्वेद NOUN PROPN
+14584: 2 आयुर्वेद NOUN PROPN
+14593: 11 परियोजना PROPN NOUN
+14613: 11 अनुसूचित ADJ NOUN
+14617: 15 अनुसूचित ADJ NOUN
+14648: 9 अनुसूचित ADJ NOUN
+14653: 14 अनुसूचित ADJ NOUN
+14676: 12 अनुसूचित ADJ NOUN
+14681: 17 अनुसूचित ADJ NOUN
+14702: 10 कर्जदार ADJ NOUN
+14741: 15 था VERB AUX
+14752: 9 व्यवसाय NOUN PROPN
+14754: 11 उत्पादक ADJ NOUN
+14776: 4 शासन PROPN NOUN
+14834: 30 शासन PROPN NOUN
+14843: 5 स्वीकार ADJ NOUN
+14945: 4 भंग ADJ NOUN
+14973: 3 चुनाव PROPN NOUN
+14974: 4 आयोग PROPN NOUN
+14977: 7 विधानसभा PROPN NOUN
+15031: 10 शासन PROPN NOUN
+15037: 16 चुनाव PROPN NOUN
+15038: 17 आयोग PROPN NOUN
+15090: 2 पंजी NOUN PROPN
+15095: 7 थल NOUN PROPN
+15098: 10 अनदेखी NOUN ADJ
+15105: 17 नौ NOUN NUM
+15146: 10 पूँजी NOUN ADP
+15149: 13 दोगुना ADJ PART
+15160: 2 बजट PROPN NOUN
+15197: 1 पूँजी NOUN PROPN
+15200: 4 दोगुना ADJ PART
+15227: 31 थल NOUN PROPN
+15261: 12 सकल ADJ PROPN
+15262: 13 घरेलू ADJ PROPN
+15280: 31 अपेक्षा ADP NOUN
+15292: 7 अपेक्षा ADP NOUN
+15309: 9 थल NOUN PROPN
+15322: 22 नौ NOUN NUM
+15336: 4 थल NOUN PROPN
+15365: 2 नौ NOUN NUM
+15445: 32 अपेक्षा ADP NOUN
+15518: 16 कर NOUN VERB
+15568: 5 मंत्रालय PROPN NOUN
+15586: 14 बिज्र NOUN PROPN
+15620: 21 उत्पाद NOUN PROPN
+15657: 7 २००० PROPN NUM
+15681: 10 विशेष ADJ NOUN
+15683: 12 कर NOUN VERB
+15706: 12 और DET CONJ
+15759: 14 मारुति PROPN NOUN
+15844: 7 ठंडा ADJ PROPN
+15859: 22 इमराना PROPN NOUN
+15860: 23 जैसा ADP DET
+15879: 5 आव्रजक ADJ NOUN
+15887: 13 उल्टे ADJ NOUN
+15930: 2 ढिंग PROPN NOUN
+15959: 14 ससुर NOUN PROPN
+15969: 24 थानान्तर्गत NOUN ADP
+15971: 26 जेरामाई PROPN NOUN
+15972: 27 गाँव NOUN PROPN
+15977: 32 अकेली ADJ VERB
+15978: 33 थी VERB AUX
+16036: 13 दी AUX VERB
+16187: 10 कृत NOUN ADJ
+16214: 8 नागरिक PROPN NOUN
+16215: 9 कानून PROPN NOUN
+16286: 16 भारतीय NOUN ADJ
+16319: 1 यह PRON DET
+16334: 16 मिलकर ADV VERB
+16357: 8 कॉलेज PROPN NOUN
+16359: 10 अर्थशास्त्र PROPN NOUN
+16380: 11 डकैत NOUN PROPN
+16385: 16 सीमा PROPN NOUN
+16406: 6 हिंदू NOUN ADJ
+16407: 7 रीति NOUN PROPN
+16423: 3 इटावा PROPN NOUN
+16432: 12 सीमा PROPN NOUN
+16469: 7 काशी PROPN NOUN
+16478: 1 सीमा PROPN NOUN
+16511: 10 निर्भय PROPN NOUN
+16536: 5 बहादुरी ADJ NOUN
+16557: 4 सीमा PROPN NOUN
+16581: 10 सीमा PROPN NOUN
+16588: 17 तो PRON SCONJ
+16637: 5 टुडे PROPN NOUN
+16680: 14 आत्म NOUN ADJ
+16717: 23 की VERB ADP
+16782: 35 धारा NOUN PROPN
+16803: 15 शक्ति NOUN PROPN
+16833: 4 संग्राम NOUN PROPN
+16900: 37 साथ ADV ADP
+16936: 24 पहले ADV ADP
+17109: 9 ऐसा DET PRON
+17116: 16 यह PRON DET
+17138: 3 वसंत PROPN NOUN
+17139: 4 साठे PROPN VERB
+17169: 17 गुरुद्वारा PROPN ADP
+17215: 29 पाये AUX VERB
+17223: 6 तो PRON SCONJ
+17284: 24 गुरुद्वारा NOUN PROPN
+17317: 5 भड़काने VERB NOUN
+17365: 1 साठे PROPN NOUN
+17377: 13 तीन PROPN NUM
+17378: 14 मूर्ति PROPN NOUN
+17425: 8 गलतफहमी NOUN ADJ
+17429: 1 भारतीय PROPN ADJ
+17468: 9 वाला ADP AUX
+17474: 15 बायोटेक्नोलॅजी NOUN ADJ
+17511: 19 तीन NUM NOUN
+17530: 1 इसी PRON DET
+17545: 16 लश्कर PROPN NOUN
+17557: 4 इंस्टीटयूट PROPN NOUN
+17560: 7 मेडिकल PROPN NOUN
+17579: 26 सटी VERB PROPN
+17595: 5 इफ्तखार PROPN NOUN
+17606: 16 हवाले NOUN ADP
+17648: 4 डॉलफिन PROPN NOUN
+17706: 19 इफ्तखार PROPN NOUN
+17722: 35 इफ्तखार PROPN NOUN
+17724: 37 आतंकी NOUN ADJ
+17748: 16 १२वीं PROPN ADJ
+17766: 14 शख्स NOUN PROPN
+17795: 1 इफ्तखार PROPN NOUN
+17797: 3 सिमी PROPN NOUN
+17809: 4 इफ्तखार PROPN NOUN
+17815: 10 इंस्टीटयूट PROPN NOUN
+17818: 13 मेडिकल PROPN NOUN
+17821: 16 साइंस PROPN NOUN
+17823: 18 बायो NOUN PROPN
+17848: 5 शख्स NOUN PROPN
+17853: 10 इफ्तखार PROPN NOUN
+17875: 11 इफ्तखार PROPN NOUN
+17878: 14 छिपी VERB PROPN
+17879: 15 रह AUX VERB
+17956: 15 यह PRON DET
+17990: 15 मिस्त्र PROPN NOUN
+17998: 23 एमआई PROPN VERB
+18007: 2 ५ PROPN NUM
+18010: 5 १७ PROPN NUM
+18108: 43 पुरस्कार PROPN NOUN
+18136: 10 निर्माणाधीन ADJ PROPN
+18138: 12 पुल NOUN PROPN
+18142: 16 अचानक ADV NOUN
+18173: 1 चंडीमंदिर PROPN NOUN
+18175: 3 पश्चिमी PROPN ADJ
+18176: 4 कमान PROPN NOUN
+18213: 13 डूबने VERB ADP
+18242: 11 पश्चिमी PROPN ADJ
+18243: 12 कमान PROPN NOUN
+18279: 1 नायब NOUN ADJ
+18280: 2 सूबेदार NOUN ADJ
+18292: 3 उपायुक्त NOUN ADJ
+18308: 19 होने AUX VERB
+18339: 14 यह PRON DET
+18340: 15 पहाड़ी ADJ NOUN
+18347: 22 डूबे VERB ADJ
+18353: 28 नहीं NOUN PART
+18400: 3 निर्माणाधीन ADJ PROPN
+18416: 19 और DET CONJ
+18437: 16 पोआरी PROPN NOUN
+18459: 14 नगदी ADJ NOUN
+18487: 4 ब्रिज PROPN NOUN
+18507: 8 वाला AUX ADP
+18513: 14 कि PART SCONJ
+18527: 28 क्रूर ADJ ADV
+18538: 2 निर्माणाधीन ADJ NOUN
+18572: 15 पौने DET NUM
+18632: 6 मुगेसकेटी PROPN NOUN
+18638: 12 संजीवन PROPN NOUN
+18649: 8 हवाले NOUN ADP
+18671: 4 प्रत्यक्षदर्शी NOUN ADJ
+18700: 13 टाशी PROPN NOUN
+18725: 6 चौथी ADJ VERB
+18743: 13 यह PRON DET
+18750: 1 पंचकूला PROPN NOUN
+18762: 13 चंडीमंदिर PROPN NOUN
+18764: 15 पश्चिमी PROPN ADJ
+18765: 16 कमान PROPN NOUN
+18817: 1 विदेश PROPN NOUN
+18850: 20 इराकियों PROPN NOUN
+18919: 9 गूंजा VERB NOUN
+18920: 10 करती AUX VERB
+18929: 19 उरी PROPN ADJ
+18932: 22 कमान PROPN NOUN
+18933: 23 पोस्ट PROPN NOUN
+18948: 2 इसीलिए PRON ADP
+18967: 6 बस NOUN PROPN
+18972: 11 उरी PROPN NOUN
+18983: 1 कमान PROPN NOUN
+18984: 2 पोस्ट PROPN NOUN
+19001: 19 यह DET PRON
+19002: 20 सपना NOUN VERB
+19003: 21 था VERB AUX
+19009: 27 यह DET PRON
+19015: 33 यह DET PRON
+19031: 11 १९४७ PROPN NUM
+19044: 24 जाया VERB CONJ
+19045: 25 करते AUX VERB
+19063: 1 भावविह्वल ADJ PROPN
+19072: 10 पहले ADP ADV
+19073: 11 उरी PROPN NOUN
+19146: 3 उरी PROPN NOUN
+19161: 4 कमान PROPN NOUN
+19162: 5 ब्रिज PROPN NOUN
+19215: 13 तो PRON SCONJ
+19219: 17 सीमा PROPN NOUN
+19221: 19 संगठन PROPN NOUN
+19238: 36 लकड़ी NOUN ADJ
+19243: 41 कमान PROPN NOUN
+19244: 42 ब्रिज PROPN NOUN
+19322: 27 कमान PROPN NOUN
+19323: 28 पोस्ट PROPN NOUN
+19337: 1 यह PRON DET
+19384: 10 पोस्ट PROPN NOUN
+19394: 20 भरसक ADJ ADV
+19448: 22 भारत ADJ PROPN
+19452: 26 इतने DET VERB
+19492: 2 वर्ल्ड PROPN NOUN
+19562: 5 बस NOUN PROPN
+19568: 11 काफी DET ADV
+19601: 9 भारत ADJ PROPN
+19604: 12 संबंध NOUN ADP
+19617: 25 मूलभूत ADJ ADP
+19631: 6 संबंध NOUN ADP
+19663: 16 नाटो PROPN NOUN
+19676: 2 विदेश PROPN NOUN
+19748: 2 बहुत DET ADV
+19772: 18 पॉपुलर ADJ NOUN
+19782: 5 ट्रेंडी ADJ PROPN
+19794: 1 पंचसितारा NOUN PROPN
+19802: 9 स्पा NOUN PROPN
+19806: 13 टू NUM ADJ
+19808: 15 नूडल्स NOUN PROPN
+19812: 19 परोसा VERB NOUN
+19813: 20 जा AUX VERB
+19820: 3 द PROPN NOUN
+19823: 6 ऑफ PROPN ADJ
+19824: 7 हास्य PROPN NOUN
+19826: 9 लोकप्रियता NOUN PROPN
+19836: 1 जरा DET PROPN
+19839: 4 डालिए VERB ADP
+19840: 5 सूर्य PROPN NOUN
+19841: 6 नमस्कार PROPN NOUN
+19860: 2 पॉवर PROPN NOUN
+19865: 7 सूर्य PROPN NOUN
+19866: 8 नमस्कार PROPN NOUN
+19876: 18 बीट PROPN NOUN
+19907: 13 सूर्य PROPN NOUN
+19908: 14 नमस्कार PROPN NOUN
+19917: 4 सूर्य PROPN NOUN
+19918: 5 नमस्कार PROPN NOUN
+19950: 3 पॉवर PROPN NOUN
+19974: 6 भले PART NOUN
+19979: 11 पर CONJ ADP
+19984: 16 योग PROPN NOUN
+19997: 1 प्रातः NOUN ADV
+20028: 1 आरोग्य NOUN PROPN
+20036: 9 रहे AUX VERB
+20037: 10 स्पा NOUN PROPN
+20039: 12 ब्यूटी NOUN PROPN
+20040: 13 सैलून NOUN PROPN
+20061: 7 स्पा NOUN PROPN
+20078: 2 ओजोन PROPN NOUN
+20134: 14 क्षेत्रवार NOUN ADJ
+20159: 10 पहले ADJ ADP
+20171: 22 यह PRON DET
+20319: 6 प्रत्यक्ष ADJ PROPN
+20333: 7 यह DET PRON
+20454: 5 ४० NUM PROPN
+20469: 4 अंडमानीज PROPN NOUN
+20538: 1 ये PRON DET
+20556: 4 ग्रेट PROPN NOUN
+20576: 8 भर्ती ADJ NOUN
+20577: 9 ग्रेट PROPN NOUN
+20578: 10 अंडमानीज PROPN NOUN
+20582: 14 जिरोकी PROPN ADP
+20616: 1 ग्रेट PROPN NOUN
+20617: 2 अंडमानीज PROPN NOUN
+20643: 5 स्ट्रेट PROPN NOUN
+20644: 6 द्वीप PROPN NOUN
+20650: 12 ग्रेट PROPN NOUN
+20651: 13 अंडमानीज PROPN NOUN
+20670: 9 जिरोकी PROPN ADP
+20673: 12 मिरगी PROPN NOUN
+20679: 1 लाल ADJ PROPN
+20680: 2 टी NOUN PROPN
+20686: 8 जिरोकी PROPN ADP
+20687: 9 टूटी ADJ PROPN
+20689: 11 फूटी ADJ NOUN
+20715: 2 राजा NOUN ADJ
+20716: 3 हूं VERB AUX
+20720: 2 जैसा ADV PRON
+20723: 5 वैसा ADV PRON
+20752: 1 ग्रेट PROPN NOUN
+20753: 2 अंडमानीज PROPN NOUN
+20760: 9 भांप VERB NOUN
+20762: 11 पाए AUX VERB
+20770: 6 ग्रेट PROPN NOUN
+20771: 7 अंडमानीज PROPN NOUN
+20780: 16 कि PART SCONJ
+20788: 24 सदियों ADJ NOUN
+20799: 1 स्वतंत्र PROPN ADJ
+20837: 4 खूबी NOUN ADJ
+20866: 13 एकदम ADV NOUN
+20874: 3 तीर NOUN PROPN
+20892: 1 ग्रेट PROPN NOUN
+20893: 2 अंडमानीज PROPN NOUN
+20900: 9 भोज्य ADJ NOUN
+20921: 11 तरह ADP NOUN
+20933: 1 नुकसान ADJ NOUN
+20934: 2 देह ADJ NOUN
+20936: 4 पीकर VERB NOUN
+20958: 9 ग्रेट PROPN NOUN
+20959: 10 अंडमानीज PROPN NOUN
+20971: 1 आदिम ADJ PROPN
+20979: 9 ग्रेट PROPN NOUN
+20980: 10 अंडमानीज PROPN NOUN
+21029: 6 आदी ADJ AUX
+21030: 7 हूं VERB AUX
+21036: 5 जिरोकी PROPN ADP
+21075: 9 वाले AUX ADP
+21080: 14 जिरोकी PROPN ADP
+21124: 1 रिक्टर PROPN NOUN
+21125: 2 पैमाने PROPN NOUN
+21148: 2 केंद्र NOUN PROPN
+21149: 3 स्पोर्ट NOUN PROPN
+21150: 4 सिटी NOUN PROPN
+21172: 14 पैमाने PROPN ADP
+21217: 19 केंद्र NOUN PROPN
+21228: 6 करीब PART ADP
+21240: 18 केंद्र NOUN PROPN
+21263: 15 रिकॉर्ड NOUN X
+21276: 9 केंद्र NOUN PROPN
+21278: 11 रिक्टर PROPN NOUN
+21279: 12 पैमाने PROPN VERB
+21298: 6 बेचैन ADJ PART
+21313: 21 मास्टर PROPN NOUN
+21314: 22 प्लान PROPN NOUN
+21329: 37 मिक्सलैंड NOUN PROPN
+21403: 4 एमसीडी PROPN NOUN
+21418: 19 बंधा VERB NOUN
+21448: 6 जो DET PRON
+21532: 4 अस्सी NUM DET
+21557: 18 भू NOUN ADJ
+21650: 3 १८९ NUM PROPN
+21669: 7 रोड NOUN PROPN
+21685: 8 संघर्ष PROPN NOUN
+21686: 9 मोर्चा PROPN NOUN
+21724: 6 राष्ट्रीय NOUN PROPN
+21786: 8 सार्वजनिक NOUN ADJ
+21791: 13 पीएसयू NOUN PROPN
+21812: 6 सरकार PROPN NOUN
+21876: 3 सार्वजनिक NOUN ADJ
+21935: 21 पब्लिक NOUN ADJ
+21936: 22 इश्यू NOUN PROPN
+21946: 32 पाँच NUM NOUN
+21963: 9 ये PRON VERB
+21992: 11 सार्वजनिक NOUN ADJ
+22001: 20 प्रति ADP PART
+22002: 21 दृढ़ ADJ VERB
+22011: 6 पीएसयू NOUN PROPN
+22018: 13 सार्वजनिक NOUN ADJ
+22048: 2 सार्वजनिक NOUN ADJ
+22054: 8 बोर्ड NOUN PROPN
+22154: 14 कोयला NOUN PROPN
+22284: 5 छूट NOUN PROPN
+22315: 17 कार्यक्रम PROPN NOUN
+22336: 16 कि PART SCONJ
+22454: 10 ढाँचागत PROPN ADJ
+22507: 21 पॅलिसी PROPN PRON
+22561: 5 सहकारी ADJ NOUN
+22610: 1 हरित PROPN ADJ
+22611: 2 क्रांति PROPN NOUN
+22613: 4 जनक NOUN ADJ
+22621: 12 दो ADV NUM
+22622: 13 टूक ADV NOUN
+22640: 1 धरती NOUN PROPN
+22699: 20 केमिकल NOUN PROPN
+22700: 21 फर्टीलाईज़र NOUN PROPN
+22719: 3 प्रगतिशील ADJ PROPN
+22725: 9 फार्म PROPN NOUN
+22744: 28 साठ NUM NOUN
+22746: 30 सत्तर NUM PROPN
+22751: 35 बाकी DET ADJ
+22753: 37 हरित PROPN ADJ
+22754: 38 क्रांति PROPN NOUN
+22762: 46 अन्न NOUN PROPN
+22769: 53 ताकता VERB NOUN
+22782: 10 सोच NOUN VERB
+22783: 11 थी VERB AUX
+22786: 14 अन्न NOUN ADJ
+22868: 5 अरब NUM NOUN
+22897: 7 बढ़िया ADJ VERB
+22898: 8 है VERB AUX
+22914: 5 फोरेस्टरी PROPN NOUN
+22916: 7 कृषि PROPN NOUN
+22956: 2 फार्म PROPN NOUN
+22958: 4 पापुलर NOUN VERB
+22988: 16 से DET PART
+23004: 4 फोरेस्टरी PROPN NOUN
+23030: 10 पुरस्कार PROPN NOUN
+23085: 24 से PART ADP
+23125: 27 कि PART SCONJ
+23137: 4 कृषि PROPN NOUN
+23138: 5 वानिकी PROPN ADP
+23140: 7 अपार ADJ NOUN
+23149: 16 ८ NUM PROPN
+23156: 23 लकड़ी NOUN ADJ
+23164: 3 फूड PROPN ADJ
+23178: 17 फोरेस्टरी PROPN NOUN
+23270: 24 तो PRON SCONJ
+23341: 12 गुट NOUN PROPN
+23359: 14 विस्फोटक ADJ NOUN
+23392: 28 बैठ VERB AUX
+23394: 30 तो PRON SCONJ
+23404: 40 लिया AUX VERB
+23434: 6 एसओजी PROPN ADJ
+23438: 10 जैसे ADV ADP
+23487: 5 फायर NOUN ADJ
+23507: 25 लिए VERB ADP
+23547: 7 आतंकी NOUN ADJ
+23551: 11 बाहर ADV ADP
+23558: 4 लिए VERB ADP
+23560: 6 खड़े VERB ADJ
+23591: 4 रेडियो NOUN PROPN
+23612: 25 प्रमुख NOUN ADJ
+23620: 33 ले AUX VERB
+23632: 9 तबाह ADJ PROPN
+23660: 12 महफूज़ ADJ NOUN
+23672: 8 प्रभाकरन PROPN NOUN
+23681: 2 प्रभाकरन PROPN NOUN
+23687: 8 अटकलें NOUN VERB
+23706: 16 प्रभाकरन PROPN NOUN
+23733: 18 तमिल PROPN VERB
+23735: 20 प्रमुख NOUN ADJ
+23737: 22 प्रभाकरन PROPN NOUN
+23740: 25 खुफिया ADJ NOUN
+23741: 26 प्रमुख NOUN ADJ
+23743: 28 अम्मान PROPN NOUN
+23778: 16 सुनामी ADJ NOUN
+23804: 14 प्रभाकरन PROPN NOUN
+23814: 24 सुनाई VERB NOUN
+23816: 26 दी AUX VERB
+23831: 13 जाफना PROPN VERB
+23869: 6 वह DET PRON
+23886: 6 प्रभाकरन PROPN NOUN
+23921: 9 तमिल ADJ PROPN
+23924: 12 ब्रॉडकास्टिंग PROPN NOUN
+23927: 15 इस PRON DET
+23929: 17 भरी VERB PROPN
+23968: 1 रेडियो NOUN PROPN
+23971: 4 वाइस NOUN DET
+23987: 20 प्रभाकरन PROPN NOUN
+23989: 22 अम्मान PROPN NOUN
+24001: 2 विधानसभा PROPN NOUN
+24069: 12 पूर्व ADJ PROPN
+24098: 4 महंत PROPN NOUN
+24131: 4 महंत PROPN NOUN
+24159: 9 महंत PROPN NOUN
+24199: 12 अगप PROPN NOUN
+24212: 2 पहले ADV ADP
+24231: 3 महंत PROPN NOUN
+24304: 10 कौन DET PRON
+24305: 11 सी PART PROPN
+24360: 6 सुनामी PROPN NOUN
+24361: 7 पुनर्निर्माण PROPN NOUN
+24362: 8 परियोजना PROPN NOUN
+24386: 10 आयोग PROPN NOUN
+24396: 20 गमर PROPN NOUN
+24446: 10 आयोग PROPN NOUN
+24478: 12 सुनामी PROPN NOUN
+24479: 13 पुनर्निर्माण PROPN NOUN
+24480: 14 योजना PROPN NOUN
+24497: 2 सरकार PROPN NOUN
+24498: 3 यह PRON DET
+24509: 14 तमिल PROPN VERB
+24550: 17 तमिल PROPN VERB
+24615: 3 सुनामी PROPN NOUN
+24616: 4 पुनर्निर्माण PROPN NOUN
+24617: 5 योजना PROPN NOUN
+24641: 8 पड़े VERB NOUN
+24662: 3 अबुझमादिया PROPN ADJ
+24663: 4 समुदाय PROPN NOUN
+24702: 2 वन PROPN PART
+24719: 5 ब्रिटिश NOUN ADJ
+24749: 1 आदिवासी PROPN NOUN
+24750: 2 शोध PROPN NOUN
+24751: 3 और PROPN CONJ
+24752: 4 प्रशिक्षण PROPN NOUN
+24753: 5 संस्थान PROPN NOUN
+24755: 7 संयुक्त NOUN ADJ
+24765: 17 हम DET PRON
+24793: 3 पंचायती NOUN ADJ
+24832: 42 हैं AUX VERB
+24859: 25 ठीक ADV NOUN
+24860: 26 से PART ADP
+24894: 4 पंचायती NOUN ADJ
+24954: 2 यह PRON DET
+24960: 8 पूर्ण ADJ PROPN
+25050: 8 मंत्रालय NOUN PROPN
+25070: 4 पड़े VERB ADJ
+25190: 19 सर्वाधिक PROPN ADJ
+25191: 20 वरीयता PROPN NOUN
+25210: 3 दि PROPN ADJ
+25211: 4 नेशन PROPN NOUN
+25260: 16 ज्यादातर NOUN ADJ
+25359: 15 बाद ADP ADV
+25380: 10 बस PROPN NOUN
+25381: 11 सेवा PROPN NOUN
+25390: 1 सर्वाधिक ADV ADJ
+25391: 2 वरीयता ADJ NOUN
+25435: 7 गैर NOUN ADJ
+25469: 3 जेलमंत्री PROPN NOUN
+25482: 16 जेलकर्मियों NOUN PROPN
+25516: 8 जेल NOUN PROPN
+25565: 21 तो PRON PART
+25588: 11 मार VERB NOUN
+25589: 12 डालने AUX VERB
+25633: 2 जेल NOUN PROPN
+25658: 27 अजित PROPN ADJ
+25659: 28 सरकार PROPN NOUN
+25789: 6 पूर्व ADP ADJ
+25859: 14 दक्षिण ADJ PROPN
+25861: 16 समुद्री ADJ PROPN
+25862: 17 जल NOUN PROPN
+25879: 7 सागर NOUN PROPN
+25895: 4 ठहरे VERB ADJ
+25908: 17 ऊँचा ADJ VERB
+25909: 18 हुआ VERB AUX
+25952: 14 कि PART SCONJ
+26055: 3 जो DET PRON
+26065: 13 दक्षिण ADJ PROPN
+26082: 3 तुतिकोरिन PROPN PART
+26120: 16 जल NOUN PROPN
+26170: 38 बेहद DET ADV
+26386: 9 बहाली NOUN PROPN
+26415: 4 ३६ NUM PROPN
+26416: 5 नगर NOUN PROPN
+26467: 8 राज्यसभा PROPN NOUN
+26477: 18 नियंत्रण PROPN NOUN
+26479: 20 रेखा PROPN NOUN
+26485: 26 और DET CONJ
+26504: 9 ऑफ NOUN PROPN
+26506: 11 कमेटी NOUN PROPN
+26512: 17 स्टाफ NOUN PROPN
+26522: 27 सेल NOUN PROPN
+26569: 5 सुनामी PROPN NOUN
+26570: 6 राहत PROPN NOUN
+26571: 7 अभियान PROPN NOUN
+26575: 11 स्टॉफ NOUN PROPN
+26630: 43 डिफेंस PROPN NOUN
+26654: 6 भारतीय PROPN ADJ
+26655: 7 सेना PROPN NOUN
+26795: 19 अल्पसंख्यक NOUN PROPN
+26929: 23 दिया VERB AUX
+26941: 9 स्वरूप PROPN ADP
+26996: 22 रहेंगे AUX VERB
+27095: 2 वायुसेना PROPN NOUN
+27099: 6 फ्रांसीसी PROPN ADJ
+27100: 7 वायु PROPN NOUN
+27101: 8 सेना PROPN NOUN
+27130: 5 एसयू NOUN PROPN
+27132: 7 ३० NOUN PROPN
+27140: 15 ७८ NOUN PROPN
+27142: 17 एअर NOUN PROPN
+27143: 18 रीफ्यूलर NOUN PROPN
+27151: 4 एअर NOUN PROPN
+27152: 5 मार्शल NOUN PROPN
+27157: 10 २४ PROPN NUM
+27160: 13 एसयू NOUN PROPN
+27162: 15 ३० NOUN PROPN
+27167: 20 मिड PROPN NOUN
+27168: 21 एअर PROPN NOUN
+27170: 23 स्क्वॅड्रन PROPN NOUN
+27172: 25 आईएल NOUN PROPN
+27174: 27 ७८ NOUN PROPN
+27186: 4 एअर NOUN PROPN
+27187: 5 मार्शल NOUN PROPN
+27195: 13 भारतीय PROPN ADJ
+27196: 14 वायु PROPN NOUN
+27197: 15 सेना PROPN NOUN
+27217: 12 मुश्किल ADJ NOUN
+27221: 16 है VERB AUX
+27258: 15 गरूड़ PROPN NOUN
+27260: 17 २ PROPN NUM
+27272: 29 वायुसेना PROPN NOUN
+27283: 2 सुखोई PROPN NOUN
+27291: 10 २००० PROPN NUM
+27293: 12 ५ PROPN NUM
+27301: 20 मिराज NOUN PROPN
+27302: 21 २००० PROPN NUM
+27323: 9 हवाई ADJ NOUN
+27328: 1 एअर NOUN PROPN
+27329: 2 मार्शल NOUN PROPN
+27399: 15 बेबाकी NOUN ADJ
+27464: 13 शासन PROPN NOUN
+27516: 9 पहले ADJ ADV
+27517: 10 दलित NOUN ADJ
+27547: 1 मध्य ADJ PROPN
+27561: 15 जन्मे VERB PROPN
+27583: 10 प्राथमिक ADJ NOUN
+27591: 4 पैदल NOUN ADJ
+27607: 10 लिया VERB AUX
+27610: 1 इंटरमीडिएट PROPN NOUN
+27619: 3 महाराजा PROPN NOUN
+27650: 1 यूनीवर्सिटी NOUN PROPN
+27655: 6 लेक्चरर NOUN PROPN
+27672: 2 चक्र NOUN PROPN
+27673: 3 घूमा VERB PROPN
+27704: 6 भारतीय PROPN ADJ
+27738: 8 स्कूल PROPN NOUN
+27739: 9 ऑफ PROPN NOUN
+27740: 10 इकोनॅमिक्स PROPN NOUN
+27742: 12 दाखिला NOUN VERB
+27743: 13 लिया VERB AUX
+27751: 21 सेवा NOUN PROPN
+27781: 12 ओट्टापलम PROPN NOUN
+27792: 3 सरकार PROPN NOUN
+27795: 6 विज्ञान PROPN NOUN
+27796: 7 एवं PROPN CONJ
+27797: 8 तकनीकी PROPN ADJ
+27798: 9 मंत्री PROPN NOUN
+27834: 8 भारतीय PROPN ADJ
+27835: 9 सेना PROPN NOUN
+27932: 9 सौदे NOUN VERB
+27950: 6 कैरियर PROPN NOUN
+27951: 7 पोत PROPN NOUN
+27952: 8 एडमिरल PROPN NOUN
+27953: 9 गाशकोव PROPN CONJ
+27955: 11 ६६ NUM PROPN
+27958: 14 ट्रेनर NOUN PROPN
+27962: 18 प्रणाली PROPN NOUN
+27978: 12 और DET CONJ
+27980: 14 सौदे NOUN PROPN
+27986: 20 पड़े AUX NOUN
+27987: 21 हैं AUX VERB
+28009: 20 अटके VERB NOUN
+28010: 21 हैं AUX VERB
+28017: 5 भारतीय PROPN ADJ
+28018: 6 वायु PROPN NOUN
+28019: 7 सेना PROPN NOUN
+28060: 6 २१ NOUN PROPN
+28061: 7 एस NOUN PROPN
+28063: 9 जगह ADP NOUN
+28065: 11 २००० PROPN NUM
+28067: 13 ५ PROPN NUM
+28080: 1 भारतीय PROPN ADJ
+28081: 2 सेना PROPN NOUN
+28146: 18 बहुमूल्य ADJ NOUN
+28158: 4 सोना NOUN VERB
+28178: 7 सोना NOUN PROPN
+28201: 6 सोने NOUN VERB
+28218: 5 सोना NOUN PROPN
+28237: 4 हाजिर NOUN PROPN
+28239: 6 ९९९ NUM PROPN
+28258: 4 सिक्का NOUN ADP
+28291: 22 बदनाम ADJ NOUN
+28317: 5 तो PRON SCONJ
+28341: 29 आगे ADV ADP
+28356: 12 मुश्किल NOUN ADJ
+28386: 7 तो PRON SCONJ
+28426: 11 तो PART SCONJ
+28532: 11 टोकाटाकी NOUN ADJ
+28547: 26 घोटाले PROPN NOUN
+28565: 10 की VERB ADP
+28610: 20 उठ VERB PROPN
+28611: 21 खड़े VERB ADJ
+28612: 22 हुए AUX VERB
+28680: 7 तो PRON SCONJ
+28697: 8 इस PRON DET
+28699: 10 प्रति NOUN ADP
+28748: 6 यह PRON DET
+28809: 17 शासन PROPN NOUN
+28974: 14 धारीवाल PROPN NOUN
+28992: 8 धारीवाल PROPN NOUN
+29036: 18 धारीवाल PROPN NOUN
+29067: 8 चुनाव PROPN NOUN
+29068: 9 आयोग PROPN NOUN
+29111: 10 चुनाव PROPN NOUN
+29112: 11 आयोग PROPN NOUN
+29116: 15 चुनाव PROPN NOUN
+29117: 16 आयोग PROPN NOUN
+29136: 3 मुख्य NOUN ADJ
+29199: 14 बार ADV NOUN
+29237: 2 चुनावी NOUN ADJ
+29259: 24 छेड़खानी NOUN VERB
+29260: 25 कर VERB AUX
+29263: 28 केंद्र NOUN PROPN
+29265: 30 कर AUX VERB
+29318: 13 दलित NOUN ADJ
+29342: 6 प्रधानंमत्री PROPN NOUN
+29373: 6 जैसे ADV ADP
+29402: 9 दूसरे ADJ PRON
+29404: 11 सिख ADJ VERB
+29415: 22 काब़िज़ ADJ VERB
+29433: 14 ऐसी DET PRON
+29452: 6 मान NOUN ADJ
+29454: 8 इसलिए PRON ADP
+29511: 2 सबको PRON ADP
+29589: 10 थोड़ा ADJ VERB
+29621: 22 बखूबी ADV VERB
+29714: 10 चुटकी NOUN ADP
+29715: 11 ली VERB AUX
+29718: 14 सरदार NOUN ADJ
+29724: 20 सरदार NOUN ADJ
+29777: 12 डबल DET NOUN
+29878: 21 नीचे ADP ADV
+29899: 13 से PART ADP
+29969: 10 निगरानी NOUN ADJ
+29970: 11 संबंधी ADJ VERB
+30088: 9 अवश्य ADV NOUN
+30158: 16 उलट VERB NOUN
+30164: 22 पहले ADV ADP
+30173: 31 ले AUX VERB
+30200: 1 बीएड PROPN NOUN
+30228: 29 और DET CONJ
+30264: 20 भैया PROPN AUX
+30280: 11 विधान NOUN PROPN
+30281: 12 मंडल NOUN PROPN
+30294: 25 पूर्व ADJ PROPN
+30325: 56 तमाम ADJ DET
+30332: 2 शिकार PROPN NOUN
+30333: 3 मामले PROPN NOUN
+30408: 9 बाल PROPN NOUN
+30445: 19 हिरण NOUN PROPN
+30574: 18 पुलिस PROPN NOUN
+30592: 7 फ्लैग NOUN PROPN
+30593: 8 मार्च NOUN PROPN
+30703: 7 फ्लैग NOUN PROPN
+30704: 8 मार्च NOUN PROPN
+30713: 6 गुस्साई VERB ADJ
+30732: 3 डिवीजनल NOUN PROPN
+30733: 4 कमिश्नर NOUN PROPN
+30773: 26 दशकों ADJ NOUN
+30901: 9 संयुक्त ADJ PROPN
+30968: 31 अपेक्षाकृत ADP ADV
+31017: 33 प्राधिकरण PROPN NOUN
+31084: 8 वाकआउट NOUN X
+31202: 16 वाकआउट NOUN X
+31296: 30 प्राधिकरण PROPN NOUN
+31310: 7 पाठक PROPN NOUN
+31421: 4 हनन NOUN PROPN
+31464: 8 पेयजल NOUN VERB
+31473: 5 पैमाना NOUN VERB
+31510: 3 प्लान NOUN PROPN
+31515: 8 राष्ट्रीय ADJ PROPN
+31517: 10 अदालत NOUN PROPN
+31581: 5 पड़े VERB NOUN
+31710: 1 जंग PROPN NOUN
+31797: 16 कभी ADV PRON
+31799: 18 कभी ADV PRON
+31804: 23 अलग ADJ ADV
+31923: 2 अल्लाह PROPN NOUN
+31925: 4 शुक्र NOUN PROPN
+31933: 12 तो SCONJ PART
+31997: 17 विस्फोटक ADJ NOUN
+32037: 9 सीमा PROPN NOUN
+32039: 11 चौकसी NOUN DET
+32074: 16 डिपो NOUN PROPN
+32080: 22 और CONJ DET
+32100: 13 डिपो NOUN ADP
+32105: 18 अमोनियम PROPN NOUN
+32106: 19 नाइट्रेट PROPN NOUN
+32164: 5 विस्फोटक ADJ NOUN
+32257: 15 थे VERB AUX
+32303: 5 दक्षिण PROPN ADJ
+32304: 6 बस्तर PROPN NOUN
+32345: 14 बटालियन PROPN NOUN
+32507: 28 ग्राफ NOUN ADJ
+32508: 29 सबसे PRON ADV
+32509: 30 ऊपर ADP ADV
+32699: 1 अखिलेश PROPN NOUN
+32724: 4 सरकार PROPN NOUN
+32732: 12 चलती VERB NOUN
+32760: 17 पूर्व ADP ADJ
+32773: 1 लोकतांत्रिक PROPN ADJ
+32774: 2 मोर्चा PROPN NOUN
+32822: 8 जबरदस्त ADV ADJ
+32950: 1 खाद्य NOUN ADJ
+32992: 9 खाद्य NOUN ADP
+33035: 11 खाद्य NOUN ADJ
+33056: 11 अकसर ADV NOUN
+33080: 9 खाद्य NOUN ADJ
+33095: 3 ब्यूरो NOUN PROPN
+33296: 5 हवाई PROPN NOUN
+33297: 6 अड्डे PROPN NOUN
+33414: 7 हवाई PROPN NOUN
+33436: 11 दसवें ADJ PROPN
+33438: 13 गुरु NOUN PROPN
+33477: 21 सिंघल PROPN NOUN
+33531: 9 यह PRON DET
+33538: 16 सिख PROPN NOUN
+33552: 2 अधिकार PROPN NOUN
+33553: 3 मंच PROPN NOUN
+33571: 21 पक्का ADJ ADP
+33578: 1 इसी PRON DET
+33635: 15 मानने VERB ADP
+33653: 10 खौफजदा ADJ PROPN
+33656: 13 उबर VERB NOUN
+33659: 16 पाया AUX VERB
+33688: 5 संदेहास्पद ADJ NOUN
+33705: 3 मेट्रो NOUN PROPN
+33707: 5 डबल NOUN PROPN
+33708: 6 डेकर NOUN VERB
+33740: 10 गुस्साए ADJ VERB
+33751: 5 / PUNCT PROPN
+33783: 37 सेंटर PROPN NOUN
+33812: 5 बम ADJ PROPN
+33819: 12 सेंटर PROPN NOUN
+33837: 30 ये PRON DET
+33861: 6 एस्टोन PROPN NOUN
+33862: 7 विश्वविद्यालय PROPN NOUN
+33878: 8 चाइनीज PROPN NOUN
+33879: 9 क्वार्टर PROPN NOUN
+33918: 7 मेट्रो NOUN PROPN
+33919: 8 रेल NOUN PROPN
+33951: 7 कुछ DET PRON
+33974: 16 आतंकी NOUN ADJ
+33989: 8 मस्जिद PROPN NOUN
+34000: 4 और DET CONJ
+34044: 17 सिख ADJ NOUN
+34089: 3 सेक्यूलर ADJ NOUN
+34094: 8 राष्ट्रद्रोही NOUN ADJ
+34100: 14 भाई PROPN NOUN
+34141: 3 तो PART SCONJ
+34154: 16 विध्वंस NOUN PROPN
+34160: 22 अखंड ADJ PROPN
+34176: 3 और DET CONJ
+34185: 12 सेक्यूलर ADJ PROPN
+34222: 9 सेक्यूलर ADJ NOUN
+34228: 15 पर CONJ ADP
+34233: 20 जाय AUX ADP
+34250: 9 संयम NOUN PROPN
+34284: 11 हिंदू NOUN PROPN
+34286: 13 मुस्लिम NOUN PROPN
+34295: 22 जिम्मेदार NOUN ADJ
+34335: 20 हिंदुत्व ADJ NOUN
+34441: 12 तो SCONJ PART
+34461: 12 तोहफे NOUN VERB
+34462: 13 दिए VERB AUX
+34467: 2 बोर्ड PROPN NOUN
+34491: 10 जाएंगी AUX VERB
+34534: 12 बोर्ड PROPN NOUN
+34537: 15 यूनियन PROPN NOUN
+34554: 11 डी PROPN NOUN
+34607: 3 ए ADJ VERB
+34608: 4 वन ADJ PROPN
+34610: 6 ए ADJ PROPN
+34611: 7 क्लास ADJ PROPN
+34711: 6 मेहरबान ADJ PROPN
+34718: 13 गुना PART NOUN
+34727: 1 जैसे SCONJ ADV
+34765: 12 बीएसएनएल PROPN NOUN
+34776: 3 पसर्नल ADJ NOUN
+34796: 9 देवी NOUN PROPN
+34801: 14 विरोध ADP NOUN
+34808: 21 कर्फ्र्यू NOUN PROPN
+34845: 11 देवी NOUN PROPN
+34849: 15 विरोध ADP NOUN
+34851: 17 कर्फ्र्यू NOUN PROPN
+34852: 18 तोड़ VERB NUM
+34853: 19 कर AUX VERB
+34863: 1 भड़की VERB ADJ
+34881: 19 छोड़े VERB ADJ
+34930: 8 कर्फ्र्यू NOUN PROPN
+34988: 7 होटल PROPN NOUN
+34995: 14 राज्यसभा PROPN NOUN
+35071: 16 प्रति NOUN PART
+35125: 4 एकल ADJ NOUN
+35136: 15 करीबी NOUN ADJ
+35207: 18 होटल PROPN NOUN
+35284: 22 लोक PROPN NOUN
+35327: 6 विधानसभा PROPN NOUN
+35448: 10 मद्देनज़र ADP NOUN
+35522: 11 और DET ADJ
+35536: 9 अधिनियम PROPN NOUN
+35557: 3 सब NOUN PROPN
+35572: 18 सहाब PROPN NOUN
+35762: 32 विदेश ADJ NOUN
+35875: 21 पूर्व PROPN ADJ
+35893: 2 केंद्र NOUN PROPN
+35926: 6 भारतीय NOUN ADJ
+35950: 20 कराके VERB NOUN
+35982: 6 केंद्रीय PROPN ADJ
+35983: 7 मंत्रिमंडल PROPN NOUN
+36038: 5 राज्यमंत्री PROPN NOUN
+36105: 7 परती ADJ PROPN
+36118: 20 वृक्ष PROPN ADJ
+36120: 22 पुरस्कार PROPN NOUN
+36132: 7 11वां ADJ PROPN
+36133: 8 अन्तर्राष्ट्रीय ADJ PROPN
+36134: 9 दिवस NOUN PROPN
+36143: 5 उन्नाव PROPN NOUN
+36199: 15 अम्माल PROPN NOUN
+36219: 12 वैज्ञानिक NOUN ADJ
+36227: 3 जल NOUN ADJ
+36240: 16 योजना PROPN NOUN
+36249: 2 सरकार PROPN NOUN
+36312: 5 चैंबर NOUN PROPN
+36388: 10 कविता NOUN PROPN
+36483: 3 पहाड़ी ADJ NOUN
+36485: 5 आदिवासी ADJ NOUN
+36495: 15 पक्की ADJ ADP
+36584: 8 विद्युतीकरण PROPN NOUN
+36651: 1 कैंसर ADJ NOUN
+36660: 10 अस्पताल PROPN NOUN
+36693: 13 प्रियंका PROPN NOUN
+36701: 21 फाईनल ADJ PROPN
+36736: 10 मास्टर PROPN NOUN
+36742: 16 ग्रेट PROPN NOUN
+36743: 17 हो PROPN VERB
+36784: 8 ज़ीनत PROPN NOUN
+36785: 9 अमान PROPN NOUN
+36792: 2 सरकार PROPN NOUN
+36840: 7 ग्रुप PROPN NOUN

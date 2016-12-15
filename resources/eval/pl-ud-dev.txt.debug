@@ -1,405 +1,376 @@
-NOUN:PROPN	33
-ADJ:NOUN	28
-NOUN:VERB	26
-ADJ:VERB	20
-PROPN:NOUN	19
-NOUN:ADJ	19
-VERB:NOUN	18
-AUX:VERB	17
-VERB:ADJ	16
-NOUN:ADP	10
-VERB:PART	10
-PRON:VERB	7
-DET:PRON	7
-PRON:NOUN	6
-VERB:PRON	6
-ADV:PART	6
-ADJ:PRON	6
-ADJ:PROPN	5
-ADV:NOUN	5
-VERB:AUX	5
-NOUN:PRON	4
-ADV:ADP	4
-ADJ:ADP	4
-NUM:VERB	3
-ADV:ADJ	3
-PROPN:CONJ	3
-DET:NOUN	3
-ADP:NOUN	3
-CONJ:PART	3
-PROPN:ADJ	3
-PART:SCONJ	3
-CONJ:VERB	3
-CONJ:NOUN	3
-VERB:CONJ	2
-PART:ADP	2
-PART:ADV	2
-VERB:ADP	2
-NOUN:PART	2
-SCONJ:ADV	2
-VERB:ADV	2
-ADJ:NUM	2
-NOUN:AUX	2
-VERB:DET	2
-NOUN:ADV	2
-PRON:ADP	2
-DET:ADJ	2
-NOUN:SCONJ	2
-PRON:DET	2
-ADV:PRON	2
-X:NOUN	1
-SCONJ:PRON	1
-NUM:ADJ	1
-NUM:ADV	1
-NOUN:X	1
-CONJ:PRON	1
-ADV:DET	1
-ADV:CONJ	1
-NOUN:PUNCT	1
-DET:VERB	1
-PROPN:SCONJ	1
-PRON:ADJ	1
-NOUN:CONJ	1
-PART:NOUN	1
-PART:CONJ	1
-PART:VERB	1
-PROPN:VERB	1
-AUX:NOUN	1
-ADJ:DET	1
-ADV:NUM	1
-PROPN:ADP	1
-ADP:ADV	1
-PRON:NUM	1
-ADJ:AUX	1
-ADP:ADJ	1
-PROPN:PRON	1
-PROPN:PUNCT	1
-PART:PROPN	1
-ADP:PRON	1
-robiony VERB ADJ
-7 bezrobotnych NOUN ADJ
-1 Chevillon PROPN PRON
-7 było AUX VERB
-8 to VERB PRON
-4 Zachodniego ADJ PRON
-9 zł X NOUN
-1 Rybnik PROPN NOUN
-3 trzema NUM VERB
-13 wystarczający ADJ VERB
-7 za PART ADP
-8 darmo ADV NOUN
-7 wykręconą VERB ADJ
-1 Artykuły NOUN VERB
-1 Opinie NOUN PART
-5 10 ADJ NUM
-3 pływackie ADJ NOUN
-3 turniej NOUN PRON
-4 rozegrany VERB ADJ
-10 SP5 PROPN NOUN
-7 szkół NOUN X
-1 Piotrka PROPN NOUN
-18 i CONJ NOUN
-1 Osiemnastoletni ADJ NOUN
-13 kółko NOUN ADP
-10 nadjeżdżającym VERB ADJ
-2 walczy VERB PART
-1 Lokomotywa NOUN VERB
-3 może VERB PART
-4 informowali AUX VERB
-6 dziewczęcy ADJ NOUN
-8 kiedy SCONJ ADV
-10 otwarte VERB NOUN
-15 izby NOUN AUX
-1 Wieś NOUN PROPN
-4 opodal ADP ADV
-3 wodze NOUN ADP
-4 kupiecka ADJ NOUN
-5 karawana NOUN VERB
-7 wytrwale ADV CONJ
-8 naprzód ADV NOUN
-3 było AUX VERB
-8 podejrzanych ADJ VERB
-16 wokoło ADV PART
-5 nic PRON NOUN
-4 i CONJ NOUN
-1 Prawdopodobnie PART ADV
-10 nie CONJ PART
-11 tylko CONJ PART
-17 drogowi ADJ NOUN
-1 Wokół ADV ADP
-5 oblodzony VERB NOUN
-4 bulwersujące ADJ VERB
-1 Klakson NOUN PROPN
-2 poniekąd PART NOUN
-3 ku ADP NOUN
-4 temu PRON ADP
-12 pamięci NOUN VERB
-3 Skrzycznem PROPN NOUN
-5 tym DET PRON
-2 ta DET NOUN
-2 przybyli ADJ VERB
-6 ostra ADJ NOUN
-11 mecze NOUN ADP
-12 była AUX VERB
-2 A CONJ VERB
-5 tym PRON DET
-3 potrzeba NOUN VERB
-1 To VERB DET
-2 rozchylonymi VERB ADJ
-6 wpółprzymknięte ADJ VERB
-1 Terrorysta NOUN PROPN
-2 kilkudziesięciu PRON NUM
-12 mniej ADV PRON
-7 półtorej NUM ADJ
-1 Był AUX VERB
-10 Biblioteki NOUN PROPN
-1 Młodzi ADJ VERB
-2 zatrzymała VERB NOUN
-2 był AUX VERB
-9 Szpital NOUN PROPN
-10 Miejski ADJ PROPN
-1 Torby PROPN SCONJ
-1 Czyżby PART SCONJ
-2 został VERB AUX
-4 prędzej ADV ADJ
-20 gęsią ADJ PRON
-1 Jakub PROPN NOUN
-2 Jakub PROPN CONJ
-8 uprzejmy ADJ VERB
-4 gruba ADJ NOUN
-4 kozła NOUN VERB
-5 nią PRON NOUN
-6 tym DET PRON
-14 ona PRON VERB
-3 ta DET PRON
-18 pilnie ADV PART
-4 któraś PRON NOUN
-4 to PRON VERB
-18 nią PRON VERB
-7 zachrapie VERB NOUN
-8 Alp PROPN NOUN
-17 bali NOUN VERB
-4 pewnie ADV PART
-2 olbrzymie ADJ NOUN
-8 złote NOUN ADJ
-13 przyczynia VERB NOUN
-10 niezbędna ADJ ADP
-1 Żegnajcie VERB NOUN
-3 Hawaje PROPN VERB
-7 jest AUX VERB
-1 Dania PROPN NOUN
-7 eurozone NOUN VERB
-7 osobistą ADJ NOUN
-6 Starówkę NOUN PROPN
-2 wybranej VERB ADJ
-2 tak ADV NOUN
-5 około PART ADP
-4 istotnie ADV PART
-4 nim SCONJ PRON
-5 siądą VERB NOUN
-6 huknie VERB PART
-5 zacznie VERB ADV
-5 mu PRON NOUN
-3 mężowi NOUN VERB
-3 mamy NOUN VERB
-1 Może PART VERB
-5 tym DET PRON
-3 wrażliwa ADJ NOUN
-9 wskutek ADP NOUN
-6 Poznania PROPN NOUN
-3 NIE PART PROPN
-14 czy CONJ PART
-1 Zrzesza VERB ADJ
-6 udziela VERB NOUN
-13 żadnej DET ADJ
-5 radnego NOUN ADJ
-1 Radny NOUN ADJ
-7 poborową NOUN ADJ
-6 teściowej NOUN ADJ
-7 złote ADJ DET
-3 uczy VERB PART
-4 Boże ADJ PROPN
-5 Słowo NOUN ADV
-2 to DET VERB
-7 żadne DET ADJ
-2 je PRON ADJ
-1 Drogie ADJ NOUN
-1 Walka NOUN VERB
-14 czystego ADJ PRON
-7 Instytucie NOUN PROPN
-9 siły NOUN VERB
-11 rozpoczną VERB NOUN
-1 Reidernowa PROPN ADJ
-1 Niemalże PART SCONJ
-7 Aneksie NOUN PROPN
-5 są AUX VERB
-2 pełna ADJ ADP
-6 wystrzelawszy VERB ADJ
-8 do NOUN ADP
-11 ziem NOUN VERB
-1 Dumnie ADV PRON
-4 Imperatorowej NOUN ADJ
-1 Co ADP PRON
-2 epizod NOUN ADP
-14 kiedy SCONJ ADV
-7 i PART CONJ
-5 twardo ADV ADP
-6 dzierżą VERB NOUN
-2 udźwignie VERB PART
-1 Babie NOUN VERB
-2 są AUX VERB
-6 Jarmark NOUN PROPN
-4 ogromna ADJ ADP
-2 moich ADJ PRON
-7 być AUX VERB
-8 uchwały NOUN VERB
-7 Senat NOUN PROPN
-5 Panie NOUN PROPN
-6 Profesorze NOUN PROPN
-10 olbrzymią ADJ NOUN
-18 swojemu ADJ ADP
-3 piąta ADJ NOUN
-5 Marszałek NOUN PROPN
-3 następujących ADJ VERB
-6 dziewiąta ADJ NOUN
-6 dziesiątą ADJ NOUN
-4 Panie NOUN PROPN
-5 Senatorze NOUN PROPN
-2 Poprawka NOUN PROPN
-8 nią PRON NOUN
-4 jest AUX VERB
-5 to VERB PRON
-7 skomplikowany ADJ VERB
-6 Marszałku NOUN PROPN
-3 przykro VERB ADV
-3 Biuru NOUN PROPN
-1 To PRON VERB
-3 jest AUX VERB
-10 rosyjsko ADJ NOUN
-5 dane NOUN VERB
-5 to VERB PRON
-25 to VERB PRON
-3 dłońmi NOUN PRON
-3 Wschodu NOUN PROPN
-4 zima NOUN VERB
-1 Obce ADJ NOUN
-5 cholero NOUN SCONJ
-12 odurzających ADJ VERB
-10 Białej PROPN ADJ
-1 Eliza PROPN NOUN
-7 nieco ADV ADP
-1 Eliza PROPN ADP
-7 dobiegnie VERB PART
-1 To DET PRON
-3 związane ADJ VERB
-16 one PRON VERB
-13 wapna NOUN ADJ
-3 wapna NOUN ADJ
-1 Księżyc NOUN PROPN
-4 nią PRON NOUN
-2 jedzie VERB AUX
-4 pewno PART ADV
-3 beczy VERB NOUN
-1 Wania PROPN NOUN
-2 oddali NOUN VERB
-3 doleciały VERB AUX
-4 urywane ADJ VERB
-1 Kopyta NOUN VERB
-1 Futro NOUN ADV
-1 Pierś NOUN SCONJ
-3 napierała VERB NOUN
-7 jeden NOUN ADJ
-1 Auto NOUN PROPN
-14 ów DET NOUN
-18 królowej NOUN ADJ
-5 rad ADJ NOUN
-8 panna NOUN ADP
-2 wręczy VERB PART
-2 była VERB AUX
-5 dym NOUN ADJ
-1 Jakby PART SCONJ
-3 czysty ADJ PRON
-3 sam ADV ADJ
-3 mysz NOUN VERB
-1 Tomala PROPN NOUN
-1 Clarens PROPN NOUN
-3 ma VERB ADP
-5 tłumacz NOUN ADP
-10 angielsku ADJ NOUN
-4 odleciało VERB NOUN
-1 Dzielni ADJ NOUN
-10 posterunkowy NOUN ADJ
-11 Józef PROPN NOUN
-14 starszy ADJ NOUN
-15 posterunkowy NOUN ADJ
-1 Radomski ADJ PROPN
-3 pozwala VERB NOUN
-9 zostały AUX NOUN
-1 Najwięcej NUM ADV
-1 Dwaj NUM VERB
-5 akurat ADV NOUN
-10 Trybunalskiego ADJ PROPN
-1 Pragnie VERB PART
-5 pisali VERB NOUN
-3 poszkodowanych NOUN VERB
-10 czyli CONJ VERB
-7 F-16 PROPN PUNCT
-13 zostać AUX VERB
-2 Związku PROPN NOUN
-3 Radzieckiego ADJ PROPN
-8 zło NOUN VERB
-2 ich PRON DET
-7 meliniarstwem NOUN AUX
-4 u ADP NOUN
-5 diabła NOUN VERB
-6 królową NOUN ADJ
-3 mszę NOUN VERB
-4 świętą ADJ NOUN
-6 Skarbem NOUN PROPN
-25 Rosji PROPN NOUN
-7 imponująca ADJ NOUN
-9 sięga VERB CONJ
-16 jest AUX VERB
-17 to VERB PRON
-19 tłusta ADJ NOUN
-21 ciężka ADJ NOUN
-3 zawdzięcza VERB ADP
-6 glebie NOUN PRON
-3 jest AUX VERB
-5 Masterowi NOUN PROPN
-12 to CONJ PRON
-15 Zjednoczonych VERB ADJ
-1 Jakże ADV PART
-2 którym DET PRON
-3 stawie NOUN VERB
-7 głębokim ADJ PRON
-3 był AUX VERB
-4 ściśle ADV NOUN
-5 ustalony VERB NOUN
-1 Róża PROPN CONJ
-9 Zdrowia NOUN PROPN
-3 bądź CONJ NOUN
-4 całkowite ADJ VERB
-7 Królestwa PROPN NOUN
-3 wykryta VERB NOUN
-11 niestrzeżonym VERB ADJ
-8 to PRON VERB
-4 Republiki NOUN PROPN
-6 utracone VERB PRON
-3 Pałacu NOUN PROPN
-7 powstaną VERB ADJ
-11 trzema NUM VERB
-17 dużą ADJ VERB
-2 tym DET PRON
-4 Zalewem NOUN PROPN
-4 tamtejsi ADJ VERB
-10 został AUX VERB
-13 nieznajomych ADJ NOUN
-1 Zadziwiająca VERB ADJ
-7 boi VERB CONJ
-9 Centrali NOUN PROPN
-2 straszliwe ADV ADJ
-3 niedouczony ADJ VERB
-4 żałośnie ADV PART
-5 buntowniczy ADJ VERB
-10 więcej ADV NUM
+22: 4 są VERB AUX
+23: 5 rozwiedzeni ADJ VERB
+70: 2 tym ADV DET
+85: 17 metod NOUN ADP
+123: 6 innych NOUN ADJ
+125: 8 to CONJ VERB
+147: 7 powyżej ADP ADJ
+148: 8 30 ADJ NUM
+161: 8 ubezpieczonych VERB ADJ
+167: 1 Jerzy PROPN NOUN
+178: 4 jakiejś DET NOUN
+198: 4 piękna NOUN ADP
+243: 9 peema NOUN VERB
+246: 1 Zygmunt PROPN NOUN
+247: 2 biegnie VERB PART
+259: 2 milkną VERB ADJ
+276: 4 stąd ADV ADP
+296: 4 niemu PRON ADP
+303: 1 Bogoria PROPN NOUN
+314: 4 tyczkowatą ADJ NOUN
+328: 4 nosze NOUN ADJ
+345: 1 Francuzi PROPN CONJ
+353: 1 Drużyna NOUN ADP
+376: 24 strzale NOUN CONJ
+395: 6 śledczych NOUN ADJ
+432: 7 znane ADJ VERB
+443: 7 może VERB PART
+459: 6 Operze NOUN PROPN
+491: 12 obowiązującym ADJ VERB
+501: 4 zwalczali VERB NOUN
+550: 4 Święto NOUN PROPN
+551: 5 Niepodległości NOUN PROPN
+552: 6 odsłonięto VERB DET
+554: 8 Pomnik NOUN PROPN
+555: 9 Niepodległości NOUN PROPN
+566: 1 Łódzki ADJ NOUN
+572: 7 losie NOUN PRON
+573: 8 2- NOUN PUNCT
+644: 32 uniesionej VERB ADJ
+647: 35 zebranym VERB ADJ
+654: 3 długą ADJ NOUN
+679: 1 To PRON VERB
+721: 3 Nocny PROPN ADJ
+768: 6 staż NOUN PART
+770: 8 sędziego NOUN ADJ
+947: 9 obrobiony VERB ADJ
+966: 7 bezrobotnych NOUN ADJ
+1011: 1 Chevillon PROPN PRON
+1045: 7 było AUX VERB
+1046: 8 to VERB PRON
+1081: 4 Zachodniego ADJ PRON
+1086: 9 zł X NOUN
+1091: 1 Rybnik PROPN NOUN
+1104: 3 trzema NUM VERB
+1151: 13 wystarczający ADJ VERB
+1189: 7 za PART ADP
+1190: 8 darmo ADV NOUN
+1233: 7 wykręconą VERB ADJ
+1249: 1 Artykuły NOUN VERB
+1275: 1 Opinie NOUN PART
+1288: 5 10 ADJ NUM
+1294: 3 pływackie ADJ NOUN
+1301: 3 turniej NOUN PRON
+1302: 4 rozegrany VERB ADJ
+1308: 10 SP5 PROPN NOUN
+1324: 7 szkół NOUN X
+1327: 1 Piotrka PROPN NOUN
+1367: 18 i CONJ NOUN
+1373: 1 Osiemnastoletni ADJ NOUN
+1385: 13 kółko NOUN ADP
+1399: 10 nadjeżdżającym VERB ADJ
+1404: 2 walczy VERB PART
+1417: 1 Lokomotywa NOUN VERB
+1449: 3 może VERB PART
+1480: 4 informowali AUX VERB
+1529: 6 dziewczęcy ADJ NOUN
+1540: 8 kiedy SCONJ ADV
+1542: 10 otwarte VERB NOUN
+1547: 15 izby NOUN AUX
+1553: 1 Wieś NOUN PROPN
+1556: 4 opodal ADP ADV
+1566: 3 wodze NOUN ADP
+1578: 4 kupiecka ADJ NOUN
+1579: 5 karawana NOUN VERB
+1581: 7 wytrwale ADV CONJ
+1582: 8 naprzód ADV NOUN
+1587: 3 było AUX VERB
+1592: 8 podejrzanych ADJ VERB
+1611: 16 wokoło ADV PART
+1641: 5 nic PRON NOUN
+1672: 4 i CONJ NOUN
+1686: 1 Prawdopodobnie PART ADV
+1695: 10 nie CONJ PART
+1696: 11 tylko CONJ PART
+1702: 17 drogowi ADJ NOUN
+1735: 1 Wokół ADV ADP
+1752: 5 oblodzony VERB NOUN
+1798: 16 dla ADP NOUN
+1814: 4 bulwersujące ADJ VERB
+1863: 1 Klakson NOUN PROPN
+1876: 2 poniekąd PART NOUN
+1877: 3 ku ADP NOUN
+1878: 4 temu PRON ADP
+1895: 12 pamięci NOUN VERB
+1927: 3 Skrzycznem PROPN NOUN
+1946: 5 tym DET PRON
+1960: 2 ta DET NOUN
+1966: 2 przybyli ADJ VERB
+1981: 6 ostra ADJ NOUN
+1986: 11 mecze NOUN ADP
+2006: 12 była AUX VERB
+2045: 2 A CONJ VERB
+2075: 5 tym PRON DET
+2085: 3 potrzeba NOUN VERB
+2110: 1 To VERB DET
+2115: 2 rozchylonymi VERB ADJ
+2119: 6 wpółprzymknięte ADJ VERB
+2129: 1 Terrorysta NOUN PROPN
+2139: 2 kilkudziesięciu PRON NUM
+2149: 12 mniej ADV PRON
+2160: 7 półtorej NUM ADJ
+2178: 1 Był AUX VERB
+2187: 10 Biblioteki NOUN PROPN
+2224: 1 Młodzi ADJ VERB
+2239: 2 zatrzymała VERB NOUN
+2279: 2 był AUX VERB
+2293: 9 Szpital NOUN PROPN
+2294: 10 Miejski ADJ PROPN
+2308: 1 Torby PROPN SCONJ
+2315: 1 Czyżby PART SCONJ
+2316: 2 został VERB AUX
+2324: 4 prędzej ADV ADJ
+2351: 20 gęsią ADJ PRON
+2402: 1 Jakub PROPN NOUN
+2460: 2 Jakub PROPN CONJ
+2466: 8 uprzejmy ADJ VERB
+2478: 4 gruba ADJ NOUN
+2505: 4 kozła NOUN VERB
+2531: 5 nią PRON NOUN
+2539: 6 tym DET PRON
+2547: 14 ona PRON VERB
+2552: 3 ta DET PRON
+2567: 18 pilnie ADV PART
+2575: 3 to VERB PRON
+2576: 4 któraś PRON NOUN
+2608: 4 to PRON VERB
+2657: 18 nią PRON VERB
+2673: 7 zachrapie VERB NOUN
+2676: 1 Myśli NOUN SCONJ
+2683: 8 Alp PROPN NOUN
+2692: 17 bali NOUN VERB
+2698: 4 pewnie ADV PART
+2725: 2 olbrzymie ADJ NOUN
+2731: 8 złote NOUN ADJ
+2772: 10 niezbędna ADJ ADP
+2788: 1 Żegnajcie VERB NOUN
+2790: 3 Hawaje PROPN VERB
+2799: 7 jest AUX VERB
+2804: 1 Dania PROPN NOUN
+2810: 7 eurozone NOUN VERB
+2825: 7 osobistą ADJ NOUN
+2833: 6 Starówkę NOUN PROPN
+2844: 2 wybranej VERB ADJ
+2854: 2 tak ADV NOUN
+2868: 5 około PART ADP
+2876: 4 istotnie ADV PART
+2887: 4 nim SCONJ PRON
+2888: 5 siądą VERB NOUN
+2907: 6 huknie VERB PART
+2929: 5 zacznie VERB ADV
+2963: 5 mu PRON NOUN
+3203: 3 mężowi NOUN VERB
+3231: 3 mamy NOUN VERB
+3249: 1 Może PART VERB
+3269: 5 tym DET PRON
+3275: 3 wrażliwa ADJ NOUN
+3383: 9 wskutek ADP NOUN
+3441: 6 Poznania PROPN NOUN
+3465: 3 NIE PART PROPN
+3513: 14 czy CONJ PART
+3516: 17 prowadzącymi VERB ADJ
+3536: 1 Zrzesza VERB ADJ
+3597: 6 udziela VERB NOUN
+3617: 13 żadnej DET ADJ
+3625: 5 radnego NOUN ADJ
+3630: 1 Radny NOUN ADJ
+3692: 7 poborową NOUN ADJ
+3706: 6 teściowej NOUN ADJ
+3707: 7 złote ADJ DET
+3724: 3 uczy VERB PART
+3725: 4 Boże ADJ PROPN
+3726: 5 Słowo NOUN ADV
+3730: 2 to DET VERB
+3738: 10 to VERB PRON
+3754: 7 żadne DET ADJ
+3779: 2 je PRON ADJ
+3790: 1 Drogie ADJ NOUN
+3810: 1 Walka NOUN VERB
+3823: 14 czystego ADJ PRON
+3860: 7 Instytucie NOUN PROPN
+3883: 4 ani CONJ VERB
+3928: 9 siły NOUN VERB
+3930: 11 rozpoczną VERB NOUN
+3954: 1 Reidernowa PROPN ADJ
+3978: 1 Niemalże PART SCONJ
+3984: 7 Aneksie NOUN PROPN
+3995: 5 są AUX VERB
+3996: 6 poukładane VERB ADJ
+4037: 2 pełna ADJ ADP
+4050: 6 wystrzelawszy VERB ADJ
+4061: 7 niż ADP NUM
+4062: 8 do NOUN ADP
+4100: 1 Dumnie ADV PRON
+4115: 4 Imperatorowej NOUN ADJ
+4159: 1 Co ADP PRON
+4184: 2 epizod NOUN ADP
+4196: 14 kiedy SCONJ ADV
+4239: 7 i PART CONJ
+4248: 5 twardo ADV ADP
+4249: 6 dzierżą VERB NOUN
+4266: 2 udźwignie VERB PART
+4269: 1 Babie NOUN VERB
+4275: 2 są AUX VERB
+4285: 6 Jarmark NOUN PROPN
+4297: 4 ogromna ADJ ADP
+4332: 2 moich ADJ PRON
+4381: 7 być AUX VERB
+4398: 8 uchwały NOUN VERB
+4427: 7 Senat NOUN PROPN
+4448: 5 Panie NOUN PROPN
+4449: 6 Profesorze NOUN PROPN
+4469: 10 olbrzymią ADJ NOUN
+4477: 18 swojemu ADJ ADP
+4566: 3 piąta ADJ NOUN
+4578: 5 Marszałek NOUN PROPN
+4587: 3 następujących ADJ VERB
+4656: 6 dziewiąta ADJ NOUN
+4666: 6 dziesiątą ADJ NOUN
+4706: 4 Panie NOUN PROPN
+4707: 5 Senatorze NOUN PROPN
+4770: 2 Poprawka NOUN PROPN
+4788: 8 nią PRON NOUN
+4822: 4 jest AUX VERB
+4823: 5 to VERB PRON
+4825: 7 skomplikowany ADJ VERB
+4838: 6 Marszałku NOUN PROPN
+4904: 3 przykro VERB ADV
+4912: 3 Biuru NOUN PROPN
+4925: 1 To PRON VERB
+4954: 3 jest AUX VERB
+5033: 10 rosyjsko ADJ NOUN
+5098: 5 dane NOUN VERB
+5114: 5 to VERB PRON
+5134: 25 to VERB PRON
+5202: 3 dłońmi NOUN PRON
+5218: 3 Wschodu NOUN PROPN
+5284: 4 zima NOUN VERB
+5295: 1 Obce ADJ NOUN
+5357: 12 odurzających ADJ VERB
+5369: 10 Białej PROPN ADJ
+5442: 1 Eliza PROPN NOUN
+5448: 7 nieco ADV ADP
+5523: 1 Eliza PROPN ADP
+5600: 7 dobiegnie VERB PART
+5614: 1 To DET PRON
+5647: 3 związane ADJ VERB
+5676: 16 one PRON VERB
+5714: 13 wapna NOUN ADJ
+5722: 3 wapna NOUN ADJ
+5751: 1 Księżyc NOUN PROPN
+5776: 4 nią PRON NOUN
+5810: 2 jedzie VERB AUX
+5812: 4 pewno PART ADV
+5823: 3 beczy VERB NOUN
+5865: 1 Wania PROPN NOUN
+5902: 2 oddali NOUN VERB
+5903: 3 doleciały VERB AUX
+5904: 4 urywane ADJ VERB
+5910: 1 Kopyta NOUN VERB
+5915: 1 Futro NOUN ADV
+5923: 1 Pierś NOUN SCONJ
+5925: 3 napierała VERB NOUN
+5980: 7 jeden NOUN ADJ
+5994: 1 Auto NOUN PROPN
+6042: 14 ów DET NOUN
+6046: 18 królowej NOUN ADJ
+6083: 5 rad ADJ NOUN
+6086: 8 panna NOUN ADP
+6096: 2 wręczy VERB PART
+6111: 2 była VERB AUX
+6161: 5 dym NOUN ADJ
+6177: 1 Jakby PART SCONJ
+6191: 3 czysty ADJ PRON
+6198: 3 sam ADV ADJ
+6205: 3 mysz NOUN VERB
+6214: 1 Tomala PROPN NOUN
+6231: 1 Clarens PROPN NOUN
+6233: 3 ma VERB ADP
+6242: 5 tłumacz NOUN ADP
+6247: 10 angielsku ADJ NOUN
+6256: 4 odleciało VERB NOUN
+6262: 1 Dzielni ADJ NOUN
+6271: 10 posterunkowy NOUN ADJ
+6272: 11 Józef PROPN NOUN
+6275: 14 starszy ADJ NOUN
+6276: 15 posterunkowy NOUN ADJ
+6281: 1 Radomski ADJ PROPN
+6324: 3 pozwala VERB NOUN
+6357: 9 zostały AUX NOUN
+6369: 1 Najwięcej NUM ADV
+6386: 1 Dwaj NUM VERB
+6390: 5 akurat ADV NOUN
+6412: 10 Trybunalskiego ADJ PROPN
+6418: 1 Pragnie VERB PART
+6446: 5 pisali VERB NOUN
+6468: 3 poszkodowanych NOUN VERB
+6475: 10 czyli CONJ VERB
+6498: 7 F-16 PROPN PUNCT
+6504: 13 zostać AUX VERB
+6536: 2 Związku PROPN NOUN
+6537: 3 Radzieckiego ADJ PROPN
+6542: 8 zło NOUN VERB
+6546: 2 ich PRON DET
+6606: 7 meliniarstwem NOUN AUX
+6614: 4 u ADP NOUN
+6615: 5 diabła NOUN VERB
+6653: 6 królową NOUN ADJ
+6659: 3 mszę NOUN VERB
+6660: 4 świętą ADJ NOUN
+6701: 6 Skarbem NOUN PROPN
+6745: 25 Rosji PROPN NOUN
+6779: 7 imponująca ADJ NOUN
+6781: 9 sięga VERB CONJ
+6788: 16 jest AUX VERB
+6789: 17 to VERB PRON
+6791: 19 tłusta ADJ NOUN
+6793: 21 ciężka ADJ NOUN
+6798: 3 zawdzięcza VERB ADP
+6806: 3 jest AUX VERB
+6845: 5 Masterowi NOUN PROPN
+6852: 12 to CONJ PRON
+6910: 15 Zjednoczonych VERB ADJ
+6944: 1 Jakże ADV PART
+6958: 2 którym DET PRON
+6959: 3 stawie NOUN VERB
+6970: 7 głębokim ADJ PRON
+6988: 3 był AUX VERB
+6989: 4 ściśle ADV NOUN
+6990: 5 ustalony VERB NOUN
+6993: 1 Róża PROPN CONJ
+7049: 9 Zdrowia NOUN PROPN
+7054: 3 bądź CONJ NOUN
+7064: 4 całkowite ADJ VERB
+7067: 7 Królestwa PROPN NOUN
+7075: 3 wykryta VERB NOUN
+7112: 11 niestrzeżonym VERB ADJ
+7147: 8 to PRON VERB
+7180: 4 Republiki NOUN PROPN
+7229: 6 utracone VERB PRON
+7265: 3 Pałacu NOUN PROPN
+7269: 7 powstaną VERB ADJ
+7273: 11 trzema NUM NOUN
+7279: 17 dużą ADJ VERB
+7284: 2 tym DET PRON
+7324: 4 Zalewem NOUN PROPN
+7332: 4 tamtejsi ADJ VERB
+7390: 10 został AUX VERB
+7412: 13 nieznajomych ADJ NOUN
+7489: 1 Zadziwiająca VERB ADJ
+7516: 7 boi VERB CONJ
+7537: 9 Centrali NOUN PROPN
+7541: 2 straszliwe ADV ADJ
+7542: 3 niedouczony ADJ VERB
+7562: 4 żałośnie ADV PART
+7563: 5 buntowniczy ADJ VERB
+7578: 10 więcej ADV NUM

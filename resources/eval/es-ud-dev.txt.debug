@@ -1,1901 +1,1860 @@
-NOUN:PROPN	200
-ADJ:NOUN	178
-PROPN:NOUN	124
-NOUN:ADJ	117
-ADJ:VERB	84
-ADJ:PROPN	72
-NOUN:VERB	60
-X:PROPN	58
-AUX:VERB	56
-VERB:AUX	54
-VERB:NOUN	48
-VERB:ADJ	48
-PRON:SCONJ	48
-CONJ:SCONJ	43
-PRON:DET	41
-SCONJ:ADP	29
-PROPN:ADJ	23
-DET:PRON	23
-SYM:NOUN	22
-PROPN:X	22
-X:NOUN	20
-PROPN:VERB	19
-SCONJ:CONJ	18
-ADV:ADJ	17
-NOUN:X	17
-PROPN:DET	17
-NOUN:PRON	16
-ADJ:ADV	13
-CONJ:ADP	13
-NOUN:DET	12
-SCONJ:PRON	12
-PUNCT:PAUSE	9
-ADP:PROPN	9
-NUM:DET	9
-NUM:PROPN	9
-NOUN:ADV	9
-VERB:PROPN	9
-ADP:SCONJ	9
-PROPN:ADP	8
-X:ADP	8
-ADV:PRON	8
-PROPN:CONJ	8
-PRON:PROPN	7
-DET:PROPN	7
-PROPN:PRON	7
-X:DET	7
-VERB:ADP	6
-ADV:CONJ	6
-NOUN:CONJ	6
-X:NUM	6
-PRON:NOUN	6
-NOUN:NUM	6
-PROPN:NUM	5
-DET:NOUN	5
-VERB:PRON	5
-ADJ:PRON	5
-ADV:SCONJ	5
-NOUN:SYM	5
-VERB:CONJ	4
-X:PUNCT	4
-SYM:PUNCT	4
-ADJ:ADP	4
-X:VERB	4
-X:ADV	4
-VERB:DET	4
-ADJ:DET	4
-SCONJ:ADV	3
-ADJ:CONJ	3
-ADV:NOUN	3
-PRON:ADJ	3
-ADV:PROPN	3
-PRON:VERB	3
-X:ADJ	3
-CONJ:PROPN	3
-X:SYM	3
-NOUN:ADP	3
-NUM:X	3
-DET:ADJ	3
-NUM:SYM	3
-_:PRON	2
-VERB:ADV	2
-ADP:CONJ	2
-ADV:VERB	2
-DET:VERB	2
-SYM:HASH	2
-SCONJ:NOUN	2
-PROPN:ADV	2
-X:SCONJ	2
-NOUN:SCONJ	2
-SYM:PROPN	2
-CONJ:ADJ	2
-ADV:ADP	2
-AUX:DET	2
-NOUN:AUX	2
-CONJ:PRON	2
-AUX:NOUN	2
-ADP:X	2
-DET:NUM	1
-PART:ADJ	1
-ADP:NUM	1
-CONJ:DET	1
-AUX:ADJ	1
-AUX:ADP	1
-X:PRON	1
-PROPN:_	1
-PRON:ADV	1
-ADJ:_	1
-PROPN:AUX	1
-_:PROPN	1
-PROPN:SYM	1
-NUM:VERB	1
-X:CONJ	1
-X:AUX	1
-NUM:NOUN	1
-NOUN:_	1
-ADJ:NUM	1
-PRON:AUX	1
-X:PART	1
-DET:X	1
-NUM:PRON	1
-ADP:ADV	1
-SCONJ:PROPN	1
-CONJ:VERB	1
-ADP:_	1
-PROPN:PUNCT	1
-CONJ:ADV	1
-
-21 Mundial NOUN PROPN
-12 mientras ADV CONJ
-13 que CONJ SCONJ
-30 peste NOUN DET
-9 breve ADJ VERB
-11 pues CONJ SCONJ
-17 electo VERB ADJ
-5 ubicado ADJ VERB
-17 tecnología VERB NOUN
-18 punta NOUN ADJ
-28 como CONJ ADP
-2 camina VERB NOUN
-14 tarde NOUN ADV
-3 práctica NOUN ADJ
-11 malas ADJ DET
-38 mudéjar ADJ VERB
-47 para SCONJ ADP
-57 mismo PRON NOUN
-58 un NUM DET
-6 Empresarial ADJ PROPN
-7 Mexicano ADJ PROPN
-10 Exterior ADJ PROPN
-20 Legislativo ADJ PROPN
-1 Giacomo PROPN ADP
-3 Príncipe PROPN NOUN
-4 Consulado PROPN NOUN
-8 Imperio PROPN NOUN
-20 cinco NOUN NUM
-42 que SCONJ CONJ
-48 para ADP SCONJ
-3 38-41 X NUM
-4 cm SYM NOUN
-6 largo NOUN ADJ
-18 u CONJ DET
-19 octava ADJ NOUN
-8 Clima NOUN PROPN
-15 970-1.100 X NUM
-16 m SYM NOUN
-6 Nacionalista ADJ PROPN
-21 las PRON DET
-22 esgrimidas VERB NOUN
-35 carnes NOUN VERB
-3 comenzó VERB AUX
-28 varías DET NOUN
-47 que PRON SCONJ
-5 Templo NOUN PROPN
-8 derruidos ADJ VERB
-12 general ADJ NOUN
-13 está VERB AUX
-14 conservado ADJ VERB
-23 mientras ADV CONJ
-24 que CONJ SCONJ
-28 The DET PROPN
-23 para SCONJ ADP
-27 la PRON DET
-52 principales NOUN ADJ
-17 consiguiente NOUN ADJ
-21 grande NOUN ADJ
-12 A ADP PROPN
-2 saber NOUN VERB
-13 consciente ADV ADJ
-15 que CONJ SCONJ
-17 real ADJ VERB
-6 ademarista ADJ NOUN
-12 consciente NOUN ADJ
-18 siguió AUX VERB
-23 volví AUX VERB
-11 Wikipedia PROPN NOUN
-7 cumparsita PROPN NOUN
-11 sí SCONJ ADV
-8 miembros NOUN ADJ
-1 Todo PRON DET
-2 gira NOUN VERB
-9 junto ADV ADJ
-9 da ADP PROPN
-31 siendo AUX VERB
-10 estaba AUX VERB
-22 afroamericanos ADJ NOUN
-28 amerindios ADJ NOUN
-34 asiáticos ADJ NOUN
-40 isleños ADJ NOUN
-14 empleado ADJ NOUN
-11 cierto DET NOUN
-12 personal NOUN ADJ
-14 sepa VERB ADP
-26 deje AUX VERB
-37 responsable NOUN ADJ
-39 por SCONJ ADP
-40 que X SCONJ
-41 és VERB ADV
-18 vitalicio ADJ NOUN
-11 que SCONJ CONJ
-13 complejos ADJ NOUN
-16 que PRON SCONJ
-13 nueva NOUN ADJ
-21 represente VERB ADJ
-36 mismo NOUN VERB
-1 Mientras ADV SCONJ
-7 como ADV ADP
-2 plastos PROPN NOUN
-18 West X PROPN
-19 Ends X PROPN
-22 dos NOUN NUM
-13 cura NOUN ADJ
-13 Medias PROPN NOUN
-32 home X PRON
-33 plate X VERB
-16 esos PRON DET
-8 Organización NOUN PROPN
-9 Coreana ADJ PROPN
-11 Béisbol NOUN PROPN
-1 Sampleos NOUN PROPN
-7 rimas NOUN ADJ
-17 tempranos ADJ NOUN
-5 absoluto NOUN PRON
-2 general ADJ NOUN
-17 la PRON DET
-18 conocíamos VERB NOUN
-17 5-1 NUM X
-24 alguna DET PRON
-1 Inglaterra PROPN VERB
-32 grande NOUN ADJ
-28 para CONJ ADP
-35 todo DET PRON
-43 todo DET PRON
-11 ser X AUX
-1 Montevista PROPN NOUN
-25 sale AUX VERB
-28 que PRON SCONJ
-1 Fueron VERB AUX
-2 condenados ADJ VERB
-3 algunos DET PRON
-15 Santa ADJ PROPN
-16 Sede NOUN PROPN
-6 agrícola ADJ NOUN
-9 que PRON SCONJ
-33 cherry ADJ PROPN
-35 alcachofa NOUN ADP
-13 Liga NOUN PROPN
-14 Americana ADJ PROPN
-15 pues SCONJ CONJ
-4 Biología NOUN PROPN
-6 Microbiología NOUN PROPN
-7 Circuitos PROPN NOUN
-17 8A X ADP
-19 VIIIA X PROPN
-15 litres NOUN NUM
-21 junto ADV ADJ
-35 Ley. X PROPN
-25 prisionero ADJ NOUN
-28 Campo NOUN PROPN
-1 General NOUN ADJ
-22 Secretario PROPN NOUN
-26 1981-1982 NUM X
-28 corresponden AUX VERB
-10 para SCONJ ADP
-5 que SCONJ PRON
-7 que SCONJ PRON
-9 igual ADV ADJ
-9 and X PROPN
-19 Obras NOUN ADJ
-24 Musicales ADJ PROPN
-33 varias DET PRON
-46 CD NOUN PROPN
-18 tal ADV ADJ
-20 como CONJ SCONJ
-6 unidos VERB ADJ
-20 como CONJ ADP
-4 atestigua VERB NOUN
-17 of PROPN ADP
-26 era PROPN VERB
-27 joven PROPN ADJ
-37 mientras SCONJ CONJ
-50 the PROPN DET
-20 II PROPN NUM
-16 poco DET PRON
-17 cerebro NOUN ADJ
-2 sencillo PROPN NOUN
-4 fue X VERB
-10 maxi PROPN NUM
-18 e X NOUN
-17 Veterinaria PROPN NOUN
-4 mal ADJ ADV
-2 ácido PROPN NOUN
-3 peroxodisulfúrico PROPN ADJ
-10 comenzaban AUX VERB
-13 movimientos NOUN ADJ
-10 característica ADJ NOUN
-31 longitudinal ADJ NOUN
-9 que CONJ SCONJ
-14 prefiero VERB NOUN
-11 antiexplosivos NOUN ADJ
-8 media ADJ NOUN
-22 129I NUM PROPN
-14 e CONJ VERB
-2 Puerta NOUN PROPN
-16 ibérico ADJ NOUN
-49 Carpio NOUN PROPN
-18 B. PROPN X
-19 H. PROPN X
-7 consolidada ADJ VERB
-8 emparejada VERB ADJ
-5 bajo ADV ADJ
-10 fue AUX VERB
-2 in PROPN ADP
-3 the PROPN DET
-16 Isleño ADJ PROPN
-56 Madre PROPN NOUN
-67 Isla NOUN PROPN
-77 todo DET PRON
-87 Patrona NOUN PROPN
-31 dicho DET VERB
-6 Don NOUN PROPN
-20 límite ADJ NOUN
-6 impulso NOUN ADJ
-7 vegetal ADJ NOUN
-14 eros X NOUN
-17 ārios X ADJ
-5 pude AUX ADP
-6 ser VERB AUX
-13 par NOUN VERB
-10 mientras SCONJ CONJ
-17 bajo ADJ NOUN
-17 decidimos VERB AUX
-6 lana NOUN ADJ
-30 sur ADP PROPN
-5 mismo ADJ NOUN
-12 pampeano ADJ NOUN
-5 cita NOUN VERB
-4 confontados ADJ VERB
-21 segunda NOUN ADJ
-25 comienzan AUX VERB
-30 primera NOUN ADJ
-36 frustrados ADJ VERB
-25 II NUM PROPN
-28 chakravartin PROPN NOUN
-30 Rey NOUN PROPN
-4 está AUX VERB
-2 Vegeta NOUN PROPN
-1 Fue VERB AUX
-2 privado ADJ VERB
-15 que PRON SCONJ
-6 profesional ADJ NOUN
-15 Gallego ADJ PROPN
-16 .... PUNCT PAUSE
-14 bastantes DET ADJ
-18 general ADJ NOUN
-22 ... PUNCT PAUSE
-24 satisfechos ADJ PRON
-4 marcus X DET
-5 boys X PROPN
-10 drag X NOUN
-10 fly X CONJ
-7 octogésima ADJ NOUN
-35 guiadas VERB ADJ
-21 afroamericanos ADJ NOUN
-27 amerindios ADJ NOUN
-33 asiáticos ADJ NOUN
-39 isleños ADJ NOUN
-13 Estado PROPN NOUN
-20 doblo VERB PRON
-25 la DET PRON
-32 ránking NOUN X
-7 santo ADJ NOUN
-2 preocupante ADJ ADP
-11 anzoatiguenses NOUN ADJ
-16 lamentable ADV ADJ
-41 mermar VERB NOUN
-64 que CONJ SCONJ
-6 enmarcada VERB ADJ
-1 Si X SCONJ
-8 ubicado ADJ VERB
-1 The X DET
-2 Edge X PROPN
-24 todo PRON DET
-31 des X DET
-37 agua NOUN ADP
-6 sendas DET NOUN
-21 tanto DET PRON
-22 chorizo NOUN CONJ
-36 otrora ADV NOUN
-38 bbva PROPN NOUN
-26 Fútbol NOUN PROPN
-7 prohibido ADJ VERB
-14 debiéndo AUX VERB
-2 Derrida PROPN VERB
-5 si SCONJ ADV
-10 manual NOUN ADJ
-19 estuviera AUX VERB
-30 aficionados NOUN ADJ
-41 cover NOUN VERB
-47 que PRON SCONJ
-52 raras ADJ PROPN
-11 sino ADV CONJ
-13 mejor NOUN ADJ
-6 agusto X ADJ
-12 ganador ADJ NOUN
-15 aseado ADJ VERB
-24 ordenadas ADJ NOUN
-3 dentadas ADJ VERB
-3 ese PRON DET
-6 Junior PROPN ADJ
-30 The PROPN DET
-41 disc PROPN X
-42 jockey PROPN CONJ
-44 determinados ADJ VERB
-20 maltratadas ADJ VERB
-14 cloacal ADJ NOUN
-3 hitita ADJ VERB
-6 rey PROPN NOUN
-7 difunto PROPN ADJ
-20 Nombre NOUN PROPN
-4 ésto PRON ADJ
-11 Sun PROPN DET
-14 un DET NUM
-30 country VERB CONJ
-34 colocándolo VERB PRON
-19 delicado ADJ VERB
-6 que CONJ SCONJ
-15 cereal NOUN ADJ
-20 rodeada VERB ADJ
-41 sea VERB AUX
-13 Universal ADJ PROPN
-7 mejores NOUN ADJ
-18 este PRON NOUN
-3 endófito NOUN ADJ
-8 que SCONJ CONJ
-11 contrarreste VERB DET
-2 general ADJ NOUN
-16 Fundación PROPN NOUN
-18 derecha NOUN ADJ
-23 continúa VERB AUX
-10 prohibido VERB ADJ
-24 liar VERB ADJ
-14 acusada ADJ VERB
-3 Oficina PROPN NOUN
-6 Censo PROPN NOUN
-20 km SYM NOUN
-21 ² NUM SYM
-27 km SYM NOUN
-28 ² NUM SYM
-39 km SYM NOUN
-40 ² NUM SYM
-6 VHS NOUN PROPN
-1 Cambie VERB PROPN
-15 growshop X NOUN
-39 ... PUNCT PAUSE
-15 violetas ADJ NOUN
-1 Tanto DET PRON
-13 está VERB AUX
-19 un NUM DET
-3 fundador ADJ NOUN
-2 on ADP PROPN
-5 The DET PROPN
-12 recopilatorio ADJ NOUN
-3 último ADJ NOUN
-7 Iglesia NOUN PROPN
-8 Española ADJ PROPN
-9 Reformada ADJ PROPN
-10 Episcopal ADJ PROPN
-2 distendido ADJ VERB
-30 Dj X PROPN
-42 Malagueño ADJ PROPN
-8 junto ADV ADJ
-14 noble ADJ NOUN
-20 oficial NOUN ADJ
-23 rumbo NOUN PROPN
-6 USB PROPN X
-12 ser VERB AUX
-13 formateado VERB ADJ
-31 ext2 PROPN X
-1 Hidalgo PROPN PRON
-15 HZ PROPN X
-12 esos DET NOUN
-9 split PROPN NOUN
-7 hab NOUN X
-6 conciliar VERB NOUN
-12 Antigua ADJ PROPN
-20 cristiana ADJ NOUN
-22 judía ADJ NOUN
-17 jejejeje X NOUN
-12 que PRON SCONJ
-27 que SCONJ PRON
-33 Médico ADJ PROPN
-7 latín ADJ NOUN
-9 civis X NOUN
-14 Acto NOUN PROPN
-16 Bendición NOUN PROPN
-19 c PROPN X
-27 anisótropa ADJ NOUN
-44 vecinas ADJ NOUN
-5 que PRON SCONJ
-15 Mujeres NOUN PROPN
-8 que PRON SCONJ
-40 pasado ADJ VERB
-13 Auditorio NOUN PROPN
-14 Taller PROPN NOUN
-3 Censo PROPN NOUN
-1-2 Sálvate _ PROPN
-1 Sálva VERB PROPN
-3 llegó AUX VERB
-3 to PROPN VERB
-4 my PROPN CONJ
-34 poco DET PRON
-35 peor NOUN ADJ
-28 paraguayo ADJ NOUN
-1 Local NOUN ADJ
-14 tarde NOUN ADV
-18 nuevas NOUN ADJ
-28 kernel PROPN NOUN
-20 Obispos NOUN PROPN
-22 quienes NOUN PRON
-7 amazilia NOUN ADJ
-1 Práctica NOUN VERB
-48 protegida ADJ VERB
-12 República NOUN PROPN
-7 Rampla PROPN DET
-2 Ogro NOUN PROPN
-10 que CONJ SCONJ
-12 esta PRON AUX
-15 pidiento VERB ADJ
-16 ayuda NOUN VERB
-5 segunda NOUN ADJ
-31 visigodas NOUN DET
-22 pues SCONJ ADV
-2 occidente PROPN NOUN
-15 japoneses ADJ NOUN
-8 query X PROPN
-51 Consolidación PROPN NOUN
-15 quienes NOUN PRON
-46 Unión NOUN PROPN
-5 única NOUN ADJ
-14 algunas NOUN PRON
-21 asiáticos NOUN ADJ
-17 Museo PROPN NOUN
-21 Historia PROPN NOUN
-11 pero NOUN CONJ
-7 son AUX VERB
-10 recetadas VERB ADJ
-9 sulo X VERB
-2 afro X NOUN
-12 estadounidenses NOUN AUX
-4 3300 NOUN NUM
-7 2000 NOUN NUM
-12 vecinas ADJ NOUN
-19 análisis PROPN NOUN
-22 marco PROPN NOUN
-25 ensayo PROPN NOUN
-28 organización PROPN NOUN
-31 experiencia PROPN NOUN
-9 en X ADP
-21 descubrir NOUN VERB
-41 judio ADJ VERB
-7 estaba VERB AUX
-8 compuesto ADJ VERB
-13 blancos NOUN ADJ
-23 conexión PROPN VERB
-43 Internet PROPN NOUN
-10 día PROPN NOUN
-9 Coalición PROPN NOUN
-16 Comisión PROPN NOUN
-18 Legislación PROPN NOUN
-22 Cámara PROPN NOUN
-24 Diputados PROPN NOUN
-25 I NUM PROPN
-51 Unión NOUN PROPN
-12 como SCONJ ADP
-4 peculio NOUN PROPN
-26 sería AUX VERB
-7 juntas ADJ NOUN
-11 doce NUM VERB
-2 Museo NOUN PROPN
-5 Guerra NOUN PROPN
-12 Πολεμικό X PROPN
-13 Μουσείο X PROPN
-19 ..... PUNCT PAUSE
-35 Memorias NOUN PROPN
-23 afroamericanos ADJ NOUN
-35 asiáticos ADJ NOUN
-41 isleños ADJ NOUN
-15 B X PROPN
-21 B X PROPN
-19 eslogan NOUN VERB
-21 Trabajadores NOUN PROPN
-24 Mundo NOUN PROPN
-25-26 únanse _ PRON
-4 aspidistra NOUN PRON
-11 Responsabilidad PROPN NOUN
-12 Personal PROPN ADJ
-15 Transformación PROPN NOUN
-18 Crecimiento NOUN PROPN
-19 Social ADJ PROPN
-3 es AUX VERB
-35 recubiertos VERB ADJ
-2 espinoso NOUN ADJ
-5 arbusto NOUN ADJ
-11 Casa PROPN NOUN
-13 Gobierno PROPN NOUN
-16 Presidenta NOUN PROPN
-43 Estoy AUX VERB
-45 convencida VERB ADJ
-46 que PRON SCONJ
-11 mucho ADV PRON
-9 la PRON DET
-1 Zuse PROPN PRON
-11 computing PROPN X
-12 spaces PROPN X
-6 fue VERB AUX
-15 todo PRON DET
-7 las PRON NOUN
-6 Sur NOUN PROPN
-21 dudoso ADV CONJ
-7 mestiza ADJ VERB
-5 fundador ADJ NOUN
-28 e CONJ ADJ
-7 loca ADJ VERB
-25 enamoradísimo ADJ NOUN
-6 Merindades NOUN PROPN
-26 denomina ADJ NOUN
-28 Castellana ADJ PROPN
-46 Reconquista PROPN NOUN
-1 Muebles NOUN PROPN
-22 shopping PROPN X
-7 Les PRON PROPN
-8 yeux PROPN X
-9 revolver PROPN VERB
-33 ser VERB AUX
-34 electo ADJ VERB
-14 cabuérniga PROPN NOUN
-9 llevadas ADJ VERB
-9 era VERB ADJ
-11 como SCONJ ADP
-12 era VERB NOUN
-12 que PRON SCONJ
-19 junto ADV ADJ
-23 disfrazados VERB ADJ
-39 desaparecer VERB NOUN
-4 km SYM NOUN
-3 es AUX VERB
-5 conocido VERB ADJ
-26 significativos NOUN ADJ
-28 que CONJ SCONJ
-43 auténticos ADJ NOUN
-15 ser NOUN VERB
-23 excitado ADJ ADV
-27 Comité NOUN PROPN
-28 Ejecutivo ADJ PROPN
-29 Nacional ADJ PROPN
-50 populares NOUN ADJ
-8 hineana PROPN ADJ
-26 es AUX VERB
-28 colgado VERB ADJ
-8 que PRON SCONJ
-13 pende VERB ADP
-17 mientras CONJ SCONJ
-1 Unidos ADJ VERB
-17 Rock NOUN PROPN
-19 Mexicana ADJ PROPN
-11 Олег X PROPN
-12 Антонович X PROPN
-13 Гордиевский X PROPN
-36 Seguridad PROPN NOUN
-39 Estado PROPN NOUN
-41 KGB PROPN X
-48 residente ADJ NOUN
-63 terminó AUX VERB
-19 estabilizadores NOUN ADJ
-34 modus X NOUN
-35 operandi X PROPN
-4 alta ADJ NOUN
-2 catalogada VERB ADJ
-3 Zona NOUN PROPN
-14 zona NOUN VERB
-16 que PRON SCONJ
-20 km SYM NOUN
-2 imprescindible NOUN PRON
-3 es VERB AUX
-5 calzado NOUN VERB
-11 que PRON SCONJ
-43 sido VERB AUX
-17 colocado ADJ VERB
-30 que CONJ SCONJ
-11 que PRON SCONJ
-12 Patroclo PROPN PRON
-3 Enseñanza NOUN PROPN
-1 Ae DET PROPN
-4 ... PUNCT PAUSE
-41 dentro ADP ADV
-16 compartidas ADJ VERB
-13 bicis NOUN VERB
-17 ajustadas VERB ADJ
-3 enlatadas ADJ VERB
-4 Fabiano NOUN PROPN
-7 delantero ADJ NOUN
-17 siguiente NOUN ADJ
-5 Les PRON PROPN
-14 3D X PROPN
-21 suyo NOUN PRON
-12 Corral NOUN PROPN
-25 osos NOUN ADJ
-10 F X PROPN
-20 IS X PROPN
-22 F X PROPN
-29 berlina NOUN ADJ
-11 amplia ADJ NOUN
-22 equipados ADJ VERB
-2 Escuela NOUN PROPN
-42 Ciudad NOUN PROPN
-20 km SYM NOUN
-11 magníficos ADJ NOUN
-15 cálidas ADJ NOUN
-24 junto ADV ADJ
-11 mini ADJ CONJ
-11 bluetooth PROPN SYM
-13 IrDA NOUN PROPN
-1 De PROPN ADP
-20 alla ADV VERB
-25 M SYM PROPN
-2 tanto DET PRON
-11 estaba AUX VERB
-37 que CONJ SCONJ
-2 diferentes ADJ NOUN
-4 empezaron VERB AUX
-16 quisiera AUX VERB
-7 Partidas NOUN PROPN
-24 1252-1284 NUM X
-10 hispanos ADJ NOUN
-20 continua VERB AUX
-45 simpátrica PROPN ADJ
-12 Nuestra PROPN DET
-12 que CONJ SCONJ
-21 terrestre ADJ NOUN
-25 ferrocarril ADJ NOUN
-27 aéreo ADJ NOUN
-9 esta AUX DET
-5 Tráfico NOUN PROPN
-20 limítrofe ADJ NOUN
-1 Pese VERB AUX
-20 e CONJ PROPN
-1 Ingeniería VERB NOUN
-3 son VERB AUX
-3 km SYM NOUN
-9 largo ADJ NOUN
-12 km SYM NOUN
-25 m SYM NOUN
-39 m SYM NOUN
-23 oficial ADJ NOUN
-28 resultaría VERB AUX
-29 muerto ADJ NOUN
-13 jóvenes ADJ NOUN
-14 mancebos NOUN ADJ
-9 D.N.I NOUN PROPN
-15 ... PUNCT PAUSE
-12 J. X PROPN
-13 G. X PROPN
-14 como CONJ ADP
-7 los PRON DET
-1 Bárbara PROPN VERB
-18 mientras CONJ ADV
-2 Parque NOUN PROPN
-3 Nacional ADJ PROPN
-12 km SYM NOUN
-19 para ADP SCONJ
-27 camping NOUN X
-1 Mientras ADV SCONJ
-18 Armas PROPN NOUN
-7 te PRON VERB
-8 examinas VERB NOUN
-10 apruebas VERB NOUN
-17 un NUM DET
-14 skin PROPN NOUN
-21 polar ADJ VERB
-12 tan ADV VERB
-13 molesto ADJ PRON
-21 trabajo NOUN PROPN
-22 cita NOUN VERB
-23 Virgen NOUN PROPN
-33 suyo PRON NOUN
-36 Virgen NOUN PROPN
-13 computación PROPN NOUN
-3 está VERB AUX
-8 plástico ADJ NOUN
-11 mm X NOUN
-13 ancho ADJ NOUN
-16 mm X NOUN
-21 mm X NOUN
-3 tanto ADV PRON
-16 msnm NOUN X
-25 templado ADJ NOUN
-1 Lamentamos VERB AUX
-7 supuesto ADJ VERB
-22 pasas VERB NOUN
-6 después ADJ ADV
-11 bíblico ADJ NOUN
-2 que SCONJ PRON
-9 alicante PROPN NOUN
-25 esta AUX DET
-26 resuelto VERB NOUN
-14 termini NOUN CONJ
-15 romanos ADJ NOUN
-8 indehiscente ADJ NOUN
-19 Bellis NOUN PROPN
-21 mientras ADV CONJ
-1 Araceli PROPN DET
-12 costera ADJ VERB
-3 sans X DET
-4 doubles X ADJ
-5 comptes X VERB
-2 ácido PROPN NOUN
-34 que CONJ SCONJ
-38 itelmenos NOUN ADV
-24 que PRON SCONJ
-9 tenga AUX VERB
-9 CV X PROPN
-22 fitness NOUN ADJ
-7 estaba VERB AUX
-8 compuesto ADJ VERB
-19 afroamericanos ADJ NOUN
-25 amerindios ADJ NOUN
-31 asiáticos ADJ NOUN
-37 isleños ADJ NOUN
-13 operados VERB ADJ
-3 después ADJ ADV
-34 veteranos ADJ NOUN
-39 Aérea ADJ PROPN
-40 Estadounidense ADJ PROPN
-7 medidas VERB NOUN
-29 Acambarense ADJ PROPN
-42 museo PROPN NOUN
-26 Seminario PROPN NOUN
-50 Postgrado NOUN PROPN
-1 Registrándose VERB AUX
-16 creado ADJ VERB
-26 que PRON SCONJ
-10 M.A.L.I.C.I.A. PROPN X
-11 Número NOUN PROPN
-17 que PRON SCONJ
-18 Número VERB NOUN
-21 regalo VERB NOUN
-10 bajamar NOUN VERB
-21 esa PRON DET
-7 que SCONJ CONJ
-13 la DET PRON
-11 pasado NOUN ADJ
-10 Kapellmeister PROPN X
-17 elector ADJ NOUN
-28 situada NOUN VERB
-2 debió AUX VERB
-17 que SCONJ CONJ
-18-19 hazte _ PRON
-1 Junto ADJ ADV
-7 procedía VERB NOUN
-16 antártica ADJ VERB
-10 hidrógeno PROPN NOUN
-8 mareantes ADJ ADV
-5 Arabis X PROPN
-5 una DET PRON
-14 mejor ADV ADJ
-15 ve VERB NOUN
-22 Corte PROPN NOUN
-23 Inglés PROPN ADJ
-2 Club PROPN NOUN
-22 legal ADJ NOUN
-43 Investigaciones NOUN PROPN
-2 ser NOUN VERB
-2 Basílica NOUN PROPN
-34 destellos NOUN PRON
-31 monte PROPN NOUN
-20 encantador ADJ NOUN
-21 enclave NOUN ADJ
-24 marinero ADJ NOUN
-25 ambas PRON DET
-32 que PRON SCONJ
-1 Ascensión PROPN NOUN
-38 adultos ADJ NOUN
-4 va AUX VERB
-10 dispara VERB ADP
-25 la PRON DET
-26 interroga VERB NOUN
-5 pegado ADJ VERB
-4 hablado VERB ADJ
-11 que CONJ SCONJ
-8 Valores NOUN PROPN
-33 para SCONJ ADP
-11 distribuida VERB ADJ
-3 estudio PROPN NOUN
-6 señor PROPN NOUN
-9 como SCONJ ADP
-17 sería AUX VERB
-28 Primeros ADJ PROPN
-36 las PRON DET
-37 encaminadas VERB NOUN
-43 ya X ADV
-8 tanto ADV PRON
-9 viticultora ADJ VERB
-10 como CONJ ADP
-8 remedio ADJ NOUN
-9 que SCONJ CONJ
-15 subsidiaria NOUN ADJ
-27 subsidiaria NOUN ADJ
-13 De ADP PROPN
-17 Centro PROPN NOUN
-19 General PROPN ADJ
-14 cierto ADJ NOUN
-11 que SCONJ PRON
-20 QUE SCONJ PROPN
-21 ATENDÍA VERB PROPN
-22 AL ADP PROPN
-23 MEDIODÍA NOUN PROPN
-24 ... PUNCT PAUSE
-9 glaciares NOUN ADJ
-19 nativa NOUN ADJ
-19 afroamericanos ADJ NOUN
-25 amerindios ADJ NOUN
-31 asiáticos ADJ NOUN
-37 isleños ADJ NOUN
-15 una PRON DET
-7 Juez NOUN PROPN
-9 Primera ADJ PROPN
-24 saltum X NOUN
-27 cautelares NOUN ADJ
-32 Suprema ADJ PROPN
-38 N NOUN PROPN
-12 Constitución PROPN NOUN
-50 v. ADP X
-36 distintas DET ADJ
-10 Órdenes NOUN PROPN
-11 Militares ADJ PROPN
-4 que PRON SCONJ
-13 que PRON SCONJ
-1 Como SCONJ ADP
-9 asociada ADJ VERB
-21 que CONJ SCONJ
-23 los PRON DET
-29 quedo VERB AUX
-30 destruida ADJ VERB
-31 totalmente. X PUNCT
-1 En X ADP
-24 fue AUX VERB
-23 vaya VERB AUX
-24 vestido ADJ VERB
-30 pantalon NOUN ADP
-31 vaquero ADJ NOUN
-5 que PRON SCONJ
-7 cónyuges NOUN VERB
-14 desdichas NOUN DET
-19 naturales NOUN ADJ
-27 presume VERB PRON
-32 arrebato VERB ADJ
-5 rojos ADJ NOUN
-16 paradas ADJ VERB
-17 futuro ADJ NOUN
-19 III NUM PROPN
-33 llegado AUX VERB
-2 dejo VERB NOUN
-5 Vaticano NOUN PROPN
-14 prohibido ADJ NOUN
-18 la PRON DET
-11 las PRON DET
-12 Volps NOUN PROPN
-31 ahumado NOUN ADJ
-37 para ADP SCONJ
-7 central ADJ NOUN
-6 Pascua NOUN PROPN
-45 esta PRON DET
-46 dura VERB NOUN
-92 acompañantes NOUN ADV
-105 para SCONJ ADP
-114 son AUX VERB
-118 que PRON SCONJ
-119 son AUX VERB
-131 los PRON DET
-31 bocado NOUN VERB
-35 merecido ADJ NOUN
-6 para SCONJ ADP
-10 espeloterapia PROPN NOUN
-12 que SCONJ CONJ
-37 que PRON SCONJ
-7 que SCONJ PRON
-26 lateral ADJ NOUN
-1 C. PROPN PUNCT
-15 Campo NOUN PROPN
-23 Comité NOUN PROPN
-13 rey PROPN NOUN
-35 rey PROPN NOUN
-9 pues CONJ SCONJ
-21 Grupo NOUN PROPN
-26 es AUX VERB
-12 firme ADJ VERB
-3 Reinos NOUN PROPN
-15 shaka PROPN NOUN
-24 la PRON DET
-5 Combate PROPN NOUN
-11 general NOUN ADJ
-12 Tomás PROPN ADV
-13 bebe NOUN VERB
-18 VER VERB PROPN
-20 TOCAR VERB PROPN
-11 olida PROPN NOUN
-15 forestberry PROPN CONJ
-16 herb PROPN X
-5 III PROPN NUM
-15 Restauración NOUN PROPN
-2 supuesto NOUN VERB
-7 unare PROPN VERB
-15 caribe PROPN VERB
-25 llamada ADJ VERB
-35 Superliga PROPN NOUN
-2 Jardín PROPN NOUN
-17 de X ADP
-46 the PROPN DET
-11 descalificadora ADJ NOUN
-15 ortodoxo ADJ CONJ
-27 tuvieron AUX VERB
-21 nocturno ADJ NOUN
-22 underground PROPN AUX
-32 escasos ADJ NOUN
-5 tele NOUN PROPN
-25 particulares NOUN ADJ
-2 navegantes NOUN ADV
-4 los PRON DET
-5 que SCONJ PRON
-9 apresado VERB ADJ
-11 llevado VERB ADJ
-8 que CONJ SCONJ
-20 solían AUX VERB
-26 jinete NOUN VERB
-31 estar AUX VERB
-32 entrenados VERB ADJ
-34 obligado ADJ VERB
-36 a ADP CONJ
-2 barnesiana PROPN ADJ
-23 para SCONJ ADP
-26 aquellos DET PRON
-20 oa X ADP
-24 que SCONJ CONJ
-3 epica PROPN ADJ
-2 de X ADP
-3 oro PROPN NOUN
-15 Alpes NOUN PROPN
-22 Alpes NOUN PROPN
-37 sur PROPN NOUN
-1 Perteneciente VERB ADJ
-1 Esta PRON DET
-10 está VERB AUX
-3 Balstrode PROPN ADP
-14 iranio ADJ ADV
-5 Amateur PROPN ADJ
-16 deflagrantes ADJ NOUN
-23 este DET NOUN
-24 hobby NOUN CONJ
-11 nynorsk PROPN NOUN
-25 que CONJ SCONJ
-8 único NOUN ADJ
-13 Payaso NOUN PROPN
-15 Agrario ADJ PROPN
-17 Reass X PROPN
-43 Consejo NOUN PROPN
-19 $ NOUN SYM
-28 $ NOUN SYM
-33 nCube PROPN NOUN
-28 Religiosa ADJ PROPN
-34 que PRON SCONJ
-43 antes ADJ ADV
-16 Ejecutivo PROPN ADJ
-44 Parlamento PROPN NOUN
-33 un NUM DET
-36 medio NUM NOUN
-15 euskera PROPN NOUN
-20 sain X PROPN
-16 bipartido ADJ NOUN
-17 ponderado ADJ VERB
-1 Un NUM DET
-23 es AUX VERB
-15 USD X PROPN
-49 una NUM DET
-12 pareja NOUN VERB
-17 mientras ADV CONJ
-18 que CONJ SCONJ
-38 FDR X PROPN
-46 que PRON SCONJ
-17 la PRON DET
-18 trata VERB NOUN
-11 punta NOUN ADJ
-21 parecido NOUN ADJ
-40 infame ADJ NOUN
-41 Programa NOUN PROPN
-43 Eutanasia NOUN PROPN
-11 está VERB AUX
-8 fue AUX VERB
-19 Bellas NOUN PRON
-3 comienza VERB AUX
-24 cofrades NOUN ADJ
-29 que PRON SCONJ
-42 Virgen NOUN PROPN
-1 Ídolo NOUN PROPN
-11 es AUX VERB
-25 The PROPN DET
-27 of PROPN ADP
-14 MTs NOUN PROPN
-7 como CONJ SCONJ
-10 ya X ADV
-1 Es VERB AUX
-9 bajo ADJ ADP
-39 Polos NOUN DET
-40 opuestos ADJ VERB
-18 echar AUX VERB
-11 capitular VERB NOUN
-21 comunero ADJ VERB
-40 álgido ADJ VERB
-47 República NOUN PROPN
-19 álbum PROPN NOUN
-22 frontman X NOUN
-17 blancos NOUN ADJ
-33 Nazi ADJ PROPN
-7 segmentado ADJ VERB
-22 afroamericanos ADJ NOUN
-28 amerindios ADJ NOUN
-34 asiáticos ADJ NOUN
-40 isleños ADJ NOUN
-17 Academia NOUN PROPN
-18 Real ADJ PROPN
-29 pera NOUN VERB
-1 Fidel PROPN ADP
-1 Activo ADJ VERB
-15 Módena NOUN PROPN
-27 destruidos ADJ VERB
-7 CDs X PROPN
-38 siguiente NOUN ADJ
-13 Monte NOUN PROPN
-3 séptima ADJ NOUN
-18 Interior ADJ PROPN
-19 Bruto ADJ PROPN
-12 piadina PROPN NOUN
-13 forlivese PROPN NOUN
-17 ravennate PROPN PRON
-32 mientras CONJ SCONJ
-40 piada NOUN ADJ
-6 agrícolas ADJ DET
-14 Voltios NOUN PROPN
-18 tuviese VERB DET
-20 alguna DET PRON
-12 benigno ADJ ADV
-1 Volvería VERB AUX
-16 que PRON SCONJ
-18 cantabas VERB NOUN
-34 Soy PROPN VERB
-36 pobre ADJ NOUN
-40 alerta ADJ NOUN
-24 revelo VERB PRON
-6 simple ADJ NOUN
-22 poco ADV PRON
-2 que CONJ SCONJ
-11 bebidas NOUN ADJ
-16 radar ADJ VERB
-17 Me PRON PROPN
-18 to X PROPN
-11 XIX NUM PROPN
-27 que PRON SCONJ
-10 están VERB AUX
-18 alcohol NOUN PROPN
-20 etanol NOUN PROPN
-15 General PROPN ADJ
-26 dio VERB NOUN
-31 los PRON DET
-32 fabrique VERB NOUN
-18 tabarro PROPN NOUN
-26 pistas NOUN ADJ
-15 maíz PROPN NOUN
-15 Meca NOUN PROPN
-8 algunos PRON DET
-8 hab NOUN X
-3 Católico NOUN PROPN
-19 Independent X PROPN
-20 Television X PROPN
-21 Authority X PROPN
-23 Autoridad NOUN PROPN
-26 Independiente ADJ PROPN
-12 Junta NOUN PROPN
-14 Portavoces NOUN PROPN
-20 República NOUN PROPN
-25 Mesa NOUN PROPN
-26 Pluripartidaria ADJ PROPN
-53 Minas NOUN PROPN
-14 que CONJ SCONJ
-18 tele NOUN PRON
-15 alrededor NOUN ADV
-18 Reducto PROPN NOUN
-4 flores PROPN NOUN
-7 bien PROPN NOUN
-2 Mientras ADV PROPN
-5 Hidrieo NOUN PROPN
-23 ateniense NOUN ADJ
-29 Evágoras NOUN PROPN
-21 Sucia PROPN ADJ
-25 que PRON SCONJ
-7 equilibrio NOUN ADJ
-15 Emperador PROPN NOUN
-17 mientras CONJ SCONJ
-32 desafío NOUN ADJ
-4 Equipo PROPN NOUN
-16 tanto ADV PRON
-19 como ADV ADP
-22 para SCONJ ADP
-5 para SCONJ ADP
-12 miembros NOUN ADJ
-16 oneworld PROPN ADJ
-1 Tomás PROPN ADV
-29 izquierda NOUN ADJ
-8 joven ADJ NOUN
-9 mucho PRON ADV
-12 Bien NOUN PROPN
-13 Cultural ADJ PROPN
-10 Top PROPN X
-26 Top PROPN X
-9 que SCONJ CONJ
-15 regía VERB ADP
-4 # SYM HASH
-7 VH1 X PROPN
-9 Top X PROPN
-12 Songs X PROPN
-8 como SCONJ ADP
-12 pues CONJ SCONJ
-15 mejor ADV ADJ
-19 que PRON SCONJ
-20 están AUX VERB
-10 prendas NOUN VERB
-23 The DET PROPN
-27 The PROPN DET
-1 Cápsulas NOUN DET
-3 mm X NOUN
-8 mm X NOUN
-10 ancho ADJ NOUN
-12 hispídulas PROPN NOUN
-14 estipitado PROPN VERB
-1 Está VERB AUX
-4 48km NOUN X
-13 tanto ADV PRON
-14 que CONJ SCONJ
-15 UL X PROPN
-3 que PRON SCONJ
-7 es VERB NOUN
-31 temblor NOUN CONJ
-33 frías ADJ NOUN
-30 Avenida NOUN PROPN
-5 está VERB AUX
-8 clásico ADJ NOUN
-9 catecúmenos NOUN ADV
-6 teclados NOUN VERB
-12 Congreso PROPN NOUN
-15 Diputados PROPN NOUN
-19 Legislatura NOUN PROPN
-45 Convergencia PROPN NOUN
-10 áspera ADJ VERB
-23 longitudinales NOUN ADJ
-35 largas ADJ NOUN
-36 cintas NOUN ADJ
-45 para SCONJ ADP
-55 crema ADJ NOUN
-57 blancuzca ADJ NOUN
-30 que PRON SCONJ
-35 qué PRON VERB
-5 o CONJ PROPN
-7 clase NOUN PROPN
-1 Poco ADV PRON
-3 backbone PROPN X
-12 Internet PROPN NOUN
-22 and X PROPN
-30 Ing. X PROPN
-6 limón NOUN PROPN
-12 que PRON SCONJ
-18 apfelstrudel NOUN _
-9 parecida ADJ VERB
-26 re X PART
-9 diésel NOUN DET
-10 Asociación NOUN PROPN
-23 Club PROPN NOUN
-1 Amalivaca PROPN VERB
-2 fuel VERB DET
-15 caribe NOUN VERB
-20 .. PUNCT PAUSE
-30 procedente VERB ADJ
-38 Brueghel PROPN DET
-16 3-1 X PROPN
-1 Sello NOUN PRON
-8 general PROPN ADJ
-30 Tm X PROPN
-31 / SYM PUNCT
-32 día NOUN AUX
-44 Tm X SYM
-45 / SYM PUNCT
-20 FAT32 PROPN X
-1 Despedazado PROPN VERB
-4 partes PROPN NOUN
-12 Banda NOUN PROPN
-14 vino AUX VERB
-21 que PRON SCONJ
-2 zicsii PROPN NUM
-8 Año NOUN PROPN
-27 si ADV SCONJ
-33 que PRON SCONJ
-55 para SCONJ ADP
-7 ubicado ADJ VERB
-13 volvió VERB AUX
-26 conocidos ADJ VERB
-7 Seguridad PROPN NOUN
-15 ataques NOUN VERB
-22 aunque CONJ SCONJ
-20 dedicados VERB NOUN
-2 última NOUN ADJ
-20 look X NOUN
-22 la PRON DET
-8 una NUM DET
-29 remotas ADJ NOUN
-5 fue VERB AUX
-6 cerrado ADJ VERB
-29 éste DET ADJ
-6 nobles ADJ NOUN
-7 catalanes NOUN ADJ
-17 como ADP CONJ
-11 estado AUX NOUN
-16 falsos ADJ NOUN
-17 dogmas NOUN ADV
-6 parte NOUN VERB
-7 Bailar VERB PROPN
-6 drake NOUN X
-8 podria AUX VERB
-3 Deportivo ADJ PROPN
-4 provocados VERB ADJ
-8 ficticia ADJ VERB
-11 Crisis NOUN PROPN
-7 Juegos NOUN PROPN
-23 Campeonato NOUN PROPN
-24 Mundial ADJ PROPN
-6 plátano PROPN NOUN
-22 mascada NOUN DET
-23 roja ADJ NOUN
-1 Fajín VERB PROPN
-2 rojo NOUN ADJ
-2 supuesta ADJ NOUN
-5 Medalla NOUN PROPN
-7 Oro NOUN PROPN
-12 Internacional ADJ PROPN
-18 Academia NOUN PROPN
-19 Rusa ADJ PROPN
-21 Ciencias NOUN PROPN
-22 Naturales ADJ PROPN
-8 Gracias PROPN NOUN
-9 tal ADV ADJ
-11 como ADV SCONJ
-8 antigua NOUN ADJ
-19 A2 X PROPN
-2 mismo NOUN ADJ
-15 ferrocarril NOUN ADJ
-19 Autoridad PROPN NOUN
-20 Metropolitana PROPN ADJ
-23 Transporte PROPN NOUN
-6 ganadora NOUN ADJ
-1 Como SCONJ ADP
-9 dicho DET VERB
-15 privado ADJ NOUN
-16 mas ADV NOUN
-19 afin ADJ NOUN
-3 que SCONJ CONJ
-8 verosímil ADJ NUM
-8 dirigido VERB NOUN
-6 mediados ADJ NOUN
-19 Brigadas NOUN PROPN
-20 ² X SYM
-42 único NOUN ADJ
-43 que PRON SCONJ
-49 rompe VERB CONJ
-2 Gamba NOUN PROPN
-3 Roja ADJ PROPN
-9 Gamba NOUN PROPN
-10 Blanca ADJ PROPN
-22 manjares NOUN ADJ
-24 estepa NOUN VERB
-31 que SCONJ PRON
-42 ya X ADV
-2 potentes ADJ NOUN
-6 supraluz NOUN ADJ
-13 entorpecen VERB ADP
-19 localizadores NOUN ADJ
-4 único NOUN ADJ
-14 Dos ADP NUM
-1 Kovon PROPN ADP
-16 N X PROPN
-22 vinculado ADJ VERB
-44 negro ADJ NOUN
-17 está AUX VERB
-18 dirigida VERB ADJ
-6 solo ADJ ADV
-8 como CONJ ADP
-3 censo PROPN NOUN
-1 Tanto CONJ PRON
-5 como CONJ ADP
-22 eficientes NOUN ADJ
-43 I NUM PROPN
-8 como SCONJ CONJ
-11 Ms X PROPN
-12 conocida ADJ VERB
-2 que CONJ SCONJ
-1 Literarios NOUN PRON
-10 $ NOUN SYM
-29 especificado NOUN VERB
-45 habla NOUN DET
-48 seguro NOUN ADJ
-1 Sapo NOUN PROPN
-3 rana NOUN ADJ
-5 Comisión NOUN PROPN
-6 programados VERB ADJ
-46 Gun PROPN DET
-47 n X PROPN
-15 estricto NOUN ADJ
-27 demás NOUN ADJ
-31 absteniéndose VERB AUX
-9 Cercocarpus ADJ PROPN
-14 Rosaceae ADV PROPN
-3 o CONJ ADJ
-7 Sala NOUN PROPN
-5 tal ADV ADJ
-6 como CONJ ADP
-7 están VERB AUX
-18 enamora VERB ADJ
-13 premontano ADJ NOUN
-1 Lepanthes PROPN VERB
-2 helicocephala PROPN ADJ
-10 originaria NOUN ADJ
-12 of ADP X
-28 mejor ADJ NOUN
-30 manager NOUN VERB
-17 Industriales NOUN PROPN
-22 índice NOUN VERB
-8 $ SYM NOUN
-13 $ SYM NOUN
-9 / SYM PUNCT
-10 km SYM NOUN
-6 puesta VERB NOUN
-3 croata NOUN VERB
-33 sur ADP PROPN
-11 fue VERB AUX
-42 Our DET PROPN
-21 Río NOUN PROPN
-1 Le PRON PROPN
-33 Le PRON PROPN
-8 años PROPN NOUN
-5 Oficina NOUN PROPN
-6 Económica ADJ PROPN
-5 como CONJ ADP
-25 está AUX VERB
-27 avanzado VERB ADJ
-38 cambia VERB ADJ
-8 que SCONJ PRON
-13 nos PRON ADJ
-20 fuera VERB ADV
-9 para SCONJ ADP
-12 que PRON SCONJ
-22 seleccionar VERB PROPN
-11 reconocido ADJ VERB
-16 D X PROPN
-48 intactos ADJ NOUN
-20 las PRON NOUN
-1 23-02-2010 X NUM
-45 que PRON SCONJ
-16 que PRON SCONJ
-20 malos ADJ DET
-25 desmayo NOUN PROPN
-2 demás ADJ ADV
-18 que CONJ SCONJ
-22 los PRON DET
-3 ligada ADJ VERB
-5 embalada ADJ NOUN
-13 invitado VERB NOUN
-19 sedimentada VERB ADJ
-3 melena NOUN ADJ
-16 nada PRON VERB
-8 elliptica PROPN ADJ
-11 gunnii PROPN NUM
-17 micranthera PROPN VERB
-35 cinnamomi PROPN PRON
-45 sospechoso ADJ NOUN
-23 I NUM PROPN
-9 fairy PROPN CONJ
-11 wrens X PROPN
-14 hada NOUN ADJ
-23 chochín PROPN NOUN
-4 expositor NOUN ADJ
-5 participante ADJ NOUN
-6 conocido ADJ VERB
-42 para SCONJ ADP
-47 Virgen NOUN PROPN
-6 Segunda ADJ PROPN
-13 otra PRON DET
-31 marcha NOUN VERB
-16 picado NOUN VERB
-17 alemanes ADJ NOUN
-4 comercializada ADJ VERB
-47 Fomento NOUN PROPN
-30 futuras ADJ NOUN
-17 libro NOUN VERB
-2 Secretaría NOUN PROPN
-4 Interior NOUN PROPN
-18 Departamento PROPN NOUN
-51 Red NOUN PROPN
-53 Gestores NOUN PROPN
-3 cuñada NOUN ADJ
-2 Tour NOUN PROPN
-20 turco NOUN ADJ
-13 Judo NOUN PROPN
-16 Centro NOUN PROPN
-18 Investigaciones NOUN PROPN
-19 Históricas ADJ PROPN
-10 junto ADV ADJ
-11 conla X DET
-13 peleas NOUN VERB
-10 especial NOUN ADJ
-33 que SCONJ PRON
-17 ni SCONJ CONJ
-18 que CONJ SCONJ
-5 m³ NOUN X
-16 m³ NOUN X
-19 Hm NOUN PROPN
-20 ³ X PUNCT
-25 un NUM DET
-26 Hm NOUN PROPN
-27 ³ X PUNCT
-33 m³ NOUN X
-39 para SCONJ ADP
-16 e CONJ PRON
-6 hay AUX VERB
-22 la PRON DET
-7 Major X PROPN
-26 C X PROPN
-3 móviltoday PROPN CONJ
-34 todo PRON DET
-2 figura NOUN VERB
-3 Campeonato NOUN PROPN
-4 Mundial ADJ PROPN
-6 Patinaje NOUN PROPN
-7 Artístico ADJ PROPN
-49 Unión NOUN PROPN
-50 Internacional ADJ PROPN
-52 Patinaje NOUN PROPN
-54 Hielo NOUN PROPN
-60 Federación NOUN PROPN
-61 Alemana ADJ PROPN
-63 Patinaje NOUN PROPN
-65 Hielo NOUN PROPN
-68 Federación NOUN PROPN
-71 Patinaje NOUN PROPN
-73 Hielo NOUN PROPN
-3 una NUM PRON
-22 Josu PROPN DET
-45 Política NOUN PROPN
-55 Grupo NOUN PROPN
-56 Socialista ADJ PROPN
-1 Si CONJ SCONJ
-9 ruso PART ADJ
-13 1787-1792 X NUM
-26 Cáucaso PROPN NOUN
-3 conoces VERB NOUN
-9 perdieranel X DET
-11 Femenino PROPN ADJ
-21 canto NOUN ADV
-14 Roll X PROPN
-16 of ADP PROPN
-12 emblemática ADJ NOUN
-26 belugas PROPN NOUN
-1 Según SCONJ ADP
-5 Portuaria ADJ PROPN
-9 APT X PROPN
-15 Museo NOUN PROPN
-30 que SCONJ NOUN
-33 botero ADJ NOUN
-45 APT X PROPN
-23 que SCONJ CONJ
-12 krai NOUN PROPN
-6 trato VERB CONJ
-11 Samoanos NOUN PROPN
-28 derecho ADJ NOUN
-1 Goodwill PROPN DET
-15 útiles ADJ NOUN
-19 atractivos ADJ NOUN
-24 importante ADJ NOUN
-35 como CONJ ADP
-6 bárbara ADJ NOUN
-7 acude VERB ADP
-14 tres NOUN NUM
-5 cladograma PROPN NOUN
-20 celofísidos PROPN NOUN
-21 mucho ADJ PRON
-15 jefes NOUN VERB
-8 carintio ADJ NOUN
-19 livres PROPN NOUN
-32 para ADP SCONJ
-48 destruidas VERB NOUN
-3 encuentros AUX NOUN
-12 acudía VERB AUX
-3 estuvo VERB AUX
-4 marcado NOUN VERB
-16 Duquesa NOUN PROPN
-25 gambas NOUN DET
-26 blancas ADJ NOUN
-30 langosta NOUN VERB
-35 tournedó NOUN VERB
-42 ave NOUN VERB
-69 todo PRON DET
-77 blancos ADJ NOUN
-1 Reagan PROPN VERB
-18 infielder PROPN NOUN
-37 turcos ADJ NOUN
-14 considerada VERB ADJ
-16 Interés NOUN PROPN
-17 Turístico ADJ PROPN
-18 Nacional ADJ PROPN
-5 estaba VERB AUX
-11 AGM NOUN PROPN
-2 gesto NOUN PRON
-18 que PRON SCONJ
-19 s.XX X NOUN
-6 son VERB AUX
-16 enfocados VERB ADJ
-54 temáticas ADJ NOUN
-10 vencidos VERB ADJ
-13 los PRON DET
-5 implicado ADJ VERB
-11 que CONJ SCONJ
-6 ranking X NOUN
-14 dependiente NOUN ADJ
-1 Empieza VERB AUX
-9 diagonal ADJ _
-14 izquierda ADJ NOUN
-26 ろ X PUNCT
-3 O DET PROPN
-4 Estado PROPN NOUN
-10 da PROPN VERB
-21 revistas PROPN NOUN
-29 A DET PROPN
-2 bajo ADJ ADP
-5 cuando ADV SCONJ
-24 que PRON SCONJ
-32 inclina AUX ADJ
-52 segundo NOUN ADJ
-17 perdidos VERB ADJ
-20 mar PROPN NOUN
-32 como ADP SCONJ
-40 como ADP SCONJ
-73 cierto ADJ NOUN
-7 seria ADJ NOUN
-12 que SCONJ PRON
-22 necesario NOUN ADJ
-11 sistematizar NOUN VERB
-11 Catedral PROPN NOUN
-16 fue AUX VERB
-14 country NOUN PROPN
-5 esta VERB DET
-16 II NUM PROPN
-5 gira VERB NOUN
-10 Sudeste NOUN PROPN
-11 Asiático ADJ PROPN
-1 Bethel PROPN DET
-11 d' X ADP
-15 Escuela NOUN PROPN
-16 Nacional ADJ PROPN
-31 junto ADJ ADV
-21 Estación PROPN NOUN
-37 Intermodal ADJ PROPN
-39 Ferrocarriles NOUN PROPN
-11 que SCONJ CONJ
-9 mienstras SCONJ NOUN
-22 Operación PROPN NOUN
-30 proveniente VERB ADJ
-10 kernel X DET
-11 volvía VERB NOUN
-5 esperado NOUN VERB
-12 que CONJ SCONJ
-13 solíamos AUX VERB
-21 I X PROPN
-3 séptima ADJ NOUN
-6 tal PRON ADJ
-21 Pasaje NOUN PROPN
-25 Calle NOUN PROPN
-2 Orden NOUN PROPN
-4 Derfel PROPN DET
-26 vivo ADJ VERB
-35 para SCONJ ADP
-34 tratados VERB ADJ
-8 querido ADJ NOUN
-33 juntos ADJ NOUN
-20 km SYM NOUN
-27 km SYM NOUN
-39 km SYM NOUN
-10 disecados VERB ADJ
-20 $ NOUN SYM
-30 $ NOUN SYM
-10 d' X ADP
-3 H SYM PROPN
-6 Subte NOUN PROPN
-1 Tony PROPN CONJ
-12 Del ADP _
-19 éstos NOUN PRON
-12 largo ADJ NOUN
-7 varían VERB AUX
-10 veterinaria ADJ NOUN
-16 que CONJ SCONJ
-24 veterinarios NOUN ADJ
-2 obstante ADJ PRON
-1 Para SCONJ ADP
-16 la PRON DET
-2 Hotel NOUN PROPN
-3 está VERB AUX
-4 situado ADJ VERB
-7 Jurisprudencia PROPN NOUN
-16 Fundamento NOUN PROPN
-19 km SYM NOUN
-2 citado ADJ NOUN
-3 castillejo NOUN ADJ
-10 yeso NOUN PRON
-32 otro DET PRON
-30 llegó AUX VERB
-1 Ficha NOUN VERB
-26 Industria PROPN NOUN
-7 República NOUN PROPN
-9 Asociación NOUN PROPN
-10 Popular ADJ PROPN
-19 Social ADJ PROPN
-21 Deportivo ADJ PROPN
-3 capital NOUN ADJ
-41 Instituto NOUN PROPN
-11 publicas ADJ NOUN
-13 extranjeras ADJ NOUN
-33 todo DET PRON
-40 agricolas ADJ NOUN
-16 Lígdamo NOUN PROPN
-13 la PRON DET
-19 tanto ADV PRON
-27 como CONJ ADP
-10 C NOUN X
-17 C NOUN X
-1 Lily PROPN CONJ
-8 hab NOUN X
-11 km SYM NOUN
-11 para SCONJ ADP
-14 mucho DET PRON
-23 derecho ADJ NOUN
-28 llegamos AUX VERB
-6 para SCONJ ADP
-16 ... PUNCT PAUSE
-14 Calle NOUN PROPN
-18 # SYM HASH
-4 escribío VERB CONJ
-6 encontrado NOUN VERB
-4 que PRON SCONJ
-13 túnica NOUN ADJ
-28 la PRON DET
-29 patea VERB NOUN
-38 escucha VERB NOUN
-43 profecía NOUN VERB
-9 para ADP SCONJ
-16 justo ADJ ADV
-28 que CONJ SCONJ
-29 puedan AUX VERB
-13 Scott PROPN X
-23 demasiado DET PRON
-24 pudor NOUN ADJ
-5 licenciado VERB NOUN
-5 como ADP SCONJ
-26 deseosas ADJ NOUN
-19 km SYM NOUN
-20 ² X SYM
-16 compartidas ADJ VERB
-3 norte NOUN PROPN
-17 sur NOUN VERB
-19 la PRON DET
-11 que PRON SCONJ
-3 censo PROPN NOUN
-6 ser VERB AUX
-7 diputado NOUN VERB
-16 arranque NOUN SCONJ
-22 pudieran AUX VERB
-33 conocido NOUN VERB
-4 fantasma NOUN ADJ
-1 Militares NOUN PROPN
-2 obstante ADV ADJ
-18 tenía VERB AUX
-19 automatizado ADJ VERB
-39 Fomento NOUN PROPN
-9 1-1 X NUM
-3 le DET PRON
-16 dispouso VERB AUX
-22 la DET PRON
-23 sarten NOUN VERB
-37 los PRON DET
-40 la DET PRON
-41 sarten NOUN VERB
-8 hab NOUN X
-36 ex NOUN X
-1 Homme PROPN PRON
-41 albumDust X NOUN
-9 Tekken.Basándo VERB PROPN
-36 mágicos ADJ NOUN
-19 porque CONJ SCONJ
-2 joven ADJ NOUN
-9 rally NOUN CONJ
-30 llegó AUX VERB
-36 sexto ADJ NOUN
-48 mañana ADV NOUN
-53 para SCONJ ADP
-6 respuestas NOUN DET
-7 concretas ADJ NOUN
-23 Plan NOUN PROPN
-25 Garantías NOUN PROPN
-46 Bienestar NOUN PROPN
-57 Junta NOUN PROPN
-1 Proyecto NOUN PROPN
-3 10-30 NUM PROPN
-27 Corredor PROPN NOUN
-40 fiscalizados ADJ VERB
-56 referido VERB ADJ
-9 prensada ADJ VERB
-10 hispanos ADJ NOUN
-8 Plaza NOUN PROPN
-14 Plaza NOUN PROPN
-18 Barrio NOUN PROPN
-32 sur NOUN PROPN
-38 Le PRON PROPN
-11 hecha VERB NOUN
-13 almacenada VERB PRON
-5 que PRON SCONJ
-13 multiprotocolo PROPN PRON
-14 Centro NOUN PROPN
-3 au PROPN _
-4 pair PROPN VERB
-6 que CONJ SCONJ
-20 madrid PROPN NOUN
-17 como CONJ ADP
-8 está VERB AUX
-9 imputado ADJ VERB
-7 jóvenes ADJ NOUN
-8 voluntarios NOUN ADJ
-19 Fiestas NOUN PROPN
-1 Tal ADV PROPN
-2 Juzgado NOUN PROPN
-4 Instrucción NOUN PROPN
-14 abierto VERB ADJ
-85 para SCONJ ADP
-109 unas ADJ DET
-3 cuidado NOUN VERB
-17 Encomienda NOUN PROPN
-15 and CONJ PROPN
-17 of ADP PROPN
-27 jardín VERB NOUN
-15 Sông X PROPN
-16 Hương X PROPN
-18 río VERB NOUN
-6 que PRON SCONJ
-1 Mapa NOUN PROPN
-1 Tabla NOUN DET
-2 General ADJ NOUN
-4 variable NOUN ADJ
-5 continua ADJ VERB
-20 leves ADJ VERB
-20 para SCONJ ADP
-5 encarnizado ADJ VERB
-42 l' DET X
-43 impudeur PROPN X
-4 que CONJ SCONJ
-15 727-200 PROPN X
-10 que CONJ SCONJ
-25 carga NOUN ADJ
-12 parecido VERB ADJ
-45 cambias VERB NOUN
-13 Evolución NOUN PROPN
+56: 30 Los PRON DET
+59: 33 pedidos VERB NOUN
+133: 14 fue VERB AUX
+134: 15 solar NOUN VERB
+162: 14 Audiencia NOUN PROPN
+163: 15 Nacional ADJ PROPN
+170: 2 D.III X NUM
+223: 25 gramático NOUN ADJ
+268: 17 3er ADJ PROPN
+282: 31 relacionado NOUN VERB
+315: 7 libc PROPN VERB
+317: 9 que SCONJ PRON
+324: 16 que SCONJ CONJ
+360: 19 la PRON DET
+361: 20 retire VERB NOUN
+401: 3 otros PRON DET
+480: 12 Este PRON PROPN
+529: 8 este PRON NOUN
+581: 17 es AUX VERB
+585: 21 Estadio NOUN PROPN
+591: 27 que PRON SCONJ
+626: 14 vuelve AUX VERB
+652: 40 N X PROPN
+658: 2 sushi X NOUN
+730: 7 gusta VERB ADJ
+779: 4 fatuo ADJ CONJ
+780: 5 que CONJ SCONJ
+862: 3 que CONJ SCONJ
+863: 4 tranquila ADJ PRON
+894: 6 Granado PROPN NOUN
+911: 23 fue VERB AUX
+913: 25 laureado ADJ VERB
+967: 46 como CONJ ADP
+987: 12 restringida VERB ADJ
+991: 16 bajo ADJ ADP
+1009: 14 ya X ADV
+1028: 1 Real PROPN ADJ
+1034: 1 Es VERB AUX
+1035: 2 mencionada NOUN VERB
+1038: 5 Teología PROPN NOUN
+1081: 7 para ADP SCONJ
+1101: 13 corto ADJ VERB
+1113: 25 que PRON SCONJ
+1143: 15 cuales NOUN PRON
+1145: 17 km2 NOUN X
+1223: 22 estarán AUX VERB
+1260: 1 Marchesini PROPN CONJ
+1275: 16 Primera ADJ PROPN
+1280: 21 pasó VERB AUX
+1325: 31 Iraquí ADJ PROPN
+1341: 9 Clásico ADJ PROPN
+1361: 28 Universidad NOUN PROPN
+1382: 5 necesitas VERB NOUN
+1406: 13 andaluza ADJ VERB
+1408: 15 Álbum NOUN PROPN
+1421: 28 únicas ADJ NOUN
+1454: 24 denominados ADJ VERB
+1455: 25 meristemas ADJ NOUN
+1456: 26 secundarios NOUN ADJ
+1458: 28 cámbium NOUN PROPN
+1480: 17 Liberal PROPN ADJ
+1527: 10 junto ADV ADJ
+1576: 16 blancos NOUN ADJ
+1637: 13 of X PROPN
+1660: 16 the PROPN DET
+1739: 31 islas NOUN DET
+1740: 32 vecinas ADJ NOUN
+1744: 36 primeros NOUN ADJ
+1750: 42 bando NOUN SCONJ
+1778: 8 hab NOUN X
+1807: 10 mayor ADJ NOUN
+1812: 15 miembro ADJ NOUN
+1849: 5 una NUM DET
+1853: 9 & SYM PUNCT
+1937: 14 humanos ADJ NOUN
+1942: 19 agitado ADJ NOUN
+2026: 21 Mundial NOUN PROPN
+2075: 12 mientras ADV CONJ
+2076: 13 que CONJ SCONJ
+2144: 30 peste NOUN DET
+2162: 9 breve ADJ VERB
+2164: 11 pues CONJ SCONJ
+2170: 17 electo VERB ADJ
+2214: 5 ubicado ADJ VERB
+2279: 17 tecnología VERB NOUN
+2280: 18 punta NOUN ADJ
+2290: 28 como CONJ ADP
+2297: 2 camina VERB NOUN
+2337: 14 tarde NOUN ADV
+2351: 3 práctica NOUN ADJ
+2434: 11 malas ADJ DET
+2476: 38 mudéjar ADJ VERB
+2485: 47 para SCONJ ADP
+2497: 57 mismo PRON NOUN
+2498: 58 un NUM DET
+2517: 6 Empresarial ADJ PROPN
+2518: 7 Mexicano ADJ PROPN
+2521: 10 Exterior ADJ PROPN
+2531: 20 Legislativo ADJ PROPN
+2551: 1 Giacomo PROPN ADP
+2593: 3 Príncipe PROPN NOUN
+2610: 4 Consulado PROPN NOUN
+2614: 8 Imperio PROPN NOUN
+2675: 20 cinco NOUN NUM
+2698: 42 que SCONJ CONJ
+2704: 48 para ADP SCONJ
+2713: 3 38-41 X NUM
+2714: 4 cm SYM NOUN
+2716: 6 largo NOUN ADJ
+2745: 18 u CONJ DET
+2746: 19 octava ADJ NOUN
+2765: 8 Clima NOUN PROPN
+2772: 15 970-1.100 X NUM
+2773: 16 m SYM NOUN
+2783: 6 Nacionalista ADJ PROPN
+2799: 21 las PRON DET
+2800: 22 esgrimidas VERB NOUN
+2814: 35 carnes NOUN VERB
+2842: 3 comenzó VERB AUX
+2869: 28 varías DET NOUN
+2924: 47 que PRON SCONJ
+2968: 5 Templo NOUN PROPN
+2971: 8 derruidos ADJ VERB
+2975: 12 general ADJ NOUN
+2976: 13 está VERB AUX
+2977: 14 conservado ADJ VERB
+3002: 23 mientras ADV CONJ
+3003: 24 que CONJ SCONJ
+3007: 28 The DET PROPN
+3049: 23 para SCONJ ADP
+3054: 27 la PRON DET
+3081: 52 principales NOUN ADJ
+3126: 17 consiguiente NOUN ADJ
+3130: 21 grande NOUN ADJ
+3146: 12 A ADP PROPN
+3154: 2 saber NOUN VERB
+3156: 4 metafísico ADJ NOUN
+3165: 13 consciente ADV ADJ
+3167: 15 que CONJ SCONJ
+3169: 17 real ADJ VERB
+3246: 6 ademarista ADJ NOUN
+3252: 12 consciente NOUN ADJ
+3384: 18 siguió AUX VERB
+3389: 23 volví AUX VERB
+3425: 11 Wikipedia PROPN NOUN
+3486: 7 cumparsita PROPN NOUN
+3528: 11 sí SCONJ ADV
+3549: 8 miembros NOUN ADJ
+3603: 1 Todo PRON DET
+3604: 2 gira NOUN VERB
+3618: 9 junto ADV ADJ
+3658: 9 da ADP PROPN
+3680: 31 siendo AUX VERB
+3709: 10 estaba AUX VERB
+3721: 22 afroamericanos ADJ NOUN
+3727: 28 amerindios ADJ NOUN
+3733: 34 asiáticos ADJ NOUN
+3739: 40 isleños ADJ NOUN
+3764: 1 Bretigny PROPN CONJ
+3810: 14 empleado ADJ NOUN
+3857: 5 web ADJ NOUN
+3929: 11 cierto DET NOUN
+3930: 12 personal NOUN ADJ
+3932: 14 sepa VERB ADP
+3944: 26 deje AUX VERB
+3955: 37 responsable NOUN ADJ
+3957: 39 por SCONJ ADP
+3958: 40 que X SCONJ
+3959: 41 és VERB ADV
+4020: 18 vitalicio ADJ NOUN
+4073: 11 que SCONJ CONJ
+4103: 13 complejos ADJ NOUN
+4106: 16 que PRON SCONJ
+4154: 13 nueva NOUN ADJ
+4162: 21 represente VERB ADJ
+4245: 36 mismo NOUN VERB
+4250: 1 Mientras ADV SCONJ
+4295: 7 como ADV ADP
+4356: 2 plastos PROPN NOUN
+4388: 18 West X PROPN
+4389: 19 Ends X PROPN
+4417: 22 dos NOUN NUM
+4453: 13 cura NOUN ADJ
+4478: 13 Medias PROPN NOUN
+4497: 32 home X PRON
+4498: 33 plate X VERB
+4525: 16 esos PRON DET
+4544: 8 Organización NOUN PROPN
+4545: 9 Coreana ADJ PROPN
+4547: 11 Béisbol NOUN PROPN
+4610: 1 Sampleos NOUN PROPN
+4616: 7 rimas NOUN ADJ
+4626: 17 tempranos ADJ NOUN
+4634: 5 absoluto NOUN PRON
+4660: 2 general ADJ NOUN
+4688: 17 la PRON DET
+4689: 18 conocíamos VERB NOUN
+4729: 17 5-1 NUM X
+4736: 24 alguna DET PRON
+4793: 1 Inglaterra PROPN VERB
+4824: 32 grande NOUN ADJ
+4859: 28 para CONJ ADP
+4866: 35 todo DET PRON
+4874: 43 todo DET PRON
+4898: 11 ser X AUX
+4908: 1 Montevista PROPN NOUN
+4961: 25 sale AUX DET
+4962: 26 elegida VERB ADJ
+4964: 28 que PRON SCONJ
+5016: 1 Fueron VERB AUX
+5017: 2 condenados ADJ VERB
+5018: 3 algunos DET PRON
+5030: 15 Santa ADJ PROPN
+5031: 16 Sede NOUN PROPN
+5142: 6 agrícola ADJ NOUN
+5145: 9 que PRON SCONJ
+5169: 33 cherry ADJ PROPN
+5171: 35 alcachofa NOUN ADP
+5211: 13 Liga NOUN PROPN
+5212: 14 Americana ADJ PROPN
+5259: 15 pues SCONJ CONJ
+5296: 4 Biología NOUN PROPN
+5298: 6 Microbiología NOUN PROPN
+5325: 7 Circuitos PROPN NOUN
+5395: 17 8A X ADP
+5397: 19 VIIIA X PROPN
+5436: 15 litres NOUN NUM
+5442: 21 junto ADV ADJ
+5482: 35 Ley. X PROPN
+5544: 25 prisionero ADJ NOUN
+5547: 28 Campo NOUN PROPN
+5595: 1 General NOUN ADJ
+5616: 22 Secretario PROPN NOUN
+5620: 26 1981-1982 NUM X
+5652: 28 corresponden AUX VERB
+5708: 10 para SCONJ ADP
+5791: 7 que SCONJ PRON
+5793: 9 igual ADV ADJ
+5879: 9 and X PROPN
+5909: 19 Obras NOUN ADJ
+5914: 24 Musicales ADJ PROPN
+5923: 33 varias DET PRON
+5936: 46 CD NOUN PROPN
+5956: 18 tal ADV ADJ
+5958: 20 como CONJ SCONJ
+5985: 6 unidos VERB ADJ
+5999: 20 como CONJ ADP
+6072: 4 atestigua VERB NOUN
+6102: 17 of PROPN ADP
+6111: 26 era PROPN VERB
+6112: 27 joven PROPN ADJ
+6122: 37 mientras SCONJ CONJ
+6135: 50 the PROPN DET
+6175: 20 II PROPN NUM
+6204: 16 poco DET PRON
+6205: 17 cerebro NOUN ADJ
+6211: 2 sencillo PROPN NOUN
+6213: 4 fue X VERB
+6219: 10 maxi PROPN NUM
+6227: 18 e X NOUN
+6258: 17 Veterinaria PROPN NOUN
+6297: 4 mal ADJ ADV
+6396: 2 ácido PROPN NOUN
+6397: 3 peroxodisulfúrico PROPN ADJ
+6413: 10 comenzaban AUX VERB
+6416: 13 movimientos NOUN ADJ
+6441: 10 característica ADJ NOUN
+6462: 31 longitudinal ADJ NOUN
+6474: 9 que CONJ SCONJ
+6479: 14 prefiero VERB NOUN
+6509: 11 antiexplosivos NOUN ADJ
+6549: 8 media ADJ NOUN
+6563: 22 129I NUM PROPN
+6579: 14 e CONJ VERB
+6587: 2 Puerta NOUN PROPN
+6695: 16 ibérico ADJ NOUN
+6731: 49 Carpio NOUN PROPN
+6755: 18 B. PROPN X
+6756: 19 H. PROPN X
+6773: 7 consolidada ADJ VERB
+6804: 8 emparejada VERB ADJ
+6836: 5 bajo ADV ADJ
+6841: 10 fue AUX VERB
+6873: 2 in PROPN ADP
+6874: 3 the PROPN DET
+6932: 16 Isleño ADJ PROPN
+6972: 56 Madre PROPN NOUN
+6983: 67 Isla NOUN PROPN
+6993: 77 todo DET PRON
+7003: 87 Patrona NOUN PROPN
+7036: 31 dicho DET VERB
+7070: 6 Don NOUN PROPN
+7084: 20 límite ADJ NOUN
+7126: 7 vegetal ADJ NOUN
+7133: 14 eros X NOUN
+7136: 17 ārios X ADJ
+7196: 5 pude AUX ADP
+7197: 6 ser VERB AUX
+7204: 13 par NOUN VERB
+7268: 10 mientras SCONJ CONJ
+7404: 17 bajo ADJ NOUN
+7445: 17 decidimos VERB AUX
+7486: 6 lana NOUN ADJ
+7536: 30 sur ADP PROPN
+7643: 5 mismo ADJ NOUN
+7651: 12 pampeano ADJ NOUN
+7658: 5 cita NOUN VERB
+7680: 4 confontados ADJ VERB
+7697: 21 segunda NOUN ADJ
+7701: 25 comienzan AUX VERB
+7706: 30 primera NOUN ADJ
+7712: 36 frustrados ADJ VERB
+7739: 25 II NUM PROPN
+7742: 28 chakravartin PROPN NOUN
+7744: 30 Rey NOUN PROPN
+7811: 2 Vegeta NOUN PROPN
+7840: 1 Fue VERB AUX
+7841: 2 privado ADJ VERB
+7856: 15 que PRON SCONJ
+7865: 6 profesional ADJ NOUN
+7939: 15 Gallego ADJ PROPN
+7940: 16 .... PUNCT PAUSE
+7955: 14 bastantes DET ADJ
+7959: 18 general ADJ NOUN
+7963: 22 ... PUNCT PAUSE
+7984: 4 marcus X DET
+7985: 5 boys X PROPN
+7990: 10 drag X NOUN
+8010: 10 fly X CONJ
+8067: 5 esta VERB DET
+8077: 7 octogésima ADJ NOUN
+8127: 35 guiadas VERB ADJ
+8154: 21 afroamericanos ADJ NOUN
+8160: 27 amerindios ADJ NOUN
+8166: 33 asiáticos ADJ NOUN
+8172: 39 isleños ADJ NOUN
+8329: 13 Estado PROPN NOUN
+8379: 20 doblo VERB PRON
+8428: 25 la DET PRON
+8435: 32 ránking NOUN X
+8444: 7 santo ADJ NOUN
+8467: 2 preocupante ADJ ADP
+8476: 11 anzoatiguenses NOUN ADJ
+8481: 16 lamentable ADV ADJ
+8507: 41 mermar VERB NOUN
+8532: 64 que CONJ SCONJ
+8627: 6 enmarcada VERB ADJ
+8637: 1 Si X SCONJ
+8661: 8 ubicado ADJ VERB
+8667: 1 The X DET
+8668: 2 Edge X PROPN
+8690: 24 todo PRON DET
+8736: 31 des X DET
+8742: 37 agua NOUN ADP
+8757: 6 sendas DET NOUN
+8773: 21 tanto DET PRON
+8774: 22 chorizo NOUN CONJ
+8789: 36 otrora ADV NOUN
+8791: 38 bbva PROPN NOUN
+8821: 26 Fútbol NOUN PROPN
+8853: 7 prohibido ADJ VERB
+8861: 14 debiéndo AUX VERB
+8873: 2 Derrida PROPN VERB
+8876: 5 si SCONJ ADV
+8881: 10 manual NOUN ADJ
+8890: 19 estuviera AUX VERB
+8901: 30 aficionados NOUN ADJ
+8960: 41 cover NOUN VERB
+8967: 47 que PRON SCONJ
+8972: 52 raras ADJ PROPN
+9012: 11 sino ADV CONJ
+9014: 13 mejor NOUN ADJ
+9022: 6 agusto X ADJ
+9066: 12 ganador ADJ NOUN
+9069: 15 aseado ADJ VERB
+9078: 24 ordenadas ADJ NOUN
+9102: 3 dentadas ADJ VERB
+9113: 3 ese PRON DET
+9129: 6 Junior PROPN ADJ
+9153: 30 The PROPN DET
+9164: 41 disc PROPN X
+9165: 42 jockey PROPN CONJ
+9167: 44 determinados ADJ VERB
+9190: 20 maltratadas ADJ VERB
+9214: 14 cloacal ADJ NOUN
+9229: 3 hitita ADJ VERB
+9233: 6 rey PROPN NOUN
+9234: 7 difunto PROPN ADJ
+9248: 20 Nombre NOUN PROPN
+9263: 4 ésto PRON ADJ
+9285: 11 Sun PROPN DET
+9288: 14 un DET NUM
+9304: 30 country VERB CONJ
+9308: 34 colocándolo VERB PRON
+9334: 19 delicado ADJ VERB
+9347: 6 que CONJ SCONJ
+9356: 15 cereal NOUN ADJ
+9361: 20 rodeada VERB ADJ
+9382: 41 sea VERB AUX
+9383: 42 privilegiada ADJ VERB
+9398: 13 Universal ADJ PROPN
+9442: 7 mejores NOUN ADJ
+9453: 18 este PRON NOUN
+9458: 3 endófito NOUN ADJ
+9502: 8 que SCONJ CONJ
+9505: 11 contrarreste VERB DET
+9511: 2 general ADJ NOUN
+9544: 16 Fundación PROPN NOUN
+9575: 18 derecha NOUN ADJ
+9580: 23 continúa VERB AUX
+9593: 10 prohibido VERB ADJ
+9607: 24 liar VERB ADJ
+9639: 14 acusada ADJ VERB
+9651: 3 Oficina PROPN NOUN
+9655: 6 Censo PROPN NOUN
+9669: 20 km SYM NOUN
+9670: 21 ² NUM SYM
+9676: 27 km SYM NOUN
+9677: 28 ² NUM SYM
+9688: 39 km SYM NOUN
+9689: 40 ² NUM SYM
+9700: 6 VHS NOUN PROPN
+9711: 1 Cambie VERB PROPN
+9726: 15 growshop X NOUN
+9750: 39 ... PUNCT PAUSE
+9769: 15 violetas ADJ NOUN
+9802: 1 Tanto DET PRON
+9814: 13 está VERB AUX
+9820: 19 un NUM DET
+9832: 3 fundador ADJ NOUN
+9853: 2 on ADP PROPN
+9856: 5 The DET PROPN
+9863: 12 recopilatorio ADJ NOUN
+9878: 3 último ADJ NOUN
+9913: 7 Iglesia NOUN PROPN
+9914: 8 Española ADJ PROPN
+9915: 9 Reformada ADJ PROPN
+9916: 10 Episcopal ADJ PROPN
+9930: 2 distendido ADJ VERB
+9959: 30 Dj X PROPN
+9972: 42 Malagueño ADJ PROPN
+9982: 8 junto ADV ADJ
+9988: 14 noble ADJ NOUN
+9994: 20 oficial NOUN ADJ
+9997: 23 rumbo NOUN PROPN
+10010: 6 USB PROPN X
+10016: 12 ser VERB AUX
+10017: 13 formateado VERB ADJ
+10035: 31 ext2 PROPN X
+10078: 1 Hidalgo PROPN PRON
+10093: 15 HZ PROPN X
+10121: 12 esos DET NOUN
+10137: 9 split PROPN NOUN
+10174: 7 hab NOUN X
+10185: 6 conciliar VERB ADJ
+10191: 12 Antigua ADJ PROPN
+10199: 20 cristiana ADJ NOUN
+10201: 22 judía ADJ NOUN
+10221: 17 jejejeje X NOUN
+10259: 12 que PRON SCONJ
+10309: 27 que SCONJ PRON
+10396: 7 latín ADJ NOUN
+10398: 9 civis X NOUN
+10436: 14 Acto NOUN PROPN
+10438: 16 Bendición NOUN PROPN
+10461: 19 c PROPN X
+10583: 27 anisótropa ADJ NOUN
+10600: 44 vecinas ADJ NOUN
+10607: 5 que PRON SCONJ
+10653: 15 Mujeres NOUN PROPN
+10673: 8 que PRON SCONJ
+10705: 40 pasado ADJ VERB
+10734: 13 Auditorio NOUN PROPN
+10755: 14 Taller PROPN NOUN
+10788: 3 Censo PROPN NOUN
+10848: 1-2 Sálvate _ PROPN
+10849: 1 Sálva VERB PROPN
+10915: 3 llegó AUX VERB
+10941: 3 to PROPN VERB
+10942: 4 my PROPN CONJ
+10972: 34 poco DET PRON
+10973: 35 peor NOUN ADJ
+10980: 42 única ADJ NOUN
+11022: 28 paraguayo ADJ NOUN
+11025: 1 Local NOUN ADJ
+11038: 14 tarde NOUN ADV
+11060: 18 nuevas NOUN ADJ
+11070: 28 kernel PROPN NOUN
+11094: 22 quienes NOUN PRON
+11117: 7 amazilia NOUN ADJ
+11134: 1 Práctica NOUN VERB
+11184: 48 protegida ADJ VERB
+11187: 51 vegetales ADJ NOUN
+11229: 12 República NOUN PROPN
+11240: 7 Rampla PROPN DET
+11263: 2 Ogro NOUN PROPN
+11271: 10 que CONJ SCONJ
+11273: 12 esta PRON AUX
+11276: 15 pidiento VERB ADJ
+11277: 16 ayuda NOUN VERB
+11301: 5 segunda NOUN ADJ
+11329: 31 visigodas NOUN DET
+11359: 22 pues SCONJ CONJ
+11368: 2 occidente PROPN NOUN
+11382: 15 japoneses ADJ NOUN
+11392: 8 query X PROPN
+11468: 51 Consolidación PROPN NOUN
+11511: 15 quienes NOUN PRON
+11543: 46 Unión NOUN PROPN
+11591: 46 Concertación PROPN NOUN
+11602: 5 única NOUN ADJ
+11665: 14 algunas NOUN PRON
+11775: 21 asiáticos NOUN ADJ
+11816: 17 Museo PROPN NOUN
+11820: 21 Historia PROPN NOUN
+11838: 11 pero NOUN CONJ
+11871: 7 son AUX VERB
+11874: 10 recetadas VERB ADJ
+11885: 9 sulo X VERB
+11911: 2 afro X NOUN
+11921: 12 estadounidenses NOUN AUX
+11930: 4 3300 NOUN NUM
+11933: 7 2000 NOUN NUM
+11938: 12 vecinas ADJ NOUN
+11972: 19 análisis PROPN NOUN
+11976: 22 marco PROPN NOUN
+11979: 25 ensayo PROPN NOUN
+11982: 28 organización PROPN NOUN
+11985: 31 experiencia PROPN NOUN
+12012: 9 en X ADP
+12025: 21 descubrir NOUN VERB
+12045: 41 judio ADJ VERB
+12096: 7 estaba VERB AUX
+12097: 8 compuesto ADJ VERB
+12102: 13 blancos NOUN ADJ
+12173: 23 conexión PROPN ADJ
+12194: 43 Internet PROPN NOUN
+12225: 10 día PROPN NOUN
+12250: 9 Coalición PROPN NOUN
+12257: 16 Comisión PROPN NOUN
+12259: 18 Legislación PROPN NOUN
+12263: 22 Cámara PROPN NOUN
+12265: 24 Diputados PROPN NOUN
+12348: 22 General PROPN ADJ
+12418: 25 I NUM PROPN
+12432: 39 ordenado VERB NOUN
+12444: 51 Unión NOUN PROPN
+12460: 12 como SCONJ ADP
+12472: 4 peculio NOUN PROPN
+12545: 26 sería AUX VERB
+12566: 7 juntas ADJ NOUN
+12570: 11 doce NUM VERB
+12575: 2 Museo NOUN PROPN
+12578: 5 Guerra NOUN PROPN
+12585: 12 Πολεμικό X PROPN
+12586: 13 Μουσείο X PROPN
+12627: 19 ..... PUNCT PAUSE
+12694: 35 Memorias NOUN PROPN
+12726: 23 afroamericanos ADJ NOUN
+12738: 35 asiáticos ADJ NOUN
+12744: 41 isleños ADJ NOUN
+12859: 15 B X PROPN
+12865: 21 B X PROPN
+12920: 19 eslogan NOUN VERB
+12922: 21 Trabajadores NOUN PROPN
+12926: 24 Mundo NOUN PROPN
+12927: 25-26 únanse _ PRON
+12939: 4 aspidistra NOUN PRON
+12973: 11 Responsabilidad PROPN NOUN
+12974: 12 Personal PROPN ADJ
+12977: 15 Transformación PROPN NOUN
+12980: 18 Crecimiento NOUN PROPN
+12981: 19 Social ADJ PROPN
+12987: 3 es AUX VERB
+13106: 35 recubiertos VERB ADJ
+13125: 2 espinoso NOUN ADJ
+13128: 5 arbusto NOUN ADJ
+13201: 11 Casa PROPN NOUN
+13203: 13 Gobierno PROPN NOUN
+13206: 16 Presidenta NOUN PROPN
+13233: 43 Estoy AUX VERB
+13235: 45 convencida VERB ADJ
+13236: 46 que PRON SCONJ
+13296: 11 mucho ADV PRON
+13347: 9 la PRON DET
+13381: 1 Zuse PROPN PRON
+13391: 11 computing PROPN X
+13392: 12 spaces PROPN NOUN
+13432: 6 fue VERB AUX
+13442: 15 todo PRON DET
+13480: 7 las PRON NOUN
+13564: 6 Sur NOUN PROPN
+13579: 21 dudoso ADV CONJ
+13608: 7 mestiza ADJ VERB
+13653: 5 fundador ADJ NOUN
+13676: 28 e CONJ ADJ
+13731: 7 loca ADJ VERB
+13749: 25 enamoradísimo ADJ NOUN
+13757: 6 Merindades NOUN PROPN
+13778: 26 denomina ADJ NOUN
+13780: 28 Castellana ADJ PROPN
+13800: 46 Reconquista PROPN NOUN
+13813: 1 Muebles NOUN PROPN
+13846: 22 shopping PROPN X
+13857: 7 Les PRON PROPN
+13858: 8 yeux PROPN X
+13859: 9 revolver PROPN VERB
+13909: 33 ser VERB AUX
+13910: 34 electo ADJ VERB
+13990: 14 cabuérniga PROPN NOUN
+14002: 9 llevadas ADJ VERB
+14093: 9 era VERB ADJ
+14095: 11 como SCONJ ADP
+14096: 12 era VERB NOUN
+14117: 12 que PRON SCONJ
+14124: 19 junto ADV ADJ
+14128: 23 disfrazados VERB ADJ
+14145: 39 desaparecer VERB NOUN
+14151: 4 km SYM NOUN
+14176: 3 es AUX VERB
+14178: 5 conocido VERB ADJ
+14215: 26 significativos NOUN ADJ
+14217: 28 que CONJ SCONJ
+14232: 43 auténticos ADJ NOUN
+14261: 15 ser NOUN VERB
+14269: 23 excitado ADJ ADV
+14307: 27 Comité NOUN PROPN
+14308: 28 Ejecutivo ADJ PROPN
+14309: 29 Nacional ADJ PROPN
+14331: 50 populares NOUN ADJ
+14347: 8 hineana PROPN ADJ
+14420: 26 es AUX VERB
+14422: 28 colgado VERB ADJ
+14512: 8 que PRON SCONJ
+14517: 13 pende VERB ADP
+14521: 17 mientras CONJ SCONJ
+14583: 1 Unidos ADJ VERB
+14599: 17 Rock NOUN PROPN
+14601: 19 Mexicana ADJ PROPN
+14645: 11 Олег X PROPN
+14646: 12 Антонович X PROPN
+14647: 13 Гордиевский X PROPN
+14671: 36 Seguridad PROPN NOUN
+14675: 39 Estado PROPN NOUN
+14677: 41 KGB PROPN X
+14684: 48 residente ADJ NOUN
+14699: 63 terminó AUX VERB
+14766: 19 estabilizadores NOUN ADJ
+14814: 34 modus X NOUN
+14815: 35 operandi X PROPN
+14854: 4 alta ADJ NOUN
+14872: 2 catalogada VERB ADJ
+14873: 3 Zona NOUN PROPN
+14885: 14 zona NOUN VERB
+14887: 16 que PRON SCONJ
+14922: 20 km SYM NOUN
+14949: 2 imprescindible NOUN PRON
+14950: 3 es VERB AUX
+14952: 5 calzado NOUN VERB
+14977: 11 que PRON SCONJ
+15010: 43 sido VERB AUX
+15041: 17 colocado ADJ VERB
+15054: 30 que CONJ SCONJ
+15091: 11 que PRON SCONJ
+15092: 12 Patroclo PROPN PRON
+15102: 3 Enseñanza NOUN PROPN
+15106: 1 Ae DET PROPN
+15109: 4 ... PUNCT PAUSE
+15159: 41 dentro ADP ADV
+15187: 16 compartidas ADJ VERB
+15219: 13 bicis NOUN VERB
+15223: 17 ajustadas VERB ADJ
+15230: 3 enlatadas ADJ VERB
+15246: 3 está VERB NOUN
+15247: 4 Fabiano NOUN PROPN
+15283: 7 delantero ADJ NOUN
+15311: 17 siguiente NOUN ADJ
+15318: 5 Les PRON PROPN
+15327: 14 3D X PROPN
+15334: 21 suyo NOUN PRON
+15420: 12 Corral NOUN PROPN
+15452: 25 osos NOUN ADJ
+15463: 10 F X PROPN
+15473: 20 IS X PROPN
+15475: 22 F X PROPN
+15482: 29 berlina NOUN ADJ
+15524: 11 amplia ADJ NOUN
+15535: 22 equipados ADJ VERB
+15555: 2 Escuela NOUN PROPN
+15664: 42 Ciudad NOUN PROPN
+15686: 20 km SYM NOUN
+15700: 11 magníficos ADJ NOUN
+15718: 15 cálidas ADJ NOUN
+15757: 24 junto ADV ADJ
+15772: 11 mini ADJ CONJ
+15834: 11 bluetooth PROPN SYM
+15836: 13 IrDA NOUN PROPN
+15844: 1 De PROPN ADP
+15863: 20 alla ADV VERB
+15959: 25 M SYM PROPN
+15971: 2 tanto DET PRON
+15980: 11 estaba AUX VERB
+16006: 37 que CONJ SCONJ
+16034: 2 diferentes ADJ NOUN
+16036: 4 empezaron VERB AUX
+16049: 16 quisiera AUX VERB
+16153: 7 Partidas NOUN PROPN
+16170: 24 1252-1284 NUM X
+16197: 10 hispanos ADJ NOUN
+16251: 20 continua VERB AUX
+16276: 45 simpátrica PROPN ADJ
+16324: 12 Nuestra PROPN DET
+16358: 12 que CONJ SCONJ
+16367: 21 terrestre ADJ NOUN
+16371: 25 ferrocarril ADJ NOUN
+16373: 27 aéreo ADJ NOUN
+16476: 9 esta AUX DET
+16513: 5 Tráfico NOUN PROPN
+16554: 20 limítrofe ADJ NOUN
+16577: 1 Pese VERB AUX
+16610: 20 e CONJ PROPN
+16670: 1 Ingeniería VERB NOUN
+16691: 3 son VERB AUX
+16738: 3 km SYM NOUN
+16744: 9 largo ADJ NOUN
+16747: 12 km SYM NOUN
+16760: 25 m SYM NOUN
+16775: 39 m SYM NOUN
+16811: 23 oficial ADJ NOUN
+16817: 28 resultaría VERB AUX
+16818: 29 muerto ADJ NOUN
+16835: 13 jóvenes ADJ NOUN
+16836: 14 mancebos NOUN ADJ
+16989: 9 D.N.I NOUN PROPN
+16995: 15 ... PUNCT PAUSE
+17008: 12 J. X PROPN
+17009: 13 G. X PROPN
+17040: 14 como CONJ ADP
+17076: 7 los PRON DET
+17118: 1 Bárbara PROPN ADP
+17175: 18 mientras CONJ ADV
+17306: 2 Parque NOUN PROPN
+17307: 3 Nacional ADJ PROPN
+17316: 12 km SYM NOUN
+17323: 19 para ADP SCONJ
+17331: 27 camping NOUN X
+17376: 1 Mientras ADV SCONJ
+17408: 18 Armas PROPN NOUN
+17441: 7 te PRON VERB
+17442: 8 examinas VERB NOUN
+17444: 10 apruebas VERB NOUN
+17452: 17 un NUM DET
+17515: 14 skin PROPN NOUN
+17522: 21 polar ADJ VERB
+17547: 12 tan ADV VERB
+17548: 13 molesto ADJ PRON
+17556: 21 trabajo NOUN PROPN
+17557: 22 cita NOUN VERB
+17683: 23 Virgen NOUN PROPN
+17695: 33 suyo PRON NOUN
+17698: 36 Virgen NOUN PROPN
+17738: 13 computación PROPN NOUN
+17800: 3 está VERB AUX
+17805: 8 plástico ADJ NOUN
+17808: 11 mm X NOUN
+17810: 13 ancho ADJ NOUN
+17813: 16 mm X NOUN
+17818: 21 mm X NOUN
+17849: 15 inmensa ADJ VERB
+17854: 3 tanto ADV PRON
+17867: 16 msnm NOUN X
+17877: 25 templado ADJ NOUN
+17908: 1 Lamentamos VERB AUX
+17964: 22 pasas VERB NOUN
+18010: 6 después ADJ ADV
+18040: 11 bíblico ADJ NOUN
+18068: 2 que SCONJ PRON
+18116: 9 alicante PROPN NOUN
+18132: 25 esta AUX DET
+18133: 26 resuelto VERB NOUN
+18166: 14 termini NOUN CONJ
+18167: 15 romanos ADJ NOUN
+18192: 19 Bellis NOUN PROPN
+18194: 21 mientras ADV CONJ
+18310: 1 Araceli PROPN DET
+18321: 12 costera ADJ VERB
+18353: 3 sans X DET
+18354: 4 doubles X ADJ
+18355: 5 comptes X VERB
+18367: 2 ácido PROPN NOUN
+18410: 34 que CONJ SCONJ
+18414: 38 itelmenos NOUN ADV
+18481: 24 que PRON SCONJ
+18522: 9 tenga AUX VERB
+18562: 9 CV X PROPN
+18588: 22 fitness NOUN ADJ
+18614: 7 estaba VERB AUX
+18615: 8 compuesto ADJ VERB
+18626: 19 afroamericanos ADJ NOUN
+18632: 25 amerindios ADJ NOUN
+18638: 31 asiáticos ADJ NOUN
+18644: 37 isleños ADJ NOUN
+18682: 13 operados VERB ADJ
+18687: 3 después ADJ ADV
+18744: 34 veteranos ADJ NOUN
+18749: 39 Aérea ADJ PROPN
+18750: 40 Estadounidense ADJ PROPN
+18762: 7 medidas VERB NOUN
+18796: 29 Acambarense ADJ PROPN
+18810: 42 museo PROPN NOUN
+18844: 26 Seminario PROPN NOUN
+18868: 50 Postgrado NOUN PROPN
+18935: 1 Registrándose VERB AUX
+18969: 16 creado ADJ VERB
+18979: 26 que PRON SCONJ
+18996: 10 M.A.L.I.C.I.A. PROPN X
+18997: 11 Número NOUN PROPN
+19003: 17 que PRON SCONJ
+19004: 18 Número VERB NOUN
+19007: 21 regalo VERB NOUN
+19056: 10 bajamar NOUN VERB
+19096: 21 esa PRON DET
+19130: 7 que SCONJ CONJ
+19157: 13 la DET PRON
+19173: 11 pasado NOUN ADJ
+19189: 10 Kapellmeister PROPN X
+19197: 17 elector ADJ NOUN
+19230: 28 situada NOUN VERB
+19260: 2 debió AUX VERB
+19316: 17 que SCONJ CONJ
+19317: 18-19 hazte _ PRON
+19331: 1 Junto ADJ ADV
+19337: 7 procedía VERB NOUN
+19365: 16 antártica ADJ VERB
+19378: 10 hidrógeno PROPN NOUN
+19407: 8 mareantes ADJ ADV
+19452: 5 Arabis X PROPN
+19492: 5 una DET PRON
+19501: 14 mejor ADV ADJ
+19502: 15 ve VERB NOUN
+19510: 22 Corte PROPN NOUN
+19511: 23 Inglés PROPN ADJ
+19520: 2 Club PROPN NOUN
+19561: 22 legal ADJ NOUN
+19583: 43 Investigaciones NOUN PROPN
+19638: 2 ser NOUN VERB
+19652: 2 Basílica NOUN PROPN
+19708: 34 destellos NOUN PRON
+19778: 31 monte PROPN NOUN
+19801: 20 encantador ADJ NOUN
+19802: 21 enclave NOUN ADJ
+19805: 24 marinero ADJ NOUN
+19841: 25 ambas PRON DET
+19849: 32 que PRON SCONJ
+19853: 1 Ascensión PROPN NOUN
+19938: 38 adultos ADJ NOUN
+19952: 4 va AUX VERB
+19958: 10 dispara VERB ADP
+19973: 25 la PRON DET
+19974: 26 interroga VERB NOUN
+19981: 5 pegado ADJ VERB
+19997: 4 hablado VERB ADJ
+20004: 11 que CONJ SCONJ
+20148: 8 Valores NOUN PROPN
+20173: 33 para SCONJ ADP
+20221: 11 distribuida VERB ADJ
+20254: 3 estudio PROPN NOUN
+20257: 6 señor PROPN NOUN
+20260: 9 como SCONJ ADP
+20268: 17 sería AUX VERB
+20280: 28 Primeros ADJ PROPN
+20328: 36 las PRON DET
+20329: 37 encaminadas VERB NOUN
+20335: 43 ya X ADV
+20382: 8 tanto ADV PRON
+20383: 9 viticultora ADJ VERB
+20384: 10 como CONJ ADP
+20419: 8 remedio ADJ NOUN
+20420: 9 que SCONJ CONJ
+20440: 15 subsidiaria NOUN ADJ
+20452: 27 subsidiaria NOUN ADJ
+20508: 13 De ADP PROPN
+20512: 17 Centro PROPN NOUN
+20514: 19 General PROPN ADJ
+20546: 14 cierto ADJ NOUN
+20569: 11 que SCONJ PRON
+20578: 20 QUE SCONJ PROPN
+20579: 21 ATENDÍA VERB PROPN
+20580: 22 AL ADP PROPN
+20581: 23 MEDIODÍA NOUN PROPN
+20582: 24 ... PUNCT PAUSE
+20592: 9 glaciares NOUN ADJ
+20658: 19 nativa NOUN ADJ
+20692: 19 afroamericanos ADJ NOUN
+20698: 25 amerindios ADJ NOUN
+20704: 31 asiáticos ADJ NOUN
+20710: 37 isleños ADJ NOUN
+20774: 15 una PRON DET
+20788: 7 Juez NOUN PROPN
+20790: 9 Primera ADJ PROPN
+20805: 24 saltum X NOUN
+20808: 27 cautelares NOUN ADJ
+20813: 32 Suprema ADJ PROPN
+20819: 38 N NOUN PROPN
+20850: 12 Constitución PROPN NOUN
+20952: 50 v. ADP X
+20991: 36 distintas DET ADJ
+21007: 10 Órdenes NOUN PROPN
+21008: 11 Militares ADJ PROPN
+21026: 4 que PRON SCONJ
+21035: 13 que PRON SCONJ
+21044: 1 Como SCONJ ADP
+21052: 9 asociada ADJ VERB
+21064: 21 que CONJ SCONJ
+21109: 23 los PRON DET
+21145: 29 quedo VERB AUX
+21146: 30 destruida ADJ VERB
+21147: 31 totalmente. X PUNCT
+21149: 1 En X ADP
+21172: 24 fue AUX VERB
+21201: 23 vaya VERB AUX
+21202: 24 vestido ADJ VERB
+21208: 30 pantalon NOUN ADP
+21209: 31 vaquero ADJ NOUN
+21216: 5 que PRON SCONJ
+21218: 7 cónyuges NOUN VERB
+21234: 14 desdichas NOUN DET
+21239: 19 naturales NOUN ADJ
+21247: 27 presume VERB PRON
+21252: 32 arrebato VERB ADJ
+21290: 5 rojos ADJ NOUN
+21301: 16 paradas ADJ VERB
+21353: 17 futuro ADJ NOUN
+21355: 19 III NUM PROPN
+21369: 33 llegado AUX VERB
+21390: 2 dejo VERB NOUN
+21514: 5 Vaticano NOUN PROPN
+21523: 14 prohibido ADJ NOUN
+21527: 18 la PRON DET
+21550: 11 las PRON DET
+21551: 12 Volps NOUN PROPN
+21612: 31 ahumado NOUN ADJ
+21618: 37 para ADP SCONJ
+21646: 7 central ADJ NOUN
+21662: 6 Pascua NOUN PROPN
+21702: 45 esta PRON DET
+21703: 46 dura VERB NOUN
+21750: 92 acompañantes NOUN ADV
+21763: 105 para SCONJ ADP
+21772: 114 son AUX VERB
+21776: 118 que PRON SCONJ
+21777: 119 son AUX VERB
+21789: 131 los PRON DET
+21825: 31 bocado NOUN VERB
+21830: 35 merecido ADJ NOUN
+21892: 6 para SCONJ ADP
+21907: 10 espeloterapia PROPN NOUN
+21953: 12 que SCONJ CONJ
+21978: 37 que PRON SCONJ
+21992: 7 que SCONJ PRON
+22011: 26 lateral ADJ NOUN
+22032: 1 C. PROPN PUNCT
+22046: 15 Campo NOUN PROPN
+22131: 23 Comité NOUN PROPN
+22161: 13 rey PROPN NOUN
+22184: 35 rey PROPN NOUN
+22227: 9 pues CONJ SCONJ
+22241: 21 Grupo NOUN PROPN
+22438: 26 es AUX VERB
+22465: 12 firme ADJ VERB
+22473: 3 Reinos NOUN PROPN
+22485: 15 shaka PROPN NOUN
+22494: 24 la PRON DET
+22522: 5 Combate PROPN NOUN
+22528: 11 general NOUN ADJ
+22529: 12 Tomás PROPN ADV
+22578: 13 bebe NOUN VERB
+22583: 18 VER VERB PROPN
+22585: 20 TOCAR VERB PROPN
+22616: 11 olida PROPN NOUN
+22620: 15 forestberry PROPN CONJ
+22621: 16 herb PROPN X
+22629: 5 III PROPN NUM
+22674: 15 Restauración NOUN PROPN
+22717: 2 supuesto NOUN VERB
+22737: 7 unare PROPN VERB
+22745: 15 caribe PROPN VERB
+22755: 25 llamada ADJ VERB
+22793: 35 Superliga PROPN NOUN
+22855: 2 Jardín PROPN NOUN
+22940: 17 de X ADP
+22961: 38 pasado NOUN ADJ
+22969: 46 the PROPN DET
+22987: 11 descalificadora ADJ NOUN
+23013: 15 ortodoxo ADJ CONJ
+23025: 27 tuvieron AUX VERB
+23122: 21 nocturno ADJ NOUN
+23123: 22 underground PROPN AUX
+23133: 32 escasos ADJ NOUN
+23148: 5 tele NOUN PROPN
+23210: 25 particulares NOUN ADJ
+23214: 2 1999-2003 NUM X
+23280: 2 navegantes NOUN ADV
+23282: 4 los PRON DET
+23283: 5 que SCONJ PRON
+23364: 9 apresado VERB ADJ
+23366: 11 llevado VERB ADJ
+23385: 8 que CONJ SCONJ
+23397: 20 solían AUX VERB
+23404: 26 jinete NOUN VERB
+23409: 31 estar AUX VERB
+23410: 32 entrenados VERB ADJ
+23462: 34 obligado ADJ VERB
+23464: 36 a ADP CONJ
+23536: 2 barnesiana PROPN ADJ
+23571: 23 para SCONJ ADP
+23632: 26 aquellos DET PRON
+23704: 20 oa X ADP
+23737: 24 que SCONJ CONJ
+23747: 3 epica PROPN ADJ
+23781: 2 de X ADP
+23812: 3 oro PROPN NOUN
+23865: 15 Alpes NOUN PROPN
+23872: 22 Alpes NOUN PROPN
+23887: 37 sur PROPN NOUN
+23932: 1 Perteneciente VERB ADJ
+23962: 1 Esta PRON DET
+23971: 10 está VERB AUX
+23982: 3 Balstrode PROPN ADP
+24018: 14 iranio ADJ ADV
+24029: 5 Amateur PROPN ADJ
+24040: 16 deflagrantes ADJ NOUN
+24047: 23 este DET NOUN
+24048: 24 hobby NOUN CONJ
+24073: 11 nynorsk PROPN NOUN
+24088: 25 que CONJ SCONJ
+24102: 8 único NOUN ADJ
+24107: 13 Payaso NOUN PROPN
+24149: 15 Agrario ADJ PROPN
+24151: 17 Reass X PROPN
+24179: 43 Consejo NOUN PROPN
+24217: 19 $ NOUN SYM
+24226: 28 $ NOUN SYM
+24263: 33 nCube PROPN NOUN
+24294: 28 Religiosa ADJ PROPN
+24300: 34 que PRON SCONJ
+24309: 43 antes ADJ ADV
+24330: 16 Ejecutivo PROPN ADJ
+24360: 44 Parlamento PROPN NOUN
+24397: 33 un NUM DET
+24400: 36 medio NUM NOUN
+24418: 15 euskera PROPN NOUN
+24423: 20 sain X PROPN
+24474: 16 bipartido ADJ NOUN
+24475: 17 ponderado ADJ VERB
+24478: 1 Un NUM DET
+24500: 23 es AUX VERB
+24558: 15 USD X PROPN
+24593: 49 una NUM DET
+24668: 12 pareja NOUN VERB
+24673: 17 mientras ADV CONJ
+24674: 18 que CONJ SCONJ
+24761: 38 FDR X PROPN
+24769: 46 que PRON SCONJ
+24884: 17 la PRON DET
+24885: 18 trata VERB NOUN
+24919: 11 punta NOUN ADJ
+24942: 21 parecido NOUN ADJ
+25075: 40 infame ADJ NOUN
+25076: 41 Programa NOUN PROPN
+25078: 43 Eutanasia NOUN PROPN
+25149: 11 está VERB AUX
+25164: 8 fue AUX VERB
+25175: 19 Bellas NOUN PRON
+25214: 3 comienza VERB AUX
+25235: 24 cofrades NOUN ADJ
+25240: 29 que PRON SCONJ
+25253: 42 Virgen NOUN PROPN
+25256: 1 Ídolo NOUN PROPN
+25266: 11 es AUX VERB
+25280: 25 The PROPN DET
+25282: 27 of PROPN ADP
+25312: 14 MTs NOUN PROPN
+25329: 7 como CONJ SCONJ
+25332: 10 ya X ADV
+25347: 1 Es VERB AUX
+25357: 9 bajo ADJ ADP
+25458: 39 Polos NOUN DET
+25459: 40 opuestos ADJ VERB
+25519: 18 echar AUX VERB
+25539: 11 capitular VERB NOUN
+25562: 21 comunero ADJ VERB
+25581: 40 álgido ADJ VERB
+25588: 47 República NOUN PROPN
+25610: 19 álbum PROPN NOUN
+25614: 22 frontman X NOUN
+25648: 17 blancos NOUN ADJ
+25729: 33 Nazi ADJ PROPN
+25747: 7 segmentado ADJ VERB
+25780: 22 afroamericanos ADJ NOUN
+25786: 28 amerindios ADJ NOUN
+25792: 34 asiáticos ADJ NOUN
+25798: 40 isleños ADJ NOUN
+25839: 17 Academia NOUN PROPN
+25840: 18 Real ADJ PROPN
+25880: 29 pera NOUN VERB
+25884: 1 Fidel PROPN ADP
+25895: 1 Activo ADJ VERB
+25909: 15 Módena NOUN PROPN
+25921: 27 destruidos ADJ VERB
+25930: 7 CDs X PROPN
+26021: 38 siguiente NOUN ADJ
+26057: 13 Monte NOUN PROPN
+26104: 3 séptima ADJ NOUN
+26137: 18 Interior ADJ PROPN
+26138: 19 Bruto ADJ PROPN
+26174: 12 piadina PROPN NOUN
+26175: 13 forlivese PROPN NOUN
+26179: 17 ravennate PROPN PRON
+26195: 32 mientras CONJ SCONJ
+26203: 40 piada NOUN ADJ
+26219: 6 agrícolas ADJ DET
+26227: 14 Voltios NOUN PROPN
+26287: 18 tuviese VERB DET
+26289: 20 alguna DET PRON
+26307: 12 benigno ADJ ADV
+26313: 1 Volvería VERB AUX
+26355: 16 que PRON SCONJ
+26357: 18 cantabas VERB NOUN
+26373: 34 Soy PROPN VERB
+26375: 36 pobre ADJ NOUN
+26379: 40 alerta ADJ NOUN
+26419: 24 revelo VERB PRON
+26435: 6 simple ADJ NOUN
+26451: 22 poco ADV PRON
+26490: 2 que CONJ SCONJ
+26572: 11 bebidas NOUN ADJ
+26580: 19 vive VERB ADV
+26614: 16 radar ADJ VERB
+26687: 17 Me PRON PROPN
+26688: 18 to X PROPN
+26728: 11 XIX NUM PROPN
+26744: 27 que PRON SCONJ
+26780: 10 están VERB AUX
+26807: 18 alcohol NOUN PROPN
+26809: 20 etanol NOUN PROPN
+26834: 15 General PROPN ADJ
+26845: 26 dio VERB NOUN
+26850: 31 los PRON DET
+26851: 32 fabrique VERB NOUN
+26871: 18 tabarro PROPN NOUN
+26925: 25 frenéticas ADJ NOUN
+26926: 26 pistas NOUN ADJ
+26984: 15 maíz PROPN NOUN
+27001: 15 Meca NOUN PROPN
+27091: 8 algunos PRON DET
+27111: 8 hab NOUN X
+27120: 3 Católico NOUN PROPN
+27154: 19 Independent X PROPN
+27155: 20 Television X PROPN
+27156: 21 Authority X PROPN
+27158: 23 Autoridad NOUN PROPN
+27161: 26 Independiente ADJ PROPN
+27207: 12 Junta NOUN PROPN
+27209: 14 Portavoces NOUN PROPN
+27216: 20 República NOUN PROPN
+27221: 25 Mesa NOUN PROPN
+27222: 26 Pluripartidaria ADJ PROPN
+27249: 53 Minas NOUN PROPN
+27265: 14 que CONJ SCONJ
+27269: 18 tele NOUN PRON
+27288: 15 alrededor NOUN ADV
+27292: 18 Reducto PROPN NOUN
+27407: 4 flores PROPN NOUN
+27411: 7 bien PROPN NOUN
+27429: 2 Mientras ADV PROPN
+27432: 5 Hidrieo NOUN PROPN
+27451: 23 ateniense NOUN ADJ
+27457: 29 Evágoras NOUN PROPN
+27481: 21 Sucia PROPN ADJ
+27485: 25 que PRON SCONJ
+27532: 7 equilibrio NOUN ADJ
+27557: 15 Emperador PROPN NOUN
+27559: 17 mientras CONJ SCONJ
+27574: 32 desafío NOUN ADJ
+27614: 4 Equipo PROPN NOUN
+27627: 16 tanto ADV PRON
+27630: 19 como ADV ADP
+27633: 22 para SCONJ ADP
+27647: 5 para SCONJ ADP
+27697: 12 miembros NOUN ADJ
+27701: 16 oneworld PROPN ADJ
+27721: 1 Tomás PROPN ADV
+27749: 29 izquierda NOUN ADJ
+27778: 8 joven ADJ NOUN
+27796: 9 mucho PRON ADV
+27846: 12 Bien NOUN PROPN
+27847: 13 Cultural ADJ PROPN
+27878: 10 Top PROPN X
+27894: 26 Top PROPN X
+27928: 9 que SCONJ CONJ
+27934: 15 regía VERB ADP
+27948: 4 # SYM HASH
+27951: 7 VH1 X PROPN
+27953: 9 Top X PROPN
+27956: 12 Songs X PROPN
+27966: 8 como SCONJ ADP
+27970: 12 pues CONJ SCONJ
+27973: 15 mejor ADV ADJ
+27997: 19 que PRON SCONJ
+27998: 20 están AUX VERB
+28011: 10 prendas NOUN VERB
+28068: 23 The DET PROPN
+28072: 27 The PROPN DET
+28104: 1 Cápsulas NOUN DET
+28106: 3 mm X NOUN
+28111: 8 mm X NOUN
+28113: 10 ancho ADJ NOUN
+28115: 12 hispídulas PROPN NOUN
+28117: 14 estipitado PROPN VERB
+28124: 1 Está VERB AUX
+28127: 4 48km NOUN X
+28158: 13 tanto ADV PRON
+28159: 14 que CONJ SCONJ
+28160: 15 UL X PROPN
+28170: 3 que PRON SCONJ
+28174: 7 es VERB NOUN
+28198: 31 temblor NOUN CONJ
+28200: 33 frías ADJ NOUN
+28246: 30 Avenida NOUN PROPN
+28258: 5 está VERB AUX
+28261: 8 clásico ADJ NOUN
+28272: 9 catecúmenos NOUN ADV
+28299: 6 teclados NOUN VERB
+28348: 12 Congreso PROPN NOUN
+28351: 15 Diputados PROPN NOUN
+28355: 19 Legislatura NOUN PROPN
+28383: 45 Convergencia PROPN NOUN
+28397: 10 áspera ADJ VERB
+28411: 23 longitudinales NOUN ADJ
+28423: 35 largas ADJ NOUN
+28424: 36 cintas NOUN ADJ
+28433: 45 para SCONJ ADP
+28443: 55 crema ADJ NOUN
+28445: 57 blancuzca ADJ NOUN
+28558: 30 que PRON SCONJ
+28564: 35 qué PRON VERB
+28573: 5 o CONJ PROPN
+28575: 7 clase NOUN PROPN
+28592: 1 Poco ADV PRON
+28602: 3 backbone PROPN X
+28611: 12 Internet PROPN NOUN
+28673: 22 and X PROPN
+28708: 30 Ing. X PROPN
+28731: 6 limón NOUN PROPN
+28737: 12 que PRON SCONJ
+28743: 18 apfelstrudel NOUN _
+28778: 9 parecida ADJ VERB
+28795: 26 re X PART
+28818: 9 diésel NOUN DET
+28845: 10 Asociación NOUN PROPN
+28858: 23 Club PROPN NOUN
+28863: 1 Amalivaca PROPN VERB
+28864: 2 fuel VERB DET
+28877: 15 caribe NOUN VERB
+28882: 20 .. PUNCT PAUSE
+28934: 20 Museo PROPN NOUN
+28944: 30 procedente VERB ADJ
+28952: 38 Brueghel PROPN DET
+29010: 16 3-1 X PROPN
+29035: 1 Sello NOUN PRON
+29042: 8 general PROPN ADJ
+29081: 30 Tm X PROPN
+29082: 31 / SYM PUNCT
+29083: 32 día NOUN AUX
+29096: 44 Tm X SYM
+29097: 45 / SYM PUNCT
+29120: 20 FAT32 PROPN X
+29139: 1 Despedazado PROPN VERB
+29142: 4 partes PROPN NOUN
+29150: 12 Banda NOUN PROPN
+29187: 14 vino AUX VERB
+29194: 21 que PRON SCONJ
+29202: 2 zicsii PROPN NUM
+29226: 8 Año NOUN PROPN
+29246: 27 si ADV SCONJ
+29252: 33 que PRON SCONJ
+29275: 55 para SCONJ ADP
+29287: 7 ubicado ADJ VERB
+29305: 13 volvió VERB AUX
+29318: 26 conocidos ADJ VERB
+29338: 7 Seguridad PROPN NOUN
+29353: 22 aunque CONJ SCONJ
+29385: 20 dedicados VERB NOUN
+29394: 2 última NOUN ADJ
+29456: 20 look X NOUN
+29458: 22 la PRON DET
+29477: 8 una NUM DET
+29510: 29 remotas ADJ NOUN
+29533: 5 fue VERB AUX
+29534: 6 cerrado ADJ VERB
+29593: 29 éste DET ADJ
+29612: 6 nobles ADJ NOUN
+29613: 7 catalanes NOUN ADJ
+29624: 17 como ADP CONJ
+29667: 11 estado AUX NOUN
+29672: 16 falsos ADJ NOUN
+29673: 17 dogmas NOUN ADV
+29686: 6 parte NOUN VERB
+29722: 7 Bailar VERB PROPN
+29827: 6 drake NOUN X
+29829: 8 podria AUX VERB
+29849: 3 Deportivo ADJ PROPN
+29988: 4 provocados VERB ADJ
+29992: 8 ficticia ADJ VERB
+30013: 7 Juegos NOUN PROPN
+30030: 23 Campeonato NOUN PROPN
+30031: 24 Mundial ADJ PROPN
+30043: 6 plátano PROPN NOUN
+30151: 22 mascada NOUN DET
+30152: 23 roja ADJ NOUN
+30191: 1 Fajín VERB PROPN
+30192: 2 rojo NOUN ADJ
+30220: 2 supuesta ADJ NOUN
+30306: 5 Medalla NOUN PROPN
+30308: 7 Oro NOUN PROPN
+30313: 12 Internacional ADJ PROPN
+30319: 18 Academia NOUN PROPN
+30320: 19 Rusa ADJ PROPN
+30322: 21 Ciencias NOUN PROPN
+30323: 22 Naturales ADJ PROPN
+30336: 8 Gracias PROPN NOUN
+30359: 9 tal ADV ADJ
+30361: 11 como ADV SCONJ
+30422: 8 antigua NOUN ADJ
+30433: 19 A2 X PROPN
+30454: 2 mismo NOUN ADJ
+30498: 15 ferrocarril NOUN ADJ
+30502: 19 Autoridad PROPN NOUN
+30503: 20 Metropolitana PROPN ADJ
+30507: 23 Transporte PROPN NOUN
+30521: 6 ganadora NOUN ADJ
+30533: 1 Como SCONJ ADP
+30603: 9 dicho DET VERB
+30641: 16 mas ADV NOUN
+30677: 19 afin ADJ NOUN
+30722: 3 que SCONJ CONJ
+30727: 8 verosímil ADJ NUM
+30737: 8 dirigido VERB NOUN
+30761: 6 mediados ADJ NOUN
+30774: 19 Brigadas NOUN PROPN
+30841: 20 ² X SYM
+30905: 42 único NOUN ADJ
+30906: 43 que PRON SCONJ
+30912: 49 rompe VERB CONJ
+30926: 2 Gamba NOUN PROPN
+30927: 3 Roja ADJ PROPN
+30934: 9 Gamba NOUN PROPN
+30935: 10 Blanca ADJ PROPN
+30947: 22 manjares NOUN ADJ
+30989: 24 estepa NOUN VERB
+31025: 31 que SCONJ PRON
+31036: 42 ya X ADV
+31048: 2 potentes ADJ NOUN
+31052: 6 supraluz NOUN ADJ
+31059: 13 entorpecen VERB ADP
+31065: 19 localizadores NOUN ADJ
+31072: 4 único NOUN ADJ
+31082: 14 Dos ADP NUM
+31123: 1 Kovon PROPN ADP
+31138: 16 N X PROPN
+31144: 22 vinculado ADJ VERB
+31167: 44 negro ADJ NOUN
+31186: 17 está AUX VERB
+31187: 18 dirigida VERB ADJ
+31205: 6 solo ADJ ADV
+31207: 8 como CONJ ADP
+31247: 3 censo PROPN NOUN
+31305: 1 Tanto CONJ PRON
+31309: 5 como CONJ ADP
+31326: 22 eficientes NOUN ADJ
+31347: 43 I NUM PROPN
+31471: 8 como SCONJ CONJ
+31474: 11 Ms X PROPN
+31520: 12 conocida ADJ VERB
+31532: 2 que CONJ SCONJ
+31546: 1 Literarios NOUN PRON
+31583: 10 $ NOUN SYM
+31643: 29 especificado NOUN VERB
+31659: 45 habla NOUN DET
+31662: 48 seguro NOUN ADJ
+31674: 1 Sapo NOUN PROPN
+31676: 3 rana NOUN ADJ
+31687: 5 Comisión NOUN PROPN
+31739: 6 programados VERB ADJ
+31779: 46 Gun PROPN DET
+31780: 47 n X PROPN
+31799: 15 estricto NOUN ADJ
+31811: 27 demás NOUN ADJ
+31815: 31 absteniéndose VERB AUX
+31830: 9 Cercocarpus ADJ PROPN
+31835: 14 Rosaceae ADV PROPN
+31874: 3 o CONJ ADJ
+31878: 7 Sala NOUN PROPN
+31949: 5 tal ADV ADJ
+31950: 6 como CONJ ADP
+31951: 7 están VERB AUX
+32040: 18 enamora VERB ADJ
+32069: 13 premontano ADJ NOUN
+32074: 1 Lepanthes PROPN VERB
+32075: 2 helicocephala PROPN ADJ
+32083: 10 originaria NOUN ADJ
+32101: 12 of ADP X
+32118: 28 mejor ADJ NOUN
+32120: 30 manager NOUN VERB
+32143: 17 Industriales NOUN PROPN
+32148: 22 índice NOUN VERB
+32188: 8 $ SYM NOUN
+32193: 13 $ SYM NOUN
+32208: 9 / SYM PUNCT
+32209: 10 km SYM NOUN
+32218: 6 puesta VERB NOUN
+32247: 3 croata NOUN VERB
+32311: 33 sur ADP PROPN
+32356: 11 fue VERB AUX
+32387: 42 Our DET PROPN
+32423: 21 Río NOUN PROPN
+32441: 1 Le PRON PROPN
+32473: 33 Le PRON PROPN
+32484: 8 años PROPN NOUN
+32555: 5 Oficina NOUN PROPN
+32556: 6 Económica ADJ PROPN
+32611: 5 como CONJ ADP
+32632: 25 está AUX VERB
+32634: 27 avanzado VERB ADJ
+32645: 38 cambia VERB ADJ
+32666: 8 que SCONJ PRON
+32671: 13 nos PRON ADJ
+32678: 20 fuera VERB ADV
+32696: 9 para SCONJ ADP
+32718: 12 que PRON SCONJ
+32728: 22 seleccionar VERB PROPN
+32746: 11 reconocido ADJ VERB
+32776: 16 D X PROPN
+32808: 48 intactos ADJ NOUN
+32856: 20 las PRON NOUN
+32866: 1 23-02-2010 X NUM
+32910: 45 que PRON SCONJ
+32932: 16 que PRON SCONJ
+32936: 20 malos ADJ DET
+32941: 25 desmayo NOUN PROPN
+32987: 2 demás ADJ ADV
+33003: 18 que CONJ SCONJ
+33067: 22 los PRON DET
+33078: 3 ligada ADJ VERB
+33159: 5 embalada ADJ NOUN
+33184: 13 invitado VERB NOUN
+33219: 19 sedimentada VERB ADJ
+33257: 3 melena NOUN ADJ
+33271: 16 nada PRON VERB
+33289: 8 elliptica PROPN ADJ
+33292: 11 gunnii PROPN NUM
+33298: 17 micranthera PROPN VERB
+33316: 35 cinnamomi PROPN PRON
+33326: 45 sospechoso ADJ NOUN
+33385: 23 I NUM PROPN
+33398: 9 fairy PROPN CONJ
+33400: 11 wrens X PROPN
+33403: 14 hada NOUN ADJ
+33412: 23 chochín PROPN NOUN
+33442: 4 expositor NOUN ADJ
+33443: 5 participante ADJ NOUN
+33496: 6 conocido ADJ VERB
+33532: 42 para SCONJ ADP
+33537: 47 Virgen NOUN PROPN
+33567: 6 Segunda ADJ PROPN
+33600: 13 otra PRON DET
+33637: 31 marcha NOUN VERB
+33664: 16 picado NOUN VERB
+33665: 17 alemanes ADJ NOUN
+33735: 4 comercializada ADJ VERB
+33814: 47 Fomento NOUN PROPN
+33868: 30 futuras ADJ NOUN
+33935: 17 libro NOUN VERB
+33953: 2 Secretaría NOUN PROPN
+33955: 4 Interior NOUN PROPN
+33970: 18 Departamento PROPN NOUN
+34004: 51 Red NOUN PROPN
+34006: 53 Gestores NOUN PROPN
+34034: 3 cuñada NOUN ADJ
+34118: 2 Tour NOUN PROPN
+34151: 20 turco NOUN ADJ
+34182: 13 Judo NOUN PROPN
+34314: 16 Centro NOUN PROPN
+34316: 18 Investigaciones NOUN PROPN
+34317: 19 Históricas ADJ PROPN
+34332: 10 junto ADV ADJ
+34333: 11 conla X DET
+34416: 13 peleas NOUN VERB
+34490: 10 especial NOUN ADJ
+34514: 33 que SCONJ PRON
+34552: 17 ni SCONJ CONJ
+34553: 18 que CONJ SCONJ
+34564: 5 m³ NOUN X
+34575: 16 m³ NOUN X
+34578: 19 Hm NOUN PROPN
+34579: 20 ³ X PUNCT
+34584: 25 un NUM DET
+34585: 26 Hm NOUN PROPN
+34586: 27 ³ X PUNCT
+34592: 33 m³ NOUN X
+34599: 39 para SCONJ ADP
+34632: 16 e CONJ PRON
+34688: 6 hay AUX VERB
+34704: 22 la PRON DET
+34820: 7 Major X PROPN
+34840: 26 C X PROPN
+34864: 3 móviltoday PROPN CONJ
+34965: 34 todo PRON DET
+34970: 2 figura NOUN VERB
+35012: 3 Campeonato NOUN PROPN
+35013: 4 Mundial ADJ PROPN
+35015: 6 Patinaje NOUN PROPN
+35016: 7 Artístico ADJ PROPN
+35058: 49 Unión NOUN PROPN
+35059: 50 Internacional ADJ PROPN
+35061: 52 Patinaje NOUN PROPN
+35063: 54 Hielo NOUN PROPN
+35069: 60 Federación NOUN PROPN
+35070: 61 Alemana ADJ PROPN
+35072: 63 Patinaje NOUN PROPN
+35074: 65 Hielo NOUN PROPN
+35077: 68 Federación NOUN PROPN
+35080: 71 Patinaje NOUN PROPN
+35082: 73 Hielo NOUN PROPN
+35087: 3 una NUM PRON
+35107: 22 Josu PROPN DET
+35131: 45 Política NOUN PROPN
+35142: 55 Grupo NOUN PROPN
+35143: 56 Socialista ADJ PROPN
+35175: 1 Si CONJ SCONJ
+35256: 9 ruso PART ADJ
+35260: 13 1787-1792 X NUM
+35273: 26 Cáucaso PROPN NOUN
+35287: 3 conoces VERB NOUN
+35298: 9 perdieranel X DET
+35300: 11 Femenino PROPN ADJ
+35330: 21 canto NOUN ADV
+35392: 14 Roll X PROPN
+35394: 16 of ADP PROPN
+35411: 12 emblemática ADJ NOUN
+35425: 26 belugas PROPN NOUN
+35435: 1 Según SCONJ ADP
+35439: 5 Portuaria ADJ PROPN
+35443: 9 APT X PROPN
+35450: 15 Museo NOUN PROPN
+35465: 30 que SCONJ NOUN
+35468: 33 botero ADJ NOUN
+35480: 45 APT X PROPN
+35505: 23 que SCONJ CONJ
+35563: 12 krai NOUN PROPN
+35626: 6 trato VERB CONJ
+35631: 11 Samoanos NOUN PROPN
+35700: 28 derecho ADJ NOUN
+35734: 1 Goodwill PROPN DET
+35748: 15 útiles ADJ NOUN
+35752: 19 atractivos ADJ NOUN
+35757: 24 importante ADJ NOUN
+35768: 35 como CONJ ADP
+35780: 6 bárbara ADJ NOUN
+35813: 7 acude VERB ADP
+35849: 14 tres NOUN NUM
+35939: 5 cladograma PROPN NOUN
+35954: 20 celofísidos PROPN NOUN
+35955: 21 mucho ADJ PRON
+35974: 15 jefes NOUN VERB
+36075: 8 carintio ADJ NOUN
+36086: 19 livres PROPN NOUN
+36124: 32 para ADP SCONJ
+36243: 48 destruidas VERB NOUN
+36272: 3 encuentros AUX NOUN
+36317: 12 acudía VERB AUX
+36327: 3 estuvo VERB AUX
+36328: 4 marcado NOUN VERB
+36340: 16 Duquesa NOUN PROPN
+36349: 25 gambas NOUN DET
+36350: 26 blancas ADJ NOUN
+36354: 30 langosta NOUN VERB
+36359: 35 tournedó NOUN VERB
+36366: 42 ave NOUN VERB
+36394: 69 todo PRON DET
+36402: 77 blancos ADJ NOUN
+36420: 1 Reagan PROPN VERB
+36450: 18 infielder PROPN NOUN
+36522: 7 hendidas ADJ VERB
+36568: 37 turcos ADJ NOUN
+36589: 16 Interés NOUN PROPN
+36590: 17 Turístico ADJ PROPN
+36591: 18 Nacional ADJ PROPN
+36598: 5 estaba VERB AUX
+36605: 11 AGM NOUN PROPN
+36634: 2 gesto NOUN PRON
+36670: 18 que PRON SCONJ
+36696: 19 s.XX X NOUN
+36776: 6 son VERB AUX
+36786: 16 enfocados VERB ADJ
+36862: 54 temáticas ADJ NOUN
+36880: 10 vencidos VERB ADJ
+36883: 13 los PRON DET
+36900: 5 implicado ADJ VERB
+36906: 11 que CONJ SCONJ
+37065: 6 ranking X NOUN
+37073: 14 dependiente NOUN ADJ
+37080: 1 Empieza VERB AUX
+37088: 9 diagonal ADJ _
+37093: 14 izquierda ADJ NOUN
+37105: 26 ろ X PUNCT
+37114: 3 O DET PROPN
+37115: 4 Estado PROPN NOUN
+37121: 10 da PROPN VERB
+37132: 21 revistas PROPN NOUN
+37140: 29 A DET PROPN
+37220: 2 bajo ADJ ADP
+37223: 5 cuando ADV SCONJ
+37242: 24 que PRON SCONJ
+37326: 32 inclina AUX ADJ
+37348: 52 segundo NOUN ADJ
+37399: 17 perdidos VERB ADJ
+37402: 20 mar PROPN NOUN
+37437: 32 como ADP SCONJ
+37445: 40 como ADP SCONJ
+37478: 73 cierto ADJ NOUN
+37503: 7 seria ADJ NOUN
+37508: 12 que SCONJ PRON
+37519: 22 necesario NOUN ADJ
+37538: 11 sistematizar NOUN VERB
+37613: 11 Catedral PROPN NOUN
+37618: 16 fue AUX VERB
+37638: 14 country NOUN PROPN
+37661: 5 esta VERB DET
+37732: 16 II NUM PROPN
+37777: 5 gira VERB NOUN
+37867: 10 Sudeste NOUN PROPN
+37868: 11 Asiático ADJ PROPN
+37871: 1 Bethel PROPN DET
+37900: 11 d' X ADP
+37904: 15 Escuela NOUN PROPN
+37905: 16 Nacional ADJ PROPN
+37920: 31 junto ADJ ADV
+38025: 21 Estación PROPN NOUN
+38041: 37 Intermodal ADJ PROPN
+38043: 39 Ferrocarriles NOUN PROPN
+38061: 11 que SCONJ CONJ
+38074: 9 mienstras SCONJ NOUN
+38088: 22 Operación PROPN NOUN
+38096: 30 proveniente VERB ADJ
+38110: 10 kernel X DET
+38111: 11 volvía VERB NOUN
+38142: 5 esperado NOUN VERB
+38149: 12 que CONJ SCONJ
+38150: 13 solíamos AUX VERB
+38158: 21 I X PROPN
+38184: 3 séptima ADJ NOUN
+38198: 6 tal PRON ADJ
+38247: 21 Pasaje NOUN PROPN
+38251: 25 Calle NOUN PROPN
+38265: 2 Orden NOUN PROPN
+38289: 4 Derfel PROPN DET
+38311: 26 vivo ADJ VERB
+38320: 35 para SCONJ ADP
+38344: 18 original NOUN ADJ
+38360: 34 tratados VERB ADJ
+38370: 8 querido ADJ NOUN
+38510: 33 juntos ADJ NOUN
+38560: 20 km SYM NOUN
+38567: 27 km SYM NOUN
+38579: 39 km SYM NOUN
+38594: 10 disecados VERB ADJ
+38621: 20 $ NOUN SYM
+38631: 30 $ NOUN SYM
+38644: 10 d' X ADP
+38663: 3 H SYM PROPN
+38667: 6 Subte NOUN PROPN
+38703: 1 Tony PROPN CONJ
+38714: 12 Del ADP _
+38722: 19 éstos NOUN PRON
+38772: 12 largo ADJ NOUN
+38799: 7 varían VERB AUX
+38820: 10 veterinaria ADJ NOUN
+38826: 16 que CONJ SCONJ
+38834: 24 veterinarios NOUN ADJ
+38855: 2 obstante ADJ PRON
+38988: 1 Para SCONJ ADP
+39003: 16 la PRON DET
+39018: 2 Hotel NOUN PROPN
+39019: 3 está VERB AUX
+39020: 4 situado ADJ VERB
+39135: 7 Jurisprudencia PROPN NOUN
+39144: 16 Fundamento NOUN PROPN
+39179: 19 km SYM NOUN
+39184: 2 citado ADJ NOUN
+39185: 3 castillejo NOUN ADJ
+39192: 10 yeso NOUN PRON
+39214: 32 otro DET PRON
+39351: 30 llegó AUX VERB
+39362: 1 Ficha NOUN VERB
+39458: 26 Industria PROPN NOUN
+39470: 7 República NOUN PROPN
+39501: 9 Asociación NOUN PROPN
+39502: 10 Popular ADJ PROPN
+39511: 19 Social ADJ PROPN
+39513: 21 Deportivo ADJ PROPN
+39520: 3 capital NOUN ADJ
+39622: 41 Instituto NOUN PROPN
+39635: 11 publicas ADJ NOUN
+39637: 13 extranjeras ADJ NOUN
+39657: 33 todo DET PRON
+39664: 40 agricolas ADJ NOUN
+39693: 16 Lígdamo NOUN PROPN
+39720: 13 la PRON DET
+39726: 19 tanto ADV PRON
+39734: 27 como CONJ ADP
+39752: 10 C NOUN X
+39759: 17 C NOUN X
+39764: 1 Lily PROPN CONJ
+39799: 8 hab NOUN X
+39802: 11 km SYM NOUN
+39816: 11 para SCONJ ADP
+39882: 14 mucho DET PRON
+39891: 23 derecho ADJ NOUN
+39927: 28 llegamos AUX VERB
+40015: 6 para SCONJ ADP
+40025: 16 ... PUNCT PAUSE
+40064: 14 Calle NOUN PROPN
+40068: 18 # SYM HASH
+40127: 4 escribío VERB CONJ
+40129: 6 encontrado NOUN VERB
+40152: 4 que PRON SCONJ
+40161: 13 túnica NOUN ADJ
+40176: 28 la PRON DET
+40177: 29 patea VERB NOUN
+40186: 38 escucha VERB NOUN
+40191: 43 profecía NOUN VERB
+40229: 9 para ADP SCONJ
+40236: 16 justo ADJ ADV
+40248: 28 que CONJ SCONJ
+40249: 29 puedan AUX VERB
+40282: 13 Scott PROPN X
+40320: 23 demasiado DET PRON
+40321: 24 pudor NOUN ADJ
+40358: 5 licenciado VERB NOUN
+40387: 5 como ADP SCONJ
+40409: 26 deseosas ADJ NOUN
+40445: 19 km SYM NOUN
+40446: 20 ² X SYM
+40465: 16 compartidas ADJ VERB
+40601: 3 norte NOUN PROPN
+40615: 17 sur NOUN VERB
+40645: 19 la PRON DET
+40681: 11 que PRON SCONJ
+40705: 3 censo PROPN NOUN
+40725: 6 ser VERB AUX
+40726: 7 diputado NOUN VERB
+40777: 16 arranque NOUN SCONJ
+40783: 22 pudieran AUX VERB
+40794: 33 conocido NOUN VERB
+40801: 4 fantasma NOUN ADJ
+40804: 1 Militares NOUN PROPN
+40847: 2 obstante ADV ADJ
+40889: 18 tenía VERB AUX
+40934: 19 automatizado ADJ VERB
+40955: 39 Fomento NOUN PROPN
+40969: 9 1-1 X NUM
+40978: 3 le DET PRON
+40991: 16 dispouso VERB AUX
+41046: 22 la DET PRON
+41047: 23 sarten NOUN VERB
+41061: 37 los PRON DET
+41064: 40 la DET PRON
+41065: 41 sarten NOUN VERB
+41092: 8 hab NOUN X
+41172: 36 ex NOUN X
+41225: 1 Homme PROPN PRON
+41265: 41 albumDust X NOUN
+41283: 9 Tekken.Basándo VERB PROPN
+41326: 28 los PRON DET
+41334: 36 mágicos ADJ NOUN
+41363: 19 porque CONJ SCONJ
+41367: 2 joven ADJ NOUN
+41374: 9 rally NOUN CONJ
+41396: 30 llegó AUX VERB
+41402: 36 sexto ADJ NOUN
+41415: 48 mañana ADV NOUN
+41420: 53 para SCONJ ADP
+41438: 6 respuestas NOUN DET
+41439: 7 concretas ADJ NOUN
+41478: 23 Plan NOUN PROPN
+41480: 25 Garantías NOUN PROPN
+41502: 46 Bienestar NOUN PROPN
+41513: 57 Junta NOUN PROPN
+41601: 1 Proyecto NOUN PROPN
+41603: 3 10-30 NUM PROPN
+41630: 27 Corredor PROPN NOUN
+41643: 40 fiscalizados ADJ VERB
+41710: 56 referido VERB ADJ
+41721: 9 prensada ADJ VERB
+41756: 10 hispanos ADJ NOUN
+41784: 8 Plaza NOUN PROPN
+41790: 14 Plaza NOUN PROPN
+41794: 18 Barrio NOUN PROPN
+41869: 32 sur NOUN PROPN
+41875: 38 Le PRON PROPN
+41887: 9 san PROPN VERB
+42035: 11 hecha VERB NOUN
+42037: 13 almacenada VERB PRON
+42202: 5 que PRON SCONJ
+42292: 13 multiprotocolo PROPN PRON
+42337: 14 Centro NOUN PROPN
+42356: 3 au PROPN _
+42357: 4 pair PROPN VERB
+42438: 6 que CONJ SCONJ
+42452: 20 madrid PROPN NOUN
+42475: 17 como CONJ ADP
+42524: 8 está VERB AUX
+42525: 9 imputado ADJ VERB
+42547: 7 jóvenes ADJ NOUN
+42548: 8 voluntarios NOUN ADJ
+42560: 19 Fiestas NOUN PROPN
+42609: 1 Tal ADV PROPN
+42625: 2 Juzgado NOUN PROPN
+42627: 4 Instrucción NOUN PROPN
+42637: 14 abierto VERB ADJ
+42739: 85 para SCONJ ADP
+42766: 109 unas ADJ DET
+42811: 3 cuidado NOUN VERB
+42868: 17 Encomienda NOUN PROPN
+42963: 15 and CONJ PROPN
+42965: 17 of ADP PROPN
+42975: 27 jardín VERB NOUN
+43006: 15 Sông X PROPN
+43007: 16 Hương X PROPN
+43009: 18 río VERB NOUN
+43038: 6 que PRON SCONJ
+43075: 1 Mapa NOUN PROPN
+43173: 1 Tabla NOUN DET
+43174: 2 General ADJ NOUN
+43224: 4 variable NOUN ADJ
+43225: 5 continua ADJ VERB
+43254: 20 leves ADJ VERB
+43285: 20 para SCONJ ADP
+43300: 5 encarnizado ADJ VERB
+43337: 42 l' DET X
+43338: 43 impudeur PROPN X
+43353: 4 que CONJ SCONJ
+43380: 15 727-200 PROPN X
+43392: 10 que CONJ SCONJ
+43407: 25 carga NOUN ADJ
+43461: 12 parecido VERB ADJ
+43494: 45 cambias VERB NOUN
+43518: 13 Evolución NOUN PROPN

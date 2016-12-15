@@ -1,1098 +1,1065 @@
-NOUN:PROPN	179
-PROPN:NOUN	121
-VERB:NOUN	96
-ADJ:NOUN	79
-NOUN:ADJ	45
-NOUN:VERB	37
-VERB:ADJ	26
-ADJ:VERB	26
-ADV:NOUN	24
-ADP:NOUN	20
-ADV:VERB	17
-ADV:ADJ	16
-NUM:PROPN	16
-NOUN:ADV	15
-ADJ:ADV	15
-VERB:ADV	13
-CONJ:SCONJ	13
-VERB:ADP	12
-SCONJ:ADP	11
-ADP:VERB	11
-NOUN:DET	11
-ADV:SCONJ	10
-PROPN:NUM	10
-ADV:ADP	9
-SCONJ:ADV	9
-NOUN:ADP	9
-PRON:NOUN	8
-NUM:NOUN	8
-SCONJ:NOUN	8
-CONJ:ADV	8
-NOUN:PRON	7
-PART:NOUN	7
-PROPN:VERB	7
-DET:ADV	7
-ADP:ADV	7
-PROPN:ADJ	7
-NUM:ADJ	6
-VERB:PROPN	6
-ADP:ADJ	5
-ADJ:PROPN	4
-NUM:DET	4
-DET:NOUN	4
-SYM:HASH	4
-NOUN:CONJ	4
-ADJ:ADP	4
-SCONJ:CONJ	4
-PRON:ADV	4
-PROPN:PUNCT	4
-ADP:SCONJ	4
-DET:NUM	3
-PRON:PROPN	3
-ADP:NUM	3
-CONJ:ADP	3
-DET:PROPN	3
-DET:VERB	3
-PART:VERB	3
-PROPN:ADP	3
-ADV:PART	3
-PART:ADP	2
-PART:ADV	2
-ADJ:NUM	2
-ADP:CONJ	2
-SYM:NOUN	2
-PROPN:SCONJ	2
-ADJ:SCONJ	2
-ADJ:DET	2
-ADV:PROPN	2
-PROPN:ADV	2
-PROPN:PRON	2
-NOUN:SCONJ	2
-PRON:DET	2
-ADP:DET	2
-PART:PROPN	2
-X:NOUN	1
-SCONJ:ADJ	1
-CONJ:ADJ	1
-PUNCT:ADV	1
-CONJ:PRON	1
-ADV:DET	1
-PROPN:CONJ	1
-ADV:CONJ	1
-VERB:DET	1
-SCONJ:VERB	1
-PROPN:DET	1
-PRON:ADJ	1
-VERB:PRON	1
-ADP:PROPN	1
-ADV:NUM	1
-PRON:ADP	1
-SCONJ:PROPN	1
-DET:SCONJ	1
-CONJ:VERB	1
-CONJ:NOUN	1
-X:PROPN	1
-inisi PROPN NOUN
-1 Atum PROPN NOUN
-4 mesir PROPN VERB
-2 mempercepat VERB ADJ
-27 baik ADV ADJ
-28 dis ADP NOUN
-29 emua ADP DET
-33 dibidang ADP NOUN
-2 Harus VERB PROPN
-4 mendadak VERB ADJ
-6 kunyah ADJ NOUN
-2 vera PROPN NOUN
-10 kecuali ADP SCONJ
-12 D NOUN PROPN
-14 mineral NOUN PROPN
-32 asam PROPN NOUN
-2 September PROPN NOUN
-5 saat CONJ SCONJ
-4 jenis ADJ NOUN
-3 identik ADJ VERB
-11 tak PART NOUN
-12 heran ADJ VERB
-17 terkemuka ADJ VERB
-21 kepadanya NOUN ADP
-5 II PROPN NUM
-22 menahan VERB NOUN
-7 telanjur ADJ NOUN
-8 besar-besaran NOUN ADJ
-5 kecamatan PROPN NOUN
-7 for PROPN ADP
-41 disekeliling ADP VERB
-45 epoch ADJ NOUN
-64 standar ADJ NOUN
-8 sendiri ADV VERB
-17 Nya PROPN NOUN
-19 kebangkitan PROPN NOUN
-21 Nya PROPN NOUN
-4 tercium VERB ADV
-7 tak PART ADV
-17 melebar VERB ADJ
-27 direklamasi VERB NOUN
-6 berkisah VERB NOUN
-12 Intelijen NOUN PROPN
-13 anti NOUN VERB
-17 terperangkap VERB ADJ
-31 anda PRON NOUN
-35 Toko NOUN PROPN
-36 Buku NOUN PROPN
-1 Bidikan NOUN VERB
-5 47 PROPN NUM
-6 bisa VERB ADV
-7 diatur NOUN VERB
-13 selisihnya ADV NOUN
-4 diduga VERB ADV
-5 banyak DET ADV
-16 saat SCONJ ADV
-30 LKTIMI NUM PROPN
-2 acuh VERB ADJ
-22 mungkar ADJ NOUN
-3 beliau PRON NOUN
-4 salah ADJ DET
-13 seorong NOUN VERB
-39 sampai VERB ADP
-13 memohon VERB NOUN
-14 maaf NOUN VERB
-5 keseluruhan DET NOUN
-30 yang CONJ PRON
-31 mana SCONJ ADV
-43 terdahulu ADJ ADV
-6 HAM NOUN PROPN
-8 LPHAM NOUN PROPN
-10 bawah ADP NOUN
-24 mendorong VERB NOUN
-27 dibidang ADP NOUN
-32 oktober PROPN NOUN
-60 pemilu NOUN CONJ
-69 poros VERB NOUN
-85 Kampanye NOUN PROPN
-134 dimana ADV SCONJ
-7 Muslim NOUN PROPN
-11 sebanyak ADJ ADP
-17 sedangkan ADP SCONJ
-18 lainnya NOUN ADJ
-2 penembak NOUN VERB
-5 tech PROPN NOUN
-17 universitas PROPN NOUN
-20 adanya VERB NOUN
-21 seorang PRON DET
-22 bersenjata VERB NOUN
-15 yaitu SCONJ ADV
-1 Awalnya NOUN ADV
-9 sementara ADJ SCONJ
-11 namun SCONJ CONJ
-12 ternyata SCONJ ADV
-20 terus VERB ADV
-3 polimerase PROPN NOUN
-10 basa NOUN ADJ
-26 pre NOUN PROPN
-28 mRNA PROPN NOUN
-8 standar ADJ SCONJ
-10 seluler NOUN ADJ
-11 analog ADJ NOUN
-28 nordic PROPN ADJ
-38 standar NOUN SCONJ
-40 seluler NOUN ADJ
-41 analog ADJ NOUN
-58 Total NOUN PROPN
-63 standar NOUN SCONJ
-65 seluler NOUN ADJ
-94 seluler NOUN ADJ
-95 analog ADJ NOUN
-101 MHz NUM PROPN
-112 nordic PROPN NOUN
-125 seluler NOUN ADJ
-10 Memiliki VERB PROPN
-20 gagah ADJ NOUN
-6 provinsi NOUN PROPN
-13 candi NOUN PROPN
-16 menggelar VERB NOUN
-1 Garis NOUN PROPN
-7 di CONJ ADP
-14 tersempit ADJ VERB
-7 yaitu CONJ ADV
-44 Liga PROPN NOUN
-59 Piala NOUN PROPN
-9 banyak DET ADV
-12 kota PROPN NOUN
-1 Jagoan NOUN PROPN
-23 mengalami NOUN VERB
-3 Yakub NOUN PROPN
-9 Rahel PROPN NOUN
-11 dinikahinya VERB NOUN
-15 Bilha NOUN PROPN
-4 bubuk NOUN ADJ
-24 terang ADJ NOUN
-8 solo ADJ PROPN
-1 Ritual NOUN PROPN
-7 mengobati VERB NOUN
-7 del PROPN NOUN
-5 canggih VERB ADJ
-8 sedang ADV SCONJ
-12 tetapi CONJ SCONJ
-22 kelak ADV VERB
-25 3 PROPN NUM
-8 mengabdi VERB ADP
-1 Setelah SCONJ ADP
-1 Stres NOUN PROPN
-5 umum NOUN ADJ
-8 tetap ADV ADJ
-16 i NOUN PROPN
-21 melontar VERB NOUN
-6 armada NOUN ADP
-9 mendekat VERB ADJ
-24 dipotong ADV VERB
-26 hanya ADV NOUN
-1 Pemberontakan PROPN VERB
-19 Sancang NOUN PROPN
-7 silakan PART ADV
-29 administratif NOUN ADJ
-30 Kecamatan NOUN PROPN
-4 bertapa VERB NOUN
-7 linuwih PROPN VERB
-17 kasat VERB NOUN
-20 non ADJ NOUN
-28 radio PROPN NOUN
-30 XM NOUN PROPN
-32 Huruf NOUN PROPN
-70 T NOUN PROPN
-78 H NOUN PROPN
-18 anti ADJ VERB
-23 II NUM PROPN
-27 II NUM PROPN
-34 amat ADV VERB
-35 berbahaya VERB NOUN
-37 ingin ADV NOUN
-43 usahanya NOUN ADV
-44 gagal ADJ VERB
-7 akibat CONJ NOUN
-3 Ordo NOUN PROPN
-4 Bait NOUN PROPN
-5 Allah NOUN PROPN
-7 khusus ADV ADJ
-8 dituduh VERB ADV
-10 semacam NOUN DET
-22 Ordo NOUN PROPN
-23 Bait NOUN PROPN
-24 Allah NOUN PROPN
-9 Amurang PROPN NOUN
-25 perintis ADJ NOUN
-7 yaitu ADV SCONJ
-11 Bandara NOUN PROPN
-14 memadai VERB ADJ
-5 keempat NUM ADJ
-17 memohon VERB NOUN
-18 damai NOUN VERB
-7 no PROPN NOUN
-8 yu PROPN NOUN
-1 Akan CONJ ADV
-5 total ADV NOUN
-14 azeotrop PROPN NOUN
-1 Meski ADV SCONJ
-4 mengatasi VERB NOUN
-13 mengalaminya VERB NOUN
-18 alaminya ADV NOUN
-21 Tepat ADJ PROPN
-28 igitur PROPN NOUN
-32 Majelis PROPN NOUN
-44 Fakultas NOUN PROPN
-47 Fakultas NOUN PROPN
-58 Ketua PROPN NOUN
-71 satu DET NUM
-2 jugakah ADV NOUN
-37 penyiar NOUN ADJ
-56 bersangkutan ADJ VERB
-3 Juli NOUN PROPN
-5 adanya VERB NOUN
-6 pembantaian NOUN PROPN
-7 mulai ADV VERB
-16 sampai VERB ADP
-2 parhelion PROPN NOUN
-6 saat SCONJ NOUN
-10 parhelis PROPN NOUN
-1 Bagaimana ADJ ADV
-2 pula ADJ ADV
-5 segitiga ADJ NUM
-3 jejak NOUN ADP
-5 sejauh ADP ADJ
-6 zaibatsu PROPN NOUN
-9 pertama NUM ADJ
-6 asam PROPN NOUN
-10 buta NUM NOUN
-3 boros VERB ADJ
-4 ga PART NOUN
-5 kira2 ADV NUM
-5 kecamatan PROPN NOUN
-12 kembali ADV VERB
-13 mengenai VERB ADP
-23 mana ADP NOUN
-6 Euklidean NOUN PROPN
-7 datar NOUN ADV
-13 x PROPN NOUN
-15 y X PROPN
-1 Bagaimana ADJ ADV
-30 melawan ADP VERB
-33 musuh NOUN ADJ
-35 yaitu ADV SCONJ
-2 saat SCONJ NOUN
-19 pacar NOUN VERB
-24 kembali ADV VERB
-2 Wilayah NOUN PROPN
-5 Ha NUM PROPN
-6 Luas NOUN PROPN
-10 Ha NUM NOUN
-15 Ha NOUN PROPN
-2 Angkatan PROPN NOUN
-6 dengasn ADP NOUN
-7 Angkatan PROPN NOUN
-5 Sriwedari PROPN ADP
-7 kelangit ADP NOUN
-9 semoga ADV NOUN
-19 pengganti NOUN VERB
-21 sudah ADP ADV
-30 setelah SCONJ ADP
-31 Mazmur PROPN NOUN
-40 berumur ADJ VERB
-13 km² NUM NOUN
-26 sementara SCONJ ADJ
-15 berlubang ADJ NOUN
-2 al PROPN NOUN
-16 nabi NOUN PROPN
-30 سدوم PROPN PUNCT
-39 عمورة PROPN PUNCT
-40 ʿAmūrah PROPN NOUN
-21 Namaku NOUN PROPN
-3 rujukan NOUN VERB
-17 19:4-6 NUM PROPN
-33 laki-laki ADJ NOUN
-35 perempuan ADJ NOUN
-8 an NUM NOUN
-4 maka DET SCONJ
-8 jingga ADJ NOUN
-7 ratusan DET NOUN
-10 OI NOUN PROPN
-16 OA NOUN PROPN
-18 OE NOUN PROPN
-21 OU NOUN PROPN
-12 pop ADJ PROPN
-13 awalnya NOUN ADV
-14 setelah SCONJ ADP
-30 awal NOUN ADJ
-9 Nusantara NOUN PROPN
-1 Camara NOUN PROPN
-9 kemudian ADP ADV
-12 kecamatan NOUN PROPN
-8 islam ADJ NOUN
-11 Turki NOUN PROPN
-7 Berbagai ADP DET
-18 baik ADV CONJ
-1 Goresan NOUN PROPN
-6 menonjol VERB ADJ
-1 Bawah ADP NOUN
-5 Karangsambung NOUN PROPN
-6 Gelar NOUN PROPN
-7 datuk PROPN ADP
-4 salah NOUN DET
-5 satu NUM DET
-9 kecamatan PROPN NOUN
-12 kabupaten PROPN NOUN
-2 Sekolah NOUN PROPN
-19 sudah VERB ADV
-20 sampai VERB ADP
-50 jelata ADJ NOUN
-1 Tuh PART PROPN
-6 kan PART VERB
-9 Lihat VERB PROPN
-6 Agustus NOUN PROPN
-9 pulau PROPN NOUN
-1 Berkata VERB PROPN
-13 kamu NOUN PRON
-9 Yunani NOUN PROPN
-11 umumnya ADV NOUN
-32 semuanya NOUN PRON
-35 sampai VERB ADP
-38 sebelumnya ADJ ADV
-43 ke ADP NUM
-56 hidup NOUN ADJ
-61 kira NOUN ADV
-63 kira NOUN ADV
-67 SM NOUN PROPN
-3 mengklaim NOUN VERB
-7 akibat SCONJ NOUN
-17 genetic ADJ PROPN
-6 beragama VERB NOUN
-2 penyusun VERB NOUN
-3 Hemiptera NOUN PROPN
-6 awalnya ADV NOUN
-6 sekarang NOUN ADV
-9 favorit ADJ NOUN
-19 SM PROPN NOUN
-32 sungai PROPN NOUN
-1 Konon NOUN PROPN
-14 penutup NOUN VERB
-25 pengalaman VERB NOUN
-7 Manchester NOUN PROPN
-45 buruh NOUN ADJ
-9 berbuat VERB NOUN
-12 bermanfaat ADJ VERB
-20 sesama NOUN ADJ
-2 karangrejo PROPN NOUN
-11 membanggakan VERB ADV
-33 karangrejo PROPN NOUN
-12 meluncur VERB NOUN
-18 biasa ADV ADJ
-28 pejalan VERB NOUN
-30 bergoyang NOUN PRON
-31 atas NOUN ADJ
-33 ke ADP NUM
-35 bawah ADP NOUN
-39 ke ADP NUM
-1 Kemudian SCONJ ADV
-1 Orang NOUN PROPN
-10 mikro ADJ NOUN
-1 Dukun PROPN NOUN
-14 tega ADJ ADV
-19 tirinya NOUN VERB
-7 Negara-negara PROPN NOUN
-8 tesebut DET VERB
-4 membajak VERB NOUN
-1 Moto NOUN PROPN
-9 運 PROPN PUNCT
-10 系統 PROPN PUNCT
-26 sekitarnya ADJ NOUN
-1 Bahasa PROPN NOUN
-20 terlambat NOUN VERB
-32 Aku PRON PROPN
-33 tersesat VERB ADJ
-51 Dibalik ADP PROPN
-7 seusai ADP ADJ
-8 Perang NOUN PROPN
-23 menjangkiti VERB NOUN
-27 terutama ADV ADJ
-9 karena SCONJ ADP
-10 keseluruhan DET NOUN
-11 isinya PRON NOUN
-14 bagaimana ADP NOUN
-15 seharusnya ADV NOUN
-22 Allah NOUN PROPN
-23 baik CONJ ADJ
-9 tidakkah PART NOUN
-11 mencium VERB NOUN
-2 layak ADJ ADV
-3 sesuatu NOUN DET
-5 pengasih NOUN ADV
-6 akan CONJ VERB
-12 penyiksa NOUN DET
-7 PEI-AISAH PROPN ADJ
-1 Media PROPN NOUN
-11 benar ADV ADJ
-13 benar NOUN ADJ
-16 tunduk VERB NOUN
-34 media PRON NOUN
-42 sebagian NOUN DET
-43 besarnya ADJ NOUN
-1 Yared PROPN NOUN
-12 sampai ADV ADP
-17 memberitahunya VERB NOUN
-5 pertama ADJ NUM
-1 Body NOUN PROPN
-4 W995 PROPN NOUN
-3 seimbang ADJ NOUN
-4 tapi SCONJ CONJ
-9 habisan ADJ NOUN
-1 Hosogaya PROPN NOUN
-2 pertama NUM ADJ
-16 Pulau NOUN PROPN
-1 Apakah NOUN ADV
-5 selanjutnya ADJ ADV
-1 Islamabad NOUN PROPN
-2 Gimana PRON PROPN
-3 toh ADV NOUN
-1 Peserta NOUN CONJ
-8 umat NOUN VERB
-1 Berikut DET PROPN
-5 raja PROPN NOUN
-2 mulai ADV VERB
-1 Hunt PROPN NOUN
-11 buta ADJ VERB
-14 paut VERB NOUN
-28 rugi NOUN VERB
-31 penawar NOUN ADJ
-33 penjual NOUN VERB
-12 kemungkinan NOUN ADV
-14 kecewa ADJ NOUN
-1 Berpalingkah VERB NOUN
-10 lagam PROPN VERB
-3 yakin VERB ADV
-5 apakah SCONJ ADV
-10 bukan ADV PART
-3 menekan VERB NOUN
-10 ulang ADV VERB
-8 tambahan ADJ NOUN
-22 hingga CONJ ADP
-28 baru ADV ADJ
-9 perdana NOUN ADJ
-14 Apakah NOUN ADV
-2 Surat NOUN PROPN
-4 Ketua NOUN PROPN
-12 SKEP NOUN PROPN
-14 KET NOUN PROPN
-21 Juni NOUN PROPN
-26 Pendirian NOUN PROPN
-27 Universitas NOUN PROPN
-40 H NOUN PROPN
-45 Drs NOUN PROPN
-54 Drs NOUN PROPN
-61 Ir NOUN PROPN
-65 MS NOUN PROPN
-10 kecamatan NOUN PROPN
-5 genius NOUN ADJ
-10 intellegence NOUN PROPN
-14 atas NOUN ADP
-13 atas NOUN ADP
-3 ketahuan ADJ NOUN
-8 menutupi VERB NOUN
-22 Rini PROPN DET
-5 agak ADJ ADV
-5 bersama ADV ADP
-8 perorangan ADJ NOUN
-3 terpecah VERB ADJ
-25 titanum PROPN NOUN
-12 tiran ADJ NOUN
-14 timbullah VERB NOUN
-22 menunjang NOUN VERB
-59 berbakat ADJ VERB
-16 belajar NOUN VERB
-18 Fakultas NOUN PROPN
-1 Tenggelamnya PROPN NOUN
-10 pagi NOUN VERB
-21 setelah ADV ADP
-28 menuju VERB ADP
-34 super ADJ NOUN
-67 14&amp;nbsp NUM NOUN
-1 Siapakah PRON NOUN
-9 maha ADV VERB
-10 dahsyat ADJ NOUN
-2 semuanya NOUN PRON
-13 ketika ADV SCONJ
-6 mulai ADV VERB
-4 samurai NOUN VERB
-17 ingin VERB ADV
-13 dahulu ADV ADJ
-22 awet ADJ VERB
-26 tembaga ADJ NOUN
-2 bernomor VERB NOUN
-6 berjuluk VERB NOUN
-2 Air NOUN PROPN
-6 banyak DET ADV
-17 karena CONJ SCONJ
-1 Kamila PROPN SCONJ
-8 unggulan NOUN VERB
-9 teratas ADJ ADP
-13 semifinal ADJ NOUN
-10 menuju VERB ADP
-12 depan ADJ NOUN
-21 dicita VERB NOUN
-10 berorientasi VERB NOUN
-1 Banyak DET ADV
-13 karena CONJ SCONJ
-1 Pemberian PROPN NOUN
-5 ditemukannya VERB NOUN
-19 berperang VERB NOUN
-1 Juga CONJ ADV
-1 Virus PROPN NOUN
-4 berseberangan VERB NOUN
-1 Program NOUN PROPN
-9 kali ADV NOUN
-18 muda NUM ADJ
-1 Setelah SCONJ ADP
-8 susulan ADJ NOUN
-3 dalam NOUN ADP
-2 berikutnya VERB ADJ
-4 bagaimana PRON ADV
-6 mana ADP NOUN
-28 an NUM DET
-1 Asal NOUN PROPN
-7 kembali ADV VERB
-19 mengingat NOUN VERB
-25 Buku NOUN PROPN
-27 Dunia NOUN PROPN
-33 sebelumnya ADP ADJ
-39 sini PRON DET
-13 atas ADP NOUN
-18 berputar VERB NOUN
-1 Akibat SCONJ NOUN
-4 apa PRON NOUN
-13 tetapi CONJ SCONJ
-15 bukanlah PART VERB
-2 terbuka ADJ VERB
-28 guna ADP NOUN
-31 kelola VERB NOUN
-44 terbuka ADJ VERB
-46 open PROPN NOUN
-47 government PROPN NOUN
-15 vocal PROPN NOUN
-35 bass PROPN NOUN
-11 Inggris NOUN PROPN
-20 no NOUN PROPN
-34 Pemerintah NOUN PROPN
-36 no NOUN PROPN
-45 no NOUN PROPN
-50 sebagaimana CONJ SCONJ
-54 5 PROPN NUM
-56 1990 PROPN NUM
-1 Pada CONJ ADP
-2 saat SCONJ NOUN
-23 dibawah ADP VERB
-1 Listrik PROPN NOUN
-4 menunjang VERB NOUN
-20 beraktifitas VERB NOUN
-4 E NOUN PROPN
-12 debugging PROPN NOUN
-19 MS NOUN PROPN
-23 benar ADV ADJ
-25 benar ADV ADJ
-34 tanpa PART ADP
-42 runtime NOUN ADJ
-5 menjelang ADP VERB
-13 Sekolah NOUN PROPN
-1 Dan SCONJ CONJ
-8 ingin ADV VERB
-1 Apakah NOUN ADV
-6 kami PROPN PRON
-8 kecamatan NOUN PROPN
-9 Rembang NOUN PROPN
-4 September PROPN NOUN
-17 hak NOUN ADJ
-5 aqqibat NOUN PROPN
-20 bermukim VERB NOUN
-22 bepergian VERB NOUN
-27 ketika ADV SCONJ
-5 kecamatan PROPN NOUN
-10 sebelum SCONJ ADP
-13 berdua DET VERB
-1 Kini NOUN PROPN
-1 Bidang PROPN NOUN
-13 2 PROPN NUM
-35 2 PROPN NUM
-1 Kedatangan PROPN NOUN
-5 heboh ADJ NOUN
-4 salah NOUN DET
-5 satu NOUN DET
-9 kecamatan PROPN NOUN
-3 September NOUN PROPN
-16 September NOUN PROPN
-5 an DET NUM
-9 Setan NOUN PROPN
-23 kemungkinan NOUN ADV
-32 punah ADJ NOUN
-6 Penerbangan PROPN NOUN
-2 Redaksi NOUN PROPN
-1 Lalu CONJ SCONJ
-3 berfirman VERB NOUN
-6 Tulislah VERB PROPN
-1 Mulai PROPN VERB
-25 D NOUN PROPN
-1 ISP NOUN PROPN
-6 tanpa PART ADP
-9 pita NOUN VERB
-11 hanya ADP ADV
-15 sepeti ADP VERB
-17 optik NOUN ADJ
-2 ikan NOUN VERB
-10 terhidrolisis VERB NOUN
-1 Baik DET PROPN
-6 kecamatan NOUN PROPN
-2 berbunga VERB NOUN
-5 bulan PROPN NOUN
-11 masak ADJ VERB
-13 akrab ADJ NOUN
-17 Inggris NOUN PROPN
-19 memungkinkannya ADV VERB
-32 mana PRON ADP
-7 hidup VERB NOUN
-7 melawan ADP VERB
-36 olehnya ADP NOUN
-9 sebelum ADV ADP
-11 menyerah ADJ VERB
-14 pembalap ADP NOUN
-3 hard ADJ NOUN
-4 rock NOUN PROPN
-8 blues ADJ NOUN
-2 Jenderal NOUN PROPN
-3 partai NOUN VERB
-16 accelerometer PROPN NOUN
-8 menggebrak VERB NOUN
-15 berkesinambungan VERB NOUN
-4 kasihan VERB NOUN
-5 akan ADP VERB
-4 buat ADP ADJ
-11 Citarum NOUN PROPN
-4 ramai ADJ VERB
-6 setelah SCONJ ADP
-7 salat VERB NOUN
-15 keliling VERB NOUN
-1 Caci NOUN PROPN
-1 Rakit PROPN NOUN
-2 modern PROPN ADJ
-14 selesai ADJ VERB
-1 Sungai NOUN PROPN
-29 ibukota PROPN NOUN
-36 tengah ADJ NOUN
-38 tengah ADJ NOUN
-3 bahwa ADP CONJ
-7 serumit VERB ADJ
-10 VII NUM PROPN
-8 Trans NOUN PROPN
-9 7 NUM PROPN
-9 evangelistik NOUN ADJ
-12 ringan ADJ NOUN
-13 pun PART NOUN
-1 Kambing NOUN PROPN
-2 betina ADJ NOUN
-12 baru ADV ADJ
-23 Perang PRON PROPN
-1 edition PROPN NOUN
-24 kebangkitan PROPN NOUN
-1 Artikel NOUN PROPN
-2 berikut DET VERB
-1 Pelayanan PROPN NOUN
-16 menggalakan VERB NOUN
-23 di ADP NOUN
-1 Tari NOUN PROPN
-7 berawal VERB ADJ
-16 diri PRON NOUN
-17 sendiri PRON ADJ
-3 akhirnya ADV NOUN
-6 betul-betul ADV ADJ
-10 dalamnya ADJ NOUN
-1 Selain ADV ADP
-6 18x NUM PROPN
-7 optical PROPN NOUN
-8 zoom PROPN NOUN
-6 berikut SCONJ VERB
-7 ranting NOUN ADJ
-42 lumayan VERB ADJ
-5 berlimpahh ADV NOUN
-8 RT NOUN PROPN
-12 tepat ADP ADJ
-13 y X NOUN
-14 jalan VERB NOUN
-17 singkil PROPN NOUN
-19 by PROPN NOUN
-20 anak PROPN NOUN
-21 tomboy PROPN NOUN
-22 jarenn PROPN NOUN
-23 dava PROPN ADJ
-2 set NUM NOUN
-6 apa NOUN ADV
-7 Program NOUN PROPN
-8 Studi NOUN PROPN
-5 dulu ADJ ADV
-39 guna ADP NOUN
-43 vermicompost PROPN NOUN
-3 bahwa ADP SCONJ
-27 yaitu DET ADV
-32 Baal NOUN PROPN
-35 lalu CONJ ADV
-36 dibakar VERB NOUN
-5 tapi CONJ SCONJ
-10 memaksa PROPN VERB
-12 supaya ADV SCONJ
-9 kepadanya NOUN ADP
-18 cinta VERB NOUN
-25 kepadaku NOUN PRON
-5 kerasnya ADJ NOUN
-6 hidup NOUN ADJ
-10 ya PART NOUN
-16 henti NOUN VERB
-2 tradisi PROPN NOUN
-5 menggemari VERB NOUN
-10 amat ADV VERB
-11 menggemari VERB ADP
-24 tempe NOUN DET
-28 kedelai NOUN ADJ
-11 facebook NOUN VERB
-34 info NOUN PROPN
-4 segar ADJ VERB
-9 diiris VERB ADJ
-11 iris VERB NOUN
-12 sebagai VERB ADP
-1 Banjir NOUN PROPN
-6 systematic ADJ NOUN
-7 review NOUN PROPN
-26 metoclopramide NOUN PROPN
-30 thiethylperazine NOUN PROPN
-39 tetapi CONJ SCONJ
-51 psikotropika ADJ NOUN
-64 paranoia NOUN PRON
-70 Tumbuhan NOUN PROPN
-71 ganja NOUN VERB
-76 lama NOUN ADJ
-81 pembuat NOUN ADJ
-39 menari VERB NOUN
-41 akting VERB NOUN
-17 menjadi ADP VERB
-1 Pelukis NOUN PROPN
-12 khawatir ADJ NOUN
-13 akan ADP VERB
-15 depan NOUN ADJ
-6 partner NOUN PROPN
-6 menganut NOUN VERB
-27 bakar NOUN ADJ
-1 Kenapa PRON ADV
-2 harus VERB ADV
-3 smada PROPN VERB
-4 Bondan PROPN CONJ
-9 angkat VERB NOUN
-12 senama VERB ADJ
-16 menunjuk VERB NOUN
-42 kaisar NOUN ADJ
-7 yaitu SCONJ ADV
-28 contohnya ADP NOUN
-2 Fakultas NOUN PROPN
-3 Farmasi NOUN PROPN
-13 bermutu VERB ADJ
-3 setelah SCONJ ADP
-4 mangkat VERB NOUN
-2 akan ADP ADV
-6 Agar SCONJ PROPN
-1 Kabupaten NOUN PROPN
-4 tinggi NOUN ADJ
-6 meter NUM NOUN
-14 m² SYM NOUN
-20 bersejarah VERB NOUN
-22 Masjid NOUN PROPN
-36 terkenal VERB ADJ
-47 ski NOUN ADJ
-8 secara ADP ADV
-12 pemegang NOUN VERB
-10 lengkap ADJ VERB
-12 misalnya SCONJ NOUN
-20 perwatin NOUN PROPN
-23 sakit ADJ NOUN
-25 sekolah PROPN NOUN
-15 tinggal NOUN VERB
-11 terbatas VERB NOUN
-25 Empat NUM PROPN
-1 Generasi PROPN NOUN
-12 melangkah VERB NOUN
-4 ditemukannya VERB NOUN
-6 jantan ADJ NOUN
-27 et PROPN NOUN
-28 al PROPN ADJ
-1 Satu DET NUM
-10 sebagian NOUN DET
-14 jahat ADJ NOUN
-25 dalam NOUN ADP
-18 Musim NOUN PROPN
-19 Panas NOUN PROPN
-33 Sarang NOUN PROPN
-34 Burung NOUN PROPN
-37 en PROPN NOUN
-1 Tim PROPN NOUN
-15 TNI NOUN PROPN
-23 berbahaya ADJ NOUN
-2 siapa PRON NOUN
-2 Agustus NOUN PROPN
-7 x PROPN NOUN
-10 OST NOUN PROPN
-22 a PROPN NOUN
-4 1 PROPN NUM
-1 Pemerintah PROPN NOUN
-7 berdaulat ADJ VERB
-13 memaksakan VERB ADV
-14 sesuatu DET NOUN
-19 segera ADJ NOUN
-27 berbeda VERB ADJ
-7 koloid PROPN NOUN
-8 diberbagai VERB DET
-2 MINYAK NOUN PROPN
-11 luar ADJ NOUN
-2 karena SCONJ NOUN
-6 mengajak VERB ADP
-18 beraliran VERB NOUN
-23 melayu PROPN NOUN
-2 Rembang NOUN PROPN
-1 Khusus ADV PROPN
-6 keraton NOUN PROPN
-31 Kode NOUN PROPN
-34 kota PROPN NOUN
-17 menuju VERB ADP
-26 sebelum ADV ADP
-34 Tulagi PROPN ADV
-39 Kesatuan NOUN PROPN
-10 kesamaan VERB NOUN
-12 pemburu ADJ VERB
-22 Kapal PROPN NOUN
-26 pertama NUM ADJ
-28 kelasnya ADJ NOUN
-29 sehingga SCONJ ADP
-3 apa ADV NOUN
-8 sama ADV ADJ
-1 Tamangapa PROPN ADV
-3 m SYM NOUN
-1 Belloumi PROPN NOUN
-7 Ketua PROPN NOUN
-19 pesawat NOUN ADJ
-23 secara ADP ADV
-27 medan NOUN CONJ
-1 Ternyata ADV PROPN
-3 Iwan NOUN PROPN
-4 sendiri PRON ADV
-8 hingga SCONJ ADP
-11 tak ADV PART
-24 betapa ADV NOUN
-31 Sauatu DET PROPN
-39 kecelakaan VERB NOUN
-6 istimewa ADJ NOUN
-8 lebihd NOUN PROPN
-10 tambahandan NOUN CONJ
-4 gunung NOUN PROPN
-5 berapi ADJ NOUN
-15 Torres NOUN PROPN
-38 berakhir VERB ADJ
-41 imbang ADJ NOUN
-53 aggregat ADJ NOUN
-1 Tika PROPN SCONJ
-2 gagal ADJ VERB
-4 patut ADV NOUN
-13 kedua NUM DET
-10 teluk PROPN NOUN
-20 bagaimana ADP ADV
-22 indah ADJ NOUN
-7 suami VERB PRON
-11 perjuangan NOUN ADJ
-38 ruf NOUN PROPN
-6 technopop NOUN PROPN
-8 juga CONJ ADV
-15 elektronik PROPN NOUN
-16 populer PROPN ADJ
-1 Bagaimanakah NOUN ADV
-14 3 PROPN NUM
-1 Banyak DET ADV
-9 tatabahasa VERB NOUN
-17 tetapi SCONJ CONJ
-22 nada NOUN VERB
-13 Group NOUN PROPN
-8 menderita VERB NOUN
-12 kemudian SCONJ ADV
-5 bersamaan ADJ ADV
-14 diukir VERB NOUN
-11 dalam ADJ ADP
-8 berinisiatif VERB ADJ
-11 Renata PROPN NOUN
-20 menyanyi VERB NOUN
-12 lemah ADJ NOUN
-12 berpenduduk NOUN VERB
-20 kepulauan NOUN PROPN
-22 Berikut NOUN PROPN
-3 domestik NOUN ADJ
-12 1NZ NUM PROPN
-18 2ZR NUM PROPN
-24 tersedia VERB ADJ
-33 drive NOUN PROPN
-9 tidakkah PART NOUN
-11 serupa ADJ NOUN
-26 mendidik VERB NOUN
-28 akan ADP VERB
-29 harga NOUN VERB
-9 kembali ADV VERB
-5 mencoba ADV VERB
-3 ingin ADV NOUN
-10 # SYM HASH
-13 # SYM HASH
-14 pondok NOUN PROPN
-16 # SYM HASH
-17 indo NOUN PROPN
-19 # SYM HASH
-20 puncak NUM NOUN
-24 banyak ADJ ADV
-1 Dusun PROPN NOUN
-6 aspal ADJ NOUN
-8 lumayan ADV NOUN
-8 yaitu SCONJ ADV
-14 Lantai NOUN PROPN
-20 Lantai NOUN PROPN
-1 Sebelum ADV ADP
-3 mampu ADJ ADV
-14 analog ADJ NOUN
-7 berkumpulnya VERB NOUN
-1 Kalang NOUN PROPN
-14 sebelumnya ADJ ADV
-18 182 PROPN NUM
-22 elektronik PROPN NOUN
-1 Pemerintah PROPN NOUN
-8 sekitar ADJ ADP
-27 dikontrak VERB NOUN
-17 bridge NOUN PROPN
-1 Meski ADV SCONJ
-4 Ordo NOUN PROPN
-8 saat SCONJ NOUN
-36 rahasia ADJ NOUN
-39 terpisah VERB ADJ
-2 kata VERB NOUN
-4 diperpanjang VERB ADJ
-20 berbadan VERB NOUN
-18 zirah ADJ NOUN
-20 anting NOUN ADJ
-22 anting NOUN ADJ
-4 awal ADV ADJ
-13 banyak DET ADV
-16 museum NOUN PROPN
-1 Karena CONJ SCONJ
-15 murni ADJ ADV
-24 Pondok NOUN PROPN
-25 Pesantren NOUN PROPN
-27 konon ADV NOUN
-28 mulai VERB ADV
-49 akrab ADJ VERB
-50 disapa VERB NOUN
-17 meletusnya VERB NOUN
-27 Akreditasi PROPN NOUN
-39 IV NUM PROPN
-16 berdasarkan ADP VERB
-17 SK PROPN NOUN
-18 Pendirian NOUN PROPN
-7 saat ADP NOUN
-8 menghajar VERB NOUN
-11 pra ADV NOUN
-25 selamat VERB NOUN
-28 brutal ADJ NOUN
-2 mulai VERB ADV
-26 H NOUN PROPN
-1 Sekolah PROPN NOUN
-8 NPSN NOUN PROPN
-1 Jurusan PROPN NOUN
-12 7 NUM PROPN
-19 mendidik ADJ NOUN
-22 membina VERB PROPN
-12 mengapa PRON ADV
-6 perjanjian NOUN PROPN
-1 Yang PROPN PRON
-12 bersalah ADJ DET
-33 layak ADJ NOUN
-1 Iye PART PROPN
-2 wah VERB NOUN
-6 semacam ADP NOUN
-11 enerjik ADJ NOUN
-14 kompak ADJ NOUN
-6 asal NOUN ADP
-17 Batik NOUN PROPN
-18 beserta ADP CONJ
-26 utamanya NOUN ADJ
-23 sebagian ADV DET
-6 dimana ADV ADP
-7 Symbian PROPN NOUN
-12 karena CONJ SCONJ
-21 berkabung ADJ NOUN
-33 Ab PROPN NOUN
-34 yaitu CONJ ADV
-35 bulan PROPN NOUN
-40 kalender NOUN PROPN
-3 karena CONJ SCONJ
-4 sebelum ADV ADP
+1: 1 Ahli PROPN NOUN
+4: 4 mendesain VERB NOUN
+8: 8 optik ADJ NOUN
+32: 8 tak ADV PART
+39: 15 dengat ADJ VERB
+90: 30 awal NOUN ADJ
+100: 40 Internasional PROPN ADJ
+103: 43 juga CONJ ADV
+108: 48 fashion PROPN NOUN
+117: 5 akan ADV NOUN
+118: 6 sesuatu NOUN DET
+125: 13 membelinya PART NOUN
+137: 1 Delapn NUM PROPN
+156: 1 Struktur PROPN NOUN
+157: 2 Organisasi PROPN NOUN
+160: 5 susun VERB NOUN
+162: 7 mengakomodasi VERB NOUN
+185: 8 umumnya ADV NOUN
+186: 9 yaitu CONJ ADV
+202: 25 kerja VERB NOUN
+203: 26 industri ADJ NOUN
+240: 12 TNI NOUN PROPN
+247: 19 Kasim NOUN PROPN
+248: 20 II NUM PROPN
+257: 29 peninggalan PROPN NOUN
+269: 1 Bit NOUN PROPN
+272: 4 ganjil ADJ NOUN
+276: 8 banyak ADV ADJ
+289: 21 lebar NOUN ADJ
+293: 25 tinggi NOUN ADJ
+302: 5 sudut NOUN VERB
+313: 16 kaku NOUN PRON
+315: 18 tidaklah PART VERB
+316: 19 berperilaku VERB NOUN
+322: 2 bagaimana ADV ADJ
+349: 19 Street NOUN PROPN
+376: 23 semestinya ADV NOUN
+412: 2 milik NOUN PROPN
+415: 5 luas ADJ NOUN
+447: 2 depresi ADJ VERB
+448: 3 karena CONJ SCONJ
+469: 24 genggam ADJ NOUN
+482: 11 provinsi NOUN PROPN
+486: 15 departemen PROPN NOUN
+490: 19 prefektur PROPN NOUN
+517: 7 Berapa NOUN DET
+521: 11 berdukacita VERB NOUN
+522: 12 karena ADP SCONJ
+526: 1 Kisah PROPN NOUN
+530: 5 diceritakannya VERB NOUN
+533: 8 seribu NUM NOUN
+546: 21 sehingga SCONJ ADP
+595: 1 Saat ADV SCONJ
+605: 11 banyak PUNCT ADV
+615: 21 satu NUM DET
+625: 1 Pinisi PROPN NOUN
+632: 1 Atum PROPN NOUN
+635: 4 mesir PROPN VERB
+651: 2 mempercepat VERB ADJ
+676: 27 baik ADV ADJ
+677: 28 dis ADP NOUN
+678: 29 emua ADP DET
+682: 33 dibidang ADP NOUN
+695: 2 Harus VERB PROPN
+702: 4 mendadak VERB ADJ
+713: 6 kunyah ADJ NOUN
+717: 2 vera PROPN NOUN
+725: 10 kecuali ADP SCONJ
+727: 12 D NOUN PROPN
+747: 32 asam PROPN NOUN
+752: 2 September PROPN NOUN
+755: 5 saat CONJ SCONJ
+777: 4 jenis ADJ NOUN
+793: 3 identik ADJ VERB
+801: 11 tak PART NOUN
+802: 12 heran ADJ VERB
+807: 17 terkemuka ADJ VERB
+811: 21 kepadanya NOUN ADP
+870: 2 II PROPN NUM
+873: 5 II PROPN NUM
+890: 22 menahan VERB NOUN
+917: 7 telanjur ADJ NOUN
+930: 8 besar-besaran NOUN ADJ
+944: 5 kecamatan PROPN NOUN
+981: 7 for PROPN ADP
+1015: 41 disekeliling ADP VERB
+1019: 45 epoch ADJ NOUN
+1038: 64 standar ADJ NOUN
+1049: 8 sendiri ADV VERB
+1058: 17 Nya PROPN NOUN
+1060: 19 kebangkitan PROPN NOUN
+1062: 21 Nya PROPN NOUN
+1071: 4 tercium VERB ADV
+1081: 7 tak PART ADV
+1091: 17 melebar VERB ADJ
+1101: 27 direklamasi VERB NOUN
+1110: 6 berkisah VERB NOUN
+1116: 12 Intelijen NOUN PROPN
+1117: 13 anti NOUN VERB
+1121: 17 terperangkap VERB ADJ
+1135: 31 anda PRON NOUN
+1139: 35 Toko NOUN PROPN
+1140: 36 Buku NOUN PROPN
+1161: 1 Bidikan NOUN VERB
+1165: 5 47 PROPN NUM
+1166: 6 bisa VERB ADV
+1167: 7 diatur NOUN VERB
+1173: 13 selisihnya ADV NOUN
+1203: 4 diduga VERB ADV
+1204: 5 banyak DET ADV
+1215: 16 saat SCONJ ADV
+1257: 30 LKTIMI NUM PROPN
+1263: 2 acuh VERB ADJ
+1283: 22 mungkar ADJ NOUN
+1289: 3 beliau PRON NOUN
+1290: 4 pun PART DET
+1302: 4 salah ADJ DET
+1311: 13 seorong NOUN VERB
+1365: 39 sampai VERB ADP
+1383: 13 memohon VERB NOUN
+1384: 14 maaf NOUN VERB
+1394: 5 keseluruhan DET NOUN
+1419: 30 yang CONJ PRON
+1420: 31 mana SCONJ ADV
+1432: 43 terdahulu ADJ ADV
+1443: 6 HAM NOUN PROPN
+1445: 8 LPHAM NOUN PROPN
+1447: 10 bawah ADP NOUN
+1461: 24 mendorong VERB NOUN
+1464: 27 dibidang ADP NOUN
+1469: 32 oktober PROPN NOUN
+1506: 69 poros VERB NOUN
+1522: 85 Kampanye NOUN PROPN
+1571: 134 dimana ADV SCONJ
+1585: 7 Muslim NOUN PROPN
+1589: 11 sebanyak ADJ ADP
+1595: 17 sedangkan ADP SCONJ
+1596: 18 lainnya NOUN ADJ
+1630: 2 penembak NOUN VERB
+1633: 5 tech PROPN NOUN
+1639: 11 penembak NOUN VERB
+1645: 17 universitas PROPN NOUN
+1648: 20 adanya VERB NOUN
+1649: 21 seorang PRON DET
+1650: 22 bersenjata VERB NOUN
+1669: 15 yaitu SCONJ ADV
+1690: 1 Awalnya NOUN ADV
+1698: 9 sementara ADJ SCONJ
+1700: 11 namun SCONJ CONJ
+1701: 12 ternyata SCONJ ADV
+1709: 20 terus VERB ADV
+1760: 3 polimerase PROPN NOUN
+1767: 10 basa NOUN ADJ
+1783: 26 pre NOUN PROPN
+1785: 28 mRNA PROPN NOUN
+1795: 8 standar ADJ NOUN
+1797: 10 seluler NOUN ADJ
+1798: 11 analog ADJ NOUN
+1815: 28 nordic PROPN ADJ
+1825: 38 standar NOUN SCONJ
+1827: 40 seluler NOUN ADJ
+1828: 41 analog ADJ NOUN
+1845: 58 Total NOUN PROPN
+1850: 63 standar NOUN SCONJ
+1852: 65 seluler NOUN ADJ
+1881: 94 seluler NOUN ADJ
+1882: 95 analog ADJ NOUN
+1888: 101 MHz NUM PROPN
+1899: 112 nordic PROPN NOUN
+1912: 125 seluler NOUN ADJ
+1948: 10 Memiliki VERB PROPN
+1979: 18 kaya ADJ NOUN
+1981: 20 gagah ADJ NOUN
+1989: 6 provinsi NOUN PROPN
+1996: 13 candi NOUN PROPN
+1999: 16 menggelar VERB NOUN
+2028: 1 Garis NOUN PROPN
+2034: 7 di CONJ ADP
+2041: 14 tersempit ADJ VERB
+2056: 7 yaitu CONJ ADV
+2102: 44 Liga PROPN NOUN
+2117: 59 Piala NOUN PROPN
+2130: 8 Berapa DET NUM
+2131: 9 banyak DET ADV
+2160: 12 kota PROPN NOUN
+2170: 1 Jagoan NOUN PROPN
+2192: 23 mengalami NOUN VERB
+2198: 3 Yakub NOUN PROPN
+2204: 9 Rahel PROPN NOUN
+2206: 11 dinikahinya VERB NOUN
+2210: 15 Bilha NOUN PROPN
+2250: 4 bubuk NOUN ADJ
+2270: 24 terang ADJ NOUN
+2340: 8 solo ADJ NOUN
+2383: 37 banyak ADV DET
+2387: 1 Ritual NOUN PROPN
+2393: 7 mengobati VERB NOUN
+2448: 7 del PROPN NOUN
+2469: 5 canggih VERB ADJ
+2476: 12 tetapi CONJ SCONJ
+2486: 22 kelak ADV VERB
+2489: 25 3 PROPN NUM
+2536: 8 mengabdi VERB ADP
+2543: 1 Setelah SCONJ ADP
+2556: 1 Stres NOUN PROPN
+2568: 5 umum NOUN ADJ
+2571: 8 tetap ADV ADJ
+2579: 16 i NOUN PROPN
+2584: 21 melontar VERB NOUN
+2593: 6 armada NOUN ADP
+2596: 9 mendekat VERB ADJ
+2627: 24 dipotong ADV VERB
+2629: 26 hanya ADV NOUN
+2633: 1 Pemberontakan PROPN VERB
+2651: 19 Sancang NOUN PROPN
+2666: 7 silakan PART ADV
+2688: 29 administratif NOUN ADJ
+2689: 30 Kecamatan NOUN PROPN
+2704: 4 bertapa VERB NOUN
+2707: 7 linuwih PROPN VERB
+2717: 17 kasat VERB NOUN
+2761: 20 non ADJ NOUN
+2769: 28 radio PROPN NOUN
+2771: 30 XM NOUN PROPN
+2773: 32 Huruf NOUN PROPN
+2811: 70 T NOUN PROPN
+2819: 78 H NOUN PROPN
+2870: 18 anti ADJ VERB
+2875: 23 II NUM PROPN
+2879: 27 II NUM PROPN
+2886: 34 amat ADV VERB
+2887: 35 berbahaya VERB NOUN
+2889: 37 ingin ADV NOUN
+2895: 43 usahanya NOUN ADV
+2896: 44 gagal ADJ VERB
+2923: 7 akibat CONJ NOUN
+2931: 3 Ordo NOUN PROPN
+2932: 4 Bait NOUN PROPN
+2933: 5 Allah NOUN PROPN
+2935: 7 khusus ADV ADJ
+2936: 8 dituduh VERB ADV
+2938: 10 semacam NOUN DET
+2950: 22 Ordo NOUN PROPN
+2951: 23 Bait NOUN PROPN
+2952: 24 Allah NOUN PROPN
+2963: 9 Amurang PROPN NOUN
+2979: 25 perintis ADJ NOUN
+2990: 7 yaitu ADV SCONJ
+3016: 11 Bandara NOUN PROPN
+3019: 14 memadai VERB ADJ
+3039: 5 keempat NUM ADJ
+3106: 17 memohon VERB NOUN
+3107: 18 damai NOUN VERB
+3125: 7 no PROPN NOUN
+3126: 8 yu PROPN NOUN
+3129: 1 Akan CONJ ADV
+3133: 5 total ADV NOUN
+3142: 14 azeotrop PROPN NOUN
+3146: 1 Meski ADV SCONJ
+3149: 4 mengatasi VERB NOUN
+3171: 13 mengalaminya VERB NOUN
+3176: 18 alaminya ADV NOUN
+3218: 21 Tepat ADJ PROPN
+3225: 28 igitur PROPN NOUN
+3229: 32 Majelis PROPN NOUN
+3241: 44 Fakultas NOUN PROPN
+3244: 47 Fakultas NOUN PROPN
+3255: 58 Ketua PROPN NOUN
+3268: 71 satu DET NUM
+3274: 2 jugakah ADV NOUN
+3319: 37 penyiar NOUN ADJ
+3338: 56 bersangkutan ADJ VERB
+3346: 3 Juli NOUN PROPN
+3348: 5 adanya VERB NOUN
+3349: 6 pembantaian NOUN PROPN
+3350: 7 mulai ADV VERB
+3369: 16 sampai VERB ADP
+3384: 2 parhelion PROPN NOUN
+3388: 6 saat SCONJ NOUN
+3392: 10 parhelis PROPN NOUN
+3410: 1 Bagaimana ADJ ADV
+3411: 2 pula ADJ ADV
+3414: 5 segitiga ADJ NUM
+3432: 3 jejak NOUN ADP
+3434: 5 sejauh ADP ADJ
+3435: 6 zaibatsu PROPN NOUN
+3467: 9 pertama NUM ADJ
+3476: 6 asam PROPN NOUN
+3492: 10 buta NUM NOUN
+3497: 3 boros VERB ADJ
+3498: 4 ga PART NOUN
+3499: 5 kira2 ADV NUM
+3506: 5 kecamatan PROPN NOUN
+3527: 12 kembali ADV VERB
+3543: 13 mengenai VERB ADP
+3553: 23 mana ADP NOUN
+3565: 6 Euklidean NOUN PROPN
+3566: 7 datar NOUN ADV
+3572: 13 x PROPN NOUN
+3574: 15 y X PROPN
+3580: 1 Bagaimana ADJ ADV
+3628: 30 melawan ADP VERB
+3631: 33 musuh NOUN ADJ
+3633: 35 yaitu ADV SCONJ
+3645: 2 saat SCONJ NOUN
+3662: 19 pacar NOUN VERB
+3667: 24 kembali ADV VERB
+3672: 2 Wilayah NOUN PROPN
+3675: 5 Ha NUM PROPN
+3676: 6 Luas NOUN PROPN
+3680: 10 Ha NUM NOUN
+3685: 15 Ha NOUN PROPN
+3690: 2 Angkatan PROPN NOUN
+3694: 6 dengasn ADP NOUN
+3695: 7 Angkatan PROPN NOUN
+3704: 5 Sriwedari PROPN ADP
+3729: 7 kelangit ADP NOUN
+3731: 9 semoga ADV NOUN
+3741: 19 pengganti NOUN VERB
+3743: 21 sudah ADP ADV
+3752: 30 setelah SCONJ ADP
+3753: 31 Mazmur PROPN NOUN
+3762: 40 berumur ADJ VERB
+3793: 13 km² NUM NOUN
+3806: 26 sementara SCONJ ADJ
+3829: 15 berlubang ADJ NOUN
+3833: 2 al PROPN NOUN
+3861: 30 سدوم PROPN PUNCT
+3870: 39 عمورة PROPN PUNCT
+3871: 40 ʿAmūrah PROPN NOUN
+3925: 21 Namaku NOUN PROPN
+3944: 3 rujukan NOUN VERB
+3948: 7 Kitab PROPN NOUN
+3958: 17 19:4-6 NUM PROPN
+3974: 33 laki-laki ADJ NOUN
+3976: 35 perempuan ADJ NOUN
+3986: 8 an NUM NOUN
+4007: 4 maka DET SCONJ
+4011: 8 jingga ADJ NOUN
+4022: 7 ratusan DET NOUN
+4039: 10 OI NOUN PROPN
+4045: 16 OA NOUN PROPN
+4047: 18 OE NOUN PROPN
+4050: 21 OU NOUN PROPN
+4071: 12 pop ADJ PROPN
+4086: 13 awalnya NOUN ADV
+4087: 14 setelah SCONJ ADP
+4103: 30 awal NOUN ADJ
+4118: 9 Nusantara NOUN PROPN
+4132: 1 Camara NOUN PROPN
+4140: 9 kemudian ADP ADV
+4160: 12 kecamatan NOUN PROPN
+4171: 8 islam ADJ NOUN
+4220: 11 Turki NOUN PROPN
+4238: 7 Berbagai ADP DET
+4249: 18 baik ADV CONJ
+4271: 1 Goresan NOUN PROPN
+4276: 6 menonjol VERB ADJ
+4293: 1 Bawah ADP NOUN
+4366: 5 Karangsambung NOUN PROPN
+4392: 6 Gelar NOUN PROPN
+4393: 7 datuk PROPN ADP
+4426: 4 salah NOUN DET
+4427: 5 satu NUM DET
+4431: 9 kecamatan PROPN NOUN
+4434: 12 kabupaten PROPN NOUN
+4445: 2 Sekolah NOUN PROPN
+4474: 19 sudah VERB ADV
+4475: 20 sampai VERB ADP
+4536: 50 jelata ADJ NOUN
+4560: 1 Tuh PART PROPN
+4565: 6 kan PART VERB
+4568: 9 Lihat VERB PROPN
+4590: 6 Agustus NOUN PROPN
+4620: 9 pulau PROPN NOUN
+4624: 1 Berkata VERB PROPN
+4636: 13 kamu NOUN PRON
+4681: 9 Yunani NOUN PROPN
+4683: 11 umumnya ADV NOUN
+4704: 32 semuanya NOUN PRON
+4706: 34 pernah ADV VERB
+4707: 35 sampai VERB ADP
+4710: 38 sebelumnya ADJ ADV
+4715: 43 ke ADP NUM
+4728: 56 hidup NOUN ADJ
+4733: 61 kira NOUN ADV
+4735: 63 kira NOUN ADV
+4739: 67 SM NOUN PROPN
+4745: 3 mengklaim NOUN VERB
+4763: 7 akibat SCONJ NOUN
+4773: 17 genetic ADJ PROPN
+4797: 6 beragama VERB NOUN
+4803: 2 penyusun VERB NOUN
+4804: 3 Hemiptera NOUN PROPN
+4807: 6 awalnya ADV NOUN
+4850: 6 sekarang NOUN ADV
+4853: 9 favorit ADJ NOUN
+4863: 19 SM PROPN NOUN
+4876: 32 sungai PROPN NOUN
+4899: 1 Konon NOUN PROPN
+4950: 14 penutup NOUN VERB
+4961: 25 pengalaman VERB NOUN
+4985: 7 Manchester NOUN PROPN
+5023: 45 buruh NOUN ADJ
+5034: 9 berbuat VERB NOUN
+5037: 12 bermanfaat ADJ VERB
+5045: 20 sesama NOUN ADJ
+5088: 2 karangrejo PROPN NOUN
+5097: 11 membanggakan VERB ADV
+5119: 33 karangrejo PROPN NOUN
+5134: 12 meluncur VERB NOUN
+5140: 18 biasa ADV ADJ
+5150: 28 pejalan VERB NOUN
+5152: 30 bergoyang NOUN PRON
+5153: 31 atas NOUN ADJ
+5155: 33 ke ADP NUM
+5157: 35 bawah ADP NOUN
+5161: 39 ke ADP NUM
+5166: 1 Kemudian SCONJ ADV
+5186: 1 Orang NOUN PROPN
+5212: 7 MEMS PROPN NOUN
+5215: 10 mikro ADJ NOUN
+5229: 1 Dukun PROPN NOUN
+5242: 14 tega ADJ ADV
+5247: 19 tirinya NOUN VERB
+5280: 7 Negara-negara PROPN NOUN
+5281: 8 tesebut DET VERB
+5287: 4 membajak VERB NOUN
+5296: 1 Moto NOUN PROPN
+5318: 10 系統 PROPN PUNCT
+5334: 26 sekitarnya ADJ NOUN
+5337: 1 Bahasa PROPN NOUN
+5380: 20 terlambat NOUN VERB
+5392: 32 Aku PRON PROPN
+5393: 33 tersesat VERB ADJ
+5411: 51 Dibalik ADP PROPN
+5429: 7 seusai ADP ADJ
+5430: 8 Perang NOUN PROPN
+5445: 23 menjangkiti VERB NOUN
+5449: 27 terutama ADV ADJ
+5466: 9 karena SCONJ ADP
+5467: 10 keseluruhan DET NOUN
+5468: 11 isinya PRON NOUN
+5471: 14 bagaimana ADP NOUN
+5472: 15 seharusnya ADV NOUN
+5479: 22 Allah NOUN PROPN
+5480: 23 baik CONJ ADJ
+5515: 9 tidakkah PART NOUN
+5517: 11 mencium VERB NOUN
+5522: 2 layak ADJ ADV
+5523: 3 sesuatu NOUN DET
+5525: 5 pengasih NOUN ADV
+5526: 6 akan CONJ VERB
+5532: 12 penyiksa NOUN DET
+5541: 7 PEI-AISAH PROPN ADJ
+5544: 1 Media PROPN NOUN
+5554: 11 benar ADV ADJ
+5556: 13 benar NOUN ADJ
+5559: 16 tunduk VERB NOUN
+5577: 34 media PRON NOUN
+5585: 42 sebagian NOUN DET
+5586: 43 besarnya ADJ NOUN
+5594: 1 Yared PROPN NOUN
+5630: 12 sampai ADV ADP
+5635: 17 memberitahunya VERB NOUN
+5642: 5 pertama ADJ NUM
+5646: 1 Body NOUN PROPN
+5649: 4 W995 PROPN NOUN
+5658: 3 seimbang ADJ NOUN
+5659: 4 tapi SCONJ CONJ
+5664: 9 habisan ADJ NOUN
+5689: 1 Hosogaya PROPN NOUN
+5690: 2 pertama NUM ADJ
+5704: 16 Pulau NOUN PROPN
+5714: 1 Apakah NOUN ADV
+5718: 5 selanjutnya ADJ ADV
+5733: 1 Islamabad NOUN PROPN
+5750: 2 Gimana PRON PROPN
+5751: 3 toh ADV NOUN
+5762: 8 umat NOUN VERB
+5774: 1 Berikut DET PROPN
+5778: 5 raja PROPN NOUN
+5813: 2 mulai ADV VERB
+5827: 1 Hunt PROPN NOUN
+5850: 11 buta ADJ VERB
+5866: 14 paut VERB NOUN
+5880: 28 rugi NOUN VERB
+5883: 31 penawar NOUN ADJ
+5885: 33 penjual NOUN VERB
+5903: 12 kemungkinan NOUN ADV
+5905: 14 kecewa ADJ NOUN
+5914: 1 Berpalingkah VERB NOUN
+5931: 10 lagam PROPN VERB
+5937: 3 yakin VERB ADV
+5939: 5 apakah SCONJ ADV
+5944: 10 bukan ADV PART
+5949: 3 menekan VERB NOUN
+5956: 10 ulang ADV VERB
+5983: 8 tambahan ADJ NOUN
+5997: 22 hingga CONJ ADP
+6003: 28 baru ADV ADJ
+6025: 9 perdana NOUN ADJ
+6045: 14 Apakah NOUN ADV
+6054: 2 Surat NOUN PROPN
+6056: 4 Ketua NOUN PROPN
+6064: 12 SKEP NOUN PROPN
+6066: 14 KET NOUN PROPN
+6073: 21 Juni NOUN PROPN
+6078: 26 Pendirian NOUN PROPN
+6079: 27 Universitas NOUN PROPN
+6092: 40 H NOUN PROPN
+6097: 45 Drs NOUN PROPN
+6106: 54 Drs NOUN PROPN
+6113: 61 Ir NOUN PROPN
+6117: 65 MS NOUN PROPN
+6161: 10 kecamatan NOUN PROPN
+6194: 5 genius NOUN ADJ
+6199: 10 intellegence NOUN PROPN
+6203: 14 atas NOUN ADP
+6219: 13 atas NOUN ADP
+6224: 3 ketahuan ADJ NOUN
+6229: 8 menutupi VERB NOUN
+6243: 22 Rini PROPN DET
+6252: 5 agak ADJ ADV
+6260: 5 bersama ADV ADP
+6263: 8 perorangan ADJ NOUN
+6268: 3 terpecah VERB ADJ
+6295: 25 titanum PROPN NOUN
+6309: 12 tiran ADJ NOUN
+6311: 14 timbullah VERB NOUN
+6319: 22 menunjang NOUN VERB
+6356: 59 berbakat ADJ VERB
+6374: 16 belajar NOUN VERB
+6376: 18 Fakultas NOUN PROPN
+6389: 1 Tenggelamnya PROPN NOUN
+6398: 10 pagi NOUN VERB
+6409: 21 setelah ADV ADP
+6416: 28 menuju VERB ADP
+6422: 34 super ADJ NOUN
+6455: 67 14&amp;nbsp NUM NOUN
+6461: 1 Siapakah PRON NOUN
+6469: 9 maha ADV VERB
+6470: 10 dahsyat ADJ NOUN
+6475: 2 semuanya NOUN PRON
+6486: 13 ketika ADV SCONJ
+6496: 6 mulai ADV VERB
+6504: 4 samurai NOUN VERB
+6517: 17 ingin VERB ADV
+6548: 22 awet ADJ VERB
+6552: 26 tembaga ADJ NOUN
+6560: 2 bernomor VERB NOUN
+6564: 6 berjuluk VERB NOUN
+6577: 2 Air NOUN PROPN
+6592: 1 Pembatasan PROPN NOUN
+6597: 6 banyak DET ADV
+6608: 17 karena CONJ SCONJ
+6612: 1 Kamila PROPN SCONJ
+6656: 8 unggulan NOUN VERB
+6657: 9 teratas ADJ ADP
+6661: 13 semifinal ADJ NOUN
+6682: 10 menuju VERB ADP
+6684: 12 depan ADJ NOUN
+6693: 21 dicita VERB NOUN
+6707: 10 berorientasi VERB NOUN
+6713: 2 II PROPN NUM
+6725: 1 Banyak DET ADV
+6737: 13 karena CONJ SCONJ
+6749: 1 Pemberian PROPN NOUN
+6786: 5 ditemukannya VERB NOUN
+6825: 19 berperang VERB NOUN
+6828: 1 Juga CONJ ADV
+6852: 1 Virus PROPN NOUN
+6865: 4 berseberangan VERB NOUN
+6879: 1 Program NOUN PROPN
+6897: 9 kali ADV NOUN
+6906: 18 muda NUM ADJ
+6913: 1 Setelah SCONJ ADP
+6920: 8 susulan ADJ NOUN
+6942: 3 dalam NOUN ADP
+6949: 2 berikutnya VERB ADJ
+6951: 4 bagaimana PRON ADV
+6953: 6 mana ADP NOUN
+6987: 28 an NUM DET
+7007: 1 Asal NOUN PROPN
+7024: 7 kembali ADV VERB
+7036: 19 mengingat NOUN VERB
+7069: 25 Buku NOUN PROPN
+7071: 27 Dunia NOUN PROPN
+7077: 33 sebelumnya ADP ADJ
+7083: 39 sini PRON DET
+7098: 13 atas ADP NOUN
+7103: 18 berputar VERB NOUN
+7108: 1 Akibat SCONJ NOUN
+7142: 4 apa PRON NOUN
+7151: 13 tetapi CONJ SCONJ
+7153: 15 bukanlah PART VERB
+7194: 2 terbuka ADJ VERB
+7220: 28 guna ADP NOUN
+7223: 31 kelola VERB NOUN
+7236: 44 terbuka ADJ VERB
+7238: 46 open PROPN NOUN
+7239: 47 government PROPN NOUN
+7273: 15 vocal PROPN NOUN
+7293: 35 bass PROPN NOUN
+7412: 20 no NOUN PROPN
+7418: 26 merinci VERB NOUN
+7426: 34 Pemerintah NOUN PROPN
+7428: 36 no NOUN PROPN
+7437: 45 no NOUN PROPN
+7442: 50 sebagaimana CONJ SCONJ
+7446: 54 5 PROPN NUM
+7448: 56 1990 PROPN NUM
+7564: 1 Pada CONJ ADP
+7565: 2 saat SCONJ NOUN
+7586: 23 dibawah ADP VERB
+7604: 1 Listrik PROPN NOUN
+7607: 4 menunjang VERB NOUN
+7623: 20 beraktifitas VERB NOUN
+7629: 4 E NOUN PROPN
+7658: 12 debugging PROPN NOUN
+7665: 19 MS NOUN PROPN
+7669: 23 benar ADV ADJ
+7671: 25 benar ADV ADJ
+7680: 34 tanpa PART ADP
+7688: 42 runtime NOUN ADJ
+7695: 5 menjelang ADP VERB
+7703: 13 Sekolah NOUN PROPN
+7712: 1 Dan SCONJ CONJ
+7719: 8 ingin ADV VERB
+7724: 1 Apakah NOUN ADV
+7729: 6 kami PROPN PRON
+7739: 8 kecamatan NOUN PROPN
+7740: 9 Rembang NOUN PROPN
+7763: 4 September PROPN NOUN
+7776: 17 hak NOUN ADJ
+7821: 5 aqqibat NOUN PROPN
+7836: 20 bermukim VERB NOUN
+7838: 22 bepergian VERB NOUN
+7843: 27 ketika ADV SCONJ
+7880: 10 sebelum SCONJ ADP
+7883: 13 berdua DET VERB
+7896: 1 Kini NOUN PROPN
+7909: 1 Bidang PROPN NOUN
+7933: 13 2 PROPN NUM
+7955: 35 2 PROPN NUM
+7965: 1 Kedatangan PROPN NOUN
+7969: 5 heboh ADJ NOUN
+7975: 4 salah NOUN DET
+7976: 5 satu NOUN DET
+7980: 9 kecamatan PROPN NOUN
+7996: 3 September NOUN PROPN
+8009: 16 September NOUN PROPN
+8042: 5 an DET NUM
+8046: 9 Setan NOUN PROPN
+8060: 23 kemungkinan NOUN ADV
+8069: 32 punah ADJ NOUN
+8077: 6 Penerbangan PROPN NOUN
+8088: 2 Redaksi NOUN PROPN
+8097: 1 Lalu CONJ SCONJ
+8099: 3 berfirman VERB NOUN
+8102: 6 Tulislah VERB PROPN
+8136: 1 Mulai PROPN VERB
+8169: 25 D NOUN PROPN
+8187: 1 ISP NOUN PROPN
+8192: 6 tanpa PART ADP
+8195: 9 pita NOUN VERB
+8197: 11 hanya ADP ADV
+8201: 15 sepeti ADP VERB
+8203: 17 optik NOUN ADJ
+8236: 2 ikan NOUN VERB
+8244: 10 terhidrolisis VERB NOUN
+8250: 1 Baik DET PROPN
+8272: 6 kecamatan NOUN PROPN
+8284: 2 berbunga VERB NOUN
+8287: 5 bulan PROPN NOUN
+8293: 11 masak ADJ VERB
+8329: 13 akrab ADJ NOUN
+8333: 17 Inggris NOUN PROPN
+8335: 19 memungkinkannya ADV VERB
+8348: 32 mana PRON ADP
+8366: 7 hidup VERB NOUN
+8377: 7 melawan ADP VERB
+8406: 36 olehnya ADP NOUN
+8421: 9 sebelum ADV ADP
+8423: 11 menyerah ADJ VERB
+8426: 14 pembalap ADP NOUN
+8448: 3 hard ADJ PROPN
+8449: 4 rock NOUN PROPN
+8453: 8 blues ADJ NOUN
+8467: 2 Jenderal NOUN PROPN
+8468: 3 partai NOUN VERB
+8489: 16 accelerometer PROPN NOUN
+8509: 8 menggebrak VERB NOUN
+8530: 15 berkesinambungan VERB NOUN
+8555: 4 kasihan VERB NOUN
+8556: 5 akan ADP VERB
+8575: 4 buat ADP ADJ
+8589: 11 Citarum NOUN PROPN
+8608: 4 ramai ADJ VERB
+8610: 6 setelah SCONJ ADP
+8611: 7 salat VERB NOUN
+8619: 15 keliling VERB NOUN
+8623: 1 Caci NOUN PROPN
+8641: 1 Rakit PROPN NOUN
+8642: 2 modern PROPN ADJ
+8698: 14 selesai ADJ VERB
+8722: 1 Sungai NOUN PROPN
+8750: 29 ibukota PROPN NOUN
+8757: 36 tengah ADJ NOUN
+8759: 38 tengah ADJ NOUN
+8774: 3 bahwa ADP CONJ
+8778: 7 serumit VERB ADJ
+8781: 10 VII NUM PROPN
+8827: 8 Trans NOUN PROPN
+8828: 9 7 NUM PROPN
+8839: 9 evangelistik NOUN ADJ
+8897: 12 ringan ADJ NOUN
+8898: 13 pun PART NOUN
+8904: 1 Kambing NOUN PROPN
+8905: 2 betina ADJ NOUN
+8929: 12 baru ADV ADJ
+8940: 23 Perang PRON PROPN
+8945: 1 edition PROPN NOUN
+8968: 24 kebangkitan PROPN NOUN
+8982: 1 Artikel NOUN PROPN
+8983: 2 berikut DET VERB
+8995: 1 Pelayanan PROPN NOUN
+9010: 16 menggalakan VERB NOUN
+9017: 23 di ADP NOUN
+9042: 1 Tari NOUN PROPN
+9048: 7 berawal VERB ADJ
+9057: 16 diri PRON NOUN
+9058: 17 sendiri PRON ADJ
+9073: 3 akhirnya ADV NOUN
+9076: 6 betul-betul ADV ADJ
+9080: 10 dalamnya ADJ NOUN
+9113: 1 Selain ADV ADP
+9118: 6 18x NUM PROPN
+9119: 7 optical PROPN NOUN
+9120: 8 zoom PROPN NOUN
+9142: 6 berikut SCONJ NOUN
+9143: 7 ranting NOUN ADJ
+9196: 42 lumayan VERB ADJ
+9206: 5 berlimpahh ADV NOUN
+9209: 8 RT NOUN PROPN
+9213: 12 tepat ADP ADJ
+9214: 13 y X NOUN
+9215: 14 jalan VERB NOUN
+9218: 17 singkil PROPN NOUN
+9220: 19 by PROPN NOUN
+9221: 20 anak PROPN NOUN
+9222: 21 tomboy PROPN NOUN
+9223: 22 jarenn PROPN NOUN
+9224: 23 dava PROPN ADJ
+9246: 2 set NUM NOUN
+9261: 6 apa NOUN ADV
+9337: 7 Program NOUN PROPN
+9338: 8 Studi NOUN PROPN
+9374: 5 dulu ADJ ADV
+9418: 39 guna ADP NOUN
+9422: 43 vermicompost PROPN NOUN
+9428: 3 bahwa ADP SCONJ
+9452: 27 yaitu DET ADV
+9515: 32 Baal NOUN PROPN
+9518: 35 lalu CONJ ADV
+9519: 36 dibakar VERB ADJ
+9526: 5 tapi CONJ SCONJ
+9531: 10 memaksa PROPN VERB
+9533: 12 supaya ADV SCONJ
+9552: 9 kepadanya NOUN ADP
+9561: 18 cinta VERB NOUN
+9568: 25 kepadaku NOUN PRON
+9575: 5 kerasnya ADJ NOUN
+9576: 6 hidup NOUN ADJ
+9580: 10 ya PART NOUN
+9586: 16 henti NOUN VERB
+9590: 2 tradisi PROPN NOUN
+9593: 5 menggemari VERB NOUN
+9598: 10 amat ADV VERB
+9599: 11 menggemari VERB ADP
+9612: 24 tempe NOUN DET
+9616: 28 kedelai NOUN ADJ
+9636: 11 facebook NOUN VERB
+9659: 34 info NOUN PROPN
+9671: 4 segar ADJ VERB
+9676: 9 diiris VERB NOUN
+9678: 11 iris VERB NOUN
+9679: 12 sebagai VERB ADP
+9685: 1 Banjir NOUN PROPN
+9700: 6 systematic ADJ NOUN
+9701: 7 review NOUN PROPN
+9720: 26 metoclopramide NOUN PROPN
+9724: 30 thiethylperazine NOUN PROPN
+9728: 34 domperidone NOUN PROPN
+9733: 39 tetapi CONJ SCONJ
+9745: 51 psikotropika ADJ NOUN
+9758: 64 paranoia NOUN PRON
+9764: 70 Tumbuhan NOUN PROPN
+9765: 71 ganja NOUN VERB
+9770: 76 lama NOUN ADJ
+9775: 81 pembuat NOUN ADJ
+9813: 30 Pelatihan PROPN NOUN
+9822: 39 menari VERB NOUN
+9824: 41 akting VERB NOUN
+9843: 17 menjadi ADP VERB
+9894: 1 Pelukis NOUN PROPN
+9905: 12 khawatir ADJ NOUN
+9906: 13 akan ADP VERB
+9908: 15 depan NOUN ADJ
+9928: 6 partner NOUN PROPN
+9949: 6 menganut NOUN VERB
+9970: 27 bakar NOUN ADJ
+9992: 1 Kenapa PRON ADV
+9993: 2 harus VERB ADV
+9994: 3 smada PROPN VERB
+10000: 4 Bondan PROPN CONJ
+10025: 9 angkat VERB NOUN
+10028: 12 senama VERB ADJ
+10032: 16 menunjuk VERB NOUN
+10058: 42 kaisar NOUN ADJ
+10093: 7 yaitu SCONJ ADV
+10114: 28 contohnya ADP NOUN
+10128: 2 Fakultas NOUN PROPN
+10129: 3 Farmasi NOUN PROPN
+10139: 13 bermutu VERB ADJ
+10158: 3 setelah SCONJ ADP
+10159: 4 mangkat VERB NOUN
+10174: 2 akan ADP ADV
+10195: 6 Agar SCONJ PROPN
+10204: 1 Kabupaten NOUN PROPN
+10233: 4 tinggi NOUN ADJ
+10235: 6 meter NUM NOUN
+10243: 14 m² SYM NOUN
+10257: 8 kuno ADJ PROPN
+10269: 20 bersejarah VERB NOUN
+10271: 22 Masjid NOUN PROPN
+10285: 36 terkenal VERB ADJ
+10296: 47 ski NOUN ADJ
+10307: 8 secara ADP ADV
+10311: 12 pemegang NOUN VERB
+10331: 10 lengkap ADJ VERB
+10333: 12 misalnya SCONJ NOUN
+10341: 20 perwatin NOUN PROPN
+10344: 23 sakit ADJ NOUN
+10346: 25 sekolah PROPN NOUN
+10402: 15 tinggal NOUN VERB
+10415: 11 terbatas VERB NOUN
+10462: 25 Empat NUM PROPN
+10468: 1 Generasi PROPN NOUN
+10479: 12 melangkah VERB NOUN
+10535: 4 ditemukannya VERB NOUN
+10537: 6 jantan ADJ NOUN
+10558: 27 et PROPN NOUN
+10559: 28 al PROPN ADJ
+10566: 1 Satu DET NUM
+10575: 10 sebagian NOUN DET
+10579: 14 jahat ADJ NOUN
+10590: 25 dalam NOUN ADP
+10621: 18 Musim NOUN PROPN
+10622: 19 Panas NOUN PROPN
+10636: 33 Sarang NOUN PROPN
+10637: 34 Burung NOUN PROPN
+10640: 37 en PROPN NOUN
+10647: 1 Tim PROPN NOUN
+10661: 15 TNI NOUN PROPN
+10669: 23 berbahaya ADJ NOUN
+10687: 2 siapa PRON NOUN
+10693: 2 Agustus NOUN PROPN
+10698: 7 x PROPN NOUN
+10701: 10 OST NOUN PROPN
+10713: 22 a PROPN NOUN
+10722: 4 1 PROPN NUM
+10736: 1 Pemerintah PROPN NOUN
+10742: 7 berdaulat ADJ VERB
+10748: 13 memaksakan VERB ADV
+10749: 14 sesuatu DET NOUN
+10776: 19 segera ADJ NOUN
+10784: 27 berbeda VERB ADJ
+10800: 7 koloid PROPN NOUN
+10817: 8 diberbagai VERB DET
+10827: 2 MINYAK NOUN PROPN
+10840: 11 luar ADJ NOUN
+10857: 2 karena SCONJ NOUN
+10861: 6 mengajak VERB ADP
+10873: 18 beraliran VERB NOUN
+10878: 23 melayu PROPN NOUN
+10882: 2 Rembang NOUN PROPN
+10893: 1 Khusus ADV PROPN
+10898: 6 keraton NOUN PROPN
+10923: 31 Kode NOUN PROPN
+10926: 34 kota PROPN NOUN
+10958: 17 menuju VERB ADP
+10967: 26 sebelum ADV ADP
+10975: 34 Tulagi PROPN ADV
+11015: 10 kesamaan VERB NOUN
+11035: 12 pemburu ADJ VERB
+11045: 22 Kapal PROPN NOUN
+11049: 26 pertama NUM ADJ
+11051: 28 kelasnya ADJ NOUN
+11052: 29 sehingga SCONJ ADP
+11065: 3 apa ADV NOUN
+11070: 8 sama ADV ADJ
+11074: 1 Tamangapa PROPN ADV
+11094: 3 m SYM NOUN
+11100: 1 Belloumi PROPN NOUN
+11106: 7 Ketua PROPN NOUN
+11129: 19 pesawat NOUN ADJ
+11133: 23 secara ADP ADV
+11137: 27 medan NOUN CONJ
+11141: 1 Ternyata ADV PROPN
+11143: 3 Iwan NOUN PROPN
+11144: 4 sendiri PRON ADV
+11148: 8 hingga SCONJ ADP
+11151: 11 tak ADV PART
+11164: 24 betapa ADV NOUN
+11171: 31 Sauatu DET PROPN
+11179: 39 kecelakaan VERB NOUN
+11187: 6 istimewa ADJ NOUN
+11204: 8 lebihd NOUN PROPN
+11219: 10 tambahandan NOUN CONJ
+11235: 4 gunung NOUN PROPN
+11236: 5 berapi ADJ NOUN
+11263: 15 Torres NOUN PROPN
+11286: 38 berakhir VERB ADJ
+11289: 41 imbang ADJ NOUN
+11301: 53 aggregat ADJ NOUN
+11307: 1 Tika PROPN SCONJ
+11321: 2 gagal ADJ VERB
+11323: 4 patut ADV NOUN
+11359: 10 teluk PROPN NOUN
+11369: 20 bagaimana ADP ADV
+11371: 22 indah ADJ NOUN
+11383: 7 suami VERB PRON
+11414: 38 ruf NOUN PROPN
+11424: 6 technopop NOUN PROPN
+11426: 8 juga CONJ ADV
+11433: 15 elektronik PROPN NOUN
+11434: 16 populer PROPN ADJ
+11454: 1 Bagaimanakah NOUN ADV
+11473: 14 3 PROPN NUM
+11503: 1 Banyak DET ADV
+11511: 9 tatabahasa VERB NOUN
+11519: 17 tetapi SCONJ CONJ
+11524: 22 nada NOUN VERB
+11542: 13 Group NOUN PROPN
+11605: 8 menderita VERB NOUN
+11609: 12 kemudian SCONJ ADV
+11621: 5 bersamaan ADJ ADV
+11630: 14 diukir VERB NOUN
+11648: 11 dalam ADJ ADP
+11665: 8 berinisiatif VERB ADJ
+11668: 11 Renata PROPN NOUN
+11677: 20 menyanyi VERB NOUN
+11695: 12 lemah ADJ NOUN
+11719: 12 berpenduduk NOUN VERB
+11727: 20 kepulauan NOUN PROPN
+11729: 22 Berikut NOUN PROPN
+11746: 3 domestik NOUN ADJ
+11755: 12 1NZ NUM PROPN
+11761: 18 2ZR NUM PROPN
+11767: 24 tersedia VERB ADJ
+11776: 33 drive NOUN PROPN
+11787: 9 tidakkah PART NOUN
+11789: 11 serupa ADJ NOUN
+11804: 26 mendidik VERB NOUN
+11806: 28 akan ADP VERB
+11807: 29 harga NOUN VERB
+11820: 9 kembali ADV VERB
+11848: 5 mencoba ADV VERB
+11869: 3 ingin ADV NOUN
+11876: 10 # SYM HASH
+11879: 13 # SYM HASH
+11880: 14 pondok NOUN PROPN
+11882: 16 # SYM HASH
+11883: 17 indo NOUN PROPN
+11885: 19 # SYM HASH
+11886: 20 puncak NUM NOUN
+11890: 24 banyak ADJ DET
+11894: 1 Dusun PROPN NOUN
+11899: 6 aspal ADJ NOUN
+11901: 8 lumayan ADV NOUN
+11918: 8 yaitu SCONJ ADV
+11924: 14 Lantai NOUN PROPN
+11930: 20 Lantai NOUN PROPN
+11961: 1 Sebelum ADV ADP
+11963: 3 mampu ADJ ADV
+11966: 6 analognya ADJ NOUN
+11974: 14 analog ADJ NOUN
+11991: 7 berkumpulnya VERB NOUN
+11997: 1 Kalang NOUN PROPN
+12028: 14 sebelumnya ADJ ADV
+12032: 18 182 PROPN NUM
+12036: 22 elektronik PROPN NOUN
+12045: 1 Pemerintah PROPN NOUN
+12080: 8 sekitar ADJ ADP
+12141: 27 dikontrak VERB NOUN
+12197: 17 bridge NOUN PROPN
+12219: 1 Meski ADV SCONJ
+12222: 4 Ordo NOUN PROPN
+12226: 8 saat SCONJ NOUN
+12254: 36 rahasia ADJ NOUN
+12257: 39 terpisah VERB ADJ
+12313: 2 kata VERB NOUN
+12330: 4 diperpanjang VERB ADJ
+12346: 20 berbadan VERB NOUN
+12379: 18 zirah ADJ NOUN
+12381: 20 anting NOUN ADJ
+12383: 22 anting NOUN ADJ
+12389: 4 awal ADV ADJ
+12409: 7 mudah ADJ VERB
+12415: 13 banyak DET ADV
+12436: 16 museum NOUN PROPN
+12441: 1 Karena CONJ SCONJ
+12455: 15 murni ADJ ADV
+12464: 24 Pondok NOUN PROPN
+12465: 25 Pesantren NOUN PROPN
+12467: 27 konon ADV NOUN
+12468: 28 mulai VERB ADV
+12489: 49 akrab ADJ VERB
+12490: 50 disapa VERB NOUN
+12512: 17 meletusnya VERB NOUN
+12549: 27 Akreditasi PROPN NOUN
+12561: 39 IV NUM PROPN
+12583: 16 berdasarkan ADP VERB
+12584: 17 SK PROPN NOUN
+12585: 18 Pendirian NOUN PROPN
+12601: 7 saat ADP NOUN
+12602: 8 menghajar VERB NOUN
+12619: 11 pra ADV NOUN
+12633: 25 selamat VERB NOUN
+12636: 28 brutal ADJ NOUN
+12641: 2 mulai VERB ADV
+12665: 26 H NOUN PROPN
+12671: 1 Sekolah PROPN NOUN
+12678: 8 NPSN NOUN PROPN
+12698: 1 Jurusan PROPN NOUN
+12709: 12 7 NUM PROPN
+12716: 19 mendidik ADJ NOUN
+12719: 22 membina VERB PROPN
+12755: 12 mengapa PRON ADV
+12768: 6 perjanjian NOUN PROPN
+12779: 1 Yang PROPN PRON
+12790: 12 bersalah ADJ DET
+12811: 33 layak ADJ NOUN
+12846: 1 Iye PART PROPN
+12847: 2 wah VERB NOUN
+12863: 6 semacam ADP NOUN
+12889: 11 enerjik ADJ NOUN
+12892: 14 kompak ADJ NOUN
+12938: 6 asal NOUN ADP
+12949: 17 Batik NOUN PROPN
+12950: 18 beserta ADP CONJ
+12958: 26 utamanya NOUN ADJ
+13033: 23 sebagian ADV DET
+13046: 6 dimana ADV ADP
+13047: 7 Symbian PROPN NOUN
+13049: 9 diimplementasi VERB NOUN
+13052: 12 karena CONJ SCONJ
+13089: 21 berkabung ADJ NOUN
+13101: 33 Ab PROPN NOUN
+13102: 34 yaitu CONJ ADV
+13103: 35 bulan PROPN NOUN
+13108: 40 kalender NOUN PROPN
+13133: 3 karena CONJ SCONJ
+13134: 4 sebelum ADV ADP

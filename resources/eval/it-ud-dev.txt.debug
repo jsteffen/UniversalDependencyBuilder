@@ -1,412 +1,387 @@
-ADJ:NOUN	51
-NOUN:ADJ	37
-NOUN:VERB	27
-ADJ:VERB	25
-PRON:DET	22
-VERB:NOUN	21
-VERB:ADJ	16
-NOUN:PROPN	13
-ADV:ADP	10
-AUX:VERB	9
-PROPN:NOUN	8
-SCONJ:PRON	7
-ADP:ADV	7
-ADV:NOUN	6
-ADJ:DET	6
-PROPN:ADJ	6
-VERB:AUX	6
-ADJ:PRON	6
-DET:PRON	6
-DET:ADV	5
-NOUN:ADV	5
-NOUN:DET	5
-ADV:ADJ	4
-ADV:VERB	4
-PRON:ADJ	4
-DET:ADJ	4
-ADJ:ADV	4
-NOUN:PRON	3
-VERB:ADP	3
-PRON:NOUN	3
-NUM:DET	3
-PROPN:DET	3
-ADJ:ADP	3
-PROPN:VERB	3
-VERB:CONJ	2
-VERB:ADV	2
-ADP:VERB	2
-ADJ:PROPN	2
-CONJ:PRON	2
-PRON:ADV	2
-ADP:ADJ	2
-PRON:SCONJ	2
-ADP:SCONJ	2
-CONJ:ADP	1
-DET:PROPN	1
-AUX:DET	1
-SCONJ:ADV	1
-PRON:CONJ	1
-PUNCT:PAUSE	1
-DET:NOUN	1
-DET:_	1
-VERB:DET	1
-_:ADJ	1
-VERB:PRON	1
-NOUN:ADP	1
-PRON:ADP	1
-X:DET	1
-INTJ:NOUN	1
-CONJ:VERB	1
-PRON:VERB	1
-PROPN:INTJ	1
-VERB:PROPN	1
-NOUN:SCONJ	1
-CONJ:SCONJ	1
-PROPN:PUNCT	1
-CONJ:ADV	1
-amentare NOUN ADJ
-37 precisa ADJ NOUN
-2 come ADV ADP
-3 no INTJ NOUN
-5 come ADV ADP
-1 Altre DET ADV
-9 zona NOUN ADJ
-5 ha AUX VERB
-4 tutta PRON DET
-6 boa NOUN ADP
-16 cardiache ADJ PRON
-15 loro PRON DET
-24 doppia ADJ NOUN
-28 norma NOUN VERB
-29 elementare ADJ VERB
-38 tentato VERB NOUN
-5 presenti VERB ADJ
-5 siano VERB AUX
-6 proposte NOUN VERB
-7 serie ADJ NOUN
-11 Costituzionali PROPN ADJ
-19 altre DET ADJ
-8 fin ADV ADP
-4 antiberlusconiani ADJ NOUN
-11 donchisciotteschi ADJ PRON
-27 eccetera ADV VERB
-3 po' ADV NOUN
-6 appeal NOUN DET
-4 apolide NOUN ADJ
-9 che SCONJ PRON
-10 quarantenne ADJ NOUN
-1 Mare NOUN VERB
-4 vien VERB ADP
-1 Capri PROPN VERB
-12 sottili ADJ NOUN
-13 profili NOUN ADJ
-26 verdeggianti ADJ NOUN
-27 piane NOUN ADJ
-1 inquietanti ADJ DET
-9 mezz' ADJ ADP
-10 ora NOUN ADV
-12 attimo NOUN ADJ
-2 Comune PROPN NOUN
-11 L. NOUN PROPN
-21 sia VERB CONJ
-19 cui PRON DET
-23 diretta NOUN ADJ
-4 faccende NOUN VERB
-10 taglia VERB AUX
-11 corto ADV VERB
-13 salpa VERB ADP
-6 lungo ADP ADJ
-2 po' ADV NOUN
-7 po' PRON NOUN
-8 male NOUN ADV
-8 altre DET ADJ
-3 first NOUN ADJ
-10 la PRON DET
-1 Precisa ADJ VERB
-12 eccitanti NOUN VERB
-22 contro ADV ADP
-2 Baggio PROPN NOUN
-5 don NOUN ADV
-5 tante DET NOUN
-13 degradata ADJ VERB
-2 una PRON DET
-13 loro PRON DET
-7 anziane ADJ NOUN
-1 Negozi NOUN DET
-4 aperti VERB ADJ
-4 calcola VERB ADJ
-15 una NUM DET
-1 Slot NOUN PROPN
-9 altre DET PRON
-9 quali PRON DET
-2 buone ADJ NOUN
-11 accurata ADJ NOUN
-29 quadri ADJ NOUN
-2 ultimi NOUN ADJ
-8 rigato ADJ VERB
-19 imbottito VERB NOUN
-2 stessa PRON ADJ
-8 distr. VERB NOUN
-11 smaltati ADJ VERB
-12 lisci ADJ VERB
-7 è VERB AUX
-16 pose NOUN SCONJ
-18 controllate VERB ADJ
-44 grezzo ADJ NOUN
-2 primo PRON ADJ
-12 apposta ADV ADJ
-11 piano ADV NOUN
-9 cosce NOUN VERB
-11 sedere NOUN VERB
-9 ricostituente NOUN ADJ
-11 ricorri VERB NOUN
-8 diritta ADJ NOUN
-11 prima PRON ADJ
-9 equilibrata ADJ VERB
-13 grassi NOUN ADJ
-1-2 Frizionale _ ADJ
-1 Friziona VERB PROPN
-2 le PRON DET
-19 una NUM DET
-28 uno DET PRON
-31 come ADP ADV
-40 addolcenti VERB ADJ
-50 exfoliant ADJ NOUN
-4 tutto PRON DET
-12 meglio ADV ADJ
-15 che SCONJ PRON
-5 che DET PRON
-6 santo NOUN ADV
-11 impatto NOUN VERB
-21 II ADJ PROPN
-9 subito VERB ADV
-2 Cole PROPN ADJ
-4 responsabile NOUN ADJ
-22 delusi ADJ NOUN
-29 raggiunto VERB ADJ
-1 Romana PROPN ADJ
-7 Terni PROPN NOUN
-17 Valdarno PROPN INTJ
-22 Metallurgica PROPN ADJ
-27 Navigazione PROPN NOUN
-54 credito NOUN VERB
-61 Buoni NOUN PROPN
-69 contante NOUN ADJ
-71 lire NOUN VERB
-74 conto ADJ NOUN
-78 lire NOUN VERB
-16 come CONJ ADP
-27 altre DET ADJ
-34 che SCONJ PRON
-39 cospicuo ADJ DET
-8 chiunque PRON ADV
-9 altro ADJ PRON
-8 bene NOUN ADV
-10 più DET ADV
-9 è VERB AUX
-10 munito ADJ VERB
-9 prevale VERB ADJ
-6 limitato VERB ADJ
-15 che PRON SCONJ
-21 quale PRON DET
-4 nota ADJ VERB
-32 affissa VERB NOUN
-12 esistente VERB ADJ
-1 Ispirato ADJ VERB
-13 incontro ADV NOUN
-17 fermi ADJ NOUN
-5 cosa NOUN PRON
-43 dopo ADV ADP
-25 segua VERB DET
-49 atte ADJ VERB
-20 una ADJ DET
-4 circa ADP ADV
-3 assenti NOUN VERB
-13 stata AUX VERB
-2 diversa ADJ DET
-32 colposi ADJ NOUN
-34 costoro PRON NOUN
-16 subito VERB ADV
-23 alcunché PRON CONJ
-29 lo PRON DET
-30 autorizzi VERB NOUN
-3 privati NOUN ADJ
-14 regolare VERB ADJ
-6 media ADJ DET
-4 deputati NOUN VERB
-9 Presidenza NOUN PROPN
-24 leda VERB ADP
-34 preesistenti ADJ VERB
-15 oltre ADV ADP
-35 Dicembre NOUN PROPN
-1 Appena SCONJ ADV
-2 Papa NOUN PROPN
-22 tutti PRON DET
-7 contro ADV ADP
-3 albanese NOUN ADJ
-6 vive VERB NOUN
-1 Sale VERB NOUN
-4 lire NOUN VERB
-41 accentuato ADJ NOUN
-42 profilo NOUN DET
-62 meno PRON ADV
-9 prefissate VERB ADJ
-50 stranieri NOUN ADJ
-3 europea PROPN ADJ
-11 Centro NOUN PROPN
-31 neutra ADJ ADP
-46 sede NOUN VERB
-10 franche ADJ ADV
-11 esentasse ADJ PRON
-2 tutto PRON DET
-14 che PRON DET
-25 proprio DET ADV
-16 eccedenti VERB ADJ
-24 è AUX VERB
-19 socialista ADJ NOUN
-2 pensi VERB PRON
-10 su ADV ADP
-1 Eppure CONJ ADV
-6 dietro ADP ADV
-8 netta ADJ NOUN
-9 sconfitta NOUN VERB
-21 scricchiolii NOUN DET
-22 sinistri ADJ NOUN
-8 strana ADJ NOUN
-6 scontati ADJ VERB
-15 incontrastato ADJ NOUN
-34 sanno AUX VERB
-12 sol ADJ NOUN
-29 favoriti ADJ VERB
-35 finalissima NOUN ADJ
-2 Isola NOUN PROPN
-12 la PRON DET
-13 ideò VERB NOUN
-11 stabile NOUN ADJ
-7 Salone NOUN PROPN
-2 Beato ADJ VERB
-11 Esteri NOUN PROPN
-8 indiziato VERB NOUN
-36 sia CONJ VERB
-7 maggiore ADJ NOUN
-20 prima ADJ ADV
-45 riservato ADJ VERB
-2 generale ADJ NOUN
-11 tedeschi ADJ NOUN
-31 aerei ADJ VERB
-28 cancerogeno ADJ ADV
-10 biossido NOUN ADJ
-33 豊島線 PROPN PUNCT
-11 lungo ADP ADJ
-6 Linea NOUN PROPN
-29 come ADV ADP
-25 ancor ADV NOUN
-1 Oltre ADP ADV
-19 spago NOUN ADJ
-7 isola VERB NOUN
-21 usano VERB NOUN
-5 che SCONJ PRON
-5 diverse VERB ADJ
-25 ultimo NOUN PRON
-29 soggetto NOUN ADJ
-38 ivi ADV ADJ
-39 comprese ADJ VERB
-6 Comitato PROPN NOUN
-7 sono AUX VERB
-8 ravvicinati ADJ VERB
-5 Congresso NOUN PROPN
-9 UNITA PROPN VERB
-4 maggior NOUN ADJ
-5 produttore ADJ NOUN
-7 La DET PROPN
-9 Armato PROPN VERB
-10 algerino ADJ VERB
-5 solista ADJ NOUN
-5 ventesimo PRON ADJ
-2 che DET PRON
-3 anno NOUN VERB
-1 Che DET PRON
-4 run X DET
-5 king-size ADJ PROPN
-2 animale ADJ NOUN
-5 suoni NOUN ADJ
-17 de ADP VERB
-18 L' PROPN DET
-14 s.p.a. PROPN NOUN
-23 sarà AUX VERB
-19 tanti ADJ DET
-20 sottopagati ADJ NOUN
-24 indegni ADJ NOUN
-14 riscaldati VERB NOUN
-19 delle DET _
-22 affidati VERB NOUN
-12 via ADV VERB
-18 eco NOUN ADJ
-4 cover NOUN PROPN
-16 questa PRON DET
-17 dipenda VERB NOUN
-3 che SCONJ PRON
-31 volta VERB NOUN
-1 Onorevole ADJ NOUN
-6 cura NOUN ADJ
-1 Onorevole ADJ NOUN
-1 Vorrei AUX DET
-49 semplici ADJ NOUN
-8 sia VERB CONJ
-19 che CONJ PRON
-4 decidi VERB NOUN
-10 dispositivo ADJ NOUN
-11 mobile NOUN ADJ
-17 tu PRON ADP
-14 data NOUN VERB
-26 su ADV ADP
-1 Tasso PROPN NOUN
-1 È VERB AUX
-2 rinomato ADJ VERB
-9 si PRON VERB
-13 contro ADV NOUN
-15 rivoluzionari NOUN ADJ
-1 Le PROPN DET
-8 La PROPN DET
-13 maniere NOUN VERB
-9 esemplare NOUN ADJ
-31 come ADP SCONJ
-22 fino ADP ADV
-3 vera NOUN ADJ
-4 data ADJ NOUN
-7 rimane VERB ADJ
-8 sconosciuta NOUN VERB
-12 la PRON DET
-13 si PRON NOUN
-22 san ADJ NOUN
-19 ricco NOUN ADJ
-11 v. ADP VERB
-2 sue PRON DET
-10 inediti ADJ NOUN
-16 erano VERB AUX
-18 standardizzate ADJ VERB
-11 critici ADJ NOUN
-23 post ADJ NOUN
-12 incinta ADJ VERB
-3 tardo ADJ NOUN
-23 che SCONJ PRON
-11 ammortizzatori NOUN ADJ
-26 che CONJ SCONJ
-11 che PRON SCONJ
-11 ereditati VERB NOUN
-33 che CONJ PRON
-8 semplici ADJ PRON
-4 più DET ADV
-5 continua VERB ADJ
-17 più DET ADV
-18 brillanti NOUN ADJ
-23 manifatturiero ADJ NOUN
-33 hi NOUN ADJ
-10 come ADP SCONJ
-13 onde NOUN VERB
-33 anziani ADJ NOUN
-28 fino ADP ADV
-20 strigliata NOUN VERB
-29 presunta VERB ADJ
-15 gialla ADJ NOUN
-7 basata ADJ VERB
+12: 3 avevano AUX VERB
+53: 14 qualcun PRON DET
+54: 15 altro ADJ PRON
+60: 21 possegga VERB ADP
+106: 5 tipica ADJ NOUN
+107: 6 camminata NOUN VERB
+146: 32 Rosa PROPN NOUN
+170: 17 spegnere VERB NOUN
+188: 9 figlia NOUN VERB
+190: 11 questo DET PRON
+217: 34 rassicurante ADJ ADP
+315: 23 un NUM DET
+318: 26 tutti PRON DET
+428: 18 scene NOUN PRON
+466: 51 bianchi NOUN ADJ
+469: 54 volevano AUX VERB
+568: 5 altri DET ADJ
+569: 6 grandi NOUN ADJ
+609: 9 solo ADJ ADV
+662: 59 fosse AUX VERB
+668: 1 Dietro ADP ADV
+671: 4 affumicate ADJ VERB
+686: 19 soddisfatto ADJ NOUN
+690: 2 militanti NOUN DET
+691: 3 serbi ADJ NOUN
+726: 16 invidia NOUN VERB
+743: 12 lungo ADJ NOUN
+764: 12 questo PRON DET
+773: 3 Parlamento PROPN NOUN
+785: 15 ... PUNCT PAUSE
+791: 3 duro NOUN ADJ
+797: 9 ha VERB NOUN
+804: 16 sere NOUN VERB
+805: 17 fa ADV VERB
+843: 50 normale NOUN ADJ
+854: 9 lo PRON DET
+870: 1 Stia VERB NOUN
+874: 5 stesso ADV ADJ
+903: 6 tremenda ADJ NOUN
+941: 9 che SCONJ PRON
+949: 17 parlamentare NOUN ADJ
+969: 37 precisa ADJ NOUN
+989: 2 come ADV ADP
+990: 3 no INTJ NOUN
+992: 5 come ADV ADP
+1014: 1 Altre DET ADV
+1022: 9 zona NOUN ADJ
+1046: 5 ha AUX VERB
+1135: 4 tutta PRON DET
+1169: 6 boa NOUN ADP
+1217: 16 cardiache ADJ PRON
+1234: 15 loro PRON DET
+1243: 24 doppia ADJ NOUN
+1247: 28 norma NOUN VERB
+1248: 29 elementare ADJ VERB
+1290: 38 tentato VERB NOUN
+1338: 5 presenti VERB ADJ
+1355: 5 siano VERB AUX
+1356: 6 proposte NOUN VERB
+1357: 7 serie ADJ NOUN
+1373: 11 Costituzionali PROPN ADJ
+1398: 19 altre DET ADJ
+1411: 8 fin ADV ADP
+1422: 4 antiberlusconiani ADJ NOUN
+1429: 11 donchisciotteschi ADJ PRON
+1461: 27 eccetera ADV VERB
+1466: 3 po' ADV NOUN
+1469: 6 appeal NOUN DET
+1476: 4 apolide NOUN ADJ
+1481: 9 che SCONJ PRON
+1482: 10 quarantenne ADJ NOUN
+1518: 1 Mare NOUN VERB
+1521: 4 vien VERB ADP
+1533: 1 Capri PROPN VERB
+1546: 12 sottili ADJ NOUN
+1547: 13 profili NOUN ADJ
+1563: 26 verdeggianti ADJ NOUN
+1564: 27 piane NOUN ADJ
+1572: 1 inquietanti ADJ DET
+1636: 9 mezz' ADJ ADP
+1637: 10 ora NOUN ADV
+1657: 12 attimo NOUN ADJ
+1671: 2 Comune PROPN NOUN
+1696: 11 L. NOUN PROPN
+1706: 21 sia VERB CONJ
+1743: 19 cui PRON DET
+1777: 23 diretta NOUN ADJ
+1806: 4 faccende NOUN VERB
+1812: 10 taglia VERB AUX
+1813: 11 corto ADV VERB
+1830: 13 salpa VERB ADP
+1868: 6 lungo ADP ADJ
+1898: 2 po' ADV NOUN
+1924: 7 po' PRON NOUN
+1925: 8 male NOUN ADV
+1959: 8 altre DET ADJ
+1978: 3 first NOUN ADJ
+2006: 10 la PRON DET
+2047: 1 Precisa ADJ VERB
+2073: 12 eccitanti NOUN VERB
+2148: 22 contro ADV ADP
+2225: 2 Baggio PROPN NOUN
+2355: 5 don NOUN ADV
+2406: 5 tante DET NOUN
+2414: 13 degradata ADJ VERB
+2434: 2 una PRON DET
+2445: 13 loro PRON DET
+2465: 7 anziane ADJ NOUN
+2475: 1 Negozi NOUN DET
+2478: 4 aperti VERB ADJ
+2497: 15 una NUM DET
+2503: 1 Slot NOUN DET
+2535: 9 altre DET PRON
+2565: 9 quali PRON DET
+2575: 2 buone ADJ NOUN
+2611: 11 accurata ADJ NOUN
+2644: 29 quadri ADJ NOUN
+2713: 2 ultimi NOUN ADJ
+2719: 8 rigato ADJ VERB
+2740: 19 imbottito VERB NOUN
+2762: 2 stessa PRON ADJ
+2866: 8 distr. VERB NOUN
+2920: 11 smaltati ADJ VERB
+2921: 12 lisci ADJ VERB
+2932: 7 è VERB AUX
+2941: 16 pose NOUN SCONJ
+2943: 18 controllate VERB ADJ
+2971: 44 grezzo ADJ NOUN
+2984: 2 primo PRON ADJ
+2995: 12 apposta ADV ADJ
+3021: 11 piano ADV NOUN
+3041: 9 cosce NOUN VERB
+3043: 11 sedere NOUN VERB
+3116: 9 ricostituente NOUN ADJ
+3131: 11 ricorri VERB NOUN
+3148: 8 diritta ADJ NOUN
+3151: 11 prima PRON ADJ
+3184: 9 equilibrata ADJ VERB
+3188: 13 grassi NOUN ADJ
+3204: 1-2 Frizionale _ ADJ
+3205: 1 Friziona VERB PROPN
+3206: 2 le PRON DET
+3223: 19 una NUM DET
+3232: 28 uno DET PRON
+3235: 31 come ADP ADV
+3245: 40 addolcenti VERB ADJ
+3255: 50 exfoliant ADJ NOUN
+3258: 53 tonificante ADJ VERB
+3304: 4 tutto PRON DET
+3347: 15 che SCONJ PRON
+3364: 5 che DET PRON
+3365: 6 santo NOUN ADV
+3444: 11 impatto NOUN VERB
+3506: 21 II ADJ PROPN
+3550: 9 subito VERB ADV
+3613: 2 Cole PROPN ADJ
+3615: 4 responsabile NOUN ADJ
+3634: 22 delusi ADJ NOUN
+3741: 29 raggiunto VERB ADJ
+3769: 1 Romana PROPN ADJ
+3775: 7 Terni PROPN NOUN
+3785: 17 Valdarno PROPN INTJ
+3790: 22 Metallurgica PROPN ADJ
+3795: 27 Navigazione PROPN NOUN
+3822: 54 credito NOUN VERB
+3829: 61 Buoni NOUN PROPN
+3840: 71 lire NOUN VERB
+3843: 74 conto ADJ NOUN
+3847: 78 lire NOUN VERB
+3868: 16 come CONJ ADP
+3881: 27 altre DET ADJ
+3889: 34 che SCONJ PRON
+3894: 39 cospicuo ADJ DET
+3917: 8 chiunque PRON ADV
+3918: 9 altro ADJ PRON
+3937: 8 bene NOUN ADV
+3939: 10 più DET ADV
+4006: 9 è VERB AUX
+4007: 10 munito ADJ VERB
+4145: 9 prevale VERB ADJ
+4232: 6 limitato VERB ADJ
+4241: 15 che PRON SCONJ
+4248: 21 quale PRON DET
+4294: 63 ordinario ADJ NOUN
+4362: 4 nota ADJ VERB
+4393: 32 affissa VERB NOUN
+4554: 12 esistente VERB ADJ
+4576: 1 Ispirato ADJ VERB
+4578: 3 chiare ADJ VERB
+4721: 13 incontro ADV NOUN
+4799: 17 fermi ADJ NOUN
+4864: 5 cosa NOUN PRON
+4914: 43 dopo ADV ADP
+4970: 25 segua VERB DET
+5053: 49 atte ADJ VERB
+5087: 20 una ADJ DET
+5131: 4 circa ADP ADV
+5267: 3 assenti NOUN VERB
+5278: 13 stata AUX VERB
+5336: 2 diversa ADJ DET
+5371: 32 colposi ADJ NOUN
+5373: 34 costoro PRON NOUN
+5417: 16 subito VERB ADV
+5424: 23 alcunché PRON CONJ
+5553: 29 lo PRON DET
+5554: 30 autorizzi VERB NOUN
+5602: 3 privati NOUN ADJ
+5634: 14 regolare VERB ADJ
+5648: 6 media ADJ DET
+5655: 4 deputati NOUN VERB
+5715: 9 Presidenza NOUN PROPN
+5787: 24 leda VERB ADP
+5867: 34 preesistenti ADJ VERB
+5895: 15 oltre ADV ADP
+5951: 18 fissate VERB NOUN
+6039: 35 Dicembre NOUN PROPN
+6237: 1 Appena SCONJ ADV
+6373: 2 Papa NOUN PROPN
+6393: 22 tutti PRON DET
+6436: 7 contro ADV ADP
+6462: 3 albanese NOUN ADJ
+6465: 6 vive VERB NOUN
+6493: 1 Sale VERB NOUN
+6496: 4 lire NOUN VERB
+6550: 41 accentuato ADJ NOUN
+6622: 62 meno PRON ADV
+6648: 9 prefissate VERB ADJ
+6692: 50 stranieri NOUN ADJ
+6764: 3 europea PROPN ADJ
+6797: 11 Centro NOUN PROPN
+6799: 13 destra NOUN VERB
+6818: 31 neutra ADJ ADP
+6835: 46 sede NOUN VERB
+6880: 10 franche ADJ ADV
+6881: 11 esentasse ADJ PRON
+6895: 2 tutto PRON DET
+6907: 14 che PRON DET
+7013: 16 eccedenti VERB ADJ
+7076: 24 è AUX VERB
+7118: 19 socialista ADJ NOUN
+7148: 2 pensi VERB PRON
+7156: 10 su ADV ADP
+7157: 11 finisci VERB NOUN
+7162: 1 Eppure CONJ ADV
+7167: 6 dietro ADP ADV
+7169: 8 netta ADJ NOUN
+7170: 9 sconfitta NOUN VERB
+7183: 21 scricchiolii NOUN DET
+7184: 22 sinistri ADJ NOUN
+7194: 8 strana ADJ NOUN
+7237: 6 scontati ADJ VERB
+7246: 15 incontrastato ADJ NOUN
+7318: 34 sanno AUX VERB
+7333: 12 sol ADJ NOUN
+7351: 29 favoriti ADJ VERB
+7358: 35 finalissima NOUN ADJ
+7380: 2 Isola NOUN PROPN
+7391: 12 la PRON DET
+7392: 13 ideò VERB NOUN
+7406: 11 stabile NOUN ADJ
+7494: 7 Salone NOUN PROPN
+7536: 2 Beato ADJ VERB
+7582: 11 Esteri NOUN PROPN
+7643: 36 sia CONJ VERB
+7671: 7 maggiore ADJ NOUN
+7684: 20 prima ADJ ADV
+7709: 45 riservato ADJ VERB
+7726: 2 generale ADJ NOUN
+7765: 11 tedeschi ADJ NOUN
+7785: 31 aerei ADJ VERB
+7834: 25 respiratorie ADJ NOUN
+7837: 28 cancerogeno ADJ ADV
+7936: 33 豊島線 PROPN PUNCT
+8011: 11 lungo ADP ADJ
+8039: 6 Linea NOUN PROPN
+8063: 29 come ADV ADP
+8178: 25 ancor ADV NOUN
+8235: 1 Oltre ADP ADV
+8255: 19 spago NOUN ADJ
+8272: 7 isola VERB NOUN
+8288: 21 usano VERB NOUN
+8324: 5 che SCONJ PRON
+8481: 25 ultimo NOUN PRON
+8551: 29 soggetto NOUN ADJ
+8562: 38 ivi ADV ADJ
+8563: 39 comprese ADJ VERB
+8595: 6 Comitato PROPN NOUN
+8610: 7 sono AUX VERB
+8663: 8 ravvicinati ADJ VERB
+8707: 5 Congresso NOUN PROPN
+8917: 9 UNITA PROPN VERB
+8925: 4 maggior NOUN ADJ
+8926: 5 produttore ADJ NOUN
+9029: 7 La DET PROPN
+9046: 9 Armato PROPN VERB
+9047: 10 algerino ADJ VERB
+9054: 5 solista ADJ NOUN
+9083: 5 ventesimo PRON ADJ
+9158: 2 che DET PRON
+9159: 3 anno NOUN VERB
+9194: 1 Che DET PRON
+9250: 4 run X DET
+9294: 5 king-size ADJ PROPN
+9298: 2 animale ADJ NOUN
+9339: 5 suoni NOUN ADJ
+9530: 17 de ADP VERB
+9531: 18 L' PROPN DET
+9639: 14 s.p.a. PROPN NOUN
+9677: 23 sarà AUX VERB
+9704: 19 tanti ADJ DET
+9734: 20 sottopagati ADJ NOUN
+9738: 24 indegni ADJ NOUN
+9754: 14 riscaldati VERB NOUN
+9759: 19 delle DET _
+9762: 22 affidati VERB NOUN
+9780: 12 via ADV VERB
+9786: 18 eco NOUN ADJ
+9861: 4 cover NOUN PROPN
+9944: 16 questa PRON DET
+9945: 17 dipenda VERB NOUN
+9975: 3 che SCONJ PRON
+10035: 31 volta VERB NOUN
+10090: 1 Onorevole ADJ NOUN
+10095: 6 cura NOUN ADJ
+10101: 1 Onorevole ADJ NOUN
+10157: 1 Vorrei AUX DET
+10315: 49 semplici ADJ NOUN
+10387: 8 sia VERB CONJ
+10506: 14 sia CONJ VERB
+10511: 19 che CONJ PRON
+10591: 4 decidi VERB NOUN
+10597: 10 dispositivo ADJ NOUN
+10598: 11 mobile NOUN ADJ
+10653: 14 data NOUN VERB
+10666: 26 su ADV ADP
+10669: 1 Tasso PROPN NOUN
+10690: 1 È VERB AUX
+10691: 2 rinomato ADJ VERB
+10733: 9 si PRON VERB
+10793: 13 contro ADV NOUN
+10795: 15 rivoluzionari NOUN ADJ
+10819: 1 Le PROPN DET
+10826: 8 La PROPN DET
+10858: 13 maniere NOUN VERB
+10905: 9 esemplare NOUN ADJ
+10916: 19 analitica ADJ NOUN
+10929: 31 come ADP SCONJ
+11005: 15 ebbe VERB NOUN
+11032: 22 fino ADP ADV
+11042: 3 vera NOUN ADJ
+11043: 4 data ADJ NOUN
+11046: 7 rimane VERB ADJ
+11047: 8 sconosciuta NOUN VERB
+11051: 12 la PRON DET
+11052: 13 si PRON NOUN
+11061: 22 san ADJ NOUN
+11118: 19 ricco NOUN ADJ
+11188: 11 v. ADP VERB
+11209: 2 sue PRON DET
+11283: 10 inediti ADJ NOUN
+11342: 16 erano VERB AUX
+11344: 18 standardizzate ADJ VERB
+11380: 11 critici ADJ NOUN
+11393: 23 post ADJ NOUN
+11412: 12 incinta ADJ VERB
+11418: 3 tardo ADJ NOUN
+11483: 23 che SCONJ PRON
+11510: 11 ammortizzatori NOUN ADJ
+11568: 21 sia CONJ VERB
+11573: 26 che CONJ SCONJ
+11593: 11 che PRON SCONJ
+11627: 11 ereditati VERB NOUN
+11650: 33 che CONJ PRON
+11669: 8 semplici ADJ PRON
+11687: 4 più DET ADV
+11708: 5 continua VERB ADJ
+11722: 17 più DET ADV
+11723: 18 brillanti NOUN ADJ
+11728: 23 manifatturiero ADJ NOUN
+11739: 33 hi NOUN ADJ
+11759: 13 onde NOUN VERB
+11841: 33 anziani ADJ NOUN
+11955: 28 fino ADP ADV
+12035: 20 strigliata NOUN VERB
+12045: 29 presunta VERB ADJ
+12068: 15 gialla ADJ NOUN
+12089: 7 basata ADJ VERB

@@ -67,6 +67,9 @@ public class UDlanguageMDPmodelFactory {
 
 	private void testAllLanguages() throws IOException{
 		UDlanguagePerformance udPerformance = new UDlanguagePerformance();
+		long time1;
+		long time2;
+		time1 = System.currentTimeMillis();
 		for (Pair<String, String> language : UDlanguages.languages){
 			System.out.println("Testing of: " + language);
 			this.testLanguage(language.getL(), language.getR());
@@ -75,12 +78,16 @@ public class UDlanguageMDPmodelFactory {
 			MDPperformance mdpPerformance = new MDPperformance(this.eval);
 			udPerformance.addNewLanguageMDPperformance(language.getR(), mdpPerformance);
 		}
+		time2 = System.currentTimeMillis();
+		System.out.println("Complete testing for " + UDlanguages.languages.size() + " languages:");
+		System.out.println("System time (msec): " + (time2-time1));
 		System.out.println(udPerformance.toMDPString());
 	}
 
 	public static void main(String[] args) 
 			throws IOException, NoSuchAlgorithmException, InvalidInputDataException{
 		UDlanguageMDPmodelFactory udFactory = new UDlanguageMDPmodelFactory("1_3");
+		UDlanguages.ignore = true;
 		udFactory.testAllLanguages();
 	}
 }

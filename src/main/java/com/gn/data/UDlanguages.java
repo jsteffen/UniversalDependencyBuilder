@@ -11,6 +11,8 @@ public class UDlanguages {
 	public static String conllPath = null;
 	public static String version = null;
 
+	public static boolean ignore = false;
+
 	public static List<Pair<String,String>> languages = new ArrayList<Pair<String,String>>();
 
 	public static void setVersion_1_2(){
@@ -89,7 +91,10 @@ public class UDlanguages {
 		languages.add(new Pair<String,String>("Kazakh", "kk"));
 		languages.add(new Pair<String,String>("Latin", "la"));
 		languages.add(new Pair<String,String>("Latin-ITTB", "la_ittb"));
-		// languages.add(new Pair<String,String>("Latin-PROIEL", "la_proiel")); // causes unvalid label error in MDP parser and LibLinear
+		// Latin-PROIEL causes unvalid label error in MDP parser and LibLinear, so ignore eventually
+		if (UDlanguages.ignore){
+			languages.add(new Pair<String,String>("Latin-PROIEL", "la_proiel")); 
+		};
 		languages.add(new Pair<String,String>("Latvian", "lv"));
 		languages.add(new Pair<String,String>("Norwegian", "no"));
 		languages.add(new Pair<String,String>("Old_Church_Slavonic", "cu"));

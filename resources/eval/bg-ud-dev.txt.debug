@@ -1,500 +1,457 @@
-ADJ:NOUN	40
-ADJ:VERB	36
-NOUN:VERB	24
-NOUN:PROPN	23
-VERB:NOUN	22
-AUX:VERB	21
-VERB:ADJ	15
-NOUN:ADJ	15
-VERB:AUX	15
-ADJ:ADV	15
-PUNCT:PAUSE	14
-PROPN:NOUN	12
-ADV:NOUN	12
-DET:PRON	12
-DET:NUM	11
-ADV:ADJ	11
-ADJ:PROPN	10
-INTJ:PART	6
-NOUN:ADV	6
-PROPN:ADJ	6
-ADJ:PRON	6
-ADJ:NUM	5
-NOUN:CONJ	5
-VERB:PRON	5
-NOUN:ADP	5
-DET:ADJ	5
-VERB:PART	5
-PRON:DET	5
-NOUN:PRON	4
-NUM:DET	4
-DET:VERB	4
-PROPN:ADP	4
-PART:PRON	3
-NOUN:PART	3
-DET:NOUN	3
-PRON:ADJ	3
-PART:VERB	3
-ADJ:ADP	3
-VERB:CONJ	2
-SCONJ:ADP	2
-NUM:ADJ	2
-VERB:ADP	2
-PRON:AUX	2
-CONJ:PUNCT	2
-PROPN:CONJ	2
-ADV:CONJ	2
-PROPN:VERB	2
-ADJ:DET	2
-PRON:NUM	2
-PRON:VERB	2
-VERB:PROPN	2
-NOUN:DET	2
-CONJ:PROPN	1
-PROPN:PART	1
-PRON:PROPN	1
-PART:ADV	1
-DET:PROPN	1
-ADV:ADP	1
-PUNCT:ADP	1
-AUX:PRON	1
-CONJ:PRON	1
-VERB:NUM	1
-ADV:VERB	1
-SCONJ:NOUN	1
-PART:NOUN	1
-PART:CONJ	1
-ADP:PROPN	1
-VERB:INTJ	1
-DET:ADV	1
-ADV:PROPN	1
-PRON:ADV	1
-VERB:SCONJ	1
-PROPN:ADV	1
-CONJ:VERB	1
-PART:DET	1
-INTJ:VERB	1
-PROPN:PRON	1
-NOUN:INTJ	1
-PROPN:AUX	1
-NOUN:SCONJ	1
-CONJ:NOUN	1
-ADV:PRON	1
-�о PRON DET
-10 очевидно ADJ ADV
-1 То PART PRON
-3 паднала ADJ VERB
-1 Да INTJ PART
-2 МЕН PRON PROPN
-3 че SCONJ NOUN
-2 сприхав ADJ NOUN
-1 Договорил VERB PROPN
-2 е AUX VERB
-16 взаимно ADV ADJ
-19 беше AUX VERB
-2 онова DET PRON
-8 дълго ADJ ADV
-17 Сатирата PROPN NOUN
-6 по-силно ADJ ADV
-1 Ето PART ADV
-5 бяха AUX VERB
-7 отчаяли VERB PART
-18 свидетелства VERB NOUN
-11 образувани ADJ VERB
-3 глъчка NOUN VERB
-5 тропот NOUN ADP
-4 здрави ADJ VERB
-8 уверени ADJ VERB
-1 Тяхната DET ADJ
-6 фаза NOUN ADP
-7 впоследствие ADV NOUN
-16 качествено ADV ADJ
-42 немислими ADJ PRON
-2 сме AUX VERB
-7 цифров ADJ ADP
-9 всекидневно ADV ADJ
-15 ведро NOUN ADV
-17 правилно ADJ ADV
-1 Очевидна ADJ VERB
-2 е VERB NOUN
-14 загинали ADJ NOUN
-1 Кой DET PRON
-2 бъде AUX VERB
-4 спазен VERB ADJ
-9 европейски ADV ADJ
-4 свако NOUN SCONJ
-6 си PRON AUX
-10 ... PUNCT PAUSE
-3 звено NOUN VERB
-5 постъпилите ADJ NOUN
-4 една DET NOUN
-5 великолепна ADJ ADP
-1 Нима PART VERB
-1 Денят NOUN VERB
-11 внесено ADJ VERB
-40 ни PRON ADJ
-12 майстори NOUN VERB
-14 занаятчии NOUN CONJ
-5 широката ADJ NOUN
-9 уж PART NOUN
-11 български ADV ADJ
-12 ме PRON AUX
-2 й PRON VERB
-13 бе AUX VERB
-14 подкрепяно VERB CONJ
-2 нисък ADJ NOUN
-7 провиснал ADJ VERB
-18 мило ADV ADJ
-3 цивилизовано ADV VERB
-5 нощи NOUN ADV
-10 брули VERB PART
-16 коне NOUN INTJ
-10 бойната ADJ NOUN
-4 висшето ADJ DET
-5 доброто NOUN ADJ
-8 е VERB AUX
-8 деловия ADJ NOUN
-9 климат NOUN VERB
-3 разходите VERB NOUN
-10 ... PUNCT PAUSE
-4 трудна ADJ VERB
-5 сложен ADJ VERB
-7 има VERB NUM
-8 блика VERB NOUN
-7 ада NOUN PART
-13 да INTJ PART
-4 потрети VERB ADJ
-16 поусмихне VERB INTJ
-21 шепа NOUN CONJ
-4 да INTJ PART
-15 да INTJ PART
-5 осъден VERB NOUN
-6 е AUX VERB
-2 чудото NOUN ADJ
-2 страха NOUN VERB
-6 уязвим ADJ PRON
-5 един DET NUM
-33 я PRON VERB
-34 приюти VERB PRON
-1 Е PART VERB
-11 мои DET VERB
-7 чуй VERB PRON
-3 ... PUNCT PAUSE
-1 Юношата NOUN DET
-11 химни NOUN ADJ
-4 ЗАДЪЛЖЕНИЯ NOUN PROPN
-5 НА ADP PROPN
-6 ГРАЖДАНИТЕ NOUN PROPN
-9 майчин ADJ NOUN
-17 приет ADJ VERB
-3 лично ADJ ADV
-9 едно NUM DET
-1 ГЕРБ NOUN PROPN
-3 ПЕЧАТ NOUN PROPN
-5 ЗНАМЕ NOUN PROPN
-7 ХИМН NOUN PROPN
-9 СТОЛИЦА NOUN PROPN
-9 дойче ADJ ADV
-4 една DET NUM
-3 разпадналото ADJ NOUN
-7 записки NOUN ADJ
-1 Мами VERB CONJ
-2 Църквата NOUN PROPN
-3 всеки PRON DET
-4 говори VERB NOUN
-6 едно DET NUM
-7 изследвани VERB ADJ
-11 една NUM DET
-21 заплахи NOUN CONJ
-6 характерно ADJ ADV
-17 et CONJ NOUN
-18 al. ADJ NOUN
-20 1985 ADJ NUM
-5 наш DET VERB
-4 Затъмнението PROPN NOUN
-7 Канал NOUN PROPN
-13 Втория ADJ PROPN
-13 руска ADJ VERB
-9 събс PROPN ADP
-1 Жп ADJ PROPN
-9 Св. PROPN ADJ
-2 едно DET NUM
-13 урната NOUN ADJ
-6 - PUNCT ADP
-8 това DET PRON
-5 треперела VERB NOUN
-10 ... PUNCT PAUSE
-12 спонсорирано ADJ VERB
-11 ограбен VERB ADJ
-3 да INTJ PART
-22 уречения ADJ NOUN
-1 Никой DET PRON
-14 чиято DET PRON
-13 Европата PROPN NOUN
-3 бъдат AUX VERB
-15 ни PRON ADJ
-1 Диниз PROPN ADP
-9 вериги NOUN PRON
-1 Ванеса PROPN AUX
-28 Собеседник NOUN PROPN
-17 зелено NOUN ADV
-19 розово NOUN ADV
-28 зелено NOUN ADV
-30 бебешки ADV NOUN
-31 меките ADJ NOUN
-32 розово NOUN ADV
-34 синьо NOUN ADJ
-1 Лютфи PROPN CONJ
-3 планирани VERB ADJ
-13 шума NOUN VERB
-22 участвали ADJ VERB
-15 набелязани ADJ VERB
-21 ГУ NOUN PROPN
-1 Останалото VERB ADJ
-2 са AUX VERB
-3 минуси NOUN PRON
-13 стаи NOUN CONJ
-3 бъде VERB AUX
-11 бе VERB AUX
-12 неин DET VERB
-13 II PROPN ADJ
-15 квадрат NOUN VERB
-3 нашият DET ADJ
-13 цяло ADJ NUM
-11 втори ADJ NOUN
-17 сравнено ADJ VERB
-11 сама ADJ NOUN
-1 Това DET PRON
-6 прави ADJ VERB
-9 въпроса NOUN VERB
-1 Благодарим VERB PRON
-13 възмути VERB PRON
-10 е VERB AUX
-11 персонал NOUN VERB
-3 съм VERB AUX
-4 ангажиран ADJ VERB
-11 тестени ADJ NOUN
-1 Неколцина PRON NUM
-3 мълчаливите ADJ NOUN
-4 2 ADJ NUM
-10 барел NOUN ADJ
-10 човешка ADJ NOUN
-24 получени ADJ VERB
-6 каскада NOUN VERB
-11 преди ADV ADP
-18 Централно ADJ PROPN
-2 сме VERB AUX
-6 цял ADJ NOUN
-3 вашият DET ADJ
-16 напролет ADV NOUN
-1 Малка ADJ NOUN
-6 отдадена ADJ NOUN
-31 свръхмодерно ADJ ADV
-32 автоматизирано ADJ ADV
-34 роботизирано ADJ ADV
-47 Космоса NOUN PROPN
-2 Театър NOUN PROPN
-11 тенис NOUN ADP
-8 Господния ADJ PROPN
-9 Предтеча NOUN PROPN
-16 Спасителя NOUN PROPN
-11 изпуснат ADJ VERB
-8 видимо ADV NOUN
-5 XXI ADJ PROPN
-12 един DET NUM
-12 брат NOUN VERB
-3 свежи ADJ NOUN
-8 придобива VERB ADJ
-13 бъде VERB AUX
-14 надпартиен ADJ VERB
-11 ... PUNCT PAUSE
-1 Конгресът PROPN NOUN
-1 Аморузо PROPN ADV
-1 Безвъзмездно ADV CONJ
-41 мама PROPN NOUN
-42 скендъл PROPN VERB
-14 бил VERB AUX
-2 спайска NOUN ADJ
-1 Бил VERB PROPN
-2 е AUX VERB
-1 Единият PRON NUM
-1 Ама CONJ PROPN
-7 висша ADJ VERB
-7 провеждали VERB PART
-17 2000 PROPN ADJ
-8 Г NOUN PROPN
-19 ВИП PROPN NOUN
-14 разясни VERB ADJ
-8 избрана VERB NOUN
-2 крило NOUN VERB
-4 едно DET ADV
-12 живо ADV NOUN
-10 ... PUNCT PAUSE
-4 издаден ADJ VERB
-6 изд. PROPN NOUN
-17 признатия ADJ DET
-18 ни PRON ADJ
-15 благородно ADV ADJ
-3 направил VERB ADJ
-7 отпуската NOUN ADJ
-2 вида NOUN PART
-2 мота VERB NOUN
-10 ОРБ NOUN PROPN
-2 са AUX VERB
-3 коза NOUN ADP
-5 рекламен ADJ PRON
-24 е VERB AUX
-25 ограничен ADJ VERB
-10 едните DET ADJ
-1 Яна PROPN ADP
-11 е VERB AUX
-4 стои VERB NOUN
-4 нужно ADV CONJ
-6 да PROPN PART
-6 срещите NOUN ADJ
-11 - CONJ PUNCT
-22 - CONJ PUNCT
-7 починали ADJ VERB
-4 30 NUM ADJ
-27 ... PUNCT PAUSE
-9 ядрената ADJ NOUN
-16 смята VERB NOUN
-3 архив NOUN ADP
-3 твърдите VERB NOUN
-18 наречен ADJ VERB
-27 баска NOUN ADJ
-8 следван ADJ VERB
-1 Животното NOUN ADJ
-3 сме VERB AUX
-11 хариза VERB ADP
-13 Бисер NOUN PROPN
-1 Предвидени VERB ADJ
-10 натрупан ADJ NOUN
-11 и PROPN CONJ
-20 са AUX VERB
-3 заподозрения ADJ NOUN
-4 довело VERB NOUN
-9 добри ADJ VERB
-1 Рупрехт PROPN NOUN
-5 участва VERB NOUN
-9 интернешънъл PROPN VERB
-10 ... PUNCT PAUSE
-5 Holler NOUN PROPN
-4 Тара NOUN PROPN
-15 организирано ADJ VERB
-18 Вси DET PROPN
-2 са AUX VERB
-16 образи NOUN VERB
-18 русокоси ADJ PRON
-21 изтезавани ADJ VERB
-4 влияете VERB NOUN
-8 като SCONJ ADP
-16 среща VERB NOUN
-4 да INTJ PART
-4 една DET NUM
-20 перспектива NOUN VERB
-23 Титова PROPN ADJ
-27 1965 ADJ NUM
-2 доминиращата ADJ NOUN
-13 една DET NUM
-10 сме VERB AUX
-11 богати ADJ VERB
-5 СДС-та PROPN NOUN
-6 е AUX VERB
-7 обсъждано VERB PART
-16 е AUX VERB
-17 обсъждано VERB PART
-14 една DET NUM
-7 дарения NOUN ADJ
-2 Клинтън PROPN NOUN
-16 асамблея NOUN VERB
-4 починали VERB ADJ
-7 са AUX VERB
-11 една DET NUM
-18 всички PRON DET
-5 си VERB PRON
-6 моя DET NOUN
-2 статуя NOUN PRON
-1 Ах INTJ VERB
-10 закован VERB NOUN
-3 луди ADJ VERB
-9 негови DET VERB
-2 са AUX VERB
-13 красиви ADJ NOUN
-1 Ето PART DET
-15 председателства VERB NOUN
-11 работеща ADJ NOUN
-13 обслужван VERB ADJ
-27 неблагополучия NOUN DET
-19 има VERB NOUN
-21 получен VERB ADJ
-12 отговорно ADJ ADV
-5 огъна VERB ADP
-10 могъща ADJ NOUN
-3 моите DET NOUN
-17 това DET PRON
-10 длани NOUN ADJ
-5 това DET PRON
-22 ... PUNCT PAUSE
-9 си AUX PRON
-4 пишейки ADV NOUN
-15 Христа PROPN ADJ
-3 отдава VERB ADJ
-1 Стресиращо ADJ PRON
-2 Ново PROPN ADJ
-9 среда NOUN VERB
-3 получа VERB AUX
-8 е AUX VERB
-7 то PART PRON
-22 Форум NOUN PROPN
-24 леката ADJ NOUN
-16 Топлофикация NOUN PROPN
-12 шестимата NUM ADJ
-7 хлебно ADJ ADV
-4 US ADJ PROPN
-8 лесно ADJ ADV
-18 територии NOUN CONJ
-6 ярко ADV ADJ
-1 Един NUM DET
-12 един NUM DET
-10 гл. ADJ NOUN
-17 гл. ADJ NOUN
-4 пъшка VERB NOUN
-19 вагоните NOUN VERB
-24 солидни ADJ NOUN
-41 реноме NOUN PRON
-18 то PART PRON
-4 18.02 ADJ NUM
-17 Слънчев ADJ PROPN
-20 ... PUNCT PAUSE
-33 ... PUNCT PAUSE
-36 е AUX VERB
-40 ... PUNCT PAUSE
-24 възможно ADJ ADV
-9 медали NOUN PART
-18 един PRON DET
-7 кой DET PRON
-6 превърнало ADJ VERB
-11 който DET PRON
-22 ... PUNCT PAUSE
-1 Е PART VERB
-1 Всеки PRON DET
-17 постоянната ADJ NOUN
-11 панели NOUN VERB
-11 изминалото ADJ NOUN
-14 строго ADV PRON
-3 животното NOUN ADJ
-1 Това DET PRON
-5 това DET PRON
-1 Газова ADJ VERB
-6 рани VERB ADJ
-9 ... PUNCT PAUSE
-3 предстояща ADJ NOUN
-1 Бивш ADJ PROPN
-23 няколко PRON ADV
-16 Слънцето PROPN NOUN
-22 прави ADJ VERB
-12 работещи ADJ NOUN
-1 US ADJ PROPN
-13 преобладаващо ADV ADJ
-37 Велика ADJ PROPN
+8: 1 Страх NOUN VERB
+23: 2 скали NOUN VERB
+24: 3 отсреща ADV NOUN
+34: 7 хубавата ADJ NOUN
+57: 4 надлъж ADV NOUN
+59: 6 нашир ADV NOUN
+71: 8 по-ниско ADV ADJ
+82: 3 позвънете VERB NOUN
+89: 2 чистата ADJ NOUN
+131: 1 Ту-ту CONJ PRON
+140: 1 Село NOUN PROPN
+166: 9 заскрибуца VERB NOUN
+171: 3 работи NOUN VERB
+174: 6 тука ADV NOUN
+205: 7 бях VERB AUX
+208: 10 бях VERB AUX
+210: 12 мъртъв ADJ ADP
+245: 8 ниско ADV ADJ
+261: 6 плаче VERB SCONJ
+312: 13 едно DET NUM
+373: 1 Ами PART CONJ
+384: 1 Надвечер ADV PROPN
+404: 6 е AUX VERB
+418: 6 земята NOUN VERB
+428: 6 настрана ADV NOUN
+432: 2 техния DET ADJ
+475: 5 очи NOUN VERB
+481: 4 бяха AUX VERB
+485: 8 като SCONJ ADP
+488: 11 неми ADJ PRON
+494: 1 Дунавът PROPN NOUN
+496: 3 тих ADJ VERB
+502: 2 Стоичко PROPN PRON
+506: 6 глух ADJ NOUN
+529: 6 прохладна ADJ VERB
+531: 8 свежа ADJ NOUN
+534: 1 Лепо PROPN ADP
+603: 12 хубаво ADJ ADV
+705: 4 настрана ADV NOUN
+1003: 3 каквото PRON DET
+1016: 10 очевидно ADJ ADV
+1112: 1 Стойко PROPN ADV
+1122: 1 То PART PRON
+1139: 3 паднала ADJ VERB
+1146: 1 Да INTJ PART
+1220: 2 МЕН PRON PROPN
+1221: 3 че SCONJ NOUN
+1226: 2 сприхав ADJ NOUN
+1232: 1 Договорил VERB PROPN
+1233: 2 е AUX VERB
+1261: 16 взаимно ADV ADJ
+1286: 19 беше AUX VERB
+1406: 2 онова DET PRON
+1423: 8 дълго ADJ ADV
+1432: 17 Сатирата PROPN NOUN
+1462: 6 по-силно ADJ ADV
+1497: 5 бяха AUX VERB
+1499: 7 отчаяли VERB PART
+1519: 18 свидетелства VERB NOUN
+1567: 11 образувани ADJ VERB
+1629: 3 глъчка NOUN VERB
+1631: 5 тропот NOUN ADP
+1651: 4 здрави ADJ VERB
+1655: 8 уверени ADJ VERB
+1697: 1 Тяхната DET ADJ
+1702: 6 фаза NOUN ADP
+1703: 7 впоследствие ADV NOUN
+1740: 16 качествено ADV ADJ
+1766: 42 немислими ADJ PRON
+1785: 2 сме AUX VERB
+1809: 7 цифров ADJ ADP
+1856: 9 всекидневно ADV ADJ
+1862: 15 ведро NOUN ADV
+1902: 17 правилно ADJ ADV
+1967: 1 Очевидна ADJ VERB
+1968: 2 е VERB NOUN
+1999: 14 загинали ADJ NOUN
+2020: 1 Кой DET PRON
+2047: 2 бъде AUX VERB
+2049: 4 спазен VERB ADJ
+2097: 9 европейски ADV ADJ
+2121: 4 свако NOUN SCONJ
+2123: 6 си PRON AUX
+2127: 10 ... PUNCT PAUSE
+2173: 3 звено NOUN VERB
+2187: 5 постъпилите ADJ NOUN
+2205: 1 Насвятка VERB NOUN
+2215: 4 една DET NOUN
+2216: 5 великолепна ADJ ADP
+2379: 1 Нима PART VERB
+2394: 1 Денят NOUN VERB
+2451: 11 внесено ADJ VERB
+2465: 25 напред ADV ADP
+2480: 40 ни PRON ADJ
+2512: 12 майстори NOUN VERB
+2514: 14 занаятчии NOUN CONJ
+2539: 5 широката ADJ NOUN
+2543: 9 уж PART NOUN
+2545: 11 български ADV ADJ
+2568: 12 ме PRON AUX
+2575: 2 й PRON VERB
+2602: 13 бе AUX VERB
+2603: 14 подкрепяно VERB CONJ
+2627: 2 нисък ADJ NOUN
+2632: 7 провиснал ADJ VERB
+2643: 18 мило ADV ADJ
+2676: 3 цивилизовано ADV VERB
+2694: 5 нощи NOUN ADV
+2699: 10 брули VERB PART
+2705: 16 коне NOUN INTJ
+2752: 10 бойната ADJ NOUN
+2844: 4 висшето ADJ DET
+2877: 5 доброто NOUN ADJ
+2990: 8 е VERB AUX
+3048: 8 деловия ADJ NOUN
+3049: 9 климат NOUN VERB
+3126: 3 разходите VERB NOUN
+3133: 10 ... PUNCT PAUSE
+3157: 4 трудна ADJ VERB
+3170: 5 сложен ADJ VERB
+3187: 7 има VERB NUM
+3223: 8 блика VERB NOUN
+3280: 7 ада NOUN PART
+3286: 13 да INTJ PART
+3294: 4 потрети VERB ADJ
+3306: 16 поусмихне VERB INTJ
+3311: 21 шепа NOUN CONJ
+3342: 4 да INTJ PART
+3353: 15 да INTJ PART
+3449: 5 осъден VERB NOUN
+3450: 6 е AUX VERB
+3487: 2 чудото NOUN ADJ
+3548: 2 страха NOUN VERB
+3600: 6 уязвим ADJ PRON
+3620: 5 един DET NUM
+3706: 33 я PRON VERB
+3707: 34 приюти VERB PRON
+3713: 1 Е PART VERB
+3729: 11 мои DET VERB
+3739: 7 чуй VERB PRON
+3746: 3 ... PUNCT PAUSE
+3770: 1 Юношата NOUN DET
+3789: 11 химни NOUN ADJ
+3928: 4 ЗАДЪЛЖЕНИЯ NOUN PROPN
+3929: 5 НА ADP PROPN
+3930: 6 ГРАЖДАНИТЕ NOUN PROPN
+3970: 9 майчин ADJ NOUN
+4045: 17 приет ADJ VERB
+4052: 3 лично ADJ ADV
+4078: 9 едно NUM DET
+4127: 11 избрани ADJ VERB
+4133: 1 ГЕРБ NOUN PROPN
+4135: 3 ПЕЧАТ NOUN PROPN
+4137: 5 ЗНАМЕ NOUN PROPN
+4139: 7 ХИМН NOUN PROPN
+4141: 9 СТОЛИЦА NOUN PROPN
+4209: 9 дойче ADJ ADV
+4222: 4 една DET NUM
+4306: 3 разпадналото ADJ NOUN
+4350: 7 записки NOUN ADJ
+4389: 1 Мами VERB CONJ
+4452: 2 Църквата NOUN PROPN
+4478: 3 всеки PRON DET
+4479: 4 говори VERB NOUN
+4506: 6 едно DET NUM
+4618: 7 изследвани VERB ADJ
+4622: 11 една NUM DET
+4661: 21 заплахи NOUN CONJ
+4679: 6 характерно ADJ ADV
+4714: 28 гняв NOUN ADP
+4829: 17 et CONJ NOUN
+4830: 18 al. ADJ NOUN
+4832: 20 1985 ADJ NUM
+4955: 5 наш DET VERB
+5143: 4 Затъмнението PROPN NOUN
+5146: 7 Канал NOUN PROPN
+5172: 13 руска ADJ VERB
+5210: 9 събс PROPN ADP
+5239: 1 Жп ADJ PROPN
+5256: 9 Св. PROPN ADJ
+5379: 2 едно DET NUM
+5413: 13 урната NOUN ADJ
+5425: 6 - PUNCT ADP
+5597: 8 това DET PRON
+5668: 5 треперела VERB NOUN
+5726: 10 ... PUNCT PAUSE
+5919: 12 спонсорирано ADJ VERB
+6134: 11 ограбен VERB ADJ
+6305: 3 да INTJ PART
+6364: 22 уречения ADJ NOUN
+6543: 1 Никой DET PRON
+6556: 14 чиято DET PRON
+6669: 13 Европата PROPN NOUN
+6712: 3 бъдат AUX VERB
+6724: 15 ни PRON ADJ
+6758: 1 Диниз PROPN ADP
+6766: 9 вериги NOUN PRON
+6770: 1 Ванеса PROPN AUX
+6797: 28 Собеседник NOUN PROPN
+6902: 17 зелено NOUN ADV
+6904: 19 розово NOUN ADV
+6913: 28 зелено NOUN ADV
+6915: 30 бебешки ADV NOUN
+6916: 31 меките ADJ NOUN
+6917: 32 розово NOUN ADV
+6919: 34 синьо NOUN ADJ
+6924: 1 Лютфи PROPN CONJ
+7009: 3 планирани VERB ADJ
+7033: 13 шума NOUN VERB
+7131: 22 участвали ADJ VERB
+7184: 15 набелязани ADJ VERB
+7274: 21 ГУ NOUN PROPN
+7380: 1 Останалото VERB ADJ
+7381: 2 са AUX VERB
+7382: 3 минуси NOUN PRON
+7392: 13 стаи NOUN CONJ
+7406: 3 бъде VERB AUX
+7658: 11 бе VERB AUX
+7659: 12 неин DET VERB
+7680: 13 II PROPN ADJ
+7682: 15 квадрат NOUN VERB
+7730: 3 нашият DET ADJ
+7759: 13 цяло ADJ NUM
+7809: 11 втори ADJ NOUN
+7937: 17 сравнено ADJ VERB
+7974: 11 сама ADJ NOUN
+8091: 1 Това DET PRON
+8096: 6 прави ADJ VERB
+8099: 9 въпроса NOUN VERB
+8171: 1 Благодарим VERB PRON
+8209: 13 възмути VERB PRON
+8237: 10 е VERB AUX
+8238: 11 персонал NOUN VERB
+8295: 3 съм VERB AUX
+8296: 4 ангажиран ADJ VERB
+8381: 11 тестени ADJ NOUN
+8447: 1 Неколцина PRON NUM
+8449: 3 мълчаливите ADJ NOUN
+8511: 4 2 ADJ NUM
+8545: 10 барел NOUN ADJ
+8571: 10 човешка ADJ NOUN
+8585: 24 получени ADJ VERB
+8664: 6 каскада NOUN VERB
+8692: 11 преди ADV ADP
+8795: 18 Централно ADJ PROPN
+8818: 2 сме VERB AUX
+8840: 3 вашият DET ADJ
+8853: 16 напролет ADV NOUN
+8881: 1 Малка ADJ NOUN
+8886: 6 отдадена ADJ NOUN
+8928: 31 свръхмодерно ADJ ADV
+8929: 32 автоматизирано ADJ ADV
+8931: 34 роботизирано ADJ ADV
+8944: 47 Космоса NOUN PROPN
+8960: 2 Театър NOUN PROPN
+9051: 11 тенис NOUN ADP
+9068: 8 Господния ADJ PROPN
+9069: 9 Предтеча NOUN PROPN
+9076: 16 Спасителя NOUN PROPN
+9134: 11 изпуснат ADJ VERB
+9228: 8 видимо ADV NOUN
+9237: 5 XXI ADJ PROPN
+9244: 12 един DET NUM
+9340: 12 брат NOUN VERB
+9399: 3 свежи ADJ NOUN
+9404: 8 придобива VERB ADJ
+9420: 13 бъде VERB AUX
+9421: 14 надпартиен ADJ VERB
+9475: 11 ... PUNCT PAUSE
+9496: 1 Конгресът PROPN NOUN
+9661: 1 Аморузо PROPN ADV
+9810: 1 Безвъзмездно ADV CONJ
+9850: 41 мама PROPN NOUN
+9851: 42 скендъл PROPN VERB
+10066: 14 бил VERB AUX
+10112: 2 спайска NOUN ADJ
+10203: 2 е AUX VERB
+10309: 1 Единият PRON NUM
+10352: 1 Ама CONJ PROPN
+10358: 7 висша ADJ VERB
+10402: 7 провеждали VERB PART
+10433: 17 2000 PROPN ADJ
+10517: 8 Г NOUN PROPN
+10567: 19 ВИП PROPN NOUN
+10588: 14 разясни VERB ADJ
+10614: 8 избрана VERB NOUN
+10635: 2 крило NOUN VERB
+10672: 4 едно DET ADV
+10694: 12 живо ADV NOUN
+10715: 10 ... PUNCT PAUSE
+10720: 4 издаден ADJ VERB
+10722: 6 изд. PROPN NOUN
+10733: 17 признатия ADJ DET
+10734: 18 ни PRON ADJ
+10760: 15 благородно ADV ADJ
+10782: 3 направил VERB ADJ
+10843: 7 отпуската NOUN ADJ
+10855: 2 вида NOUN PART
+10864: 2 мота VERB NOUN
+10889: 10 ОРБ NOUN PROPN
+10935: 2 са AUX VERB
+10936: 3 коза NOUN ADP
+10970: 5 рекламен ADJ PRON
+11003: 24 е VERB AUX
+11004: 25 ограничен ADJ VERB
+11018: 10 едните DET ADJ
+11053: 1 Яна PROPN ADP
+11089: 11 е VERB AUX
+11192: 4 стои VERB NOUN
+11292: 4 нужно ADV CONJ
+11338: 6 да PROPN PART
+11392: 6 срещите NOUN ADJ
+11397: 11 - CONJ PUNCT
+11408: 22 - CONJ PUNCT
+11427: 7 починали ADJ VERB
+11436: 4 30 NUM ADJ
+11477: 27 ... PUNCT PAUSE
+11537: 9 ядрената ADJ NOUN
+11583: 16 смята VERB NOUN
+11589: 3 архив NOUN ADP
+11608: 3 твърдите VERB NOUN
+11657: 18 наречен ADJ VERB
+11666: 27 баска NOUN ADJ
+11677: 8 следван ADJ VERB
+11692: 1 Животното NOUN ADJ
+11811: 3 сме VERB AUX
+11885: 11 хариза VERB ADP
+11979: 13 Бисер NOUN PROPN
+12046: 1 Предвидени VERB ADJ
+12120: 10 натрупан ADJ NOUN
+12225: 11 и PROPN CONJ
+12379: 20 са AUX VERB
+12444: 3 заподозрения ADJ NOUN
+12445: 4 довело VERB NOUN
+12473: 9 добри ADJ VERB
+12553: 1 Рупрехт PROPN NOUN
+12582: 5 участва VERB NOUN
+12586: 9 интернешънъл PROPN VERB
+12599: 10 ... PUNCT PAUSE
+12674: 5 Holler NOUN PROPN
+12740: 4 Тара NOUN PROPN
+12751: 15 организирано ADJ VERB
+12754: 18 Вси DET PROPN
+12818: 2 са AUX VERB
+12832: 16 образи NOUN VERB
+12834: 18 русокоси ADJ PRON
+12837: 21 изтезавани ADJ VERB
+12984: 4 влияете VERB NOUN
+13018: 8 като SCONJ ADP
+13026: 16 среща VERB NOUN
+13039: 4 да INTJ PART
+13045: 4 една DET NUM
+13074: 20 перспектива NOUN VERB
+13077: 23 Титова PROPN ADJ
+13081: 27 1965 ADJ NUM
+13111: 2 доминиращата ADJ NOUN
+13183: 13 една DET NUM
+13260: 10 сме VERB AUX
+13261: 11 богати ADJ VERB
+13363: 5 СДС-та PROPN NOUN
+13493: 6 е AUX VERB
+13494: 7 обсъждано VERB PART
+13503: 16 е AUX VERB
+13504: 17 обсъждано VERB PART
+13531: 14 една DET NUM
+13550: 7 дарения NOUN ADJ
+13651: 2 Клинтън PROPN NOUN
+13703: 16 асамблея NOUN VERB
+13790: 4 починали VERB ADJ
+13851: 7 са AUX VERB
+13855: 11 една DET NUM
+13862: 18 всички PRON DET
+13869: 5 си VERB PRON
+13870: 6 моя DET NOUN
+13889: 2 статуя NOUN PRON
+13900: 1 Ах INTJ VERB
+13938: 10 закован VERB NOUN
+13943: 3 луди ADJ VERB
+13949: 9 негови DET VERB
+13969: 2 са AUX VERB
+14101: 13 красиви ADJ NOUN
+14170: 1 Ето PART DET
+14270: 15 председателства VERB NOUN
+14296: 11 работеща ADJ NOUN
+14327: 13 обслужван VERB ADJ
+14341: 27 неблагополучия NOUN DET
+14380: 19 има VERB NOUN
+14403: 21 получен VERB ADJ
+14451: 12 отговорно ADJ ADV
+14466: 5 огъна VERB ADP
+14471: 10 могъща ADJ NOUN
+14624: 3 моите DET NOUN
+14638: 17 това DET PRON
+14686: 9 всички PRON DET
+14696: 5 това DET PRON
+14766: 22 ... PUNCT PAUSE
+14776: 9 си AUX PRON
+14783: 4 пишейки ADV NOUN
+14838: 15 Христа PROPN ADJ
+14908: 3 отдава VERB ADJ
+14940: 1 Стресиращо ADJ PRON
+14968: 2 Ново PROPN ADJ
+15042: 3 получа VERB AUX
+15103: 8 е AUX VERB
+15161: 7 то PART PRON
+15195: 22 Форум NOUN PROPN
+15239: 24 леката ADJ NOUN
+15337: 16 Топлофикация NOUN PROPN
+15386: 12 шестимата NUM ADJ
+15454: 7 хлебно ADJ ADV
+15460: 4 US ADJ PROPN
+15477: 8 лесно ADJ ADV
+15649: 6 ярко ADV ADJ
+15732: 1 Един NUM DET
+15795: 12 един NUM DET
+15821: 10 гл. ADJ NOUN
+15828: 17 гл. ADJ NOUN
+15881: 4 пъшка VERB NOUN
+15896: 19 вагоните NOUN VERB
+15953: 24 солидни ADJ NOUN
+15970: 41 реноме NOUN PRON
+16008: 18 то PART PRON
+16120: 4 18.02 ADJ NUM
+16133: 17 Слънчев ADJ PROPN
+16136: 20 ... PUNCT PAUSE
+16149: 33 ... PUNCT PAUSE
+16152: 36 е AUX VERB
+16156: 40 ... PUNCT PAUSE
+16197: 24 възможно ADJ ADV
+16240: 9 медали NOUN PART
+16249: 18 един PRON DET
+16369: 7 кой DET PRON
+16397: 6 превърнало ADJ VERB
+16424: 11 който DET PRON
+16435: 22 ... PUNCT PAUSE
+16437: 1 Е PART VERB
+16454: 1 Всеки PRON DET
+16470: 17 постоянната ADJ NOUN
+16509: 11 панели NOUN VERB
+16546: 11 изминалото ADJ NOUN
+16625: 14 строго ADV PRON
+16632: 3 животното NOUN ADJ
+16657: 1 Това DET PRON
+16705: 12 Христова PROPN PRON
+16751: 5 това DET PRON
+16790: 1 Газова ADJ VERB
+16795: 6 рани VERB ADJ
+16814: 9 ... PUNCT PAUSE
+16818: 3 предстояща ADJ NOUN
+16831: 1 Бивш ADJ PROPN
+16861: 23 няколко PRON ADV
+16910: 16 Слънцето PROPN NOUN
+16950: 22 прави ADJ VERB
+17074: 12 работещи ADJ NOUN
+17150: 1 US ADJ PROPN
+17162: 13 преобладаващо ADV ADJ
+17186: 37 Велика ADJ PROPN

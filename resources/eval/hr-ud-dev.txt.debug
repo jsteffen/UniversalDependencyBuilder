@@ -1,182 +1,160 @@
-NOUN:PRON	12
-ADJ:NOUN	12
-X:PROPN	12
-ADV:ADJ	10
-NOUN:PROPN	9
-NOUN:ADJ	8
-PROPN:NOUN	8
-NOUN:VERB	7
-VERB:NOUN	6
-ADJ:ADV	5
-PRON:NOUN	4
-ADP:ADV	4
-VERB:PRON	3
-NOUN:ADP	3
-ADJ:ADP	3
-VERB:ADJ	3
-VERB:ADV	3
-PROPN:ADJ	3
-NOUN:AUX	3
-ADJ:PROPN	3
-VERB:AUX	3
-ADV:NOUN	3
-ADJ:PRON	3
-VERB:CONJ	2
-X:NOUN	2
-PRON:ADJ	2
-NOUN:CONJ	2
-PART:ADV	2
-VERB:ADP	2
-NOUN:ADV	2
-PRON:ADP	2
-ADJ:VERB	2
-ADJ:PART	1
-SCONJ:CONJ	1
-ADV:ADP	1
-AUX:NOUN	1
-SCONJ:ADV	1
-NUM:PUNCT	1
-NOUN:NUM	1
-AUX:VERB	1
-ADJ:CONJ	1
-PROPN:PRON	1
-PRON:SCONJ	1
-VERB:PART	1
-NOUN:SCONJ	1
-CONJ:SCONJ	1
-UN
-7 potakla VERB NOUN
-6 mu PRON ADP
-60 oko ADP ADV
-28 preraspodjeli PROPN NOUN
-8 zaduženu ADJ NOUN
-26 Dupnitse PROPN PRON
-41 Beretku NOUN PROPN
-12 zapisi NOUN ADJ
-16 Galevi PROPN ADJ
-12 dokaza NOUN ADP
-24 raspravi NOUN ADJ
-26 pismo NOUN AUX
-34 podnese VERB PRON
-7 odreći VERB ADV
-1 Moldavci PROPN NOUN
-11 no SCONJ ADV
-18 slabog ADJ ADP
-1 Moldavci PROPN NOUN
-2 Neću AUX NOUN
-4 više PART ADV
-15 inženjer NOUN SCONJ
-4 pune ADJ PART
-9 nas PRON ADP
-7 poveća VERB ADJ
-18 Sajam NOUN NUM
-27 Kišinjeva NOUN PROPN
-7 više ADP ADV
-5 popisu NOUN AUX
-13 ih PRON ADJ
-10 Komunističku ADJ PROPN
-22 monitoringa NOUN PRON
-13 više ADP ADV
-7 bili AUX VERB
-21 stečenu ADJ NOUN
-2 Popis NOUN PROPN
-7 rado ADV ADP
-15 vezano ADV ADJ
-2 svakoj PRON ADJ
-4 drugoj ADJ PRON
-16 izriču VERB ADP
-12 postignuća NOUN ADJ
-6 narod NOUN ADP
-22 sposobna ADJ ADP
-8 žalili VERB CONJ
-4 vlada VERB NOUN
-8 ta PRON NOUN
-3 okreće VERB AUX
-9 privremena ADJ NOUN
-11 zaduženu ADJ NOUN
-15 mu PRON NOUN
-5 najviše ADJ ADV
-4 donijet VERB NOUN
-6 dodatno ADV ADJ
-14 Ateni PROPN ADJ
-14 www.zeljkokomsic.blogger.ba PROPN NOUN
-3 International X PROPN
-16 novo ADJ NOUN
-5 World X PROPN
-4 nastavi VERB NOUN
-2 Sveti ADJ PROPN
-15 pomoći NOUN VERB
-3 eurozone NOUN PRON
-32 AAA NOUN PROPN
-42 ostanu VERB ADJ
-4 eurozone NOUN PRON
-17 eurozone NOUN PRON
-23 redovitoj ADJ PRON
-12 dovoljno ADJ ADV
-18 eurozone NOUN PRON
-7 dovoljno ADJ ADV
-3 eurozone NOUN PRON
-17 sami ADJ VERB
-28 eurozoni NOUN PRON
-30 ESM PROPN ADJ
-4 podupiru VERB NOUN
-15 eurozone NOUN PRON
-1 Vlada PROPN NOUN
-14 unutarnjih ADJ PRON
-6 smeni X NOUN
-10 Dinkićeva ADJ PROPN
-4 slabu ADJ ADP
-19 imalo VERB ADV
-28 loš ADJ ADV
-2 Plus NOUN PROPN
-24 nego SCONJ CONJ
-1 Demokrati NOUN VERB
-13 unutarnju ADJ NOUN
-19 Telekom NOUN PROPN
-20 Plus NOUN PROPN
-21 oštar ADJ NOUN
-3 sprema VERB ADP
-1 Koncem NOUN ADV
-14 Procesa NOUN PROPN
-16 nama PRON NOUN
-9 pridonese VERB PRON
-13 diplomati NOUN VERB
-11 politički ADV ADJ
-13 gospodarski ADV ADJ
-37 blagi ADJ CONJ
-26 HOCA X PROPN
-31 oko ADP ADV
-1 Zengin PROPN NOUN
-19 ako CONJ SCONJ
-21 potakne VERB PART
-34 trajno ADV ADJ
-2 Politički ADV ADJ
-14 politički ADV ADJ
-14 ta PRON SCONJ
-21 budući ADJ ADV
-23 ovisit VERB AUX
-1 Dobrobiti NOUN AUX
-5 svježi ADJ VERB
-9 tržišno ADV ADJ
-14 niže ADV NOUN
-27 pola ADV NOUN
-1 Užurbano ADV ADJ
-16 započeta ADJ NOUN
-28 dućani NOUN ADJ
-1 Indeks NOUN ADP
-7 raspon NOUN PRON
-15 ocjene NOUN ADJ
-26 4- NUM PUNCT
-7 čitav ADJ NOUN
-22 odabrani ADJ NOUN
-14 Pharma X PROPN
-15 Nordic X PROPN
-17 United X PROPN
-18 Nordic X PROPN
-19 Pharma X PROPN
-9 Capital X PROPN
-11 Citigroup X PROPN
-12 Investments X PROPN
-2 spomenuti VERB NOUN
-13 pivovari X NOUN
-14 SABMiller X PROPN
+11: 11 ustroje VERB PRON
+12: 12 timove NOUN PRON
+27: 27 nezakonite ADJ NOUN
+28: 28 dobiti NOUN VERB
+35: 5 tim NOUN PRON
+53: 12 dobilo VERB AUX
+153: 25 vojske NOUN ADJ
+193: 7 radovi NOUN CONJ
+286: 9 vojske NOUN ADJ
+362: 17 katastrofa NOUN CONJ
+430: 11 ostale VERB ADJ
+439: 20 makar ADV NOUN
+452: 8 pomoći NOUN VERB
+467: 13 hrana NOUN ADJ
+553: 13 neučinkovitim ADJ NOUN
+559: 19 prouzročili VERB CONJ
+586: 2 Šume NOUN PRON
+587: 3 više PART ADV
+589: 5 tampon NOUN PRON
+592: 8 višak NOUN ADV
+593: 9 vode NOUN VERB
+602: 18 bTV PROPN NOUN
+618: 8 nekontrolirano ADV ADJ
+697: 19 odreći VERB ADV
+740: 20 TV NOUN PROPN
+741: 21 postaju NOUN VERB
+742: 22 bTV PROPN NOUN
+817: 1 Ta PRON NOUN
+823: 7 potakla VERB NOUN
+864: 6 mu PRON ADP
+918: 60 oko ADP ADV
+997: 28 preraspodjeli PROPN NOUN
+1012: 8 zaduženu ADJ NOUN
+1030: 26 Dupnitse PROPN PRON
+1045: 41 Beretku NOUN PROPN
+1068: 12 zapisi NOUN ADJ
+1072: 16 Galevi PROPN ADJ
+1087: 12 dokaza NOUN ADP
+1099: 24 raspravi NOUN ADJ
+1135: 26 pismo NOUN AUX
+1143: 34 podnese VERB PRON
+1160: 7 odreći VERB ADV
+1243: 1 Moldavci PROPN NOUN
+1307: 11 no SCONJ ADV
+1336: 18 slabog ADJ ADP
+1341: 1 Moldavci PROPN NOUN
+1370: 2 Neću AUX NOUN
+1372: 4 više PART ADV
+1383: 15 inženjer NOUN SCONJ
+1403: 4 pune ADJ PART
+1408: 9 nas PRON ADP
+1421: 7 poveća VERB ADJ
+1432: 18 Sajam NOUN NUM
+1441: 27 Kišinjeva NOUN PROPN
+1460: 7 više ADP ADV
+1483: 5 popisu NOUN AUX
+1491: 13 ih PRON ADJ
+1542: 10 Komunističku ADJ PROPN
+1576: 22 monitoringa NOUN PRON
+1595: 13 više ADP ADV
+1624: 7 bili AUX VERB
+1638: 21 stečenu ADJ NOUN
+1661: 2 Popis NOUN PROPN
+1666: 7 rado ADV ADP
+1674: 15 vezano ADV ADJ
+1681: 2 svakoj PRON ADJ
+1683: 4 drugoj ADJ PRON
+1717: 16 izriču VERB ADP
+1736: 12 postignuća NOUN ADJ
+1795: 6 narod NOUN ADP
+1811: 22 sposobna ADJ ADP
+1846: 4 vlada VERB NOUN
+1898: 8 ta PRON NOUN
+1910: 3 okreće VERB AUX
+2043: 31 mira NOUN VERB
+2064: 9 privremena ADJ NOUN
+2066: 11 zaduženu ADJ NOUN
+2104: 15 mu PRON NOUN
+2116: 5 najviše ADJ ADV
+2338: 4 donijet VERB NOUN
+2340: 6 dodatno ADV ADJ
+2475: 14 Ateni PROPN ADJ
+2523: 14 www.zeljkokomsic.blogger.ba PROPN NOUN
+2554: 3 International X PROPN
+2567: 16 novo ADJ NOUN
+2589: 5 World X PROPN
+2638: 4 nastavi VERB NOUN
+2663: 2 Sveti ADJ PROPN
+2733: 15 pomoći NOUN VERB
+2738: 3 eurozone NOUN PRON
+2846: 32 AAA NOUN PROPN
+2856: 42 ostanu VERB ADJ
+2863: 4 eurozone NOUN PRON
+2907: 17 eurozone NOUN PRON
+2954: 23 redovitoj ADJ PRON
+2975: 12 dovoljno ADJ ADV
+2981: 18 eurozone NOUN PRON
+2995: 7 dovoljno ADJ ADV
+3004: 3 eurozone NOUN PRON
+3098: 17 sami ADJ VERB
+3150: 28 eurozoni NOUN PRON
+3182: 30 ESM PROPN ADJ
+3244: 4 podupiru VERB NOUN
+3296: 15 eurozone NOUN PRON
+3333: 1 Vlada PROPN NOUN
+3443: 6 smeni X NOUN
+3455: 10 Dinkićeva ADJ PROPN
+3467: 4 slabu ADJ ADP
+3482: 19 imalo VERB ADV
+3515: 28 loš ADJ ADV
+3526: 2 Plus NOUN PROPN
+3548: 24 nego SCONJ CONJ
+3565: 1 Demokrati NOUN VERB
+3626: 13 unutarnju ADJ NOUN
+3691: 19 Telekom NOUN PROPN
+3723: 20 Plus NOUN PROPN
+3724: 21 oštar ADJ NOUN
+3826: 3 sprema VERB ADP
+3834: 1 Koncem NOUN ADV
+3847: 14 Procesa NOUN PROPN
+3906: 16 nama PRON NOUN
+3951: 9 pridonese VERB PRON
+4014: 13 diplomati NOUN VERB
+4036: 11 politički ADV ADJ
+4038: 13 gospodarski ADV ADJ
+4126: 26 HOCA X PROPN
+4131: 31 oko ADP ADV
+4140: 1 Zengin PROPN NOUN
+4175: 19 ako CONJ SCONJ
+4177: 21 potakne VERB PART
+4190: 34 trajno ADV ADJ
+4197: 2 Politički ADV ADJ
+4238: 14 politički ADV ADJ
+4295: 14 ta PRON SCONJ
+4363: 21 budući ADJ ADV
+4365: 23 ovisit VERB AUX
+4466: 1 Dobrobiti NOUN AUX
+4508: 5 svježi ADJ VERB
+4512: 9 tržišno ADV ADJ
+4588: 14 niže ADV NOUN
+4666: 27 pola ADV NOUN
+4694: 16 započeta ADJ NOUN
+4706: 28 dućani NOUN ADJ
+4721: 1 Indeks NOUN ADP
+4727: 7 raspon NOUN PRON
+4735: 15 ocjene NOUN ADJ
+4746: 26 4- NUM PUNCT
+4796: 7 čitav ADJ NOUN
+4867: 22 odabrani ADJ NOUN
+4909: 14 Pharma X PROPN
+4910: 15 Nordic X PROPN
+4912: 17 United X PROPN
+4913: 18 Nordic X PROPN
+4914: 19 Pharma X PROPN
+4932: 9 Capital X PROPN
+4934: 11 Citigroup X PROPN
+4935: 12 Investments X PROPN
+4976: 2 spomenuti VERB NOUN
+4987: 13 pivovari X NOUN
+4988: 14 SABMiller X PROPN

@@ -1,364 +1,336 @@
-VERB:AUX	32
-ADJ:VERB	20
-NOUN:VERB	20
-ADJ:ADV	19
-VERB:NOUN	18
-ADV:ADP	18
-VERB:ADJ	14
-DET:PRON	14
-ADJ:NOUN	12
-AUX:VERB	12
-PROPN:NOUN	10
-ADV:NOUN	10
-ADV:ADJ	9
-PRON:DET	9
-PUNCT:PAUSE	8
-PRON:ADP	8
-NOUN:PROPN	8
-NOUN:ADV	7
-ADV:SCONJ	5
-NOUN:ADJ	5
-NOUN:DET	4
-X:NOUN	3
-NOUN:PRON	3
-VERB:ADV	3
-NOUN:X	3
-ADP:VERB	3
-ADJ:PROPN	3
-ADV:VERB	3
-VERB:DET	3
-AUX:NOUN	3
-VERB:ADP	2
-PRON:NOUN	2
-VERB:PRON	2
-ADJ:DET	2
-PRON:ADV	2
-PROPN:ADP	2
-INTJ:NOUN	2
-PROPN:ADV	2
-NOUN:NUM	2
-X:ADJ	2
-ADV:PRON	2
-X:PROPN	2
-ADP:PRON	2
-SCONJ:PRON	1
-DET:PROPN	1
-SCONJ:PART	1
-ADV:AUX	1
-SCONJ:ADV	1
-NOUN:AUX	1
-DET:NOUN	1
-PROPN:SCONJ	1
-NUM:PRON	1
-NOUN:ADP	1
-VERB:INTJ	1
-ADJ:ADP	1
-PROPN:VERB	1
-ADV:PROPN	1
-ADP:ADV	1
-ADJ:AUX	1
-PRON:VERB	1
-X:ADP	1
-ADJ:X	1
-VERB:PROPN	1
-PROPN:PRON	1
-PRON:SCONJ	1
-NOUN:SCONJ	1
-ADP:SCONJ	1
-X:VERB	1
-NOUN X
-2 uanset ADP VERB
-5 metoden NOUN PRON
-3 har VERB AUX
-5 overdrevet ADJ VERB
-13 som PRON ADP
-32 de PRON DET
-6 nogenlunde ADV ADJ
-3 samarbejde VERB NOUN
-3 de PRON DET
-4 tidligere ADV ADJ
-11 Linnet PROPN NOUN
-5 svampe NOUN VERB
-26 fæstnet VERB NOUN
-29 velduftende ADJ VERB
-6 parentes NOUN VERB
-7 bemærket VERB DET
-40 transcontinentale ADJ NOUN
-10 de PRON DET
-7 maner VERB NOUN
-4 tale VERB NOUN
-8 alting PRON ADP
-10 skævt ADV NOUN
-19 dens DET NOUN
-4 lavede VERB ADJ
-6 knægtene NOUN ADJ
-2 de PRON VERB
-9 ædru ADJ ADV
-2 Køvenhavner NOUN PROPN
-1 Erfarne ADJ PROPN
-5 som PRON ADP
-6 er VERB AUX
-18 famøse ADJ NOUN
-20 gældende VERB ADJ
-22 er VERB AUX
-14 bille NOUN VERB
-5 egne ADJ NOUN
-10 åbne VERB ADJ
-14 havde VERB AUX
-17 CBerne NOUN PROPN
-18 under ADP VERB
-1 Skrab VERB PROPN
-8 tom ADJ ADP
-28 Fabrikker PROPN NOUN
-3 har VERB AUX
-1 Så SCONJ ADV
-8 var AUX VERB
-21 anden ADJ DET
-2 har AUX VERB
-11 de DET PRON
-1 Morten PROPN NOUN
-4 dr.phil. X NOUN
-29 rent ADV NOUN
-39 offentligt ADJ ADV
-40 embede NOUN VERB
-22 tilbagevendte ADJ VERB
-3 ved VERB ADP
-9 har VERB AUX
-24 ende NOUN VERB
-14 siden NOUN ADV
-10 om ADV ADP
-12 siden NOUN ADV
-1 Jytte PROPN VERB
-12 sigtet VERB NOUN
-7 symaskine-spindende ADJ NOUN
-11 B X PROPN
-4 nummer NOUN VERB
-9 lad VERB ADJ
-12 osse ADV VERB
-10 foretrukne VERB ADJ
-4 har VERB AUX
-27 scanne VERB NOUN
-1 Ond ADJ PROPN
-22 længere ADJ ADV
-24 kortere ADJ VERB
-9 eftertragtede ADJ VERB
-22 ... PUNCT PAUSE
-6 skal VERB AUX
-7 fra ADV ADP
-14 er AUX VERB
-8 har VERB AUX
-12 stammer VERB NOUN
-9 som PRON ADP
-18 rigtigt ADV ADJ
-1 Den DET PRON
-3 har VERB AUX
-1 Begge DET PRON
-11 alt ADV ADJ
-12 for ADV ADP
-17 have AUX VERB
-5 dèr ADV NOUN
-5 er VERB AUX
-8 vidner VERB NOUN
-10 Arkipelag NOUN PROPN
-11 Gullasch NOUN PROPN
-19 er VERB AUX
-50 relevante ADJ VERB
-52 er AUX NOUN
-17 så VERB ADV
-3 om ADV ADP
-6 imellem ADV ADP
-13 har VERB AUX
-22 herunder ADV NOUN
-7 geografisk ADV ADJ
-18 ørige NOUN ADJ
-15 vrede ADJ VERB
-7 enten ADV NOUN
-4 om ADV ADP
-11 samlever NOUN VERB
-22 samlever NOUN VERB
-8 sov VERB NOUN
-9 uddybende VERB ADJ
-20 fremkommme VERB ADJ
-1 At SCONJ PART
-5 lede ADJ VERB
-7 kede ADJ VERB
-7 til ADV ADP
-3 har VERB AUX
-1 Flerumættede ADJ VERB
-6 majs- NOUN X
-8 vindruekerne- NOUN X
-5 havnearbejder NOUN VERB
-2 var AUX VERB
-4 Personality NOUN PROPN
-7 andre PRON DET
-12 sparer VERB NOUN
-16 kr.awb X NOUN
-14 legende NOUN VERB
-2 er VERB AUX
-17 vågen ADJ NOUN
-24 med ADV ADP
-1 Rom PROPN SCONJ
-4 som ADV PRON
-8 var VERB AUX
-18 doven ADJ NOUN
-4 mildt ADV VERB
-6 har AUX VERB
-7 ingen PRON DET
-8 kunnet AUX NOUN
-13 sætte X VERB
-17 fast ADJ ADV
-3 er VERB AUX
-9 som PRON ADP
-11 råvarer NOUN VERB
-23 filmsproget NOUN DET
-2 er VERB AUX
-25 er VERB AUX
-26 for ADV ADP
-27 svagt ADV NOUN
-3 fedt NOUN ADV
-9 ved ADV ADP
-12 kødet NOUN PRON
-7 de DET PRON
-8 indfødte ADJ VERB
-12 swahili NOUN ADP
-20 de DET PRON
-28 norsk ADJ NOUN
-2 da ADV SCONJ
-3 skønnet NOUN VERB
-20 er VERB AUX
-2 ... PUNCT PAUSE
-4 ... PUNCT PAUSE
-6 ... PUNCT PAUSE
-7 hvornår ADV SCONJ
-8 ... PUNCT PAUSE
-18 ... PUNCT PAUSE
-28 ... PUNCT PAUSE
-6 hvornår ADV SCONJ
-3 er VERB AUX
-1 De DET PRON
-6 forrygende ADJ VERB
-14 kroater NOUN VERB
-2 skal VERB AUX
-21 arkitekt NOUN SCONJ
-2 selv ADV PRON
-18 det DET PRON
-19 døve ADJ VERB
-2 Skyd VERB INTJ
-5 på ADV ADP
-1 Willumsens PROPN NOUN
-7 ingen PRON NOUN
-15 finsk NOUN ADJ
-1 Nathan PROPN PRON
-10 Tjekkoslovakiet PROPN NOUN
-15 rede NOUN VERB
-1 Ubehaget NOUN VERB
-9 diskutabel ADJ NOUN
-19 imod ADV ADP
-9 børn/voksne X ADJ
-33 henad ADP VERB
-1 Apropos ADP PRON
-3 var VERB AUX
-15 uhyggeligt ADV ADJ
-18 af ADV ADP
-10 de DET PRON
-14 uhindret ADV AUX
-19 bryde VERB PRON
-22 skabe NOUN VERB
-10 alt ADJ ADV
-2 kroppe NOUN ADV
-11 Sylvester PROPN NOUN
-6 mere ADJ ADV
-22 møde VERB DET
-27 Selvsagt ADV PROPN
-42 dyr ADJ NOUN
-6 portræt NOUN ADJ
-10 Operas NOUN PROPN
-4 starter VERB NOUN
-5 inde ADV NOUN
-12 voldsommere ADJ NOUN
-20 turdet AUX NOUN
-32 frigørende VERB ADJ
-34 løs ADV ADJ
-9 svære ADJ AUX
-12 som PRON ADP
-8 tilpasset VERB ADJ
-36 efter ADV ADP
-13 Boutros-Ghali PROPN NOUN
-5 blevet VERB AUX
-9 projektet NOUN VERB
-10 betydet VERB PRON
-13 specielt ADJ ADV
-15 mangt ADJ ADV
-17 meget ADJ ADV
-34 problemhjem NOUN ADV
-36 altså ADV SCONJ
-38 brudte VERB ADJ
-45 de DET PRON
-48 de DET PRON
-8 detroniserede VERB ADJ
-18 som PRON ADP
-10 har VERB AUX
-23 tilfældet NOUN PRON
-8 kærtegne VERB ADJ
-15 der PRON ADV
-2 er AUX VERB
-3 efter ADV ADP
-13 Observationshjem NOUN PROPN
-21 skjult ADJ ADV
-1 Iver NOUN VERB
-1 Kurt PROPN ADV
-17 utroligt ADV ADJ
-3 noget DET PRON
-4 specielt ADJ ADV
-8 ... PUNCT PAUSE
-10 har AUX VERB
-9 arbejde VERB NOUN
-2 har VERB AUX
-8 brede ADJ VERB
-2 er AUX VERB
-10 udvekslingen NOUN DET
-19 for ADP ADV
-2 døde VERB NOUN
-2 før ADP SCONJ
-7 inkarneret ADJ VERB
-8 usigneret ADJ VERB
-16 VI NUM PRON
-2 er VERB AUX
-11 opgaven NOUN DET
-12 flot ADV ADJ
-7 var VERB AUX
-16 udtømte VERB ADJ
-6 andre DET PRON
-7 kanaløer NOUN AUX
-16 Administration PROPN NOUN
-19 of X ADP
-4 trinde ADJ NOUN
-8 overvældende ADJ ADV
-1 Lehder PROPN ADV
-7 offentligt ADJ ADV
-3 senere ADJ ADV
-20 daglig ADJ ADV
-5 løbet VERB NOUN
-16 for ADV ADP
-17 lidt ADJ ADV
-22 afsmittende ADJ VERB
-4 andre DET PRON
-7 den PRON DET
-3 så VERB ADV
-6 næsen NOUN DET
-8 nedad ADV NOUN
-14 højre ADJ VERB
-17 ovre ADV NOUN
-24 ret NOUN VERB
-28 fra ADV ADP
-4 alt NOUN ADJ
-8 Audi PROPN ADP
-11 E X PROPN
-16 hvis PRON SCONJ
-5 indkassere VERB NOUN
-10 idet SCONJ PRON
-31 nyoprykkede ADJ VERB
-2 dobbelte ADJ VERB
-14 klares VERB NOUN
-30 har VERB AUX
-33 stærkt ADJ ADV
+26: 20 telt NOUN ADV
+29: 1 Kelds PROPN NOUN
+42: 1 Raki PROPN ADP
+43: 2 fortyndes VERB NOUN
+53: 12 som ADP PRON
+77: 4 de PRON DET
+115: 3 hinandens PRON DET
+116: 4 inderste ADJ NOUN
+136: 3 har VERB AUX
+145: 4 os PRON ADP
+146: 5 ethvert DET PRON
+184: 14 har AUX VERB
+215: 15 1,6- NOUN NUM
+216: 16 1,8- NOUN NUM
+218: 18 2-liters NOUN PROPN
+222: 22 ekstra ADJ ADV
+260: 28 skal VERB AUX
+267: 1 Hej INTJ NOUN
+272: 6 ved VERB ADP
+273: 7 læser VERB NOUN
+274: 8 De DET PROPN
+275: 9 Grå ADJ PROPN
+279: 13 hej INTJ NOUN
+354: 8 PI PROPN NOUN
+356: 10 politically X ADJ
+357: 11 incorrect X NOUN
+403: 28 den PRON DET
+416: 10 fremad ADV VERB
+437: 3 kuffertlåget NOUN VERB
+438: 4 i ADV ADP
+466: 15 indhentet VERB DET
+578: 31 ej ADV NOUN
+589: 42 da ADV SCONJ
+602: 55 hvert PRON DET
+603: 56 andet ADJ DET
+608: 2 bank-ansatte ADJ VERB
+618: 12 dele VERB ADJ
+621: 15 vind NOUN ADV
+622: 16 lige ADJ ADV
+643: 13 har VERB AUX
+683: 18 beder VERB ADV
+730: 3 ka' AUX VERB
+786: 6 a. PRON ADV
+789: 9 tv- NOUN X
+799: 2 uanset ADP VERB
+802: 5 metoden NOUN PRON
+825: 3 har VERB AUX
+837: 5 overdrevet ADJ VERB
+860: 13 som PRON ADP
+879: 32 de PRON DET
+909: 6 nogenlunde ADV ADJ
+931: 3 samarbejde VERB NOUN
+937: 3 de PRON DET
+938: 4 tidligere ADV ADJ
+945: 11 Linnet PROPN NOUN
+998: 5 svampe NOUN VERB
+1019: 26 fæstnet VERB NOUN
+1022: 29 velduftende ADJ VERB
+1056: 6 parentes NOUN VERB
+1057: 7 bemærket VERB DET
+1127: 40 transcontinentale ADJ NOUN
+1140: 10 de PRON DET
+1243: 7 maner VERB NOUN
+1260: 4 tale VERB NOUN
+1347: 8 alting PRON ADP
+1349: 10 skævt ADV NOUN
+1370: 19 dens DET NOUN
+1425: 4 lavede VERB ADJ
+1427: 6 knægtene NOUN ADJ
+1458: 2 de PRON VERB
+1465: 9 ædru ADJ ADV
+1472: 16 forbi ADP ADV
+1477: 2 Køvenhavner NOUN PROPN
+1479: 1 Erfarne ADJ PROPN
+1483: 5 som PRON ADP
+1484: 6 er VERB AUX
+1496: 18 famøse ADJ NOUN
+1498: 20 gældende VERB ADJ
+1500: 22 er VERB AUX
+1522: 14 bille NOUN VERB
+1532: 5 egne ADJ NOUN
+1537: 10 åbne VERB ADJ
+1559: 14 havde VERB AUX
+1562: 17 CBerne NOUN PROPN
+1591: 1 Skrab VERB PROPN
+1610: 8 tom ADJ ADP
+1650: 28 Fabrikker PROPN NOUN
+1655: 3 har VERB AUX
+1664: 1 Så SCONJ ADV
+1689: 8 var AUX VERB
+1713: 21 anden ADJ DET
+1726: 2 har AUX VERB
+1735: 11 de DET PRON
+1748: 1 Morten PROPN NOUN
+1760: 4 dr.phil. X NOUN
+1785: 29 rent ADV NOUN
+1795: 39 offentligt ADJ ADV
+1796: 40 embede NOUN VERB
+1831: 22 tilbagevendte ADJ VERB
+1851: 3 ved VERB ADP
+1857: 9 har VERB AUX
+1872: 24 ende NOUN VERB
+1897: 14 siden NOUN ADV
+1912: 10 om ADV ADP
+1914: 12 siden NOUN ADV
+1917: 1 Jytte PROPN VERB
+1953: 12 sigtet VERB NOUN
+2082: 7 symaskine-spindende ADJ NOUN
+2086: 11 B X PROPN
+2100: 9 lad VERB ADJ
+2103: 12 osse ADV VERB
+2125: 10 foretrukne VERB ADJ
+2148: 4 har VERB AUX
+2171: 27 scanne VERB NOUN
+2176: 1 Ond ADJ PROPN
+2205: 22 længere ADJ ADV
+2207: 24 kortere ADJ VERB
+2284: 18 indkvarteret VERB NOUN
+2317: 9 eftertragtede ADJ VERB
+2330: 22 ... PUNCT PAUSE
+2337: 6 skal VERB AUX
+2352: 7 fra ADV ADP
+2359: 14 er AUX VERB
+2398: 8 har VERB AUX
+2402: 12 stammer VERB NOUN
+2417: 9 som PRON ADP
+2450: 18 rigtigt ADV ADJ
+2458: 1 Den DET PRON
+2493: 3 har VERB AUX
+2515: 1 Begge DET PRON
+2552: 11 alt ADV ADJ
+2553: 12 for ADV ADP
+2558: 17 have AUX VERB
+2634: 5 dèr ADV NOUN
+2645: 5 er VERB AUX
+2648: 8 vidner VERB NOUN
+2678: 10 Arkipelag NOUN PROPN
+2679: 11 Gullasch NOUN PROPN
+2687: 19 er VERB AUX
+2718: 50 relevante ADJ VERB
+2720: 52 er AUX NOUN
+2759: 17 så VERB ADV
+2792: 3 om ADV ADP
+2795: 6 imellem ADV ADP
+2838: 13 har VERB AUX
+2847: 22 herunder ADV NOUN
+2859: 7 geografisk ADV ADJ
+2870: 18 ørige NOUN ADJ
+2897: 15 vrede ADJ VERB
+2906: 7 enten ADV NOUN
+2920: 5 fjernet VERB NOUN
+2956: 4 om ADV ADP
+2978: 11 samlever NOUN VERB
+2989: 22 samlever NOUN VERB
+3012: 8 sov VERB NOUN
+3040: 9 uddybende VERB ADJ
+3051: 20 fremkommme VERB ADJ
+3056: 1 At SCONJ PART
+3060: 5 lede ADJ VERB
+3062: 7 kede ADJ VERB
+3085: 7 til ADV ADP
+3133: 3 har VERB AUX
+3148: 1 Flerumættede ADJ VERB
+3153: 6 majs- NOUN X
+3155: 8 vindruekerne- NOUN X
+3178: 5 havnearbejder NOUN VERB
+3185: 2 var AUX VERB
+3187: 4 Personality NOUN PROPN
+3262: 7 andre PRON DET
+3283: 12 sparer VERB NOUN
+3287: 16 kr.awb X NOUN
+3321: 14 legende NOUN VERB
+3352: 2 er VERB AUX
+3389: 17 vågen ADJ NOUN
+3396: 24 med ADV ADP
+3439: 1 Rom PROPN SCONJ
+3451: 4 som ADV PRON
+3455: 8 var VERB AUX
+3523: 18 doven ADJ NOUN
+3529: 4 mildt ADV VERB
+3541: 6 har AUX VERB
+3542: 7 ingen PRON DET
+3543: 8 kunnet AUX NOUN
+3548: 13 sætte X VERB
+3552: 17 fast ADJ ADV
+3560: 3 er VERB AUX
+3566: 9 som PRON ADP
+3603: 11 råvarer NOUN VERB
+3630: 23 filmsproget NOUN DET
+3663: 2 er VERB AUX
+3686: 25 er VERB AUX
+3687: 26 for ADV ADP
+3688: 27 svagt ADV NOUN
+3701: 3 fedt NOUN ADV
+3707: 9 ved ADV ADP
+3710: 12 kødet NOUN PRON
+3724: 7 de DET PRON
+3725: 8 indfødte ADJ VERB
+3729: 12 swahili NOUN ADP
+3737: 20 de DET PRON
+3745: 28 norsk ADJ NOUN
+3766: 2 da ADV SCONJ
+3767: 3 skønnet NOUN VERB
+3784: 20 er VERB AUX
+3815: 2 ... PUNCT PAUSE
+3817: 4 ... PUNCT PAUSE
+3819: 6 ... PUNCT PAUSE
+3820: 7 hvornår ADV SCONJ
+3821: 8 ... PUNCT PAUSE
+3831: 18 ... PUNCT PAUSE
+3861: 28 ... PUNCT PAUSE
+3868: 6 hvornår ADV SCONJ
+3879: 3 er VERB AUX
+3887: 1 De DET PRON
+3892: 6 forrygende ADJ VERB
+3935: 2 skal VERB AUX
+3954: 21 arkitekt NOUN SCONJ
+3962: 2 selv ADV PRON
+3978: 18 det DET PRON
+3999: 2 Skyd VERB INTJ
+4027: 5 på ADV ADP
+4041: 1 Willumsens PROPN NOUN
+4052: 7 ingen PRON NOUN
+4067: 1 Nathan PROPN PRON
+4096: 10 Tjekkoslovakiet PROPN NOUN
+4121: 15 rede NOUN VERB
+4174: 1 Ubehaget NOUN VERB
+4191: 9 diskutabel ADJ NOUN
+4218: 19 imod ADV ADP
+4229: 9 børn/voksne X ADJ
+4253: 33 henad ADP VERB
+4265: 1 Apropos ADP PRON
+4320: 3 var VERB AUX
+4324: 7 tilskadekomne ADJ NOUN
+4332: 15 uhyggeligt ADV ADJ
+4364: 18 af ADV ADP
+4383: 10 de DET PRON
+4387: 14 uhindret ADV AUX
+4392: 19 bryde VERB PRON
+4395: 22 skabe NOUN VERB
+4413: 10 alt ADJ ADV
+4430: 11 Sylvester PROPN NOUN
+4462: 6 mere ADJ ADV
+4521: 22 møde VERB DET
+4526: 27 Selvsagt ADV PROPN
+4541: 42 dyr ADJ NOUN
+4556: 6 portræt NOUN ADJ
+4560: 10 Operas NOUN PROPN
+4570: 4 starter VERB NOUN
+4571: 5 inde ADV NOUN
+4626: 12 voldsommere ADJ NOUN
+4634: 20 turdet AUX NOUN
+4646: 32 frigørende VERB ADJ
+4648: 34 løs ADV ADJ
+4680: 9 svære ADJ AUX
+4683: 12 som PRON ADP
+4722: 8 tilpasset VERB DET
+4750: 36 efter ADV ADP
+4765: 13 Boutros-Ghali PROPN NOUN
+4814: 5 blevet VERB AUX
+4830: 9 projektet NOUN VERB
+4831: 10 betydet VERB PRON
+4834: 13 specielt ADJ ADV
+4863: 15 mangt ADJ ADV
+4865: 17 meget ADJ ADV
+4882: 34 problemhjem NOUN ADV
+4884: 36 altså ADV SCONJ
+4893: 45 de DET PRON
+4896: 48 de DET PRON
+4910: 8 detroniserede VERB ADJ
+4946: 18 som PRON ADP
+4970: 10 har VERB AUX
+5064: 23 tilfældet NOUN PRON
+5091: 8 kærtegne VERB ADJ
+5098: 15 der PRON ADV
+5111: 2 er AUX VERB
+5137: 3 efter ADV ADP
+5147: 13 Observationshjem NOUN PROPN
+5155: 21 skjult ADJ ADV
+5158: 1 Iver NOUN VERB
+5161: 1 Kurt PROPN ADV
+5177: 17 utroligt ADV ADJ
+5192: 3 noget DET PRON
+5193: 4 specielt ADJ ADV
+5197: 8 ... PUNCT PAUSE
+5199: 10 har AUX VERB
+5227: 9 arbejde VERB NOUN
+5233: 2 har VERB AUX
+5239: 8 brede ADJ VERB
+5252: 2 er AUX VERB
+5287: 10 udvekslingen NOUN DET
+5296: 19 for ADP ADV
+5326: 2 døde VERB NOUN
+5351: 2 før ADP SCONJ
+5356: 7 inkarneret ADJ VERB
+5382: 8 usigneret ADJ VERB
+5390: 16 VI NUM PRON
+5394: 2 er VERB AUX
+5417: 11 opgaven NOUN DET
+5418: 12 flot ADV ADJ
+5451: 7 var VERB AUX
+5460: 16 udtømte VERB ADJ
+5485: 6 andre DET PRON
+5486: 7 kanaløer NOUN AUX
+5508: 16 Administration PROPN NOUN
+5511: 19 of X ADP
+5518: 4 trinde ADJ NOUN
+5522: 8 overvældende ADJ ADV
+5551: 1 Lehder PROPN ADV
+5621: 7 offentligt ADJ ADV
+5649: 3 senere ADJ ADV
+5666: 20 daglig ADJ ADV
+5718: 5 løbet VERB NOUN
+5740: 16 for ADV ADP
+5741: 17 lidt ADJ ADV
+5746: 22 afsmittende ADJ VERB
+5770: 4 andre DET PRON
+5793: 7 den PRON DET
+5803: 3 så VERB ADV
+5808: 8 nedad ADV NOUN
+5814: 14 højre ADJ VERB
+5817: 17 ovre ADV NOUN
+5847: 24 ret NOUN VERB
+5851: 28 fra ADV ADP
+5866: 4 alt NOUN ADJ
+5880: 8 Audi PROPN ADP
+5883: 11 E X PROPN
+5888: 16 hvis PRON SCONJ
+5902: 5 indkassere VERB NOUN
+5907: 10 idet SCONJ PRON
+5928: 31 nyoprykkede ADJ VERB
+5976: 2 dobbelte ADJ VERB
+6011: 14 klares VERB NOUN
+6083: 17 oplyst VERB NOUN
+6096: 30 har VERB AUX
+6144: 33 stærkt ADJ ADV

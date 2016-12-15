@@ -126,7 +126,7 @@ public class ConlluToConllMapper {
 	<entry key="WordSuffixFeatureFactory.ngram">false</entry>
 	 */
 
-	//NOTE same for all languages !
+	//NOTE - SAME for ALL languages !
 	private static void initLanguageDataPropsFile(String languageID){
 		ConlluToConllMapper.dataProps.setProperty("taggerName", languageID.toUpperCase()+"UNIPOS");
 		ConlluToConllMapper.dataProps.setProperty("saveModelInputFile", "false");

@@ -1,1961 +1,1913 @@
-PROPN:NOUN	199
-NOUN:PROPN	131
-VERB:NOUN	102
-ADJ:NOUN	88
-PUNCT:PAUSE	85
-ADV:ADP	73
-NOUN:VERB	65
-ADJ:VERB	61
-NOUN:ADJ	60
-AUX:VERB	43
-SCONJ:ADP	41
-VERB:AUX	41
-PROPN:ADJ	38
-ADV:ADJ	38
-ADJ:PROPN	37
-X:URL	35
-ADJ:ADV	35
-ADV:NOUN	27
-VERB:ADJ	23
-NOUN:PRON	21
-X:NOUN	21
-NOUN:ADP	21
-SYM:EMO	20
-PROPN:PRON	19
-DET:PRON	19
-ADP:SCONJ	19
-ADP:ADV	18
-PRON:DET	18
-X:PROPN	18
-PROPN:VERB	17
-PRON:SCONJ	16
-VERB:PROPN	16
-ADP:PART	15
-ADV:DET	14
-PART:VERB	13
-PROPN:ADP	13
-NOUN:DET	13
-PUNCT:EMO	13
-PROPN:DET	12
-SYM:PUNCT	11
-INTJ:NOUN	11
-NOUN:X	11
-NOUN:ADV	11
-ADV:PART	11
-VERB:ADP	10
-SCONJ:PRON	8
-VERB:ADV	7
-INTJ:PROPN	7
-PROPN:INTJ	7
-PART:ADP	6
-SCONJ:ADV	6
-ADP:VERB	6
-PROPN:ADV	6
-NOUN:PART	6
-INTJ:ADV	6
-X:PUNCT	5
-ADP:NOUN	5
-ADV:VERB	5
-PART:NOUN	5
-PROPN:AUX	5
-NOUN:SCONJ	5
-ADV:PRON	5
-NOUN:AUX	5
-NOUN:HASH	5
-ADJ:DET	5
-X:DET	5
-DET:PROPN	4
-CONJ:DET	4
-DET:NOUN	4
-ADJ:ADP	4
-X:ADJ	4
-ADV:INTJ	4
-X:VERB	4
-ADV:SCONJ	4
-NOUN:SYM	4
-PART:ADV	3
-PROPN:NUM	3
-DET:CONJ	3
-SCONJ:NOUN	3
-NOUN:CONJ	3
-ADV:PROPN	3
-INTJ:VERB	3
-ADJ:PRON	3
-X:ADV	3
-ADJ:INTJ	3
-NUM:NOUN	3
-PROPN:SCONJ	3
-AUX:NOUN	3
-PUNCT:SYM	3
-INTJ:ADP	3
-VERB:PART	3
-SCONJ:PART	2
-SCONJ:AUX	2
-X:PRON	2
-PROPN:X	2
-ADP:PROPN	2
-X:ADP	2
-SYM:AUX	2
-ADP:DET	2
-PRON:NOUN	2
-PRON:PART	2
-INTJ:PRON	2
-NOUN:PUNCT	2
-NUM:PRON	2
-CONJ:PART	2
-DET:ADJ	2
-ADP:X	2
-NOUN:NUM	2
-CONJ:ADV	2
-SCONJ:ADJ	1
-PRON:PROPN	1
-INTJ:SCONJ	1
-ADP:NUM	1
-ADJ:PART	1
-NUM:ADV	1
-PART:AUX	1
-ADP:CONJ	1
-VERB:NUM	1
-ADV:CONJ	1
-AUX:ADV	1
-DET:VERB	1
-AUX:ADJ	1
-SCONJ:VERB	1
-X:NUM	1
-INTJ:DET	1
-SYM:ADDRESS	1
-PRON:ADV	1
-VERB:SCONJ	1
-DET:SCONJ	1
-PRON:NUM	1
-ADJ:AUX	1
-PART:DET	1
-SYM:PROPN	1
-SCONJ:DET	1
-PROPN:SYM	1
-CONJ:PROPN	1
-ADV:AUX	1
-PART:PUNCT	1
-NUM:PROPN	1
-PROPN:CONJ	1
-CONJ:INTJ	1
-DET:AUX	1
-AUX:PROPN	1
-ADJ:SCONJ	1
-DET:ADV	1
-NOUN:ADDRESS	1
-ADP:ADJ	1
-AUX:PART	1
-VERB:X	1
-DET:INTJ	1
-INTJ:ADJ	1
-ADP:INTJ	1
-UN
-17 doubts NOUN VERB
-22 is AUX VERB
-7 that DET PRON
-16 second PROPN ADJ
-17 world PROPN NOUN
-19 war PROPN NOUN
-1 Shojai PROPN PRON
-10 long ADJ ADV
-3 that SCONJ PRON
-17 that SCONJ PRON
-4 top ADJ NOUN
-14 with SCONJ ADP
-5 most ADJ ADV
-13 were AUX VERB
-21 respected VERB ADJ
-22 Association PROPN NOUN
-20 az PROPN NOUN
-1 Allawi PROPN PRON
-3 aged ADJ VERB
-28 is AUX VERB
-21 this DET PRON
-5 most ADJ ADV
-16 on ADP SCONJ
-2 intrepid ADJ NOUN
-9 more ADJ ADV
-5 Iraqi PROPN ADJ
-12 been AUX VERB
-14 committed VERB ADJ
-10 Sources PROPN NOUN
-17 Weblog PROPN NOUN
-2 Am VERB PROPN
-2 hottest ADJ NOUN
-6 there ADV PRON
-20 that SCONJ DET
-28 Union PROPN NOUN
-9 Group NOUN PROPN
-1 Arial ADJ PROPN
-15 's AUX PART
-15 do VERB AUX
-1 With SCONJ ADP
-9 arises VERB NOUN
-11 to SCONJ PART
-18 right NOUN ADJ
-4 do AUX VERB
-7 agree VERB NOUN
-30 ranks VERB NOUN
-32 fifth ADV NOUN
-11 yet CONJ PART
-3 's PART VERB
-21 have AUX VERB
-3 past SCONJ ADJ
-9 Deja X PROPN
-10 vu X NOUN
-14 those PRON DET
-12 that SCONJ PRON
-17 that DET SCONJ
-14 that PRON SCONJ
-7 Arab ADJ PROPN
-9 have AUX VERB
-1 Yet CONJ ADV
-18 were AUX VERB
-28 much ADV ADJ
-29 less ADV ADJ
-3 right ADJ ADV
-2 American PROPN ADJ
-4 Arab PROPN ADJ
-5 Discrimination PROPN NOUN
-6 Committee PROPN NOUN
-29 set VERB ADJ
-30 for SCONJ ADP
-4 all ADV DET
-12 that ADV SCONJ
-7 about ADV ADP
-8 get AUX VERB
-9 married VERB ADJ
-16 that PRON DET
-17 attack VERB NOUN
-21 hence ADV NOUN
-4 sure ADV ADJ
-11 out ADV ADP
-4 loathe ADJ DET
-30 WashPost PROPN NOUN
-3 Ask VERB PROPN
-6 event NOUN VERB
-15 about SCONJ ADV
-13 that PRON SCONJ
-2 Q NOUN PROPN
-15 talk NOUN VERB
-20 be VERB NOUN
-23 what DET PRON
-2 Laughter NOUN PROPN
-12 first ADV ADJ
-2 Laughter NOUN PROPN
-2 if ADP SCONJ
-14 Office PROPN NOUN
-22 steep ADJ NOUN
-14 A DET PROPN
-15 Charge PROPN NOUN
-6 this DET PRON
-2 Laughter NOUN PROPN
-2 Laughter NOUN PROPN
-3 was AUX VERB
-4 sung VERB ADJ
-12 governor NOUN PROPN
-5 boys NOUN PART
-11 A DET PROPN
-12 Charge PROPN NOUN
-3 talks VERB NOUN
-10 best ADV ADJ
-11 as SCONJ ADP
-5 rambling ADJ NOUN
-10 that SCONJ PRON
-18 A DET PROPN
-19 Charge PROPN NOUN
-6 about SCONJ ADP
-8 developiong VERB ADP
-13 / SYM PUNCT
-8 Applied PROPN VERB
-16 satellite NOUN SCONJ
-4 inside ADJ NOUN
-14 that PRON SCONJ
-5 lead ADJ NOUN
-11 income NOUN PRON
-16 Foundation PROPN NOUN
-12 unchanged ADJ VERB
-18 much ADV ADP
-26 above ADV ADP
-18 browsing NOUN VERB
-1 Welcome INTJ VERB
-7 big ADJ NOUN
-9 Welcome NOUN ADJ
-5 rock VERB NOUN
-1 Darin PROPN ADP
-2 Fisher PROPN PRON
-17 :-) SYM EMO
-3 darin PROPN ADP
-11 to ADP PART
-7 most ADV ADJ
-22 ... PUNCT PAUSE
-21 that PRON SCONJ
-27 / SYM PUNCT
-8 Flash PROPN NOUN
-9 movie NOUN ADP
-21 future ADJ NOUN
-25 as SCONJ AUX
-3 Google PROPN NOUN
-5 brings VERB NOUN
-17 for SCONJ ADP
-21 Aquire VERB PROPN
-29 about ADP ADV
-2 'm VERB AUX
-3 inclined ADJ VERB
-7 google PROPN PRON
-13 to PART ADP
-14 both CONJ DET
-15 shape VERB NOUN
-26 out ADV ADP
-33 leading VERB NOUN
-66 admidst ADP VERB
-72 firefox PROPN NOUN
-6 enlightened ADJ VERB
-7 self NOUN PRON
-15 alive ADJ VERB
-1 Malach PROPN INTJ
-12 influencing VERB NOUN
-24 mis-matches NOUN VERB
-10 al PROPN NOUN
-18 before SCONJ ADP
-21 Provisional PROPN ADJ
-18 were VERB AUX
-12 are VERB AUX
-4 that SCONJ PRON
-1 State PROPN NOUN
-7 Defense PROPN NOUN
-12 most ADJ ADV
-4 have AUX VERB
-8 State PROPN NOUN
-10 Arabists NOUN PART
-13 in ADV ADP
-5 CPA PROPN NOUN
-4 's PART VERB
-12 helps VERB PART
-2 11 PROPN NUM
-3 Commission PROPN NOUN
-45 Asian PROPN ADJ
-46 Times PROPN NOUN
-10 Sadrists PROPN NOUN
-5 sat VERB ADP
-26 in ADV ADP
-9 hoc X NOUN
-10 ergo X VERB
-12 hoc X NOUN
-14 Z NOUN PROPN
-17 X NOUN PROPN
-20 Z NOUN PROPN
-24 X NOUN PROPN
-32 posting NOUN VERB
-8 Z NOUN PRON
-11 X NOUN PROPN
-16 X NOUN PROPN
-19 Neocon NOUN PROPN
-37 AP PROPN NOUN
-5 Muslim ADJ PROPN
-6 cleric NOUN PROPN
-27 striking NOUN VERB
-24 cleric NOUN PROPN
-44 group NOUN ADP
-9 striking NOUN VERB
-25 al PROPN ADJ
-33 sermon NOUN ADP
-40 south ADV NOUN
-6 chief ADJ NOUN
-10 was AUX VERB
-2 Army PROPN NOUN
-8 forget VERB NOUN
-2 'm VERB AUX
-7 reveals VERB NOUN
-18 be X NOUN
-19 for ADV ADP
-6 lisa PROPN NOUN
-10 all ADV DET
-11 wasted ADJ VERB
-13 boob VERB NOUN
-10 couple ADJ NOUN
-14 better ADV ADJ
-5 in ADV ADP
-7 right INTJ ADV
-2 up ADV ADP
-4 Kenneally PROPN ADV
-1 india PROPN NOUN
-1 boob VERB NOUN
-3 be VERB AUX
-4 embarrassed ADJ VERB
-7 have VERB AUX
-4 out ADV ADP
-8 wasted ADJ VERB
-1 jill PROPN AUX
-2 allen PROPN VERB
-15 party VERB NOUN
-1 max PROPN NOUN
-3 jen PROPN NOUN
-14 as SCONJ ADP
-15 the PRON DET
-1 Fucking ADJ VERB
-9 mississippi PROPN NOUN
-5 foward ADV ADP
-12 val PROPN NOUN
-9 rock VERB NOUN
-6 doberman NOUN ADJ
-9 were AUX VERB
-10 shrunk VERB ADJ
-14 b/c ADP NOUN
-17 taco PROPN NOUN
-18 bell PROPN VERB
-4 b/c SCONJ VERB
-7 mean ADJ VERB
-3 are VERB AUX
-7 b/c ADP NOUN
-10 taco PROPN NOUN
-11 bell PROPN VERB
-7 > PUNCT EMO
-16 's PART VERB
-17 right NOUN ADJ
-19 bilateral ADJ NOUN
-6 is AUX VERB
-7 set VERB NOUN
-11 advocates NOUN VERB
-5 Admin NOUN PROPN
-11 to PART ADP
-5 lies VERB NOUN
-5 in ADV ADP
-3 in ADV ADP
-1 Kevin PROPN ADP
-4 Accenture PROPN NOUN
-7 Consultant NOUN PROPN
-9 Energy NOUN PROPN
-19 C NOUN PROPN
-5 http://www.accenture.com X URL
-9 woodrow PROPN NOUN
-19 that DET PRON
-20 garden NOUN VERB
-4 be VERB AUX
-17 original NOUN ADJ
-4 to ADP PART
-12 drink VERB NOUN
-6 am VERB AUX
-7 perverted ADJ VERB
-1 whatever INTJ ADV
-6 lovin NOUN ADV
-1 Robert X PROPN
-2 Bryngelson@AZURIX X PROPN
-17 out ADV ADP
-18 ta ADP DET
-16 coming VERB ADJ
-30 LNG NOUN PROPN
-20 Garage NOUN PROPN
-23 around ADP ADV
-1 Traci PROPN PRON
-1 Traci PROPN PRON
-8 copy VERB NOUN
-3 domain NOUN ADJ
-2 most ADJ ADV
-17 @paulhastings.com NOUN ADDRESS
-13 taking NOUN VERB
-4 this PRON DET
-6 Guarantee NOUN PROPN
-8 Word PROPN NOUN
-8 black NOUN ADJ
-13 Guarantee NOUN PROPN
-14 vs ADP NOUN
-3 Direct ADJ PROPN
-4 Dial NOUN PROPN
-7 NiMo PROPN ADV
-11 higher ADV ADJ
-17 fifth ADV ADJ
-13 all ADV DET
-15 alternative ADJ NOUN
-20 NiMo PROPN NOUN
-21 Tier NOUN ADJ
-22 Structure NOUN PROPN
-5 RFP NOUN PROPN
-21 that DET PRON
-22 RFP NOUN PROPN
-2 Griffith@ENRON X PROPN
-9 that PRON SCONJ
-3 herein ADV NOUN
-4 herein ADV ADP
-5 are VERB AUX
-7 those PRON DET
-8 material ADJ NOUN
-11 those PRON DET
-15 expressed VERB ADJ
-23 Futures PROPN NOUN
-2 Carr PROPN NOUN
-3 Futures PROPN NOUN
-7 most ADV NOUN
-1 Adobe PROPN VERB
-6 UnleadedStocks.pdf NOUN X
-13 CrudeStocks.pdf NOUN X
-20 HeatingOilStocks.pdf NOUN X
-27 PADDIIstocksCL.pdf NOUN X
-34 PADDIstocksHO.pdf NOUN X
-41 PADDIstocksHU.pdf NOUN X
-48 API.pdf NOUN PROPN
-2 UnleadedStocks.pdf NOUN PROPN
-2 CrudeStocks.pdf NOUN PROPN
-2 HeatingOilStocks.pdf NOUN PROPN
-2 PADDIIstocksCL.pdf NOUN PROPN
-2 PADDIstocksHO.pdf NOUN PROPN
-2 PADDIstocksHU.pdf NOUN PROPN
-2 API.pdf NOUN PROPN
-16 above ADV ADJ
-6 Intrastate ADJ NOUN
-16 part ADJ NOUN
-36 that PRON SCONJ
-43 HPL NOUN PROPN
-44 may AUX PROPN
-49 subject ADJ NOUN
-9 another DET PRON
-2 find VERB ADP
-17 had AUX VERB
-18 both ADV DET
-2 Townsend PROPN NOUN
-8 > PUNCT EMO
-1 Heather PROPN SCONJ
-3 in ADV NOUN
-6 much ADJ ADV
-1 Are AUX VERB
-3 bed NOUN AUX
-4 got AUX NOUN
-1 These PRON DET
-4 forward VERB ADV
-2 Investment PROPN NOUN
-3 Partners PROPN NOUN
-2 've AUX VERB
-3 all ADV DET
-4 won VERB ADP
-1 ... PUNCT PAUSE
-7 .... PUNCT PAUSE
-10 show NOUN ADV
-1 Associate NOUN VERB
-2 A NOUN PROPN
-4 A NOUN PROPN
-11 King PROPN VERB
-13 Almy PROPN PRON
-3 Pledge VERB PROPN
-3 in ADV ADP
-10 http://unitedway.enron.com X URL
-15 Internet PROPN NOUN
-20 type VERB NOUN
-21 in ADV ADP
-22 unitedway.enron.com ADP X
-4 both CONJ DET
-5 o'neal PROPN NOUN
-7 matt PROPN NOUN
-9 out ADV ADP
-11 shanna PROPN NOUN
-9 hector PROPN NOUN
-12 to ADP PART
-1 LU INTJ PROPN
-6 well ADJ ADV
-6 $$$ NOUN SYM
-2 $$$ NOUN SYM
-1 Retire VERB ADJ
-6 about ADV ADP
-25 knocks VERB NOUN
-18 provoking VERB NOUN
-20 soul NOUN SCONJ
-11 through ADV ADP
-3 all ADV DET
-7 rewarding ADJ VERB
-3 well ADJ ADV
-13 PR NOUN PROPN
-9 http://explorer.msn.com/intl.asp X URL
-6 $$$ NOUN SYM
-9 about ADV ADP
-11 will NOUN AUX
-2 am AUX VERB
-8 amstel PROPN NOUN
-9 lights PROPN NOUN
-4 ... PUNCT PAUSE
-6 TEXT.htm NOUN X
-2 transmittal NOUN ADJ
-6 transmittal NOUN ADJ
-26 collect ADV VERB
-2 TEXT.htm NOUN X
-6 TEXT.htm NOUN X
-9 hover NOUN ADP
-2 about ADP ADV
-3 skidoo NOUN PRON
-4 skis NOUN VERB
-13 .. PUNCT PAUSE
-2 IS PROPN VERB
-10 " NOUN PUNCT
-13 " NOUN PUNCT
-11 satisfying ADJ VERB
-17 love NOUN VERB
-16 ... PUNCT PAUSE
-19 ... PUNCT PAUSE
-26 as ADP SCONJ
-3 past NOUN ADJ
-4 there ADV PRON
-7 .. PUNCT PAUSE
-15 that PRON SCONJ
-26 self NOUN PRON
-27 esteem NOUN VERB
-8 ... PUNCT PAUSE
-18 apt ADJ VERB
-22 all DET NOUN
-23 ... PUNCT PAUSE
-27 ... PUNCT PAUSE
-28 to ADP PART
-31 that PRON SCONJ
-37 ... PUNCT PAUSE
-41 ... PUNCT PAUSE
-48 been AUX VERB
-50 hurt VERB ADJ
-53 past ADJ NOUN
-54 ... PUNCT PAUSE
-64 .. PUNCT PAUSE
-1 Whatever PRON DET
-6 ... PUNCT PAUSE
-12 thought NOUN VERB
-13 ... PUNCT PAUSE
-9 timing NOUN VERB
-19 straight ADJ ADV
-21 dealing NOUN VERB
-8 ... PUNCT PAUSE
-18 ... PUNCT PAUSE
-19 ... PUNCT PAUSE
-5 for SCONJ ADP
-11 on ADV ADP
-19 alone ADJ ADV
-20 .. PUNCT PAUSE
-15 outlook PROPN NOUN
-1 Raw ADJ PROPN
-6 fisrt ADJ NOUN
-1 Vladi PROPN PRON
-10 that PRON SCONJ
-16 spread NOUN ADJ
-3 do VERB AUX
-12 all DET NOUN
-29 Imperial ADJ PROPN
-30 at ADP SCONJ
-31 http://home.enron.com/employeemeeting X URL
-1 Constance PROPN NOUN
-3 ext. NOUN ADV
-2 McGilloway PROPN NOUN
-8 > PUNCT EMO
-6 feedback NOUN ADV
-9 Gas NOUN PROPN
-20 On ADP PROPN
-22 Line PROPN NOUN
-27 CPS NOUN PROPN
-38 that PRON SCONJ
-3 Constellation PROPN X
-5 Source PROPN NOUN
-10 CPS PROPN NOUN
-14 Market PROPN NOUN
-15 Place PROPN NOUN
-16 Ste NOUN VERB
-9 this DET PRON
-6 in ADV ADP
-13 questionsand NOUN CONJ
-18 have VERB AUX
-3 attached ADJ VERB
-7 Power X NOUN
-8 ( X PUNCT
-9 GISB X PROPN
-10 draft X NOUN
-11 ) X PUNCT
-2 ENRON-CPS X NOUN
-3 ( X PUNCT
-4 GISB X PROPN
-6 ) X PUNCT
-6 re ADP VERB
-4 all NOUN DET
-1 dp PROPN NOUN
-10 Sale NOUN PROPN
-11 Spot NOUN PROPN
-12 w ADP ADV
-1 dp PROPN NOUN
-1 Tammi PROPN PRON
-1 As SCONJ ADP
-6 CES NOUN PROPN
-8 Alternate ADJ VERB
-9 Transporter NOUN PROPN
-10 Imbalance NOUN PROPN
-15 .. PUNCT PAUSE
-4 Aggregate ADJ VERB
-5 Transporter NOUN PROPN
-6 Imbalance NOUN PROPN
-7 referencing VERB NOUN
-6 Masters NOUN PROPN
-1 These PRON DET
-4 forward VERB ADV
-1 As SCONJ AUX
-7 Duns PROPN NOUN
-8 # NOUN HASH
-10 Fed ADJ VERB
-11 Tax NOUN PROPN
-12 ID NOUN PROPN
-18 Fax NOUN PROPN
-20 bank NOUN VERB
-4 ENRON@enronXgate X PROPN
-4 a DET AUX
-14 above ADV ADJ
-5 forward VERB ADV
-1 Rudwell PROPN INTJ
-1 Visit PROPN NOUN
-2 All DET PROPN
-4 Visit PROPN NOUN
-4 e-mail VERB NOUN
-15 Challenge PROPN NOUN
-16 of SCONJ ADP
-17 Pricing VERB NOUN
-19 Risk PROPN NOUN
-20 Managing VERB PROPN
-21 Electricity PROPN NOUN
-22 Derivatives PROPN NOUN
-12 Brownian ADJ PROPN
-13 Mean NOUN PROPN
-14 Reverting VERB PROPN
-15 Jump NOUN PROPN
-16 Diffusion NOUN PROPN
-17 Model NOUN PROPN
-26 most ADJ NOUN
-28 mean PROPN DET
-29 reversion PROPN NOUN
-34 mean NOUN ADJ
-4 half ADJ NOUN
-6 Ordinary ADJ PROPN
-7 Least ADJ PROPN
-8 Squares NOUN PROPN
-11 as SCONJ ADV
-18 both CONJ DET
-7 as SCONJ ADV
-1 Slope NOUN VERB
-1 R NOUN PROPN
-2 Square NOUN PROPN
-7 mean NOUN ADJ
-10 as SCONJ ADP
-1 Visit PROPN NOUN
-9 http://explorer.msn.com X URL
-14 http://go.msn.com/bql/hmtag_itl_EN.asp X URL
-1 Plz INTJ ADJ
-2 contact VERB NOUN
-6 X X PROPN
-1 Traci PROPN PRON
-8 intern NOUN ADJ
-11 both CONJ DET
-28 first NOUN ADJ
-4 well ADJ ADV
-2 Care NOUN PROPN
-1 Traci PROPN PRON
-1 Traci PROPN PRON
-8 for SCONJ ADP
-26 more ADV ADJ
-27 focus VERB NOUN
-1 Sungjoo PROPN ADV
-3 Stochastic ADJ PROPN
-8 Finance NOUN PROPN
-10 Institute PROPN NOUN
-12 Technology PROPN NOUN
-23 gte114t@prism.gatech.edu X NOUN
-24 Home NOUN PROPN
-4 File NOUN X
-4 File NOUN X
-1 P.S. NOUN PROPN
-6 works VERB NOUN
-20 closing VERB NOUN
-7 net ADJ NOUN
-14 fair ADJ NOUN
-6 preference NOUN VERB
-11 transferring VERB NOUN
-7 CPA NOUN PROPN
-15 to PART ADP
-16 audit VERB NOUN
-9 PSA NOUN PROPN
-10 Deferred VERB PROPN
-11 Phantom NOUN PROPN
-13 Units NOUN PRON
-18 calculate VERB ADJ
-5 VII NUM PROPN
-1 Amount PROPN NOUN
-3 Benefit PROPN NOUN
-4 Payments PROPN NOUN
-5 reads VERB NOUN
-22 closing VERB NOUN
-40 such ADJ DET
-15 be AUX VERB
-13 with ADP SCONJ
-1 Jacques PROPN NOUN
-6 in ADV ADP
-4 stall VERB NOUN
-5 promotional NOUN ADJ
-10 Building PROPN NOUN
-4 back ADP ADV
-17 kestrel PROPN ADJ
-18 air PROPN NOUN
-19 park PROPN NOUN
-20 building PROPN NOUN
-28 walzem PROPN PRON
-29 had AUX VERB
-30 both ADV DET
-31 sold VERB NOUN
-5 this DET PRON
-6 IRR NOUN PROPN
-9 port PROPN NOUN
-2 Roma PROPN NOUN
-11 in ADV ADP
-2 Alaskan PROPN ADJ
-3 Knight PROPN NOUN
-10 ragnarok PROPN ADJ
-11 2 PROPN NUM
-18 send VERB NOUN
-1 Reply VERB NOUN
-11 alt.animals.dogs.collies.open-forum NOUN ADJ
-19 alt.animals.falcon NOUN ADP
-10 Rat NOUN PROPN
-11 ASCII's NOUN PROPN
-2 ... PUNCT PAUSE
-18 mesmerizing ADJ VERB
-4 Speak VERB PROPN
-7 .... PUNCT PAUSE
-3 audiobooks NOUN VERB
-2 visit VERB NOUN
-6 irc.yankeedot.net X NOUN
-9 # NOUN HASH
-11 for ADP SCONJ
-4 Speak VERB PROPN
-7 .... PUNCT PAUSE
-3 audiobooks NOUN VERB
-2 visit VERB NOUN
-6 irc.yankeedot.net X NOUN
-9 # NOUN HASH
-11 for ADP SCONJ
-29 best ADV ADJ
-7 Army NOUN PROPN
-10 Mohiuddin PROPN ADP
-1 He INTJ PRON
-3 he INTJ PRON
-5 Joke PROPN NOUN
-15 > PUNCT EMO
-11 > PUNCT EMO
-1 Outlook.jpg NOUN PROPN
-2 K NOUN NUM
-3 Download NOUN PROPN
-3 Deposited VERB PROPN
-7 PayPal PROPN ADJ
-9 blast NOUN ADJ
-6 is VERB AUX
-14 grow VERB NOUN
-23 that SCONJ PRON
-31 spanking ADV VERB
-19 Union PROPN NOUN
-37 with SCONJ ADP
-41 closer ADJ ADV
-42 to ADP PART
-1 s PROPN NOUN
-13 3rd NOUN ADJ
-15 i X PRON
-17 OK ADJ PROPN
-8 L SYM PROPN
-11 up ADV ADP
-12 front ADV NOUN
-14 woul X ADJ
-15 d AUX NOUN
-29 poss X VERB
-19 so SCONJ ADV
-4 whatever PRON DET
-10 over ADV ADP
-7 out ADV ADP
-8 kinda ADV DET
-29 up ADV ADP
-43 ... PUNCT PAUSE
-51 sry INTJ NOUN
-1 Reply VERB NOUN
-10 about SCONJ ADP
-12 quitting VERB NOUN
-18 over-eater NOUN ADJ
-3 w/ ADP X
-8 for SCONJ ADP
-19 :) SYM EMO
-9 > PUNCT EMO
-19 are AUX VERB
-13 must NOUN AUX
-14 see NOUN VERB
-1 http://www.budgieresearch.com X URL
-6 tgs PROPN NOUN
-20 preety ADV NOUN
-22 ... PUNCT PAUSE
-1 http://www.4gamer.net/news/image/2005.09/20050920111900_21big.html X URL
-1 http://www.4gamer.net/news/image/2005.09/20050919032951_21big.html X URL
-1 http://www.4gamer.net/news/image/2005.09/20050919032951_32big.html X URL
-1 http://www.4gamer.net/news/image/2005.09/20050919032951_39big.html X URL
-1 http://www.4gamer.net/news/image/2005.09/20050919032951_42big.html X URL
-1 http://www.4gamer.net/news/image/2005.09/20050919032951_41big.html X URL
-1 http://www.4gamer.net/news/image/2005.09/20050919032951_40big.html X URL
-1 http://www.4gamer.net/news/image/2005.09/20050917034321_15big.html X URL
-1 http://www.4gamer.net/news/image/2005.09/20050917034321_2big.html X URL
-1 http://www.4gamer.net/news/image/2005.09/20050909152208_14big.html X URL
-1 http://www.4gamer.net/news/image/2005.09/20050917024918_1big.html X URL
-1 btw INTJ ADV
-7 4gamer PROPN NOUN
-1 Reply VERB NOUN
-9 > PUNCT EMO
-9 rid ADJ NOUN
-27 black ADJ NOUN
-11 ect X NOUN
-8 > PUNCT EMO
-3 much ADV ADJ
-12 .. PUNCT PAUSE
-13 D PROPN SYM
-23 OH PROPN INTJ
-12 to PART ADP
-13 DM VERB PROPN
-14 ... PUNCT PAUSE
-16 DM's NOUN PART
-4 much ADV ADJ
-8 dailyem...@ebs.bbc.co.uk X NOUN
-9 > PUNCT EMO
-5 http://www.bbc.co.uk/news X URL
-6 unsolicited ADJ VERB
-8 Alert PROPN NOUN
-5 subscribe VERB NOUN
-17 http://www.bbc.co.uk/email X URL
-2 http://www.usatoday.com/tech/science/space/2005-03-09-nasa-search_x.htm?csp=34 X URL
-8 about SCONJ ADP
-4 longtime ADV NOUN
-6 executive NOUN ADJ
-7 astronaut's NOUN PART
-3 national ADJ PROPN
-9 to ADP PART
-10 transit ADJ VERB
-17 FMs NOUN PROPN
-33 transit ADJ NOUN
-9 to ADP PART
-10 transit ADJ VERB
-10 > PUNCT EMO
-2 U X PROPN
-3 P X PROPN
-4 D X PROPN
-5 A X PROPN
-6 T X PROPN
-7 E X PROPN
-8 D VERB PROPN
-5 to ADP PART
-12 in ADV ADP
-5 all ADV DET
-8 of SCONJ ADP
-9 building VERB NOUN
-13 to ADV PART
-4 growing VERB ADJ
-7 :-) SYM EMO
-1 http://www.thecatalbum.com X URL
-8 > PUNCT EMO
-10 than ADV ADP
-2 on ADV SCONJ
-2 was VERB AUX
-3 ashamed ADJ VERB
-10 ... PUNCT PAUSE
-29 seak ADJ VERB
-30 :) SYM EMO
-5 Men NOUN PROPN
-13 :-) SYM EMO
-1 http://lingerie.selectedsex.com X URL
-8 > PUNCT EMO
-26 silky ADJ NOUN
-27 nightgown NOUN ADJ
-7 > PUNCT EMO
-6 discount ADJ NOUN
-5 Corporate NOUN ADJ
-4 corporate NOUN ADJ
-2 discount ADJ NOUN
-7 promote VERB ADJ
-17 discount ADJ NOUN
-1 COMPLETE ADJ PROPN
-5 http://discountairlineticket.blogspot.com/2005/10/some-techniques-to-... X URL
-11 screening NOUN VERB
-23 ADHD NOUN PROPN
-25 LD NOUN PROPN
-29 subjects NOUN VERB
-28 any X DET
-33 deficit NOUN PRON
-8 is AUX VERB
-8 of SCONJ ADP
-27 maime VERB NOUN
-11 releif NOUN SCONJ
-12 from SCONJ ADP
-1 badger NOUN AUX
-2 baiting NOUN VERB
-8 on NOUN ADP
-19 might AUX ADV
-1 sincere ADJ VERB
-1 ----== SYM AUX
-4 Newsfeed.Com X PROPN
-6 Unlimited ADJ PROPN
-8 Uncensored ADJ PROPN
-11 Usenet NOUN PROPN
-13 ==---- SYM PUNCT
-2 # NOUN HASH
-1 > SYM EMO
-3 East ADJ PROPN
-5 West ADJ PROPN
-7 Coast NOUN PROPN
-8 Specialized ADJ PROPN
-11 Total ADJ PROPN
-15 =--- SYM PUNCT
-1 ----== SYM AUX
-4 Newsfeed.Com X PROPN
-6 Unlimited ADJ PROPN
-8 Uncensored ADJ PROPN
-11 Usenet NOUN PROPN
-13 ==---- SYM PUNCT
-2 # NOUN HASH
-1 > SYM EMO
-3 East ADJ PROPN
-5 West ADJ PROPN
-7 Coast NOUN PROPN
-8 Specialized ADJ PROPN
-11 Total ADJ PROPN
-15 =--- SYM PUNCT
-1 Greetings INTJ NOUN
-4 freelance ADJ NOUN
-14 ALTERNATIVE PROPN ADJ
-41 chief ADJ NOUN
-20 MD NOUN PROPN
-23 Professor NOUN PROPN
-36 Broadway PROPN NOUN
-10 initial NOUN ADJ
-32 HCA NOUN PROPN
-34 MCT NOUN PROPN
-38 oolong NOUN ADP
-42 CLA NOUN PROPN
-54 HTP NOUN PROPN
-60 HMB NOUN PROPN
-63 BCAA NOUN PROPN
-18 dry ADJ NOUN
-14 back ADP ADV
-31 crops NOUN VERB
-25 bottling NOUN ADJ
-6 are AUX VERB
-11 to PART ADP
-13 occupy VERB ADJ
-1 Moral NOUN PROPN
-11 drink VERB NOUN
-12 Pepsi PROPN NOUN
-4 Pepsi PROPN PRON
-5 Fair PROPN ADJ
-7 Action PROPN NOUN
-20 Authority PROPN NOUN
-25 HANO PROPN INTJ
-10 of ADP SCONJ
-14 Development PROPN NOUN
-29 Thomas PROPN SCONJ
-30 Housing PROPN VERB
-31 Development PROPN NOUN
-35 City PROPN NOUN
-46 of ADP SCONJ
-50 Development PROPN NOUN
-54 VI PROPN PRON
-4 allege VERB NOUN
-22 public ADJ AUX
-35 HANO PROPN DET
-15 more ADV ADJ
-16 scarce ADJ NOUN
-9 comply VERB NOUN
-21 Executive PROPN ADJ
-22 Director PROPN NOUN
-7 light ADJ NOUN
-9 crude NOUN ADJ
-14 rose VERB ADV
-14 advanced VERB ADJ
-17 top ADJ NOUN
-12 about ADV ADP
-1 Oil NOUN PROPN
-6 as SCONJ ADP
-1 Exxon PROPN ADP
-8 giant ADJ NOUN
-16 record ADJ NOUN
-5 bellow ADV NOUN
-8 excelnt ADJ PART
-10 thank NOUN VERB
-2 http://www.newscientistspace.com/article.ns?id=dn8293&feedId=human-spaceflight_atom03 X URL
-2 New PROPN ADJ
-2 ... PUNCT PAUSE
-5 cost NOUN ADV
-31 Transformational PROPN ADJ
-32 Space PROPN NOUN
-7 wise ADJ NOUN
-8 alternative NOUN ADJ
-9 for SCONJ ADP
-18 good NOUN ADJ
-2 New PROPN ADJ
-12 house PROPN NOUN
-13 science PROPN NOUN
-14 committee PROPN NOUN
-21 about ADV ADP
-30 crew NOUN VERB
-9 ... PUNCT PAUSE
-15 better ADV ADJ
-1 Only ADV ADJ
-7 's PART NOUN
-9 are AUX VERB
-12 transport VERB ADJ
-19 about ADV ADP
-39 out X VERB
-2 http://seattlepi.nwsource.com/national/apmideast_story.asp?category=1107&slug=Palestinians%20Abbas X URL
-7 what DET PRON
-14 Seattlepi.com X PROPN
-21 Leader NOUN PROPN
-32 that PRON SCONJ
-6 sure ADJ NOUN
-7 macho NOUN PRON
-8 talk NOUN VERB
-20 allow VERB ADP
-24 has AUX VERB
-1 AP PROPN NOUN
-2 Photo NOUN PART
-6 front NOUN ADJ
-18 Mahmoud PROPN NOUN
-20 talks VERB NOUN
-24 official ADJ NOUN
-10 to ADP PART
-15 was VERB AUX
-1 Abbas PROPN SCONJ
-1 Having AUX VERB
-18 is AUX VERB
-2 http://news.bbc.co.uk/1/hi/world/middle_east/4281450.stm X URL
-2 Hat NOUN PRON
-6 s PART NOUN
-12 after SCONJ ADP
-14 military NOUN ADJ
-15 withdrew VERB NOUN
-8 unrestricted ADJ VERB
-8 in ADV ADP
-21 Israeli PROPN ADJ
-23 Forces PROPN NOUN
-11 after SCONJ ADP
-9 as SCONJ ADP
-2 Jerusalem PROPN NOUN
-33 official NOUN ADJ
-2 ... PUNCT PAUSE
-14 's PART VERB
-15 scheme NOUN PRON
-3 remains VERB NOUN
-11 past NOUN ADJ
-7 toward ADP ADJ
-17 strip PROPN NOUN
-5 steps VERB NOUN
-6 in ADV ADP
-20 is VERB AUX
-21 done ADJ VERB
-37 is VERB AUX
-6 .... PUNCT PAUSE
-5 :) SYM EMO
-5 big PROPN ADJ
-6 mac PROPN NOUN
-6 Meal PROPN NOUN
-1 :-) SYM EMO
-1 \\ SYM PUNCT
-2 // SYM PUNCT
-1 What DET PRON
-6 LMAO INTJ PROPN
-3 miramar PROPN ADJ
-4 florida PROPN DET
-5 theyy PRON NOUN
-6 about ADP ADV
-1 ... PUNCT PAUSE
-9 ... PUNCT PAUSE
-17 that PRON DET
-19 ... PUNCT PAUSE
-2 teacher NOUN PRON
-8 accomodate VERB NOUN
-1 cos SCONJ NOUN
-6 to ADP PART
-7 baguio PROPN VERB
-1 http://www.couchsurfing.org/ X URL
-2 couch NOUN SCONJ
-3 surfing NOUN VERB
-11 at ADV ADP
-12 all ADV DET
-18 not ADV PART
-1 http://en.wikipedia.org/wiki/Cubism X URL
-10 like ADP VERB
-21 ect X NOUN
-7 :) SYM EMO
-18 Delaware PROPN VERB
-24 get AUX VERB
-27 delaware PROPN ADJ
-5 HORSE PROPN NOUN
-6 crazy PROPN ADJ
-7 horse PROPN NOUN
-8 memorial NOUN ADJ
-1 http://www.google.com/search?aq=0&oq=crazy+horse+mem&gcx=w&sourceid=chrome&ie=UTF-8&q=crazy+horse+memorial X URL
-7 mould NOUN AUX
-11 mold NOUN ADJ
-12 making NOUN VERB
-1 http://www.smooth-on.com/p132/Beginner-Brushable-Mold-Rubber-Options/pages.html X URL
-4 starting NOUN ADJ
-5 speed NOUN VERB
-6 post NOUN PART
-10 average ADJ PRON
-13 about ADV ADP
-4 Hills PROPN NOUN
-1 www.visitsouthshropshire.co.uk X VERB
-2 was AUX VERB
-13 right ADJ ADV
-1 Do AUX VERB
-3 Bare ADJ VERB
-6 box VERB NOUN
-7 engage VERB NOUN
-14 no INTJ ADV
-1 Er INTJ PROPN
-7 bare ADJ VERB
-9 box VERB NOUN
-1 other ADV ADJ
-10 bay PROPN NOUN
-11 area PROPN NOUN
-11 .. PUNCT PAUSE
-5 hardy ADV NOUN
-9 :) SYM EMO
-8 any X DET
-9 were ADV AUX
-5 VHS NOUN PROPN
-9 ... PUNCT PAUSE
-15 ' PART PUNCT
-16 home NOUN ADV
-3 DVD NOUN PROPN
-5 library ADJ NOUN
-2 r2d2 PROPN X
-11 R2D2 PROPN NOUN
-8 and DET CONJ
-9 name NOUN PRON
-1 Kudos NOUN PROPN
-9 like INTJ ADP
-12 mi PROPN NOUN
-13 pueble PROPN VERB
-18 .. PUNCT PAUSE
-1 like INTJ ADP
-4 ... PUNCT PAUSE
-1 like INTJ ADP
-2 4th NOUN PROPN
-3 these PRON DET
-18 s PART NOUN
-10 like ADP VERB
-12 s PART NOUN
-18 that ADV PRON
-1 McDonal PROPN ADJ
-2 s PART VERB
-2 one NUM NOUN
-6 most ADV NOUN
-9 wendy PROPN ADJ
-11 punjab PROPN NOUN
-22 punjab PROPN NOUN
-5 about ADP SCONJ
-6 birding NOUN VERB
-23 http://www.wildlifeofpakistan.com/PakistanBirdClub/index.html X URL
-13 casual NOUN ADJ
-3 NT NOUN PROPN
-10 own ADJ VERB
-15 about ADV ADP
-16 is AUX VERB
-2 under ADJ NOUN
-2 runs VERB NOUN
-4 casual NOUN ADJ
-3 NTKB NOUN PROPN
-11 works NOUN VERB
-16 after SCONJ ADP
-18 Natzi PROPN ADJ
-1 google VERB NOUN
-2 nazi PROPN PRON
-6 ... PUNCT PAUSE
-5 k NUM NOUN
-6 est VERB NOUN
-14 ... PUNCT PAUSE
-16 k NUM NOUN
-20 .. PUNCT PAUSE
-34 right X ADJ
-39 .. PUNCT PAUSE
-3 way ADV NOUN
-5 stranger ADJ NOUN
-8 empanada NOUN PROPN
-3 empanadas NOUN ADP
-2 cup NOUN ADP
-4 empanadas NOUN SCONJ
-2 cup NOUN ADP
-2 cup NOUN ADP
-5 empanadas NOUN ADP
-2 cup NOUN ADP
-4 IT PRON PROPN
-7 Phone PROPN NOUN
-8 Exchange PROPN NOUN
-16 lost ADJ VERB
-2 was AUX VERB
-9 arrest VERB NOUN
-1 Erm INTJ VERB
-2 ya INTJ DET
-9 Online ADV PROPN
-12 lols INTJ NOUN
-1 Ya PRON DET
-13 about ADJ ADV
-5 Caoimhe PROPN PRON
-8 much ADV ADJ
-14 so ADV SCONJ
-1 Sciences NOUN PROPN
-7 chemistry NOUN VERB
-7 ... PUNCT PAUSE
-1 http://www.google.co.uk/search?q=forensic+photography&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:en-US:official&client=firefox-a&safe=active&sout=1 X URL
-3 iPhone PROPN NOUN
-6 Smart ADJ PROPN
-15 iPhone PROPN NOUN
-19 Smart ADJ PROPN
-3 blackberry PROPN NOUN
-7 Officiol ADJ PROPN
-9 touch ADJ NOUN
-3 did AUX VERB
-2 sx40 PROPN NOUN
-4 canon PROPN ADP
-5 s100 PROPN NOUN
-2 one NUM PRON
-7 $$$ NOUN SYM
-4 S100 PROPN NOUN
-3 more ADV ADJ
-4 compact ADJ NOUN
-6 ISO NOUN ADV
-10 SX40 PROPN NOUN
-21 SX40 PROPN NOUN
-22 only ADJ ADV
-1 Both DET CONJ
-7 stereo ADJ NOUN
-2 S100 PROPN NOUN
-5 Weed NOUN PROPN
-14 auckland PROPN NOUN
-2 real ADV ADJ
-5 aye INTJ NOUN
-8 dodgy ADJ NOUN
-11 real ADV ADJ
-12 cheap ADV ADJ
-2 is AUX VERB
-4 Reel NOUN PROPN
-11 before ADV ADP
-12 .. PUNCT PAUSE
-8 did VERB AUX
-15 is VERB PART
-16 de X ADJ
-17 lunde X NOUN
-18 bar X NOUN
-19 .. PUNCT PAUSE
-24 .. PUNCT PAUSE
-28 which DET PRON
-1 With SCONJ ADP
-8 youtube PROPN AUX
-1 Help NOUN VERB
-2 findin VERB ADP
-15 somone NOUN PRON
-24 sf PROPN NOUN
-2 like VERB ADP
-6 .... PUNCT PAUSE
-34 ... PUNCT PAUSE
-3 s PART NOUN
-3 kind ADV NOUN
-4 of ADV ADP
-19 not ADV PART
-2 sign NOUN VERB
-5 ... PUNCT PAUSE
-2 top ADJ NOUN
-9 head NOUN VERB
-22 http://www.stuff.co.nz/dominion-post/ X URL
-5 for SCONJ ADP
-1 Wellywood PROPN NOUN
-1 air PROPN ADJ
-2 asia PROPN ADP
-24 air PROPN NOUN
-25 asia PROPN NOUN
-26 recruits VERB NOUN
-42 on ADP SCONJ
-1 Write VERB PROPN
-4 call VERB NOUN
-6 peopel NOUN VERB
-15 eat VERB ADV
-1 Like INTJ PROPN
-2 around ADP ADV
-3 what DET PRON
-14 ... PUNCT PAUSE
-2 plllz INTJ NOUN
-9 like VERB ADP
-6 :) SYM EMO
-20 orchestra NOUN DET
-9 walking NOUN VERB
-16 lost ADJ VERB
-4 ban VERB ADJ
-2 'm VERB AUX
-3 suppose ADJ VERB
-6 there ADV PRON
-5 phone VERB NUM
-9 ask VERB NOUN
-18 not ADV PART
-3 kerala PROPN NOUN
-5 help VERB NOUN
-6 pls INTJ NOUN
-5 sm DET NOUN
-12 .. PUNCT PAUSE
-14 kerala PROPN NOUN
-15 .. PUNCT PAUSE
-17 which DET PRON
-21 kerala PROPN DET
-22 shal AUX ADJ
-31 .. PUNCT PAUSE
-8 beach NOUN DET
-11 trivandrum PROPN NOUN
-16 kollam PROPN NOUN
-17 @ SYM ADDRESS
-20 f ADP NOUN
-22 Lake PROPN VERB
-24 kollam PROPN NOUN
-1 Houseboat NOUN PROPN
-6 a X DET
-2 are VERB AUX
-4 minded ADJ VERB
-5 thr ADV NOUN
-6 since SCONJ ADP
-4 male ADJ NOUN
-2 likely ADV ADJ
-4 unfertilized ADJ VERB
-5 up ADV ADP
-11 up ADV ADP
-14 is VERB AUX
-15 fertilized ADJ VERB
-2 is AUX VERB
-16 Force PROPN NOUN
-17 Base PROPN NOUN
-18 ... PUNCT PAUSE
-6 north ADV NOUN
-1 Boy NOUN VERB
-2 well INTJ ADV
-15 valentine PROPN ADJ
-38 lives VERB NOUN
-57 help NOUN VERB
-59 shoul AUX NOUN
-1 amd CONJ INTJ
-3 d AUX VERB
-3 most ADJ ADV
-5 suck VERB NOUN
-3 better ADV ADJ
-2 t PART VERB
-4 ask VERB NOUN
-2 gare PROPN AUX
-3 montparnasse PROPN ADJ
-4 storage PROPN NOUN
-7 there PRON ADV
-8 nearby ADJ ADV
-9 alternative NOUN ADJ
-5 lourdes PROPN VERB
-1 ty INTJ NOUN
-12 1 X NUM
-8 francisco PROPN NOUN
-4 mexico PROPN AUX
-8 francisco PROPN ADP
-9 california PROPN DET
-5 say INTJ VERB
-7 search VERB NOUN
-21 on ADP NUM
-19 states PROPN NOUN
-3 what DET PRON
-6 Fiji PROPN PRON
-13 a X NOUN
-25 beach NOUN DET
-11 fun ADJ NOUN
-10 earlier ADJ ADV
-7 tampa PROPN DET
-8 bay PROPN NOUN
-19 sells VERB NOUN
-3 that SCONJ PRON
-10 all ADV DET
-14 American PROPN ADJ
-1 yuck INTJ NOUN
-19 that SCONJ ADV
-22 is VERB AUX
-23 coagulated ADJ VERB
-28 ewww INTJ ADV
-8 available ADJ NOUN
-10 noida PROPN DET
-12 greater PROPN ADJ
-13 noida PROPN NOUN
-1 UP PROPN ADP
-3 buses NOUN VERB
-4 ply VERB ADV
-8 - PUNCT SYM
-10 crossing VERB NOUN
-3 these PRON DET
-8 that PRON SCONJ
-12 Sector PROPN NOUN
-13 - PUNCT SYM
-2 dear NOUN ADJ
-14 to ADP PART
-3 UP PROPN ADP
-6 Call PROPN VERB
-6 Indian PROPN ADJ
-8 Building PROPN NOUN
-10 Sector PROPN NOUN
-19 Stops PROPN NOUN
-5 wifi NOUN PRON
-8 / PUNCT SYM
-12 apple PROPN NOUN
-13 ipod PROPN NOUN
-3 wifi NOUN PRON
-15 ... PUNCT PAUSE
-28 ipod PROPN NOUN
-31 wifi NOUN PRON
-13 out ADV ADP
-14 n CONJ ADV
-15 about ADV ADP
-17 ... PUNCT PAUSE
-28 on ADV ADP
-39 on SCONJ ADP
-55 ipod PROPN NOUN
-3 ta PART DET
-6 iPhone PROPN NOUN
-9 ... PUNCT PAUSE
-12 ... PUNCT PAUSE
-22 monthly ADV ADJ
-24 gets VERB NOUN
-25 wifi NOUN PRON
-2 are VERB AUX
-6 alike ADJ INTJ
-6 on SCONJ ADP
-8 afghanistan PROPN NOUN
-10 Vietam PROPN NOUN
-14 alike ADJ INTJ
-10 alike ADJ VERB
-3 PLZ INTJ PROPN
-8 DUE ADJ ADP
-11 :( SYM EMO
-2 ... PUNCT PAUSE
-3 one NUM PRON
-1 Alike ADJ INTJ
-2 ... PUNCT PAUSE
-3 both DET CONJ
-14 matter ADV NOUN
-15 what PRON DET
-19 historians NOUN PROPN
-12 twinky NOUN ADJ
-12 over ADP ADV
-2 have AUX VERB
-6 name VERB NOUN
-16 star NOUN ADJ
-5 STAR NOUN PROPN
-5 :) SYM EMO
-5 Forest NOUN PROPN
-6 Cat NOUN PROPN
-11 bc SCONJ NOUN
-23 by ADV ADP
-7 like SCONJ ADP
-10 did VERB X
-11 :) SYM EMO
-7 veiled ADJ VERB
-2 female ADJ NOUN
-22 like INTJ SCONJ
-24 like ADP VERB
-26 chameleon NOUN ADP
-19 away ADP ADV
-3 do VERB AUX
-9 rot VERB NOUN
-14 aways ADV VERB
-3 stops VERB AUX
-2 have VERB AUX
-3 limited ADJ VERB
-4 Hop VERB PROPN
-5 On ADV PROPN
-6 / X PUNCT
-7 Hop VERB PROPN
-8 Off ADV ADP
-5 to ADP PART
-6 all DET VERB
-24 off ADV ADP
-25 anyplace ADV NOUN
-3 Goldstar.com X PROPN
-8 about ADV ADP
-10 third NOUN ADJ
-1 alcatraz PROPN INTJ
-8 online ADV NOUN
-8 travel NOUN DET
-8 but ADP CONJ
-9 at ADV ADP
-2 is VERB AUX
-2 Hamster PROPN NOUN
-4 .... PUNCT PAUSE
-2 .... PUNCT PAUSE
-13 terrified ADJ VERB
-13 inside ADP ADV
-17 du AUX VERB
-18 n PART VERB
-19 no VERB SCONJ
-4 is VERB AUX
-6 trapped ADJ VERB
-14 out ADP ADV
-1 Start VERB NOUN
-4 start VERB NOUN
-8 please INTJ NOUN
-5 indoor ADJ NOUN
-5 east ADJ ADV
-6 attn NOUN VERB
-26 x X NOUN
-12 tear VERB ADJ
-9 gold NOUN ADJ
-26 hold VERB NOUN
-8 brittany PROPN DET
-9 france PROPN NOUN
-12 of SCONJ ADP
-18 kind ADV NOUN
-19 of ADV ADP
-4 for SCONJ ADP
-6 sexy ADJ NOUN
-18 as ADV VERB
-19 straigthforward ADJ ADV
-8 sexy ADJ NOUN
-17 light ADJ NOUN
-5 up ADV ADP
-8 light ADJ NOUN
-2 miss X ADV
-3 informed ADJ VERB
-3 Quick ADJ PROPN
-4 take NOUN VERB
-5 away NOUN ADV
-5 eva ADV NOUN
-4 like ADP SCONJ
-3 .. PUNCT PAUSE
-7 .. PUNCT PAUSE
-1 Well ADV INTJ
-5 apprised ADJ VERB
-3 pup NOUN ADP
-7 fun ADJ NOUN
-2 bacon NOUN ADP
-4 Fair PROPN ADJ
-1 gone ADJ VERB
-1 library NOUN PRON
-2 is VERB AUX
-3 closed ADJ VERB
-4 bislas PROPN ADV
-1 Fast ADJ PROPN
-2 Job PROPN NOUN
-7 A DET NOUN
-6 exciting ADJ NOUN
-4 Burger NOUN PROPN
-3 's VERB PART
-3 for ADP SCONJ
-4 wing NOUN VERB
-8 eh INTJ NOUN
-12 eh INTJ NOUN
-13 ... PUNCT PAUSE
-1 Prime ADJ PROPN
-1 VISAKHA PROPN DET
-3 GASES PROPN NOUN
-9 google PROPN NOUN
-10 maps PROPN NOUN
-2 to ADP PART
-6 homestyle ADJ NOUN
-14 this PRON DET
-13 meh ADJ NOUN
-1 Mercedes PROPN NOUN
-3 pizza NOUN DET
-7 caters VERB NOUN
-3 tidy ADJ NOUN
-6 down ADP ADV
-3 all DET ADV
-1 marisol PROPN INTJ
-5 twelve PROPN AUX
-1 :) SYM EMO
-1 A NOUN DET
-15 ... PUNCT PAUSE
-4 Stop VERB NOUN
-1 YAY INTJ PROPN
-7 morse PROPN NOUN
-8 red PROPN VERB
-9 line PROPN NOUN
-2 were VERB AUX
-2 down ADV ADP
-7 8 PROPN NUM
-5 Bonding NOUN PROPN
-4 not PART ADV
-1 Brilll ADJ PROPN
-1 Aweesome ADJ DET
-1 Holy ADJ ADV
-7 :) SYM EMO
-7 not ADV PART
-4 listing NOUN VERB
-3 Disco NOUN ADV
-4 dancing VERB NOUN
-6 Cheerleading VERB PROPN
-3 fab ADJ NOUN
-4 get VERB NOUN
-2 samantha PROPN DET
-3 Diverse ADJ NOUN
-15 equals VERB NOUN
-9 more ADJ ADV
-5 Mediterranean ADJ PROPN
-7 fat ADJ ADP
-20 chicago PROPN VERB
-3 ... PUNCT PAUSE
-11 hard ADV ADJ
-15 not ADV PART
-2 Restaurant NOUN PROPN
-4 that PRON SCONJ
-8 satisfying ADJ VERB
-5 band NOUN CONJ
-7 live ADV VERB
-9 s PART VERB
-2 front NOUN ADJ
-2 out ADP ADV
-6 there ADV PRON
-6 Lover PROPN ADV
-5 .. PUNCT PAUSE
-6 to ADV PART
-1 Brain NOUN PROPN
-6 .. PUNCT PAUSE
-16 ... PUNCT PAUSE
-8 piano NOUN DET
-4 only ADJ ADV
-5 pizza NOUN DET
-1 Yum INTJ PROPN
-3 flour NOUN PRON
-11 are VERB AUX
-12 discussing ADJ VERB
-15 over X ADV
-26 down X ADV
-27 hill ADV NOUN
-2 'm AUX VERB
-4 surprised VERB ADJ
-4 about ADV ADP
-5 timely ADJ ADV
-1 Awsome ADJ DET
-8 filling ADJ VERB
-7 about ADV ADP
-8 river PROPN NOUN
-9 road PROPN NOUN
-4 Calzones NOUN PROPN
-1 What DET PRON
-6 well ADV INTJ
-5 that PRON DET
-6 last VERB ADJ
-7 that PRON SCONJ
-4 much ADV ADJ
-3 Hangout NOUN PROPN
-1 Ice ADJ PROPN
-3 out ADV ADP
-4 not ADV PART
-8 Adz PROPN NOUN
-1 SERVERS NOUN PROPN
-5 ... PUNCT PAUSE
-5 mass ADJ NOUN
-21 artisan NOUN DET
-2 Off NOUN PROPN
-9 before ADV ADP
-7 not CONJ PART
-2 Pizza PROPN NOUN
-2 's PART VERB
-3 Pizza PROPN NOUN
-4 is VERB AUX
-5 long ADV ADJ
-6 gone ADJ NOUN
-5 northwest NOUN ADJ
-9 10th PROPN NOUN
-11 Federal PROPN ADJ
-16 home NOUN ADV
-19 Pizza PROPN NOUN
-1 VERYYYY ADV INTJ
-3 VERYYY ADV INTJ
-4 honest ADV NOUN
-4 recomend VERB NOUN
-4 s PART VERB
-5 Auto PROPN ADP
-1 Ashdown PROPN ADP
-2 Horse PROPN NOUN
-3 Transport PROPN NOUN
-4 ALWAY ADV PROPN
-1 PS. NOUN PROPN
-1 Miami PROPN PRON
-2 's PART VERB
-10 elementary ADJ NOUN
-1 awesome ADJ DET
-11 ... PUNCT PAUSE
-10 ... PUNCT PAUSE
-12 recomend VERB NOUN
-13 ... PUNCT PAUSE
-10 Bridges PROPN NOUN
-1 such DET ADJ
-13 pack VERB NOUN
-18 no DET INTJ
-20 up ADV ADP
-2 flavored ADJ VERB
-3 about ADP ADV
-14 to ADP PART
-24 juicy ADJ NOUN
-2 Cigar NOUN PROPN
-11 shop NOUN VERB
-12 off ADV ADP
-3 stunning ADJ VERB
-13 Camps PROPN NOUN
-6 mall NOUN DET
-1 Such DET ADJ
-6 inspiring ADJ VERB
-1 Sand PROPN CONJ
-3 park PROPN NOUN
-8 ... PUNCT PAUSE
-1 Delivery NOUN PROPN
-2 is VERB AUX
-3 lightning NOUN VERB
-1 Like VERB ADP
-12 rest ADJ NOUN
-10 ... PUNCT PAUSE
-18 together ADJ SCONJ
-2 worth ADJ ADP
-1 http://cambridgefoodfrivolity.blogspot.com/ X URL
-5 born ADJ NOUN
-18 ... PUNCT PAUSE
-30 ruder ADJ NOUN
-14 with SCONJ ADP
-5 be AUX VERB
-4 hit NOUN PRON
-6 miss NOUN VERB
-14 browned ADJ VERB
-5 disappointed VERB ADJ
-3 pizza PROPN NOUN
-6 favorite NOUN ADJ
-2 's PART VERB
-3 Pizza PROPN NOUN
-5 close ADV ADJ
-16 ... PUNCT PAUSE
-1 Caldwell PROPN INTJ
-2 insurance PROPN NOUN
-9 deal VERB NOUN
-2 Cottage NOUN PROPN
-5 charming ADJ NOUN
-6 homely ADJ ADV
-8 yummy ADJ PRON
-1 Cheap PROPN ADJ
-1 Cheap PROPN ADJ
-12 .... PUNCT PAUSE
-5 :) SYM EMO
-2 on ADP ADV
-4 cloth NOUN ADJ
-14 worth ADJ ADP
-13 not ADV PART
-10 e-commerce NOUN ADJ
-14 smooth ADV ADJ
-2 recommended ADJ VERB
-3 for SCONJ ADP
-3 SEO PROPN NOUN
-5 The PRON DET
-6 Fix VERB NOUN
-8 Plumbing PROPN VERB
-12 Electric PROPN ADJ
-13 Problems PROPN NOUN
-5 for ADP SCONJ
-6 plumbing NOUN VERB
-8 A NOUN PROPN
-10 C NOUN PROPN
-20 right ADJ ADV
-2 From ADP PROPN
-7 Walk PROPN NOUN
-1 Hancocks PROPN NOUN
-6 fabric ADJ NOUN
-17 inside ADP ADV
-8 fabric NOUN ADJ
-13 early ADV ADJ
-9 dumpy ADJ NOUN
-6 rig NOUN ADJ
-8 much ADJ ADV
-5 blu NOUN PRON
-1 Dark ADJ PROPN
-5 / SYM PUNCT
-1 Quite ADV DET
-15 cleaner ADJ NOUN
-1 recommended ADJ VERB
-4 out NOUN ADP
-1 Lifts NOUN PROPN
-3 Not ADV PART
-4 cheep ADJ VERB
-7 not ADV PART
-1 Like ADP INTJ
-3 oil NOUN DET
-7 ask VERB NOUN
-8 / SYM PUNCT
-4 repeat NOUN ADJ
-2 cross VERB NOUN
-10 down ADP ADV
-3 real ADV ADJ
-4 late ADV ADJ
-3 like VERB ADP
-5 Chicken NOUN PROPN
-6 Curry NOUN PROPN
-3 / SYM PUNCT
-1 What DET PRON
-25 Roof NOUN PROPN
-35 In X ADP
-38 Grid NOUN PROPN
-10 teacup NOUN ADP
-11 chihuahua NOUN DET
-3 has VERB AUX
-9 grooming NOUN VERB
-21 tip ADJ NOUN
-22 top ADJ NOUN
-1 No ADV DET
-9 :) SYM EMO
-3 :P SYM EMO
-5 u PRON NOUN
-6 spin VERB NOUN
-9 cn PROPN NOUN
-10 tower PROPN NOUN
-20 about ADV ADP
-24 up NOUN ADP
-2 love VERB AUX
-4 in ADV ADP
-6 not PART ADV
-7 shops NOUN VERB
-1 What DET PRON
-8 favorite NOUN ADJ
-4 is VERB AUX
-7 fun ADJ NOUN
-1 Plus CONJ PROPN
-8 is AUX VERB
-10 needs NOUN VERB
-22 out ADV ADP
-6 ta ADP DET
-30 DUI NOUN PROPN
-34 DUI NOUN PROPN
-36 Sr NOUN PROPN
-48 out ADV ADP
-11 walk NOUN VERB
-20 out ADV ADP
-21 front ADV NOUN
-11 ship VERB NOUN
-10 that PRON SCONJ
-13 that ADV DET
-9 famoso PROPN ADV
-11 not PART ADV
-14 disappointed VERB ADJ
-20 d ADP NOUN
-22 t ADP VERB
-4 Saab PROPN NOUN
-5 ... PUNCT PAUSE
-4 in ADV ADP
-5 for SCONJ ADP
-6 fine ADV NOUN
-11 in ADV ADP
-16 than SCONJ ADP
-4 about ADV ADP
-3 bed NOUN VERB
-5 ... PUNCT PAUSE
-20 out ADV ADP
-25 more ADV ADJ
-34 ... PUNCT PAUSE
-12 in ADV ADP
-1 That PRON SCONJ
-2 alone ADJ PRON
-7 quality ADJ NOUN
-6 indie ADJ NOUN
-7 outfit NOUN VERB
-1 Over X ADP
-14 total NOUN ADJ
-32 show VERB ADV
-18 has AUX VERB
-13 professional NOUN ADJ
-20 low ADJ ADV
-12 were VERB AUX
-13 done ADJ VERB
+3: 3 AP PROPN NOUN
+40: 12 as ADP SCONJ
+41: 13 associate ADJ NOUN
+74: 14 as ADP SCONJ
+75: 15 associate ADJ NOUN
+82: 22 Court PROPN NOUN
+84: 24 Appeals PROPN NOUN
+103: 12 F NOUN PROPN
+119: 9 israelians PROPN NOUN
+139: 29 did VERB AUX
+163: 4 mistakes NOUN VERB
+179: 1 A X DET
+180: 2 la X NOUN
+181: 3 guerre X NOUN
+182: 4 c'est X ADJ
+183: 5 comme X PRON
+184: 6 a X DET
+185: 7 la X NOUN
+186: 8 guerre X NOUN
+214: 4 yet ADV CONJ
+217: 7 to ADP PART
+218: 8 hostile ADJ VERB
+252: 17 yound ADJ NOUN
+253: 18 newlywed ADJ VERB
+283: 27 tradeoff NOUN ADP
+293: 7 hostile ADJ NOUN
+310: 11 Baath PROPN NOUN
+315: 16 heartland NOUN CONJ
+319: 20 wrong ADV ADJ
+331: 32 standing NOUN ADJ
+356: 20 miniscule ADJ NOUN
+375: 8 for SCONJ ADP
+402: 7 after ADV ADP
+411: 16 who's PRON PART
+426: 31 who's PRON PART
+427: 32 eventually ADJ ADV
+443: 5 as ADV SCONJ
+444: 6 freewheeling ADJ VERB
+466: 28 self NOUN ADV
+469: 31 research NOUN VERB
+482: 44 projects NOUN VERB
+516: 9 's PART AUX
+528: 1 Excerpt NOUN VERB
+568: 7 occupied VERB ADJ
+569: 8 Palestinian PROPN ADJ
+570: 9 territories PROPN NOUN
+583: 22 such ADJ ADV
+587: 26 to PART ADP
+601: 2 's PART VERB
+663: 30 bin PROPN ADP
+677: 8 enough ADJ ADV
+683: 14 out ADV NOUN
+703: 34 Muslim ADJ PROPN
+715: 9 weapon NOUN ADP
+729: 1 Xinhua PROPN DET
+730: 2 reports VERB NOUN
+770: 10 km NOUN NUM
+771: 11 west ADV NOUN
+798: 7 reports VERB NOUN
+811: 2 troops NOUN VERB
+822: 13 Iraqi PROPN ADJ
+838: 3 cleric NOUN ADJ
+854: 19 Zionists PROPN NOUN
+865: 30 of ADP SCONJ
+873: 2 interim ADJ NOUN
+933: 1 Xinhua PROPN DET
+974: 8 eleven NUM ADV
+1002: 2 since ADP SCONJ
+1009: 9 IPO NOUN PROPN
+1011: 11 most ADJ ADV
+1027: 27 that SCONJ PRON
+1048: 48 for SCONJ ADP
+1060: 4 on ADV ADP
+1081: 2 's VERB AUX
+1099: 11 than ADP SCONJ
+1129: 4 that DET PRON
+1130: 5 blessed ADJ VERB
+1153: 28 dial VERB NOUN
+1172: 14 least ADV ADJ
+1173: 15 loyal ADJ PROPN
+1178: 20 witness VERB NOUN
+1188: 30 low ADJ ADV
+1217: 1 As SCONJ ADP
+1227: 11 shows VERB NOUN
+1229: 13 most ADJ ADV
+1241: 25 is VERB AUX
+1258: 7 so SCONJ ADV
+1270: 19 risks VERB NOUN
+1282: 31 keep VERB NOUN
+1287: 36 search NOUN VERB
+1329: 16 by SCONJ NOUN
+1346: 12 to SCONJ PART
+1354: 20 fun ADJ NOUN
+1397: 5 fair NOUN ADJ
+1404: 12 Westerners PROPN NOUN
+1421: 29 association PROPN NOUN
+1424: 32 fair NOUN ADJ
+1444: 15 one PRON NUM
+1445: 16 raises VERB NOUN
+1446: 17 doubts NOUN VERB
+1451: 22 is AUX VERB
+1470: 7 that DET PRON
+1479: 16 second PROPN ADJ
+1480: 17 world PROPN NOUN
+1482: 19 war PROPN NOUN
+1494: 1 Shojai PROPN PRON
+1503: 10 long ADJ ADV
+1516: 3 that SCONJ PRON
+1530: 17 that SCONJ PRON
+1542: 4 top ADJ NOUN
+1552: 14 with SCONJ ADP
+1625: 5 most ADJ ADV
+1633: 13 were AUX VERB
+1661: 21 respected VERB ADJ
+1662: 22 Association PROPN NOUN
+1713: 20 az PROPN NOUN
+1755: 3 aged ADJ VERB
+1780: 28 is AUX VERB
+1805: 21 this DET PRON
+1823: 5 most ADJ ADV
+1851: 16 on ADP SCONJ
+1863: 2 intrepid ADJ NOUN
+1870: 9 more ADJ ADV
+1884: 5 Iraqi PROPN ADJ
+1891: 12 been AUX VERB
+1893: 14 committed VERB ADJ
+1971: 10 Sources PROPN NOUN
+1978: 17 Weblog PROPN NOUN
+2008: 2 hottest ADJ NOUN
+2058: 6 there ADV PRON
+2072: 20 that SCONJ DET
+2080: 28 Union PROPN NOUN
+2102: 9 Group NOUN PROPN
+2116: 1 Arial ADJ PROPN
+2150: 15 's AUX PART
+2169: 15 do VERB AUX
+2177: 1 With SCONJ ADP
+2185: 9 arises VERB NOUN
+2187: 11 to SCONJ PART
+2194: 18 right NOUN ADJ
+2222: 4 do AUX VERB
+2225: 7 agree VERB NOUN
+2265: 30 ranks VERB NOUN
+2267: 32 fifth ADV NOUN
+2283: 11 yet CONJ PART
+2300: 3 's PART VERB
+2318: 21 have AUX VERB
+2344: 3 past SCONJ ADJ
+2370: 9 Deja X PROPN
+2371: 10 vu X NOUN
+2387: 14 those PRON DET
+2407: 12 that SCONJ DET
+2412: 17 that DET SCONJ
+2474: 14 that PRON SCONJ
+2492: 7 Arab ADJ PROPN
+2506: 7 one PRON NOUN
+2508: 9 have AUX VERB
+2567: 1 Yet CONJ ADV
+2595: 18 were AUX VERB
+2605: 28 much ADV ADJ
+2606: 29 less ADV ADJ
+2637: 3 right ADJ ADV
+2643: 2 American PROPN ADJ
+2645: 4 Arab PROPN ADJ
+2646: 5 Discrimination PROPN NOUN
+2647: 6 Committee PROPN NOUN
+2702: 29 set VERB ADJ
+2757: 30 for SCONJ ADP
+2777: 4 all ADV DET
+2785: 12 that ADV SCONJ
+2817: 7 about ADV ADP
+2841: 8 get AUX VERB
+2842: 9 married VERB ADJ
+2848: 15 militias NOUN SCONJ
+2849: 16 that PRON DET
+2850: 17 attack VERB NOUN
+2854: 21 hence ADV NOUN
+2866: 4 sure ADV ADJ
+2873: 11 out ADV ADP
+2888: 4 loathe ADJ DET
+2907: 23 White PROPN ADJ
+2914: 30 WashPost PROPN NOUN
+2934: 3 Ask VERB PROPN
+2937: 6 event NOUN VERB
+2946: 15 about SCONJ ADV
+2969: 13 that PRON SCONJ
+2977: 2 Q NOUN PROPN
+2990: 15 talk NOUN VERB
+3022: 20 be VERB NOUN
+3025: 23 what DET PRON
+3043: 2 Laughter NOUN PROPN
+3058: 12 first ADV ADJ
+3101: 2 Laughter NOUN PROPN
+3106: 2 if ADP SCONJ
+3118: 14 Office PROPN NOUN
+3126: 22 steep ADJ NOUN
+3153: 14 A DET PROPN
+3154: 15 Charge PROPN NOUN
+3237: 2 Applause NOUN PROPN
+3246: 6 this DET PRON
+3263: 2 Laughter NOUN PROPN
+3275: 2 Laughter NOUN PROPN
+3292: 2 Applause NOUN PROPN
+3298: 3 was AUX VERB
+3299: 4 sung VERB ADJ
+3307: 12 governor NOUN PROPN
+3321: 5 boys NOUN PART
+3337: 11 A DET PROPN
+3338: 12 Charge PROPN NOUN
+3350: 3 talks VERB NOUN
+3370: 10 best ADV ADJ
+3371: 11 as SCONJ ADP
+3378: 2 Applause NOUN PROPN
+3444: 2 Applause NOUN PROPN
+3453: 5 rambling ADJ NOUN
+3466: 10 that SCONJ PRON
+3474: 18 A DET PROPN
+3475: 19 Charge PROPN NOUN
+3507: 6 about SCONJ ADP
+3509: 8 developiong VERB ADP
+3514: 13 / SYM PUNCT
+3539: 8 Applied PROPN VERB
+3547: 16 satellite NOUN SCONJ
+3561: 4 inside ADJ NOUN
+3571: 14 that PRON SCONJ
+3597: 5 lead ADJ NOUN
+3621: 11 income NOUN PRON
+3626: 16 Foundation PROPN NOUN
+3649: 12 unchanged ADJ VERB
+3663: 26 above ADV ADP
+3696: 18 browsing NOUN VERB
+3709: 1 Welcome INTJ VERB
+3719: 7 big ADJ NOUN
+3721: 9 Welcome NOUN ADJ
+3741: 5 rock VERB NOUN
+3744: 1 Darin PROPN ADP
+3745: 2 Fisher PROPN PRON
+3804: 17 :-) SYM EMO
+3808: 3 darin PROPN ADP
+3831: 11 to ADP PART
+3841: 7 most ADV ADJ
+3856: 22 ... PUNCT PAUSE
+3920: 21 that PRON SCONJ
+3926: 27 / SYM PUNCT
+3938: 8 Flash PROPN NOUN
+3939: 9 movie NOUN ADP
+3951: 21 future ADJ NOUN
+3955: 25 as SCONJ AUX
+4002: 3 Google PROPN NOUN
+4004: 5 brings VERB NOUN
+4027: 17 for SCONJ ADP
+4031: 21 Aquire VERB PROPN
+4064: 29 about ADP ADV
+4068: 2 'm VERB AUX
+4069: 3 inclined ADJ VERB
+4073: 7 google PROPN NOUN
+4079: 13 to PART ADP
+4081: 15 shape VERB NOUN
+4092: 26 out ADV ADP
+4099: 33 leading VERB NOUN
+4132: 66 admidst ADP VERB
+4138: 72 firefox PROPN NOUN
+4148: 6 enlightened ADJ VERB
+4149: 7 self NOUN PRON
+4157: 15 alive ADJ VERB
+4175: 1 Malach PROPN INTJ
+4195: 12 influencing VERB NOUN
+4231: 24 mis-matches NOUN VERB
+4243: 10 al PROPN NOUN
+4251: 18 before SCONJ ADP
+4254: 21 Provisional PROPN ADJ
+4291: 18 were VERB AUX
+4352: 12 are VERB AUX
+4371: 4 that SCONJ PRON
+4384: 1 State PROPN NOUN
+4424: 12 most ADJ ADV
+4464: 4 have AUX VERB
+4468: 8 State PROPN NOUN
+4470: 10 Arabists NOUN AUX
+4473: 13 in ADV ADP
+4539: 4 's PART VERB
+4547: 12 helps VERB PART
+4565: 2 11 PROPN NUM
+4566: 3 Commission PROPN NOUN
+4608: 45 Asian PROPN ADJ
+4609: 46 Times PROPN NOUN
+4621: 10 Sadrists PROPN NOUN
+4648: 5 sat VERB ADP
+4669: 26 in ADV ADP
+4703: 9 hoc X NOUN
+4704: 10 ergo X VERB
+4706: 12 hoc X NOUN
+4708: 14 Z NOUN PROPN
+4711: 17 X NOUN PROPN
+4714: 20 Z NOUN PROPN
+4718: 24 X NOUN PROPN
+4726: 32 posting NOUN VERB
+4747: 8 Z NOUN PROPN
+4750: 11 X NOUN PROPN
+4755: 16 X NOUN PROPN
+4776: 19 Neocon NOUN PROPN
+4794: 37 AP PROPN NOUN
+4804: 5 Muslim ADJ PROPN
+4805: 6 cleric NOUN PROPN
+4826: 27 striking NOUN VERB
+4856: 24 cleric NOUN PROPN
+4876: 44 group NOUN ADP
+4903: 9 striking NOUN VERB
+4919: 25 al PROPN ADJ
+4927: 33 sermon NOUN ADP
+4934: 40 south ADV NOUN
+4957: 6 chief ADJ NOUN
+4961: 10 was AUX VERB
+4995: 2 Army PROPN NOUN
+5001: 8 forget VERB NOUN
+5012: 2 'm VERB AUX
+5042: 7 reveals VERB NOUN
+5053: 18 be X NOUN
+5054: 19 for ADV ADP
+5071: 6 lisa PROPN NOUN
+5075: 10 all ADV DET
+5076: 11 wasted ADJ VERB
+5078: 13 boob VERB NOUN
+5091: 10 couple ADJ NOUN
+5095: 14 better ADV ADJ
+5102: 5 in ADV ADP
+5104: 7 right INTJ ADV
+5108: 2 up ADV ADP
+5119: 4 Kenneally PROPN ADV
+5120: 5 's PART VERB
+5146: 1 india PROPN NOUN
+5149: 1 boob VERB NOUN
+5155: 3 be VERB AUX
+5156: 4 embarrassed ADJ VERB
+5159: 7 have VERB AUX
+5172: 4 out ADV ADP
+5176: 8 wasted ADJ VERB
+5183: 1 jill PROPN AUX
+5184: 2 allen PROPN VERB
+5197: 15 party VERB NOUN
+5200: 1 max PROPN NOUN
+5202: 3 jen PROPN NOUN
+5266: 14 as SCONJ ADP
+5267: 15 the PRON DET
+5276: 1 Fucking ADJ VERB
+5289: 9 mississippi PROPN NOUN
+5296: 5 foward ADV ADP
+5303: 12 val PROPN NOUN
+5314: 9 rock VERB NOUN
+5345: 6 doberman NOUN ADJ
+5348: 9 were AUX VERB
+5349: 10 shrunk VERB ADJ
+5373: 14 b/c ADP NOUN
+5376: 17 taco PROPN NOUN
+5377: 18 bell PROPN VERB
+5384: 4 b/c SCONJ VERB
+5413: 7 mean ADJ VERB
+5431: 3 are VERB AUX
+5443: 7 b/c ADP NOUN
+5446: 10 taco PROPN NOUN
+5447: 11 bell PROPN VERB
+5457: 7 > PUNCT EMO
+5519: 16 's PART VERB
+5520: 17 right NOUN ADJ
+5522: 19 bilateral ADJ NOUN
+5546: 6 is AUX VERB
+5547: 7 set VERB NOUN
+5571: 11 advocates NOUN VERB
+5612: 5 Admin NOUN PROPN
+5618: 11 to PART ADP
+5643: 5 lies VERB NOUN
+5650: 5 in ADV ADP
+5661: 3 in ADV ADP
+5666: 1 Kevin PROPN ADP
+5669: 4 Accenture PROPN NOUN
+5672: 7 Consultant NOUN PROPN
+5674: 9 Energy NOUN PROPN
+5684: 19 C NOUN PROPN
+5697: 5 http://www.accenture.com X URL
+5713: 9 woodrow PROPN NOUN
+5736: 19 that DET PRON
+5737: 20 garden NOUN VERB
+5750: 4 be VERB AUX
+5789: 17 original NOUN ADJ
+5816: 4 to ADP PART
+5824: 12 drink VERB NOUN
+5832: 6 am VERB AUX
+5833: 7 perverted ADJ VERB
+5836: 1 whatever INTJ ADV
+5860: 6 lovin NOUN ADV
+5863: 1 Robert X PROPN
+5864: 2 Bryngelson@AZURIX X PROPN
+5886: 17 out ADV ADP
+5887: 18 ta ADP DET
+5906: 16 coming VERB ADJ
+5920: 30 LNG NOUN PROPN
+6035: 20 Garage NOUN PROPN
+6038: 23 around ADP ADV
+6113: 1 Traci PROPN PRON
+6115: 1 Traci PROPN PRON
+6163: 8 copy VERB NOUN
+6197: 3 domain NOUN ADJ
+6204: 2 most ADJ ADV
+6219: 17 @paulhastings.com NOUN ADDRESS
+6287: 13 taking NOUN VERB
+6313: 4 this PRON DET
+6338: 6 Guarantee NOUN PROPN
+6340: 8 Word PROPN NOUN
+6351: 8 black NOUN ADJ
+6356: 13 Guarantee NOUN PROPN
+6357: 14 vs ADP NOUN
+6393: 3 Direct ADJ PROPN
+6394: 4 Dial NOUN PROPN
+6423: 7 NiMo PROPN ADV
+6439: 11 higher ADV ADJ
+6460: 17 fifth ADV ADJ
+6490: 13 all ADV DET
+6492: 15 alternative ADJ NOUN
+6497: 20 NiMo PROPN NOUN
+6498: 21 Tier NOUN ADJ
+6499: 22 Structure NOUN PROPN
+6506: 5 RFP NOUN PROPN
+6522: 21 that DET PRON
+6523: 22 RFP NOUN PROPN
+6569: 2 Griffith@ENRON X PROPN
+6589: 9 that PRON SCONJ
+6611: 3 herein ADV NOUN
+6638: 4 herein ADV ADP
+6639: 5 are VERB AUX
+6641: 7 those PRON DET
+6654: 8 material ADJ NOUN
+6657: 11 those PRON DET
+6661: 15 expressed VERB ADJ
+6669: 23 Futures PROPN NOUN
+6683: 2 Carr PROPN NOUN
+6684: 3 Futures PROPN NOUN
+6692: 7 most ADV NOUN
+6713: 1 Adobe PROPN VERB
+6731: 6 UnleadedStocks.pdf NOUN X
+6738: 13 CrudeStocks.pdf NOUN X
+6745: 20 HeatingOilStocks.pdf NOUN X
+6752: 27 PADDIIstocksCL.pdf NOUN X
+6759: 34 PADDIstocksHO.pdf NOUN X
+6766: 41 PADDIstocksHU.pdf NOUN X
+6773: 48 API.pdf NOUN PROPN
+6777: 2 UnleadedStocks.pdf NOUN PROPN
+6780: 2 CrudeStocks.pdf NOUN PROPN
+6783: 2 HeatingOilStocks.pdf NOUN PROPN
+6786: 2 PADDIIstocksCL.pdf NOUN PROPN
+6789: 2 PADDIstocksHO.pdf NOUN PROPN
+6792: 2 PADDIstocksHU.pdf NOUN PROPN
+6795: 2 API.pdf NOUN PROPN
+6804: 1 On ADP PROPN
+6819: 16 above ADV ADJ
+6829: 6 Intrastate ADJ NOUN
+6853: 1 On ADP PROPN
+6865: 13 Vice NOUN PROPN
+6905: 16 part ADJ NOUN
+6925: 36 that PRON SCONJ
+6932: 43 HPL NOUN PROPN
+6933: 44 may AUX PROPN
+6938: 49 subject ADJ NOUN
+6951: 9 another DET PRON
+6969: 2 find VERB ADP
+7036: 17 had AUX VERB
+7037: 18 both ADV DET
+7069: 2 Townsend PROPN NOUN
+7075: 8 > PUNCT EMO
+7104: 1 Heather PROPN SCONJ
+7106: 3 in ADV NOUN
+7119: 6 much ADJ ADV
+7150: 1 Are AUX VERB
+7175: 4 got AUX NOUN
+7208: 1 These PRON DET
+7218: 4 forward VERB ADV
+7235: 2 Investment PROPN NOUN
+7236: 3 Partners PROPN NOUN
+7243: 3 all ADV DET
+7244: 4 won VERB ADP
+7247: 1 ... PUNCT PAUSE
+7253: 7 .... PUNCT PAUSE
+7264: 10 show NOUN ADV
+7336: 1 Associate NOUN VERB
+7358: 2 A NOUN PROPN
+7360: 4 A NOUN PROPN
+7367: 11 King PROPN VERB
+7400: 13 Almy PROPN PRON
+7423: 3 Pledge VERB PROPN
+7440: 3 in ADV ADP
+7447: 10 http://unitedway.enron.com X URL
+7452: 15 Internet PROPN NOUN
+7457: 20 type VERB NOUN
+7458: 21 in ADV ADP
+7459: 22 unitedway.enron.com ADP X
+7501: 3 pledge NOUN PROPN
+7541: 4 both CONJ DET
+7542: 5 o'neal PROPN NOUN
+7544: 7 matt PROPN NOUN
+7546: 9 out ADV ADP
+7573: 11 shanna PROPN NOUN
+7592: 9 hector PROPN NOUN
+7645: 12 to ADP PART
+7687: 1 LU INTJ PROPN
+7697: 6 well ADJ ADV
+7743: 6 $$$ NOUN SYM
+7751: 2 $$$ NOUN SYM
+7754: 1 Retire VERB ADJ
+7770: 6 about ADV ADP
+7789: 25 knocks VERB NOUN
+7817: 18 provoking VERB NOUN
+7819: 20 soul NOUN SCONJ
+7863: 11 through ADV ADP
+7868: 3 all ADV DET
+7894: 2 over ADP ADV
+7899: 7 rewarding ADJ VERB
+7919: 3 well ADJ ADV
+7929: 13 PR NOUN PROPN
+7954: 9 http://explorer.msn.com/intl.asp X URL
+7979: 6 $$$ NOUN SYM
+8001: 9 about ADV ADP
+8016: 11 will NOUN AUX
+8020: 2 am AUX VERB
+8036: 8 amstel PROPN NOUN
+8037: 9 lights PROPN NOUN
+8051: 4 ... PUNCT PAUSE
+8058: 6 TEXT.htm NOUN X
+8066: 2 transmittal NOUN ADJ
+8130: 6 transmittal NOUN ADJ
+8150: 26 collect ADV VERB
+8171: 2 TEXT.htm NOUN X
+8175: 6 TEXT.htm NOUN X
+8186: 9 hover NOUN ADP
+8208: 2 about ADP ADV
+8209: 3 skidoo NOUN PRON
+8210: 4 skis NOUN VERB
+8219: 13 .. PUNCT PAUSE
+8222: 2 IS PROPN VERB
+8235: 10 " NOUN PUNCT
+8238: 13 " NOUN PUNCT
+8258: 11 satisfying ADJ VERB
+8280: 17 love NOUN VERB
+8305: 16 ... PUNCT PAUSE
+8308: 19 ... PUNCT PAUSE
+8315: 26 as ADP SCONJ
+8326: 3 past NOUN ADJ
+8327: 4 there ADV PRON
+8330: 7 .. PUNCT PAUSE
+8338: 15 that PRON SCONJ
+8372: 26 self NOUN PRON
+8373: 27 esteem NOUN VERB
+8383: 8 ... PUNCT PAUSE
+8393: 18 apt ADJ VERB
+8397: 22 all DET NOUN
+8398: 23 ... PUNCT PAUSE
+8402: 27 ... PUNCT PAUSE
+8403: 28 to ADP PART
+8406: 31 that PRON SCONJ
+8412: 37 ... PUNCT PAUSE
+8416: 41 ... PUNCT PAUSE
+8423: 48 been AUX VERB
+8428: 53 past ADJ NOUN
+8429: 54 ... PUNCT PAUSE
+8439: 64 .. PUNCT PAUSE
+8441: 1 Whatever PRON DET
+8511: 6 ... PUNCT PAUSE
+8517: 12 thought NOUN VERB
+8518: 13 ... PUNCT PAUSE
+8534: 9 timing NOUN VERB
+8544: 19 straight ADJ NOUN
+8546: 21 dealing NOUN VERB
+8557: 8 ... PUNCT PAUSE
+8567: 18 ... PUNCT PAUSE
+8587: 19 ... PUNCT PAUSE
+8593: 5 for SCONJ ADP
+8599: 11 on ADV ADP
+8607: 19 alone ADJ ADV
+8608: 20 .. PUNCT PAUSE
+8627: 15 outlook PROPN NOUN
+8631: 1 Raw ADJ PROPN
+8636: 6 fisrt ADJ NOUN
+8656: 1 Vladi PROPN PRON
+8672: 10 that PRON SCONJ
+8678: 16 spread NOUN ADJ
+8684: 3 do VERB AUX
+8709: 12 all DET NOUN
+8726: 29 Imperial ADJ PROPN
+8759: 30 at ADP SCONJ
+8760: 31 http://home.enron.com/employeemeeting X URL
+8763: 1 Constance PROPN NOUN
+8837: 3 ext. NOUN ADV
+8841: 2 McGilloway PROPN NOUN
+8847: 8 > PUNCT EMO
+8879: 2 anticipate VERB AUX
+8902: 6 feedback NOUN ADV
+8905: 9 Gas NOUN PROPN
+8912: 16 Gas NOUN PROPN
+8916: 20 On ADP PROPN
+8918: 22 Line PROPN NOUN
+8923: 27 CPS NOUN PROPN
+8934: 38 that PRON SCONJ
+8967: 3 Constellation PROPN X
+8969: 5 Source PROPN NOUN
+8974: 10 CPS PROPN NOUN
+8978: 14 Market PROPN NOUN
+8979: 15 Place PROPN NOUN
+8980: 16 Ste NOUN VERB
+9001: 9 this DET PRON
+9010: 6 in ADV ADP
+9049: 13 questionsand NOUN CONJ
+9054: 18 have VERB AUX
+9062: 3 attached ADJ VERB
+9066: 7 Power X NOUN
+9067: 8 ( X PUNCT
+9068: 9 GISB X PROPN
+9069: 10 draft X NOUN
+9070: 11 ) X PUNCT
+9088: 2 ENRON-CPS X NOUN
+9089: 3 ( X PUNCT
+9090: 4 GISB X PROPN
+9092: 6 ) X PUNCT
+9100: 6 re ADP VERB
+9159: 4 all NOUN DET
+9173: 1 dp PROPN NOUN
+9194: 10 Sale NOUN PROPN
+9195: 11 Spot NOUN PROPN
+9196: 12 w ADP ADV
+9214: 1 dp PROPN NOUN
+9219: 1 Tammi PROPN PRON
+9236: 6 CES NOUN PROPN
+9277: 8 Alternate ADJ VERB
+9278: 9 Transporter NOUN PROPN
+9279: 10 Imbalance NOUN PROPN
+9284: 15 .. PUNCT PAUSE
+9289: 4 Aggregate ADJ VERB
+9290: 5 Transporter NOUN PROPN
+9291: 6 Imbalance NOUN PROPN
+9306: 7 referencing VERB NOUN
+9320: 6 Masters NOUN PROPN
+9332: 1 These PRON DET
+9342: 4 forward VERB ADV
+9404: 1 As SCONJ AUX
+9438: 7 Duns PROPN NOUN
+9439: 8 # NOUN HASH
+9441: 10 Fed ADJ VERB
+9442: 11 Tax NOUN PROPN
+9443: 12 ID NOUN PROPN
+9449: 18 Fax NOUN PROPN
+9451: 20 bank NOUN VERB
+9482: 4 ENRON@enronXgate X PROPN
+9494: 4 a DET AUX
+9504: 14 above ADV ADJ
+9513: 5 forward VERB ADV
+9520: 1 Rudwell PROPN INTJ
+9570: 1 Visit PROPN NOUN
+9600: 2 All DET PROPN
+9606: 4 Visit PROPN NOUN
+9613: 4 e-mail VERB NOUN
+9624: 15 Challenge PROPN NOUN
+9625: 16 of SCONJ ADP
+9626: 17 Pricing VERB NOUN
+9628: 19 Risk PROPN NOUN
+9629: 20 Managing VERB PROPN
+9630: 21 Electricity PROPN NOUN
+9631: 22 Derivatives PROPN NOUN
+9653: 12 Brownian ADJ PROPN
+9654: 13 Mean NOUN PROPN
+9655: 14 Reverting VERB PROPN
+9656: 15 Jump NOUN PROPN
+9657: 16 Diffusion NOUN PROPN
+9658: 17 Model NOUN PROPN
+9667: 26 most ADJ NOUN
+9669: 28 mean PROPN DET
+9670: 29 reversion PROPN NOUN
+9675: 34 mean NOUN ADJ
+9683: 4 half ADJ NOUN
+9708: 6 Ordinary ADJ PROPN
+9709: 7 Least ADJ PROPN
+9710: 8 Squares NOUN PROPN
+9713: 11 as SCONJ ADV
+9720: 18 both CONJ DET
+9732: 7 as SCONJ ADV
+9744: 1 Slope NOUN VERB
+9751: 1 R NOUN PROPN
+9752: 2 Square NOUN PROPN
+9762: 7 mean NOUN ADJ
+9765: 10 as SCONJ ADP
+9769: 14 has VERB SCONJ
+9807: 1 Visit PROPN NOUN
+9817: 9 http://explorer.msn.com X URL
+9822: 14 http://go.msn.com/bql/hmtag_itl_EN.asp X URL
+9829: 1 Plz INTJ ADJ
+9830: 2 contact VERB NOUN
+9834: 6 X X PROPN
+9847: 1 Traci PROPN PRON
+9878: 8 intern NOUN ADJ
+9894: 11 both CONJ DET
+9911: 28 first NOUN ADJ
+10010: 2 this PRON DET
+10019: 4 well ADJ ADV
+10024: 2 Care NOUN PROPN
+10026: 1 Traci PROPN PRON
+10028: 1 Traci PROPN PRON
+10177: 8 for SCONJ ADP
+10195: 26 more ADV ADJ
+10196: 27 focus VERB NOUN
+10224: 1 Sungjoo PROPN ADV
+10226: 3 Stochastic ADJ PROPN
+10231: 8 Finance NOUN PROPN
+10233: 10 Institute PROPN NOUN
+10235: 12 Technology PROPN NOUN
+10246: 23 gte114t@prism.gatech.edu X NOUN
+10247: 24 Home NOUN PROPN
+10261: 4 File NOUN X
+10269: 4 File NOUN X
+10278: 1 P.S. NOUN PROPN
+10379: 6 works VERB NOUN
+10393: 20 closing VERB NOUN
+10412: 7 net ADJ NOUN
+10419: 14 fair ADJ NOUN
+10479: 6 preference NOUN VERB
+10492: 11 transferring VERB NOUN
+10507: 7 CPA NOUN PROPN
+10515: 15 to PART ADP
+10516: 16 audit VERB NOUN
+10532: 9 PSA NOUN PROPN
+10608: 10 Deferred VERB PROPN
+10609: 11 Phantom NOUN PROPN
+10611: 13 Units NOUN PRON
+10644: 18 calculate VERB ADJ
+10654: 5 VII NUM PROPN
+10657: 1 Amount PROPN NOUN
+10659: 3 Benefit PROPN NOUN
+10660: 4 Payments PROPN NOUN
+10661: 5 reads VERB NOUN
+10678: 22 closing VERB NOUN
+10696: 40 such ADJ DET
+10777: 15 be AUX VERB
+10793: 13 with ADP SCONJ
+10815: 1 Jacques PROPN NOUN
+10820: 6 in ADV ADP
+10832: 4 stall VERB NOUN
+10885: 5 promotional NOUN ADJ
+10890: 10 Building PROPN NOUN
+10901: 4 back ADP ADV
+10914: 17 kestrel PROPN ADJ
+10915: 18 air PROPN NOUN
+10916: 19 park PROPN NOUN
+10917: 20 building PROPN NOUN
+10925: 28 walzem PROPN PRON
+10926: 29 had AUX VERB
+10927: 30 both ADV DET
+10928: 31 sold VERB ADJ
+10965: 5 this DET PRON
+10974: 6 IRR NOUN PROPN
+10977: 9 port PROPN NOUN
+11045: 11 in ADV ADP
+11057: 2 Alaskan PROPN ADJ
+11058: 3 Knight PROPN NOUN
+11108: 10 ragnarok PROPN ADJ
+11109: 11 2 PROPN NUM
+11116: 18 send VERB NOUN
+11123: 1 Reply VERB NOUN
+11139: 11 alt.animals.dogs.collies.open-forum NOUN ADJ
+11147: 19 alt.animals.falcon NOUN ADP
+11167: 10 Rat NOUN PROPN
+11168: 11 ASCII's NOUN PROPN
+11179: 2 ... PUNCT PAUSE
+11195: 18 mesmerizing ADJ VERB
+11208: 4 Speak VERB PROPN
+11211: 7 .... PUNCT PAUSE
+11215: 3 audiobooks NOUN VERB
+11219: 2 visit VERB NOUN
+11223: 6 irc.yankeedot.net X NOUN
+11226: 9 # NOUN HASH
+11228: 11 for ADP SCONJ
+11254: 4 Speak VERB PROPN
+11257: 7 .... PUNCT PAUSE
+11261: 3 audiobooks NOUN VERB
+11265: 2 visit VERB NOUN
+11269: 6 irc.yankeedot.net X NOUN
+11272: 9 # NOUN HASH
+11274: 11 for ADP SCONJ
+11292: 29 best ADV ADJ
+11302: 7 Army NOUN PROPN
+11305: 10 Mohiuddin PROPN ADP
+11351: 1 He INTJ PRON
+11353: 3 he INTJ PRON
+11362: 5 Joke PROPN NOUN
+11372: 15 > PUNCT EMO
+11384: 11 > PUNCT EMO
+11386: 1 Outlook.jpg NOUN PROPN
+11389: 2 K NOUN NUM
+11390: 3 Download NOUN PROPN
+11394: 3 Deposited VERB PROPN
+11398: 7 PayPal PROPN ADJ
+11410: 9 blast NOUN ADJ
+11431: 6 is VERB AUX
+11439: 14 grow VERB NOUN
+11464: 23 that SCONJ PRON
+11472: 31 spanking ADV VERB
+11511: 19 Union PROPN NOUN
+11529: 37 with SCONJ ADP
+11533: 41 closer ADJ ADV
+11534: 42 to ADP PART
+11541: 1 s PROPN NOUN
+11560: 13 3rd NOUN ADJ
+11562: 15 i X PRON
+11564: 17 OK ADJ PROPN
+11574: 8 L SYM PROPN
+11577: 11 up ADV ADP
+11578: 12 front ADV NOUN
+11580: 14 woul X ADJ
+11581: 15 d AUX NOUN
+11595: 29 poss X VERB
+11626: 19 so SCONJ ADV
+11643: 4 whatever PRON DET
+11660: 10 over ADV ADP
+11678: 7 out ADV ADP
+11679: 8 kinda ADV DET
+11700: 29 up ADV ADP
+11714: 43 ... PUNCT PAUSE
+11722: 51 sry INTJ NOUN
+11725: 1 Reply VERB NOUN
+11736: 10 about SCONJ ADP
+11738: 12 quitting VERB NOUN
+11759: 18 over-eater NOUN ADJ
+11776: 3 w/ ADP X
+11781: 8 for SCONJ ADP
+11792: 19 :) SYM EMO
+11802: 9 > PUNCT EMO
+11826: 19 are AUX VERB
+11852: 13 must NOUN AUX
+11853: 14 see NOUN VERB
+11863: 1 http://www.budgieresearch.com X URL
+11878: 6 tgs PROPN NOUN
+11892: 20 preety ADV NOUN
+11894: 22 ... PUNCT PAUSE
+11896: 1 http://www.4gamer.net/news/image/2005.09/20050920111900_21big.html X URL
+11898: 1 http://www.4gamer.net/news/image/2005.09/20050919032951_21big.html X URL
+11900: 1 http://www.4gamer.net/news/image/2005.09/20050919032951_32big.html X URL
+11902: 1 http://www.4gamer.net/news/image/2005.09/20050919032951_39big.html X URL
+11904: 1 http://www.4gamer.net/news/image/2005.09/20050919032951_42big.html X URL
+11906: 1 http://www.4gamer.net/news/image/2005.09/20050919032951_41big.html X URL
+11908: 1 http://www.4gamer.net/news/image/2005.09/20050919032951_40big.html X URL
+11910: 1 http://www.4gamer.net/news/image/2005.09/20050917034321_15big.html X URL
+11912: 1 http://www.4gamer.net/news/image/2005.09/20050917034321_2big.html X URL
+11914: 1 http://www.4gamer.net/news/image/2005.09/20050909152208_14big.html X URL
+11916: 1 http://www.4gamer.net/news/image/2005.09/20050917024918_1big.html X URL
+11918: 1 btw INTJ ADV
+11924: 7 4gamer PROPN NOUN
+11927: 1 Reply VERB NOUN
+11937: 9 > PUNCT EMO
+11951: 9 rid ADJ NOUN
+11969: 27 black ADJ NOUN
+11988: 11 ect X NOUN
+12016: 8 > PUNCT EMO
+12036: 3 much ADV ADJ
+12059: 12 .. PUNCT PAUSE
+12116: 13 D PROPN SYM
+12126: 23 OH PROPN INTJ
+12141: 12 to PART ADP
+12142: 13 DM VERB PROPN
+12143: 14 ... PUNCT PAUSE
+12145: 16 DM's NOUN PART
+12189: 4 much ADV ADJ
+12208: 9 > PUNCT EMO
+12239: 5 http://www.bbc.co.uk/news X URL
+12248: 6 unsolicited ADJ VERB
+12258: 8 Alert PROPN NOUN
+12277: 5 subscribe VERB NOUN
+12289: 17 http://www.bbc.co.uk/email X URL
+12292: 2 http://www.usatoday.com/tech/science/space/2005-03-09-nasa-search_x.htm?csp=34 X URL
+12302: 8 about SCONJ ADP
+12322: 4 longtime ADV NOUN
+12324: 6 executive NOUN ADJ
+12364: 7 astronaut's NOUN PART
+12425: 3 national ADJ PROPN
+12431: 9 to ADP PART
+12432: 10 transit ADJ VERB
+12439: 17 FMs NOUN PROPN
+12455: 33 transit ADJ NOUN
+12488: 9 to ADP PART
+12489: 10 transit ADJ VERB
+12543: 10 > PUNCT EMO
+12550: 2 U X PROPN
+12551: 3 P X PROPN
+12552: 4 D X PROPN
+12553: 5 A X PROPN
+12554: 6 T X PROPN
+12555: 7 E X PROPN
+12556: 8 D VERB PROPN
+12601: 5 to ADP PART
+12655: 12 in ADV ADP
+12672: 5 all ADV DET
+12675: 8 of SCONJ ADP
+12676: 9 building VERB NOUN
+12697: 13 to ADV PART
+12703: 4 growing VERB ADJ
+12706: 7 :-) SYM EMO
+12708: 1 http://www.thecatalbum.com X URL
+12721: 8 > PUNCT EMO
+12772: 10 than ADV ADP
+12776: 2 on ADV SCONJ
+12787: 2 was VERB AUX
+12788: 3 ashamed ADJ VERB
+12795: 10 ... PUNCT PAUSE
+12814: 29 seak ADJ VERB
+12815: 30 :) SYM EMO
+12840: 5 Men NOUN PROPN
+12848: 13 :-) SYM EMO
+12851: 1 http://lingerie.selectedsex.com X URL
+12860: 8 > PUNCT EMO
+12887: 26 silky ADJ NOUN
+12888: 27 nightgown NOUN ADJ
+12903: 7 > PUNCT EMO
+12933: 6 discount ADJ NOUN
+12948: 5 Corporate NOUN ADJ
+12953: 4 corporate NOUN ADJ
+13005: 2 discount ADJ NOUN
+13014: 7 promote VERB ADJ
+13060: 17 discount ADJ NOUN
+13070: 1 COMPLETE ADJ PROPN
+13074: 5 http://discountairlineticket.blogspot.com/2005/10/some-techniques-to-... X URL
+13085: 10 pencil NOUN AUX
+13086: 11 screening NOUN VERB
+13098: 23 ADHD NOUN PROPN
+13100: 25 LD NOUN PROPN
+13104: 29 subjects NOUN VERB
+13134: 28 any X DET
+13191: 33 deficit NOUN PRON
+13232: 8 is AUX VERB
+13244: 8 of SCONJ ADP
+13327: 27 maime VERB NOUN
+13341: 11 releif NOUN SCONJ
+13342: 12 from SCONJ ADP
+13371: 1 badger NOUN AUX
+13372: 2 baiting NOUN VERB
+13378: 8 on NOUN ADP
+13396: 1 sincere ADJ VERB
+13413: 1 ----== SYM AUX
+13416: 4 Newsfeed.Com X PROPN
+13418: 6 Unlimited ADJ PROPN
+13420: 8 Uncensored ADJ PROPN
+13423: 11 Usenet NOUN PROPN
+13425: 13 ==---- SYM PUNCT
+13428: 2 # NOUN HASH
+13437: 1 > SYM EMO
+13443: 3 East ADJ PROPN
+13445: 5 West ADJ PROPN
+13447: 7 Coast NOUN PROPN
+13448: 8 Specialized ADJ PROPN
+13451: 11 Total ADJ PROPN
+13455: 15 =--- SYM PUNCT
+13457: 1 ----== SYM AUX
+13460: 4 Newsfeed.Com X PROPN
+13462: 6 Unlimited ADJ PROPN
+13464: 8 Uncensored ADJ PROPN
+13467: 11 Usenet NOUN PROPN
+13469: 13 ==---- SYM PUNCT
+13472: 2 # NOUN HASH
+13481: 1 > SYM EMO
+13487: 3 East ADJ PROPN
+13489: 5 West ADJ PROPN
+13491: 7 Coast NOUN PROPN
+13492: 8 Specialized ADJ PROPN
+13495: 11 Total ADJ PROPN
+13499: 15 =--- SYM PUNCT
+13501: 1 Greetings INTJ NOUN
+13514: 4 freelance ADJ NOUN
+13539: 14 ALTERNATIVE PROPN ADJ
+13566: 41 chief ADJ NOUN
+13593: 20 MD NOUN PROPN
+13596: 23 Professor NOUN PROPN
+13609: 36 Broadway PROPN NOUN
+13628: 10 initial NOUN ADJ
+13650: 32 HCA NOUN PROPN
+13652: 34 MCT NOUN PROPN
+13656: 38 oolong NOUN ADP
+13660: 42 CLA NOUN PROPN
+13672: 54 HTP NOUN PROPN
+13678: 60 HMB NOUN PROPN
+13681: 63 BCAA NOUN PROPN
+13810: 18 dry ADJ NOUN
+13833: 14 back ADP ADV
+13850: 31 crops NOUN VERB
+13881: 25 bottling NOUN ADJ
+13908: 6 are AUX VERB
+13913: 11 to PART ADP
+13915: 13 occupy VERB ADJ
+13929: 1 Moral NOUN PROPN
+13939: 11 drink VERB NOUN
+13940: 12 Pepsi PROPN NOUN
+13946: 4 Pepsi PROPN PRON
+13970: 5 Fair PROPN ADJ
+13972: 7 Action PROPN NOUN
+13985: 20 Authority PROPN NOUN
+13990: 25 HANO PROPN INTJ
+14005: 10 of ADP SCONJ
+14009: 14 Development PROPN NOUN
+14024: 29 Thomas PROPN SCONJ
+14025: 30 Housing PROPN NOUN
+14026: 31 Development PROPN NOUN
+14030: 35 City PROPN NOUN
+14041: 46 of ADP SCONJ
+14045: 50 Development PROPN NOUN
+14049: 54 VI PROPN PRON
+14065: 4 allege VERB NOUN
+14115: 22 public ADJ AUX
+14128: 35 HANO PROPN DET
+14176: 15 more ADV ADJ
+14177: 16 scarce ADJ NOUN
+14190: 9 comply VERB NOUN
+14202: 21 Executive PROPN ADJ
+14203: 22 Director PROPN NOUN
+14240: 7 light ADJ NOUN
+14242: 9 crude NOUN ADJ
+14247: 14 rose VERB ADV
+14272: 14 advanced VERB ADJ
+14324: 17 top ADJ NOUN
+14349: 12 about ADV ADP
+14361: 1 Oil NOUN PROPN
+14366: 6 as SCONJ ADP
+14419: 1 Exxon PROPN ADP
+14426: 8 giant ADJ NOUN
+14446: 16 record ADJ NOUN
+14459: 5 bellow ADV NOUN
+14462: 8 excelnt ADJ PART
+14464: 10 thank NOUN VERB
+14473: 2 http://www.newscientistspace.com/article.ns?id=dn8293&feedId=human-spaceflight_atom03 X URL
+14477: 2 New PROPN ADJ
+14507: 2 ... PUNCT PAUSE
+14514: 5 cost NOUN ADV
+14540: 31 Transformational PROPN ADJ
+14541: 32 Space PROPN NOUN
+14584: 7 wise ADJ NOUN
+14585: 8 alternative NOUN ADJ
+14608: 9 for SCONJ ADP
+14617: 18 good NOUN ADJ
+14634: 2 New PROPN ADJ
+14650: 12 house PROPN NOUN
+14651: 13 science PROPN NOUN
+14652: 14 committee PROPN NOUN
+14659: 21 about ADV ADP
+14668: 30 crew NOUN VERB
+14683: 9 ... PUNCT PAUSE
+14714: 15 better ADV ADJ
+14733: 1 Only ADV ADJ
+14739: 7 's PART NOUN
+14741: 9 are AUX VERB
+14759: 12 transport VERB ADJ
+14766: 19 about ADV ADP
+14786: 39 out X VERB
+14810: 2 http://seattlepi.nwsource.com/national/apmideast_story.asp?category=1107&slug=Palestinians%20Abbas X URL
+14819: 7 what DET PRON
+14826: 14 Seattlepi.com X PROPN
+14833: 21 Leader NOUN PROPN
+14844: 32 that PRON SCONJ
+14876: 7 macho NOUN PRON
+14877: 8 talk NOUN VERB
+14889: 20 allow VERB ADP
+14911: 1 AP PROPN NOUN
+14912: 2 Photo NOUN PART
+14922: 6 front NOUN ADJ
+14934: 18 Mahmoud PROPN NOUN
+14936: 20 talks VERB NOUN
+14940: 24 official ADJ NOUN
+15004: 10 to ADP PART
+15030: 15 was VERB AUX
+15052: 1 Abbas PROPN SCONJ
+15098: 1 Having AUX VERB
+15115: 18 is AUX VERB
+15176: 2 http://news.bbc.co.uk/1/hi/world/middle_east/4281450.stm X URL
+15180: 2 Hat NOUN PRON
+15184: 6 s PART NOUN
+15229: 12 after SCONJ ADP
+15231: 14 military NOUN ADJ
+15232: 15 withdrew VERB NOUN
+15264: 8 unrestricted ADJ VERB
+15284: 8 in ADV ADP
+15297: 21 Israeli PROPN ADJ
+15299: 23 Forces PROPN NOUN
+15318: 11 after SCONJ ADP
+15338: 9 as SCONJ ADP
+15385: 2 Jerusalem PROPN NOUN
+15439: 2 ... PUNCT PAUSE
+15455: 14 's PART VERB
+15456: 15 scheme NOUN PRON
+15471: 3 remains VERB NOUN
+15479: 11 past NOUN ADJ
+15501: 7 toward ADP ADJ
+15523: 17 strip PROPN NOUN
+15536: 5 steps VERB NOUN
+15537: 6 in ADV ADP
+15551: 20 is VERB AUX
+15552: 21 done ADJ VERB
+15568: 37 is VERB AUX
+15612: 6 .... PUNCT PAUSE
+15618: 5 :) SYM EMO
+15624: 5 big PROPN ADJ
+15625: 6 mac PROPN NOUN
+15636: 6 Meal PROPN NOUN
+15639: 1 :-) SYM EMO
+15641: 1 \\ SYM PUNCT
+15642: 2 // SYM PUNCT
+15644: 1 What DET PRON
+15658: 6 LMAO INTJ PROPN
+15668: 3 miramar PROPN ADJ
+15669: 4 florida PROPN DET
+15670: 5 theyy PRON NOUN
+15681: 6 about ADP ADV
+15686: 1 ... PUNCT PAUSE
+15694: 9 ... PUNCT PAUSE
+15702: 17 that PRON DET
+15704: 19 ... PUNCT PAUSE
+15742: 2 teacher NOUN PRON
+15748: 8 accomodate VERB NOUN
+15754: 1 cos SCONJ NOUN
+15759: 6 to ADP PART
+15760: 7 baguio PROPN VERB
+15765: 12 tight ADJ NOUN
+15768: 1 http://www.couchsurfing.org/ X URL
+15771: 2 couch NOUN SCONJ
+15772: 3 surfing NOUN VERB
+15796: 11 at ADV ADP
+15797: 12 all ADV DET
+15803: 18 not ADV PART
+15808: 1 http://en.wikipedia.org/wiki/Cubism X URL
+15827: 10 like ADP VERB
+15838: 21 ect X NOUN
+15847: 7 :) SYM EMO
+15876: 18 Delaware PROPN VERB
+15882: 24 get AUX VERB
+15885: 27 delaware PROPN ADJ
+15892: 5 HORSE PROPN NOUN
+15904: 6 crazy PROPN ADJ
+15905: 7 horse PROPN NOUN
+15906: 8 memorial NOUN ADJ
+15925: 1 http://www.google.com/search?aq=0&oq=crazy+horse+mem&gcx=w&sourceid=chrome&ie=UTF-8&q=crazy+horse+memorial X URL
+15933: 7 mould NOUN AUX
+15955: 11 mold NOUN ADJ
+15956: 12 making NOUN VERB
+15959: 1 http://www.smooth-on.com/p132/Beginner-Brushable-Mold-Rubber-Options/pages.html X URL
+15964: 4 starting NOUN ADJ
+15973: 5 speed NOUN VERB
+15974: 6 post NOUN PART
+16003: 10 average ADJ PRON
+16006: 13 about ADV ADP
+16041: 4 Hills PROPN NOUN
+16060: 1 www.visitsouthshropshire.co.uk X VERB
+16066: 2 was AUX VERB
+16083: 13 right ADJ ADV
+16113: 1 Do AUX VERB
+16115: 3 Bare ADJ VERB
+16118: 6 box VERB NOUN
+16129: 7 engage VERB NOUN
+16136: 14 no INTJ ADV
+16141: 1 Er INTJ PROPN
+16152: 7 bare ADJ VERB
+16154: 9 box VERB NOUN
+16157: 1 other ADV ADJ
+16175: 10 bay PROPN NOUN
+16176: 11 area PROPN NOUN
+16196: 11 .. PUNCT PAUSE
+16202: 5 hardy ADV NOUN
+16206: 9 :) SYM EMO
+16215: 8 any X DET
+16216: 9 were ADV AUX
+16224: 5 VHS NOUN PROPN
+16228: 9 ... PUNCT PAUSE
+16258: 15 ' PART PUNCT
+16259: 16 home NOUN ADV
+16264: 3 DVD NOUN PROPN
+16271: 5 library ADJ NOUN
+16278: 2 r2d2 PROPN X
+16305: 11 R2D2 PROPN NOUN
+16320: 8 and DET CONJ
+16321: 9 name NOUN PRON
+16336: 1 Kudos NOUN PROPN
+16356: 9 like INTJ ADP
+16359: 12 mi PROPN NOUN
+16360: 13 pueble PROPN VERB
+16365: 18 .. PUNCT PAUSE
+16376: 1 like INTJ ADP
+16389: 4 ... PUNCT PAUSE
+16392: 1 like INTJ ADP
+16393: 2 4th NOUN PROPN
+16401: 3 these PRON DET
+16416: 18 s PART NOUN
+16431: 10 like ADP VERB
+16433: 12 s PART NOUN
+16439: 18 that ADV PRON
+16443: 2 s PART VERB
+16454: 6 most ADV NOUN
+16457: 9 wendy PROPN ADJ
+16471: 11 punjab PROPN NOUN
+16495: 22 punjab PROPN NOUN
+16501: 5 about ADP SCONJ
+16502: 6 birding NOUN VERB
+16519: 23 http://www.wildlifeofpakistan.com/PakistanBirdClub/index.html X URL
+16566: 13 casual NOUN ADJ
+16584: 3 NT NOUN PROPN
+16602: 10 own ADJ VERB
+16607: 15 about ADV ADP
+16608: 16 is AUX VERB
+16614: 2 under ADJ NOUN
+16644: 2 runs VERB NOUN
+16696: 4 casual NOUN ADJ
+16715: 3 NTKB NOUN PROPN
+16733: 11 works NOUN VERB
+16738: 16 after SCONJ ADP
+16740: 18 Natzi PROPN ADJ
+16745: 1 google VERB NOUN
+16746: 2 nazi PROPN PRON
+16750: 6 ... PUNCT PAUSE
+16756: 5 k NUM NOUN
+16757: 6 est VERB NOUN
+16765: 14 ... PUNCT PAUSE
+16767: 16 k NUM NOUN
+16771: 20 .. PUNCT PAUSE
+16785: 34 right X ADJ
+16790: 39 .. PUNCT PAUSE
+16843: 3 way ADV NOUN
+16845: 5 stranger ADJ NOUN
+16879: 8 empanada NOUN PROPN
+16885: 3 empanadas NOUN ADP
+16910: 4 empanadas NOUN SCONJ
+16913: 2 cup NOUN ADP
+16918: 2 cup NOUN ADP
+16921: 5 empanadas NOUN ADP
+16924: 2 cup NOUN ADP
+16940: 4 IT PRON PROPN
+16966: 7 Phone PROPN NOUN
+16967: 8 Exchange PROPN NOUN
+16975: 16 lost ADJ VERB
+16985: 2 was AUX VERB
+17019: 9 arrest VERB NOUN
+17041: 1 Erm INTJ VERB
+17042: 2 ya INTJ DET
+17049: 9 Online ADV PROPN
+17052: 12 lols INTJ NOUN
+17055: 1 Ya PRON DET
+17081: 13 about ADJ ADV
+17106: 5 Caoimhe PROPN PRON
+17121: 8 much ADV ADJ
+17137: 14 so ADV SCONJ
+17147: 1 Sciences NOUN PROPN
+17153: 7 chemistry NOUN VERB
+17193: 7 ... PUNCT PAUSE
+17202: 1 http://www.google.co.uk/search?q=forensic+photography&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:en-US:official&client=firefox-a&safe=active&sout=1 X URL
+17206: 3 iPhone PROPN NOUN
+17209: 6 Smart ADJ PROPN
+17227: 15 iPhone PROPN NOUN
+17231: 19 Smart ADJ PROPN
+17241: 3 blackberry PROPN NOUN
+17263: 7 Officiol ADJ PROPN
+17265: 9 touch ADJ NOUN
+17280: 3 did AUX VERB
+17293: 2 sx40 PROPN NOUN
+17295: 4 canon PROPN ADP
+17296: 5 s100 PROPN NOUN
+17300: 2 one NUM PRON
+17312: 7 $$$ NOUN SYM
+17321: 4 S100 PROPN NOUN
+17326: 3 more ADV ADJ
+17327: 4 compact ADJ NOUN
+17329: 6 ISO NOUN ADV
+17333: 10 SX40 PROPN NOUN
+17344: 21 SX40 PROPN NOUN
+17345: 22 only ADJ ADV
+17351: 1 Both DET CONJ
+17357: 7 stereo ADJ NOUN
+17368: 2 S100 PROPN NOUN
+17467: 8 venture VERB NOUN
+17480: 5 Weed NOUN PROPN
+17498: 14 auckland PROPN NOUN
+17512: 2 real ADV ADJ
+17515: 5 aye INTJ NOUN
+17534: 8 dodgy ADJ NOUN
+17568: 11 real ADV ADJ
+17569: 12 cheap ADV ADJ
+17573: 2 is AUX VERB
+17583: 4 Reel NOUN PROPN
+17590: 11 before ADV ADP
+17591: 12 .. PUNCT PAUSE
+17600: 8 did VERB AUX
+17607: 15 is VERB PART
+17608: 16 de X ADJ
+17609: 17 lunde X NOUN
+17610: 18 bar X NOUN
+17611: 19 .. PUNCT PAUSE
+17616: 24 .. PUNCT PAUSE
+17620: 28 which DET PRON
+17628: 1 With SCONJ ADP
+17646: 8 youtube PROPN AUX
+17666: 1 Help NOUN VERB
+17667: 2 findin VERB ADP
+17690: 15 somone NOUN PRON
+17699: 24 sf PROPN NOUN
+17706: 2 like VERB ADP
+17710: 6 .... PUNCT PAUSE
+17738: 34 ... PUNCT PAUSE
+17746: 3 s PART NOUN
+17750: 3 kind ADV NOUN
+17751: 4 of ADV ADP
+17819: 19 not ADV PART
+17854: 2 sign NOUN VERB
+17904: 5 ... PUNCT PAUSE
+17916: 2 top ADJ NOUN
+17923: 9 head NOUN VERB
+17936: 22 http://www.stuff.co.nz/dominion-post/ X URL
+17942: 5 for SCONJ ADP
+17949: 1 Wellywood PROPN NOUN
+17956: 1 air PROPN ADJ
+17957: 2 asia PROPN ADP
+17985: 24 air PROPN NOUN
+17986: 25 asia PROPN DET
+17987: 26 recruits VERB NOUN
+18034: 42 on ADP SCONJ
+18037: 1 Write VERB PROPN
+18040: 4 call VERB NOUN
+18056: 4 Meal NOUN PROPN
+18058: 6 peopel NOUN VERB
+18078: 15 eat VERB ADV
+18101: 1 Like INTJ PROPN
+18112: 2 around ADP ADV
+18113: 3 what DET PRON
+18136: 14 ... PUNCT PAUSE
+18175: 2 plllz INTJ NOUN
+18202: 9 like VERB ADP
+18232: 6 :) SYM EMO
+18327: 20 orchestra NOUN DET
+18345: 9 walking NOUN VERB
+18352: 16 lost ADJ VERB
+18381: 4 ban VERB DET
+18389: 2 'm VERB AUX
+18390: 3 suppose ADJ VERB
+18423: 6 there ADV PRON
+18434: 5 phone VERB NUM
+18438: 9 ask VERB NOUN
+18450: 10 are VERB AUX
+18458: 18 not ADV PART
+18491: 3 kerala PROPN NOUN
+18493: 5 help VERB NOUN
+18494: 6 pls INTJ NOUN
+18501: 5 sm DET NOUN
+18508: 12 .. PUNCT PAUSE
+18510: 14 kerala PROPN NOUN
+18511: 15 .. PUNCT PAUSE
+18513: 17 which DET PRON
+18517: 21 kerala PROPN DET
+18518: 22 shal AUX ADJ
+18527: 31 .. PUNCT PAUSE
+18541: 8 beach NOUN DET
+18544: 11 trivandrum PROPN NOUN
+18549: 16 kollam PROPN NOUN
+18550: 17 @ SYM ADDRESS
+18553: 20 f ADP NOUN
+18555: 22 Lake PROPN VERB
+18557: 24 kollam PROPN NOUN
+18559: 1 Houseboat NOUN PROPN
+18579: 6 a X DET
+18589: 2 are VERB AUX
+18591: 4 minded ADJ VERB
+18592: 5 thr ADV NOUN
+18593: 6 since SCONJ ADP
+18605: 4 male ADJ NOUN
+18628: 2 likely ADV ADJ
+18653: 4 unfertilized ADJ VERB
+18682: 5 up ADV ADP
+18688: 11 up ADV ADP
+18709: 14 is VERB AUX
+18710: 15 fertilized ADJ VERB
+18725: 2 is AUX VERB
+18830: 16 Force PROPN NOUN
+18831: 17 Base PROPN NOUN
+18832: 18 ... PUNCT PAUSE
+18839: 6 north ADV NOUN
+18845: 1 Boy NOUN VERB
+18850: 2 well INTJ ADV
+18863: 15 valentine PROPN ADJ
+18886: 38 lives VERB NOUN
+18905: 57 help NOUN VERB
+18907: 59 shoul AUX NOUN
+18912: 1 amd CONJ INTJ
+18920: 3 d AUX VERB
+18952: 3 most ADJ ADV
+18954: 5 suck VERB NOUN
+18959: 3 better ADV ADJ
+18964: 2 t PART VERB
+18966: 4 ask VERB NUM
+18973: 2 gare PROPN AUX
+18974: 3 montparnasse PROPN ADJ
+18975: 4 storage PROPN NOUN
+19006: 7 there PRON ADV
+19007: 8 nearby ADJ ADV
+19008: 9 alternative NOUN ADJ
+19019: 5 lourdes PROPN VERB
+19024: 1 ty INTJ NOUN
+19092: 12 1 X NUM
+19108: 8 francisco PROPN NOUN
+19118: 4 mexico PROPN AUX
+19122: 8 francisco PROPN ADP
+19123: 9 california PROPN DET
+19210: 5 say INTJ VERB
+19212: 7 search VERB NOUN
+19226: 21 on ADP NUM
+19264: 19 states PROPN NOUN
+19278: 3 what DET PRON
+19281: 6 Fiji PROPN PRON
+19326: 13 a X NOUN
+19338: 25 beach NOUN DET
+19352: 11 fun ADJ NOUN
+19377: 10 earlier ADJ ADV
+19387: 7 tampa PROPN DET
+19388: 8 bay PROPN NOUN
+19424: 19 sells VERB NOUN
+19442: 3 that SCONJ PRON
+19449: 10 all ADV DET
+19453: 14 American PROPN ADJ
+19496: 1 yuck INTJ NOUN
+19517: 19 that SCONJ ADV
+19520: 22 is VERB AUX
+19521: 23 coagulated ADJ VERB
+19526: 28 ewww INTJ ADV
+19535: 8 available ADJ NOUN
+19537: 10 noida PROPN DET
+19539: 12 greater PROPN ADJ
+19540: 13 noida PROPN NOUN
+19543: 1 UP PROPN ADP
+19545: 3 buses NOUN VERB
+19546: 4 ply VERB ADV
+19550: 8 - PUNCT SYM
+19552: 10 crossing VERB NOUN
+19569: 3 these PRON DET
+19574: 8 that PRON SCONJ
+19578: 12 Sector PROPN NOUN
+19579: 13 - PUNCT SYM
+19604: 2 dear NOUN ADJ
+19616: 14 to ADP PART
+19623: 3 UP PROPN ADP
+19632: 6 Call PROPN VERB
+19655: 6 Indian PROPN ADJ
+19657: 8 Building PROPN NOUN
+19659: 10 Sector PROPN NOUN
+19668: 19 Stops PROPN NOUN
+19679: 5 wifi NOUN PRON
+19682: 8 / PUNCT SYM
+19686: 12 apple PROPN NOUN
+19687: 13 ipod PROPN NOUN
+19694: 3 wifi NOUN PRON
+19706: 15 ... PUNCT PAUSE
+19719: 28 ipod PROPN NOUN
+19722: 31 wifi NOUN PRON
+19737: 13 out ADV ADP
+19738: 14 n CONJ ADV
+19739: 15 about ADV ADP
+19741: 17 ... PUNCT PAUSE
+19752: 28 on ADV ADP
+19763: 39 on SCONJ ADP
+19779: 55 ipod PROPN NOUN
+19784: 3 ta PART DET
+19787: 6 iPhone PROPN NOUN
+19790: 9 ... PUNCT PAUSE
+19793: 12 ... PUNCT PAUSE
+19803: 22 monthly ADV ADJ
+19805: 24 gets VERB NOUN
+19806: 25 wifi NOUN PRON
+19826: 2 are VERB AUX
+19830: 6 alike ADJ INTJ
+19844: 8 afghanistan PROPN NOUN
+19846: 10 Vietam PROPN NOUN
+19850: 14 alike ADJ INTJ
+19880: 10 alike ADJ VERB
+19939: 3 PLZ INTJ PROPN
+19944: 8 DUE ADJ ADP
+19947: 11 :( SYM EMO
+19950: 2 ... PUNCT PAUSE
+19951: 3 one NUM PRON
+19967: 1 Alike ADJ INTJ
+19968: 2 ... PUNCT PAUSE
+19969: 3 both DET CONJ
+19980: 14 matter ADV NOUN
+19981: 15 what PRON DET
+19985: 19 historians NOUN PROPN
+20036: 12 twinky NOUN ADJ
+20052: 12 over ADP ADV
+20059: 2 have AUX VERB
+20063: 6 name VERB NOUN
+20073: 16 star NOUN ADJ
+20084: 5 STAR NOUN PROPN
+20094: 5 :) SYM EMO
+20100: 5 Forest NOUN PROPN
+20101: 6 Cat NOUN PROPN
+20106: 11 bc SCONJ NOUN
+20118: 23 by ADV ADP
+20145: 7 like SCONJ ADP
+20148: 10 did VERB X
+20149: 11 :) SYM EMO
+20157: 7 veiled ADJ VERB
+20165: 2 female ADJ NOUN
+20185: 22 like INTJ SCONJ
+20187: 24 like ADP VERB
+20189: 26 chameleon NOUN ADP
+20228: 19 away ADP ADV
+20233: 3 do VERB AUX
+20239: 9 rot VERB NOUN
+20255: 14 aways ADV VERB
+20295: 3 stops VERB AUX
+20375: 2 have VERB AUX
+20376: 3 limited ADJ VERB
+20413: 4 Hop VERB PROPN
+20414: 5 On ADV PROPN
+20415: 6 / X PUNCT
+20416: 7 Hop VERB PROPN
+20417: 8 Off ADV ADP
+20425: 5 to ADP PART
+20426: 6 all DET VERB
+20444: 24 off ADV ADP
+20445: 25 anyplace ADV NOUN
+20457: 3 Goldstar.com X PROPN
+20462: 8 about ADV ADP
+20464: 10 third NOUN ADJ
+20470: 1 alcatraz PROPN X
+20493: 8 online ADV NOUN
+20553: 8 travel NOUN DET
+20564: 8 but ADP CONJ
+20645: 9 at ADV ADP
+20650: 2 is VERB AUX
+20658: 2 Hamster PROPN NOUN
+20660: 4 .... PUNCT PAUSE
+20667: 2 .... PUNCT PAUSE
+20678: 13 terrified ADJ VERB
+20711: 13 inside ADP ADV
+20715: 17 du AUX VERB
+20716: 18 n PART VERB
+20717: 19 no VERB SCONJ
+20811: 4 is VERB AUX
+20813: 6 trapped ADJ VERB
+20821: 14 out ADP ADV
+20828: 5 eat VERB NOUN
+20830: 1 Start VERB NOUN
+20833: 4 start VERB NOUN
+20844: 8 please INTJ NOUN
+20851: 5 indoor ADJ NOUN
+20867: 5 east ADJ ADV
+20897: 6 attn NOUN VERB
+20931: 26 x X NOUN
+20961: 12 tear VERB ADJ
+20974: 9 gold NOUN ADJ
+21005: 26 hold VERB NOUN
+21032: 8 brittany PROPN DET
+21033: 9 france PROPN NOUN
+21053: 12 of SCONJ ADP
+21054: 13 waiting VERB NOUN
+21084: 18 kind ADV NOUN
+21085: 19 of ADV ADP
+21110: 4 for SCONJ ADP
+21128: 6 sexy ADJ NOUN
+21148: 18 as ADV VERB
+21149: 19 straigthforward ADJ ADV
+21164: 8 sexy ADJ NOUN
+21173: 17 light ADJ NOUN
+21184: 5 up ADV ADP
+21196: 8 light ADJ NOUN
+21260: 2 miss X ADV
+21261: 3 informed ADJ VERB
+21267: 3 Quick ADJ PROPN
+21268: 4 take NOUN VERB
+21269: 5 away NOUN ADV
+21283: 5 eva ADV NOUN
+21296: 4 like ADP SCONJ
+21309: 3 .. PUNCT PAUSE
+21313: 7 .. PUNCT PAUSE
+21352: 5 apprised ADJ VERB
+21377: 3 pup NOUN ADP
+21407: 2 bacon NOUN ADP
+21419: 4 Fair PROPN ADJ
+21450: 1 gone ADJ VERB
+21452: 1 library NOUN PRON
+21453: 2 is VERB AUX
+21454: 3 closed ADJ VERB
+21460: 4 bislas PROPN ADV
+21525: 1 Fast ADJ PROPN
+21553: 2 Job PROPN NOUN
+21562: 7 A DET NOUN
+21570: 6 exciting ADJ NOUN
+21581: 4 Burger NOUN PROPN
+21612: 3 's VERB PART
+21638: 3 for ADP SCONJ
+21639: 4 wing NOUN VERB
+21643: 8 eh INTJ NOUN
+21647: 12 eh INTJ NOUN
+21648: 13 ... PUNCT PAUSE
+21666: 1 Prime ADJ PROPN
+21685: 1 VISAKHA PROPN DET
+21687: 3 GASES PROPN NOUN
+21693: 9 google PROPN NOUN
+21694: 10 maps PROPN NOUN
+21713: 2 to ADP PART
+21731: 6 homestyle ADJ NOUN
+21739: 14 this PRON DET
+21755: 13 meh ADJ NOUN
+21818: 10 joe NOUN PROPN
+21830: 3 pizza NOUN DET
+21879: 7 caters VERB NOUN
+21907: 3 tidy ADJ NOUN
+21921: 6 down ADP ADV
+21937: 3 all DET ADV
+21945: 1 marisol PROPN INTJ
+21951: 5 twelve PROPN AUX
+21964: 1 :) SYM EMO
+21984: 1 A NOUN DET
+22020: 15 ... PUNCT PAUSE
+22026: 4 Stop VERB NOUN
+22037: 1 YAY INTJ PROPN
+22069: 7 morse PROPN NOUN
+22070: 8 red PROPN VERB
+22071: 9 line PROPN NOUN
+22107: 2 were VERB AUX
+22127: 7 8 PROPN NUM
+22132: 3 Fun NOUN PROPN
+22134: 5 Bonding NOUN PROPN
+22155: 4 not PART ADV
+22186: 1 Brilll ADJ PROPN
+22225: 1 Aweesome ADJ DET
+22227: 1 Holy ADJ ADV
+22249: 7 :) SYM EMO
+22260: 7 not ADV PART
+22269: 4 listing NOUN VERB
+22291: 6 beach NOUN DET
+22306: 3 Disco NOUN ADV
+22307: 4 dancing VERB NOUN
+22309: 6 Cheerleading VERB PROPN
+22314: 3 fab ADJ NOUN
+22320: 4 get VERB AUX
+22325: 2 samantha PROPN DET
+22334: 3 Diverse ADJ NOUN
+22346: 15 equals VERB NOUN
+22401: 9 more ADJ ADV
+22408: 5 Mediterranean ADJ PROPN
+22416: 13 have VERB AUX
+22434: 7 fat ADJ ADP
+22447: 20 chicago PROPN VERB
+22490: 3 ... PUNCT PAUSE
+22526: 11 hard ADV ADJ
+22554: 15 not ADV PART
+22562: 2 Restaurant NOUN PROPN
+22567: 4 that PRON SCONJ
+22600: 8 satisfying ADJ VERB
+22623: 5 band NOUN CONJ
+22625: 7 live ADV VERB
+22642: 9 s PART VERB
+22692: 2 front NOUN ADJ
+22712: 2 out ADP ADV
+22757: 6 there ADV PRON
+22804: 6 Lover PROPN ADV
+22811: 5 .. PUNCT PAUSE
+22852: 6 to ADV PART
+22855: 1 Beer NOUN PROPN
+22861: 1 Brain NOUN PROPN
+22904: 6 .. PUNCT PAUSE
+22914: 16 ... PUNCT PAUSE
+22949: 8 piano NOUN DET
+22961: 4 only ADJ ADV
+22962: 5 pizza NOUN DET
+22971: 1 Yum INTJ PROPN
+22990: 3 flour NOUN PRON
+22998: 11 are VERB AUX
+22999: 12 discussing ADJ VERB
+23002: 15 over X ADV
+23013: 26 down X ADV
+23014: 27 hill ADV NOUN
+23017: 2 'm AUX VERB
+23019: 4 surprised VERB ADJ
+23029: 4 about ADV ADP
+23043: 5 timely ADJ ADV
+23048: 1 Awsome ADJ DET
+23069: 8 filling ADJ VERB
+23099: 7 about ADV ADP
+23112: 8 river PROPN NOUN
+23113: 9 road PROPN NOUN
+23119: 4 Calzones NOUN PROPN
+23125: 1 What DET PRON
+23156: 6 well ADV INTJ
+23191: 5 that PRON DET
+23192: 6 last VERB ADJ
+23201: 7 that PRON SCONJ
+23242: 4 much ADV ADJ
+23258: 3 Hangout NOUN PROPN
+23273: 1 Ice ADJ PROPN
+23283: 3 out ADV ADP
+23320: 4 not ADV PART
+23419: 8 Adz PROPN NOUN
+23436: 1 SERVERS NOUN PROPN
+23476: 5 ... PUNCT PAUSE
+23482: 5 mass ADJ NOUN
+23498: 21 artisan NOUN DET
+23509: 2 Off NOUN PROPN
+23530: 9 before ADV ADP
+23539: 7 not CONJ PART
+23551: 2 Pizza PROPN NOUN
+23559: 2 's PART VERB
+23560: 3 Pizza PROPN NOUN
+23561: 4 is VERB AUX
+23562: 5 long ADV ADJ
+23563: 6 gone ADJ NOUN
+23570: 5 northwest NOUN ADJ
+23574: 9 10th PROPN NOUN
+23576: 11 Federal PROPN ADJ
+23581: 16 home NOUN ADV
+23584: 19 Pizza PROPN NOUN
+23587: 1 VERYYYY ADV INTJ
+23589: 3 VERYYY ADV INTJ
+23600: 4 honest ADV NOUN
+23610: 4 recomend VERB NOUN
+23622: 4 s PART VERB
+23623: 5 Auto PROPN ADP
+23632: 1 Ashdown PROPN ADP
+23633: 2 Horse PROPN NOUN
+23634: 3 Transport PROPN NOUN
+23642: 4 ALWAY ADV PROPN
+23662: 1 PS. NOUN PROPN
+23669: 1 Miami PROPN PRON
+23670: 2 's PART VERB
+23700: 10 elementary ADJ NOUN
+23746: 1 awesome ADJ DET
+23760: 11 ... PUNCT PAUSE
+23771: 10 ... PUNCT PAUSE
+23773: 12 recomend VERB NOUN
+23774: 13 ... PUNCT PAUSE
+23811: 10 Bridges PROPN NOUN
+23823: 1 such DET ADJ
+23835: 13 pack VERB NOUN
+23840: 18 no DET INTJ
+23842: 20 up ADV ADP
+23863: 2 flavored ADJ VERB
+23867: 3 about ADP ADV
+23878: 14 to ADP PART
+23888: 24 juicy ADJ NOUN
+23901: 2 Cigar NOUN PROPN
+23918: 11 shop NOUN VERB
+23934: 12 off ADV ADP
+23994: 3 stunning ADJ VERB
+24018: 13 Camps PROPN NOUN
+24027: 6 mall NOUN DET
+24075: 1 Such DET ADJ
+24080: 6 inspiring ADJ VERB
+24084: 1 Sand PROPN CONJ
+24086: 3 park PROPN NOUN
+24091: 8 ... PUNCT PAUSE
+24112: 1 Delivery NOUN PROPN
+24113: 2 is VERB AUX
+24114: 3 lightning NOUN VERB
+24140: 1 Like VERB ADP
+24211: 12 rest ADJ NOUN
+24259: 10 ... PUNCT PAUSE
+24296: 18 together ADJ SCONJ
+24314: 2 worth ADJ ADP
+24319: 1 http://cambridgefoodfrivolity.blogspot.com/ X URL
+24350: 5 born ADJ NOUN
+24383: 18 ... PUNCT PAUSE
+24395: 30 ruder ADJ NOUN
+24428: 14 with SCONJ ADP
+24462: 5 be AUX VERB
+24472: 6 miss NOUN VERB
+24480: 14 browned ADJ VERB
+24537: 5 disappointed VERB ADJ
+24545: 3 pizza PROPN NOUN
+24548: 6 favorite NOUN ADJ
+24551: 2 's PART VERB
+24552: 3 Pizza PROPN NOUN
+24576: 5 close ADV ADJ
+24587: 16 ... PUNCT PAUSE
+24589: 1 Caldwell PROPN INTJ
+24590: 2 insurance PROPN NOUN
+24617: 9 deal VERB NOUN
+24634: 2 Cottage NOUN PROPN
+24640: 5 charming ADJ NOUN
+24641: 6 homely ADJ ADV
+24657: 8 yummy ADJ PRON
+24682: 1 Cheap PROPN ADJ
+24693: 1 Cheap PROPN ADJ
+24744: 12 .... PUNCT PAUSE
+24770: 5 :) SYM EMO
+24776: 2 on ADP ADV
+24807: 4 cloth NOUN ADJ
+24817: 14 worth ADJ ADP
+24855: 13 not ADV PART
+24878: 10 e-commerce NOUN ADJ
+24895: 14 smooth ADV ADJ
+24902: 2 recommended ADJ VERB
+24903: 3 for SCONJ ADP
+24913: 3 SEO PROPN NOUN
+24922: 5 The PRON DET
+24923: 6 Fix VERB NOUN
+24925: 8 Plumbing PROPN VERB
+24929: 12 Electric PROPN ADJ
+24930: 13 Problems PROPN NOUN
+24937: 5 for ADP SCONJ
+24938: 6 plumbing NOUN VERB
+24940: 8 A NOUN PROPN
+24942: 10 C NOUN PROPN
+24952: 20 right ADJ ADV
+24964: 2 From ADP PROPN
+24973: 7 Walk PROPN NOUN
+25022: 1 Hancocks PROPN NOUN
+25027: 6 fabric ADJ NOUN
+25050: 17 inside ADP ADV
+25061: 8 fabric NOUN ADJ
+25078: 13 early ADV ADJ
+25095: 9 dumpy ADJ NOUN
+25103: 6 rig NOUN ADJ
+25125: 8 much ADJ ADV
+25144: 5 blu NOUN PRON
+25177: 1 Dark ADJ PROPN
+25188: 5 / SYM PUNCT
+25204: 1 Quite ADV DET
+25222: 15 cleaner ADJ NOUN
+25225: 1 recommended ADJ VERB
+25245: 4 out NOUN ADP
+25252: 1 Lifts NOUN PROPN
+25282: 3 Not ADV PART
+25283: 4 cheep ADJ VERB
+25301: 7 not ADV PART
+25305: 1 Like ADP INTJ
+25307: 3 oil NOUN DET
+25311: 7 ask VERB NOUN
+25312: 8 / SYM PUNCT
+25325: 4 repeat NOUN ADJ
+25348: 2 cross VERB AUX
+25356: 10 down ADP ADV
+25383: 3 real ADV ADJ
+25384: 4 late ADV ADJ
+25511: 3 like VERB ADP
+25513: 5 Chicken NOUN PROPN
+25514: 6 Curry NOUN PROPN
+25524: 3 / SYM PUNCT
+25548: 1 What DET PRON
+25630: 25 Roof NOUN PROPN
+25640: 35 In X ADP
+25643: 38 Grid NOUN PROPN
+25664: 10 teacup NOUN ADP
+25665: 11 chihuahua NOUN DET
+25679: 3 has VERB AUX
+25685: 9 grooming NOUN VERB
+25697: 21 tip ADJ NOUN
+25698: 22 top ADJ NOUN
+25724: 1 No ADV DET
+25755: 9 :) SYM EMO
+25759: 3 :P SYM EMO
+25786: 5 u PRON NOUN
+25787: 6 spin VERB NOUN
+25790: 9 cn PROPN NOUN
+25791: 10 tower PROPN NOUN
+25801: 20 about ADV ADP
+25805: 24 up NOUN ADP
+25824: 2 love VERB AUX
+25826: 4 in ADV ADP
+25828: 6 not PART ADV
+25917: 7 shops NOUN VERB
+25925: 1 What DET PRON
+25955: 8 favorite NOUN ADJ
+25961: 4 is VERB AUX
+25964: 7 fun ADJ NOUN
+26027: 1 Plus CONJ PROPN
+26042: 8 is AUX VERB
+26064: 30 CALL VERB NOUN
+26139: 10 needs NOUN VERB
+26163: 22 out ADV ADP
+26206: 6 ta ADP DET
+26230: 30 DUI NOUN PROPN
+26234: 34 DUI NOUN PROPN
+26236: 36 Sr NOUN PROPN
+26248: 48 out ADV ADP
+26268: 11 walk NOUN VERB
+26277: 20 out ADV ADP
+26278: 21 front ADV NOUN
+26291: 11 ship VERB NOUN
+26327: 10 that PRON SCONJ
+26354: 13 that ADV DET
+26366: 9 famoso PROPN ADV
+26382: 11 not PART ADV
+26443: 14 disappointed VERB ADJ
+26465: 20 d ADP NOUN
+26467: 22 t ADP VERB
+26564: 4 Saab PROPN NOUN
+26565: 5 ... PUNCT PAUSE
+26606: 4 in ADV ADP
+26607: 5 for SCONJ ADP
+26610: 8 cable NOUN ADJ
+26621: 6 fine ADV NOUN
+26626: 11 in ADV ADP
+26657: 16 than SCONJ ADP
+26675: 4 about ADV ADP
+26766: 3 bed NOUN VERB
+26806: 5 ... PUNCT PAUSE
+26821: 20 out ADV ADP
+26826: 25 more ADV ADJ
+26835: 34 ... PUNCT PAUSE
+26864: 12 in ADV ADP
+26903: 1 That PRON SCONJ
+26904: 2 alone ADJ NUM
+26926: 7 quality ADJ NOUN
+26955: 6 indie ADJ NOUN
+26956: 7 outfit NOUN VERB
+26970: 1 Over X ADP
+26987: 14 total NOUN ADJ
+27005: 32 show VERB ADV
+27055: 18 has AUX VERB
+27080: 13 professional NOUN ADJ
+27087: 20 low ADJ ADV
+27106: 12 were VERB AUX
+27107: 13 done ADJ VERB

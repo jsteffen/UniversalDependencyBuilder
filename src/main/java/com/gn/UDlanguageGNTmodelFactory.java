@@ -70,6 +70,9 @@ public class UDlanguageGNTmodelFactory {
 	
 	private void testAllLanguages(boolean debugTest) throws IOException{
 		UDlanguagePerformance udPerformance = new UDlanguagePerformance();
+		long time1;
+		long time2;
+		time1 = System.currentTimeMillis();
 		for (Pair<String, String> language : UDlanguages.languages){
 			System.out.println("Testing of: " + language);
 			this.testLanguage(language.getL(), language.getR(), debugTest);
@@ -78,6 +81,8 @@ public class UDlanguageGNTmodelFactory {
 			GNTperformance gntPerformance = new GNTperformance();
 			udPerformance.addNewLanguageGNTperformance(language.getR(), gntPerformance);
 		}
+		time2 = System.currentTimeMillis();
+		System.out.println("Complete testing for " + UDlanguages.languages.size() + " languages:");
 		System.out.println(udPerformance.toGNTString());
 	}
 	
