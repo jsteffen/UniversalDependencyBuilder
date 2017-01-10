@@ -116,6 +116,12 @@ public class UDlanguages {
 		return languages;
 	}
 
+	public static void setUdVersion(String udVersion){
+		switch (udVersion){
+		case "1_2": UDlanguages.setVersion_1_2();
+		case "1_3": UDlanguages.setVersion_1_3();
+		}
+	}
 
 	public static List<Pair<String,String>> addLanguages(){
 		switch (UDlanguages.version){
