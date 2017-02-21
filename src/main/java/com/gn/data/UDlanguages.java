@@ -16,7 +16,7 @@ public class UDlanguages {
 	public static List<Pair<String,String>> languages = new ArrayList<Pair<String,String>>();
 
 	public static void setVersion_1_2(){
-		conlluPath = "/Users/gune00/data/UniversalDependencies/";
+		conlluPath = "/Users/gune00/data/UniversalDependencies/ud-treebanks-v1.2/";
 		conllPath = "/Users/gune00/data/UniversalDependencies/conll/";
 		version = "1_2";
 	}
