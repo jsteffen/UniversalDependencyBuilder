@@ -2,7 +2,6 @@ package com.gn.performance;
 
 import java.text.DecimalFormat;
 
-import de.dfki.mlt.gnt.corpus.EvalConllFile;
 import de.dfki.mlt.gnt.tagger.GNTagger;
 
 public class GNTperformance {
@@ -39,11 +38,6 @@ public class GNTperformance {
 	
 	public GNTperformance(){
 
-	    EvalConllFile evalFile = new EvalConllFile();
-		acc = evalFile.getAcc();
-		accOOV = evalFile.getAccOOV();
-		accInV = evalFile.getAccInV();
-		// tokenPerSec = GNTagger.tokenPersec;
 	}
 	
 	

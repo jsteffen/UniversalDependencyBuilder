@@ -7,7 +7,7 @@ import com.gn.data.UDlanguages;
 import com.gn.performance.GNTperformance;
 import com.gn.performance.UDlanguagePerformance;
 
-import de.dfki.mlt.gnt.caller.RunTagger;
+import de.dfki.mlt.gnt.caller.GNT;
 import de.dfki.mlt.gnt.caller.TrainTagger;
 import de.dfki.mlt.gnt.data.GNTdataProperties;
 import de.dfki.mlt.gnt.data.Pair;
@@ -61,11 +61,9 @@ public class UDlanguageGNTmodelFactory {
 
 		String corpusFilename = ConlluToConllMapper.getCorpusPropsFile(languageName, languageID);
 		String modelZipFileName = ConlluToConllMapper.getGNTmodelZipFileName(languageName, languageID);
-		String archiveTxtName = modelZipFileName.split("\\.zip")[0]+".txt";
 		
 		//GNTdataProperties.configTmpFileName = "resources/dataConfig.xml";
-		
-		RunTagger.runner(modelZipFileName, corpusFilename, archiveTxtName, debugTest);
+		GNT.eval(modelZipFileName, corpusFilename);
 	}
 	
 	private void testAllLanguages(boolean debugTest) throws IOException{
