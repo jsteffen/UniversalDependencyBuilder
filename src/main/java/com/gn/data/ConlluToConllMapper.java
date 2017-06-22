@@ -12,7 +12,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Properties;
 
-import data.Pair;
+import de.dfki.mlt.gnt.data.Pair;
 
 public class ConlluToConllMapper {
 
@@ -347,13 +347,13 @@ public class ConlluToConllMapper {
 		UDlanguages.addLanguages();
 		for (Pair<String, String> language : UDlanguages.languages){
 			System.out.println("Processing: " + language);
-			initLanguageCorpusPropsFile(language.getR());
-			initLanguageDataPropsFile(language.getR());
+			initLanguageCorpusPropsFile(language.getRight());
+			initLanguageDataPropsFile(language.getRight());
 
-			transformer(language.getL(), language.getR());
+			transformer(language.getLeft(), language.getRight());
 
-			writeLanguageCorpusPropsFile(language.getL(), language.getR());
-			writeLanguageDataPropsFile(language.getL(), language.getR());
+			writeLanguageCorpusPropsFile(language.getLeft(), language.getRight());
+			writeLanguageDataPropsFile(language.getLeft(), language.getRight());
 		}
 	}
 	
@@ -363,13 +363,13 @@ public class ConlluToConllMapper {
 		UDlanguages.addLanguages();
 		for (Pair<String, String> language : UDlanguages.languages){
 			System.out.println("Processing: " + language);
-			initLanguageCorpusPropsFile(language.getR());
-			initLanguageDataPropsFile(language.getR());
+			initLanguageCorpusPropsFile(language.getRight());
+			initLanguageDataPropsFile(language.getRight());
 
-			transformer(language.getL(), language.getR());
+			transformer(language.getLeft(), language.getRight());
 
-			writeLanguageCorpusPropsFile(language.getL(), language.getR());
-			writeLanguageDataPropsFile(language.getL(), language.getR());
+			writeLanguageCorpusPropsFile(language.getLeft(), language.getRight());
+			writeLanguageDataPropsFile(language.getLeft(), language.getRight());
 		}
 	}
 

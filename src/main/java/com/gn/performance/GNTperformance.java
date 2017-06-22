@@ -2,8 +2,8 @@ package com.gn.performance;
 
 import java.text.DecimalFormat;
 
-import corpus.EvalConllFile;
-import tagger.GNTagger;
+import de.dfki.mlt.gnt.corpus.EvalConllFile;
+import de.dfki.mlt.gnt.tagger.GNTagger;
 
 public class GNTperformance {
 	private double acc;
@@ -38,10 +38,12 @@ public class GNTperformance {
 	}
 	
 	public GNTperformance(){
-		acc = EvalConllFile.acc;
-		accOOV = EvalConllFile.accOOV;
-		accInV = EvalConllFile.accInV;
-		tokenPerSec = GNTagger.tokenPersec;
+
+	    EvalConllFile evalFile = new EvalConllFile();
+		acc = evalFile.getAcc();
+		accOOV = evalFile.getAccOOV();
+		accInV = evalFile.getAccInV();
+		// tokenPerSec = GNTagger.tokenPersec;
 	}
 	
 	

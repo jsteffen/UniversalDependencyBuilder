@@ -8,7 +8,7 @@ import com.gn.data.UDlanguages;
 import com.gn.performance.MDPperformance;
 import com.gn.performance.UDlanguagePerformance;
 
-import data.Pair;
+import de.dfki.mlt.gnt.data.Pair;
 import de.bwaldvogel.liblinear.InvalidInputDataException;
 import de.dfki.lt.mdparser.caller.MDPrunner;
 import de.dfki.lt.mdparser.caller.MDPtrainer;
@@ -45,7 +45,7 @@ public class UDlanguageMDPmodelFactory {
 		time1 = System.currentTimeMillis();
 		for (Pair<String, String> language : UDlanguages.languages){
 			System.out.println("Training of: " + language);
-			this.trainLanguage(language.getL(), language.getR());	
+			this.trainLanguage(language.getLeft(), language.getRight());	
 		}
 		time2 = System.currentTimeMillis();
 		System.out.println("Complete training for " + UDlanguages.languages.size() + " languages:");
@@ -72,11 +72,11 @@ public class UDlanguageMDPmodelFactory {
 		time1 = System.currentTimeMillis();
 		for (Pair<String, String> language : UDlanguages.languages){
 			System.out.println("Testing of: " + language);
-			this.testLanguage(language.getL(), language.getR());
+			this.testLanguage(language.getLeft(), language.getRight());
 			System.out.println("\n");
 
 			MDPperformance mdpPerformance = new MDPperformance(this.eval);
-			udPerformance.addNewLanguageMDPperformance(language.getR(), mdpPerformance);
+			udPerformance.addNewLanguageMDPperformance(language.getRight(), mdpPerformance);
 		}
 		time2 = System.currentTimeMillis();
 		System.out.println("Complete testing for " + UDlanguages.languages.size() + " languages:");

@@ -6,7 +6,7 @@ import java.util.List;
 
 import org.apache.commons.lang.StringUtils;
 
-import data.Pair;
+import de.dfki.mlt.gnt.data.Pair;
 
 public class UDlanguagePerformance {
 	// <languageId, GNTperformance>
@@ -46,9 +46,9 @@ public class UDlanguagePerformance {
 		double avgOOV = 0.0;
 		
 		for (Pair<String,GNTperformance> pair : gntLanguagesPerformance){
-			output += StringUtils.rightPad(pair.getL(), 14, ' ')  + " | " + pair.getR().toString() + "\n";
-			avgAcc += pair.getR().getAcc();
-			avgOOV += pair.getR().getAccOOV();
+			output += StringUtils.rightPad(pair.getLeft(), 14, ' ')  + " | " + pair.getRight().toString() + "\n";
+			avgAcc += pair.getRight().getAcc();
+			avgOOV += pair.getRight().getAccOOV();
 		}
 		
 		output +=       "------------------------------------------\n";
@@ -68,9 +68,9 @@ public class UDlanguagePerformance {
 		double avgLabAcc = 0.0;
 		
 		for (Pair<String,MDPperformance> pair : mdpLanguagesPerformance){
-			output += StringUtils.rightPad(pair.getL(), 14, ' ')  + " | " + pair.getR().toString() + "\n";
-			avgUnAcc += pair.getR().getUnlabeledAcc();
-			avgLabAcc += pair.getR().getLabeledAcc();
+			output += StringUtils.rightPad(pair.getLeft(), 14, ' ')  + " | " + pair.getRight().toString() + "\n";
+			avgUnAcc += pair.getRight().getUnlabeledAcc();
+			avgLabAcc += pair.getRight().getLabeledAcc();
 		}
 		
 		output +=       "--------------------------------------------\n";

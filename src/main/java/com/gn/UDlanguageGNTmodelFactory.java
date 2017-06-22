@@ -7,10 +7,10 @@ import com.gn.data.UDlanguages;
 import com.gn.performance.GNTperformance;
 import com.gn.performance.UDlanguagePerformance;
 
-import caller.RunTagger;
-import caller.TrainTagger;
-import data.GNTdataProperties;
-import data.Pair;
+import de.dfki.mlt.gnt.caller.RunTagger;
+import de.dfki.mlt.gnt.caller.TrainTagger;
+import de.dfki.mlt.gnt.data.GNTdataProperties;
+import de.dfki.mlt.gnt.data.Pair;
 
 /**
  * Call GNT trainer and runner for each language define in UDlanguages.java
@@ -39,7 +39,7 @@ public class UDlanguageGNTmodelFactory {
 		
 		System.out.println(corpusFilename);
 		
-		GNTdataProperties.configTmpFileName = "resources/dataConfig.xml";
+		//GNTdataProperties.configTmpFileName = "resources/dataConfig.xml";
 		
 		gntTrainer.trainer(dataFilename, corpusFilename, modelZipFileName, archiveTxtName);
 	}
@@ -50,7 +50,7 @@ public class UDlanguageGNTmodelFactory {
 		time1 = System.currentTimeMillis();
 		for (Pair<String, String> language : UDlanguages.languages){
 			System.out.println("Training of: " + language);
-			this.trainLanguage(language.getL(), language.getR());	
+			this.trainLanguage(language.getLeft(), language.getRight());	
 		}
 		time2 = System.currentTimeMillis();
 		System.out.println("Complete training for " + UDlanguages.languages.size() + " languages:");
@@ -63,7 +63,7 @@ public class UDlanguageGNTmodelFactory {
 		String modelZipFileName = ConlluToConllMapper.getGNTmodelZipFileName(languageName, languageID);
 		String archiveTxtName = modelZipFileName.split("\\.zip")[0]+".txt";
 		
-		GNTdataProperties.configTmpFileName = "resources/dataConfig.xml";
+		//GNTdataProperties.configTmpFileName = "resources/dataConfig.xml";
 		
 		RunTagger.runner(modelZipFileName, corpusFilename, archiveTxtName, debugTest);
 	}
@@ -75,11 +75,11 @@ public class UDlanguageGNTmodelFactory {
 		time1 = System.currentTimeMillis();
 		for (Pair<String, String> language : UDlanguages.languages){
 			System.out.println("Testing of: " + language);
-			this.testLanguage(language.getL(), language.getR(), debugTest);
+			this.testLanguage(language.getLeft(), language.getRight(), debugTest);
 			// NOTE: will only use values from last call of corpus.EvalConllFile.computeAccuracy(String, boolean)
 			// if several are called for one language. Currently this is just the test file;
 			GNTperformance gntPerformance = new GNTperformance();
-			udPerformance.addNewLanguageGNTperformance(language.getR(), gntPerformance);
+			udPerformance.addNewLanguageGNTperformance(language.getRight(), gntPerformance);
 		}
 		time2 = System.currentTimeMillis();
 		System.out.println("Complete testing for " + UDlanguages.languages.size() + " languages:");

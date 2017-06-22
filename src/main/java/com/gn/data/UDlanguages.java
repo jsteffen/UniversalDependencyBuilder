@@ -3,7 +3,7 @@ package com.gn.data;
 import java.util.ArrayList;
 import java.util.List;
 
-import data.Pair;
+import de.dfki.mlt.gnt.data.Pair;
 
 public class UDlanguages {
 
