@@ -2,21 +2,14 @@ package com.gn.performance;
 
 import java.text.DecimalFormat;
 
-import de.dfki.mlt.gnt.tagger.GNTagger;
+import de.dfki.mlt.gnt.corpus.ConllEvaluator;
 
 public class GNTperformance {
 	private double acc;
 	private double accOOV;
 	private double accInV;
-	private long tokenPerSec = 0;
 	
 	
-	public long getTokenPerSec() {
-		return tokenPerSec;
-	}
-	public void setTokenPerSec(long tokenPerSec) {
-		this.tokenPerSec = tokenPerSec;
-	}
 	public double getAcc() {
 		return acc;
 	}
@@ -36,8 +29,11 @@ public class GNTperformance {
 		this.accInV = accInV;
 	}
 	
-	public GNTperformance(){
+	public GNTperformance(ConllEvaluator evaluator){
 
+	  this.acc = evaluator.getAcc();
+	  this.accOOV = evaluator.getAccOOV();
+	  this.accInV = evaluator.getAccInV();
 	}
 	
 	
@@ -48,7 +44,6 @@ public class GNTperformance {
 		output += " " + formatter.format(acc*100) +" | ";
 		output += " " + formatter.format(accOOV*100) +" | ";
 		output += " " + formatter.format(accInV*100) +" | ";
-		output += " " + tokenPerSec;
 		return output;
 	}
 
