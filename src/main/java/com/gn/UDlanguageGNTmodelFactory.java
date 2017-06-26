@@ -63,6 +63,7 @@ public class UDlanguageGNTmodelFactory {
 
 		String corpusFilename = ConlluToConllMapper.getCorpusPropsFile(languageName, languageID);
 		String modelZipFileName = ConlluToConllMapper.getGNTmodelZipFileName(languageName, languageID);
+		String testFile = ConlluToConllMapper.getConllTestFile(languageName, languageID);
 		
 		//GNTdataProperties.configTmpFileName = "resources/dataConfig.xml";
 		GNTagger tagger = new GNTagger(modelZipFileName);

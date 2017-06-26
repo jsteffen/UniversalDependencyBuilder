@@ -8,7 +8,7 @@ import de.dfki.lt.mdparser.parser.Parser;
 public class MDPperformance {
 	private double unlabeledAcc;
 	private double labeledAcc;
-	
+
 	public double getUnlabeledAcc() {
 		return unlabeledAcc;
 	}
@@ -27,7 +27,7 @@ public class MDPperformance {
 		this.unlabeledAcc = eval.getParentsAccuracy();
 		this.labeledAcc = eval.getLabelsAccuracy();
 	}
-	
+
 	public String toString(){
 		String output = "";
 		DecimalFormat formatter = new DecimalFormat("#0.00");
@@ -36,6 +36,6 @@ public class MDPperformance {
 		output += " " + formatter.format(this.labeledAcc*100) +" | ";
 		return output;
 	}
-	
+
 
 }
