@@ -61,8 +61,10 @@ public class UDlanguageGNTmodelFactory {
 
 		String corpusFilename = ConlluToConllMapper.getCorpusPropsFile(languageName, languageID);
 		String modelZipFileName = ConlluToConllMapper.getGNTmodelZipFileName(languageName, languageID);
+		String testFile = ConlluToConllMapper.getConllTestFile(languageName, languageID);
 		
 		//GNTdataProperties.configTmpFileName = "resources/dataConfig.xml";
+		GNT.tag(modelZipFileName, testFile, "UTF-8", "UTF-8");
 		GNT.eval(modelZipFileName, corpusFilename);
 	}
 	

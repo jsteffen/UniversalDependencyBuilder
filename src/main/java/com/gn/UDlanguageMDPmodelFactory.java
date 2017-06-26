@@ -29,12 +29,10 @@ public class UDlanguageMDPmodelFactory {
 		String trainFile = ConlluToConllMapper.getConllTrainFile(languageName, languageID);
 		String modelZipFileName = ConlluToConllMapper.getMDPmodelZipFileName(languageName, languageID);
 
-		MDPtrainer mdpTrainer = new MDPtrainer();
-
 		System.out.println("MDP training: " + trainFile + " into ModelFile: " + modelZipFileName);
 
 
-		mdpTrainer.trainer(trainFile, modelZipFileName);
+		MDPtrainer.train(trainFile, modelZipFileName);
 	}
 
 	// TODO: this is basically the same as in UDlanguageGNTmodelFactory
@@ -58,11 +56,7 @@ public class UDlanguageMDPmodelFactory {
 		String modelZipFileName = ConlluToConllMapper.getMDPmodelZipFileName(languageName, languageID);
 		String mdpResultFile = ConlluToConllMapper.getConllMDPresultFile(testFile);
 
-		MDPrunner mdpRunner = new MDPrunner();
-
-		mdpRunner.conllFileParsingAndEval(testFile, mdpResultFile, modelZipFileName);
-
-		this.eval = mdpRunner.getEvaluator();
+		this.eval = MDPrunner.conllFileParsingAndEval(testFile, mdpResultFile, modelZipFileName);
 	}
 
 	private void testAllLanguages() throws IOException{
@@ -88,6 +82,6 @@ public class UDlanguageMDPmodelFactory {
 			throws IOException, NoSuchAlgorithmException, InvalidInputDataException{
 		UDlanguageMDPmodelFactory udFactory = new UDlanguageMDPmodelFactory("1_3");
 		UDlanguages.ignore = true;
-		udFactory.testAllLanguages();
+		udFactory.trainAllLanguages();
 	}
 }

@@ -9,7 +9,7 @@ public class MDPperformance {
 	private double unlabeledAcc;
 	private double labeledAcc;
 	private double speed;
-	
+
 	public double getUnlabeledAcc() {
 		return unlabeledAcc;
 	}
@@ -28,17 +28,19 @@ public class MDPperformance {
 	public void setSpeed(double speed) {
 		this.speed = speed;
 	}
-	
+
 	public MDPperformance(){
-		this.speed = Parser.time;
+		//this.speed = Parser.time;
+		this.speed = 0.0;
 	}
-	
+
 	public MDPperformance(Eval eval){
-		this.speed = Parser.time;
+		//this.speed = Parser.time;
+		this.speed = 0.0;
 		this.unlabeledAcc = eval.getParentsAccuracy();
 		this.labeledAcc = eval.getLabelsAccuracy();
 	}
-	
+
 	public String toString(){
 		String output = "";
 		DecimalFormat formatter = new DecimalFormat("#0.00");
@@ -48,6 +50,6 @@ public class MDPperformance {
 		output += " " + this.speed;
 		return output;
 	}
-	
+
 
 }
