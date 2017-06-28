@@ -2,15 +2,15 @@ package com.gn;
 
 import java.io.IOException;
 
+import org.apache.commons.configuration2.ex.ConfigurationException;
+
 import com.gn.data.ConlluToConllMapper;
 import com.gn.data.UDlanguages;
 import com.gn.performance.GNTperformance;
 import com.gn.performance.UDlanguagePerformance;
 
-import de.dfki.mlt.gnt.caller.GNT;
 import de.dfki.mlt.gnt.caller.TrainTagger;
 import de.dfki.mlt.gnt.corpus.ConllEvaluator;
-import de.dfki.mlt.gnt.data.GNTdataProperties;
 import de.dfki.mlt.gnt.data.Pair;
 import de.dfki.mlt.gnt.tagger.GNTagger;
 
@@ -31,9 +31,10 @@ public class UDlanguageGNTmodelFactory {
 		UDlanguages.addLanguages();
 	}
 	
-	private void trainLanguage(String languageName, String languageID) throws IOException{
-		String corpusFilename = ConlluToConllMapper.getCorpusPropsFile(languageName, languageID);
-		String dataFilename = ConlluToConllMapper.getDataPropsFile(languageName, languageID);
+	private void trainLanguage(String languageName, String languageID)
+	    throws IOException, ConfigurationException{
+		String corpusFilename = ConlluToConllMapper.getCorpusConfigFileName(languageName, languageID);
+		String dataFilename = ConlluToConllMapper.getModelConfigFileName(languageName, languageID);
 		String modelZipFileName = ConlluToConllMapper.getGNTmodelZipFileName(languageName, languageID);
 		
 		TrainTagger gntTrainer = new TrainTagger();
@@ -45,7 +46,7 @@ public class UDlanguageGNTmodelFactory {
 		gntTrainer.trainer(dataFilename, corpusFilename, modelZipFileName);
 	}
 	
-	private void trainAllLanguages() throws IOException{
+	private void trainAllLanguages() throws IOException, ConfigurationException{
 		long time1;
 		long time2;
 		time1 = System.currentTimeMillis();
@@ -59,9 +60,9 @@ public class UDlanguageGNTmodelFactory {
 	}
 	
 	private GNTperformance testLanguage(String languageName, String languageID, boolean debugTest) 
-	    throws IOException{
+	    throws IOException, ConfigurationException{
 
-		String corpusFilename = ConlluToConllMapper.getCorpusPropsFile(languageName, languageID);
+		String corpusFilename = ConlluToConllMapper.getCorpusConfigFileName(languageName, languageID);
 		String modelZipFileName = ConlluToConllMapper.getGNTmodelZipFileName(languageName, languageID);
 		String testFile = ConlluToConllMapper.getConllTestFile(languageName, languageID);
 		
@@ -72,7 +73,7 @@ public class UDlanguageGNTmodelFactory {
     return new GNTperformance(evaluator);
 	}
 	
-	private void testAllLanguages(boolean debugTest) throws IOException{
+	private void testAllLanguages(boolean debugTest) throws IOException, ConfigurationException{
 		UDlanguagePerformance udPerformance = new UDlanguagePerformance();
 		long time1;
 		long time2;
@@ -90,7 +91,7 @@ public class UDlanguageGNTmodelFactory {
 		System.out.println(udPerformance.toGNTString());
 	}
 	
-	public static void main(String[] args) throws IOException{
+	public static void main(String[] args) throws IOException, ConfigurationException{
 		UDlanguageGNTmodelFactory udFactory = new UDlanguageGNTmodelFactory("1_3");
 		udFactory.trainAllLanguages();
 		udFactory.testAllLanguages(false);
