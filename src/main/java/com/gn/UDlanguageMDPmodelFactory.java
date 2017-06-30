@@ -8,11 +8,11 @@ import com.gn.data.UDlanguages;
 import com.gn.performance.MDPperformance;
 import com.gn.performance.UDlanguagePerformance;
 
-import de.dfki.mlt.gnt.data.Pair;
 import de.bwaldvogel.liblinear.InvalidInputDataException;
 import de.dfki.lt.mdparser.caller.MDPrunner;
-import de.dfki.lt.mdparser.caller.MDPtrainer;
 import de.dfki.lt.mdparser.eval.Eval;
+import de.dfki.lt.mdparser.parser.Trainer;
+import de.dfki.mlt.gnt.data.Pair;
 
 public class UDlanguageMDPmodelFactory {
 
@@ -29,7 +29,7 @@ public class UDlanguageMDPmodelFactory {
 
 		System.out.println("MDP training: " + trainFile + " into ModelFile: " + modelZipFileName);
 
-		MDPtrainer.train(trainFile, modelZipFileName);
+		Trainer.train(trainFile, modelZipFileName);
 	}
 
 	// TODO: this is basically the same as in UDlanguageGNTmodelFactory
@@ -53,7 +53,7 @@ public class UDlanguageMDPmodelFactory {
 		String modelZipFileName = ConlluToConllMapper.getMDPmodelZipFileName(languageName, languageID);
 		String mdpResultFile = ConlluToConllMapper.getConllMDPresultFile(testFile);
 
-		return MDPrunner.conllFileParsingAndEval(testFile, mdpResultFile, modelZipFileName);
+		return MDPrunner.parseAndEvalConllFile(testFile, mdpResultFile, modelZipFileName);
 	}
 
 	private void testAllLanguages() throws IOException{
