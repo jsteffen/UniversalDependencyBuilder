@@ -319,7 +319,6 @@ public class ConlluToConllMapper {
 		String sentFile = ConlluToConllMapper.makeSentenceFileName(conllFile);
 		ConlluToConllMapper.corpusConfig.setProperty(ConfigKeys.TRAINING_LABELED_DATA, conllFile);	
 		ConlluToConllMapper.corpusConfig.setProperty(ConfigKeys.TRAINING_UNLABELED_DATA, sentFile);
-		ConlluToConllMapper.corpusConfig.setProperty(ConfigKeys.TRAINING_FILE, conllFile);
 
 		ConlluToConllMapper.transformConlluToConllFile(conlluFile, conllFile);
 		ConlluToConllMapper.transcodeConllToSentenceFile(conllFile, sentFile);
